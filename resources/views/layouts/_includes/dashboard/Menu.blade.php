@@ -70,6 +70,22 @@
             </ul>
             </div>
         </li>
+        <li class="nav-item">
+            <a class="nav-link" data-toggle="collapse" href="#relat" aria-expanded="false" aria-controls="relat">
+              <i class="typcn typcn-document-text menu-icon"></i>
+              <span class="menu-title">Relatórios</span>
+              <i class="menu-arrow"></i>
+            </a>
+            <div class="collapse" id="relat">
+              <ul class="nav flex-column sub-menu">
+                  <li class="nav-item"> <a class="nav-link" href="">Diectores Provinciais</a></li>
+                  <li class="nav-item"> <a class="nav-link" href="">Directores Municipais</a></li>
+                  <li class="nav-item"> <a class="nav-link" href="">Directores de Centros</a></li>
+                  <li class="nav-item"> <a class="nav-link" href="">Centros de exames</a></li>
+                  <li class="nav-item"> <a class="nav-link" href="">Alunos</a></li>
+            </ul>
+            </div>
+        </li>
         @elseif(Auth::user()->tipo_user == "DP")
         <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#utilizador" aria-expanded="false" aria-controls="utilizador">
@@ -84,7 +100,21 @@
             </ul>
             </div>
         </li>
-
+        <li class="nav-item">
+            <a class="nav-link" data-toggle="collapse" href="#relat" aria-expanded="false" aria-controls="relat">
+              <i class="typcn typcn-document-text menu-icon"></i>
+              <span class="menu-title">Relatórios</span>
+              <i class="menu-arrow"></i>
+            </a>
+            <div class="collapse" id="relat">
+              <ul class="nav flex-column sub-menu">
+                  <li class="nav-item"> <a class="nav-link" href="">Directores Municipais</a></li>
+                  <li class="nav-item"> <a class="nav-link" href="">Directores de Centros</a></li>
+                  <li class="nav-item"> <a class="nav-link" href="">Centros de exames</a></li>
+                  <li class="nav-item"> <a class="nav-link" href="">Alunos</a></li>
+            </ul>
+            </div>
+        </li>
         @elseif(Auth::user()->tipo_user == "DM")
         <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#utilizador" aria-expanded="false" aria-controls="utilizador">
@@ -112,6 +142,20 @@
                   <li class="nav-item"> <a class="nav-link" href="">Listar</a></li>
                 </ul>
               </div>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-toggle="collapse" href="#relat" aria-expanded="false" aria-controls="relat">
+                  <i class="typcn typcn-document-text menu-icon"></i>
+                  <span class="menu-title">Relatórios</span>
+                  <i class="menu-arrow"></i>
+                </a>
+                <div class="collapse" id="relat">
+                  <ul class="nav flex-column sub-menu">
+                      <li class="nav-item"> <a class="nav-link" href="">Directores de Centros</a></li>
+                      <li class="nav-item"> <a class="nav-link" href="">Centros de exames</a></li>
+                      <li class="nav-item"> <a class="nav-link" href="">Alunos</a></li>
+                </ul>
+                </div>
             </li>
 
         @elseif(Auth::user()->tipo_user == "DC")
@@ -154,7 +198,19 @@
                 </ul>
               </div>
             </li>
-
+            <li class="nav-item">
+                <a class="nav-link" data-toggle="collapse" href="#relat" aria-expanded="false" aria-controls="relat">
+                  <i class="typcn typcn-document-text menu-icon"></i>
+                  <span class="menu-title">Relatórios</span>
+                  <i class="menu-arrow"></i>
+                </a>
+                <div class="collapse" id="relat">
+                  <ul class="nav flex-column sub-menu">
+                      <li class="nav-item"> <a class="nav-link" href="">Centros de exames</a></li>
+                      <li class="nav-item"> <a class="nav-link" href="">Alunos</a></li>
+                </ul>
+                </div>
+            </li>
           @elseif(Auth::user()->tipo_user == "SP")
             <li class="nav-item">
               <a class="nav-link" data-toggle="collapse" href="#ui-basic" aria-expanded="false" aria-controls="ui-basic">
@@ -169,6 +225,18 @@
                 </ul>
               </div>
           </li>
+          <li class="nav-item">
+            <a class="nav-link" data-toggle="collapse" href="#relat" aria-expanded="false" aria-controls="relat">
+              <i class="typcn typcn-document-text menu-icon"></i>
+              <span class="menu-title">Relatórios</span>
+              <i class="menu-arrow"></i>
+            </a>
+            <div class="collapse" id="relat">
+              <ul class="nav flex-column sub-menu">
+                  <li class="nav-item"> <a class="nav-link" href="">Alunos</a></li>
+            </ul>
+            </div>
+        </li>
           @elseif(Auth::user()->tipo_user == "V")
             <li class="nav-item">
               <a class="nav-link" data-toggle="collapse" href="#ui-basic" aria-expanded="false" aria-controls="ui-basic">
