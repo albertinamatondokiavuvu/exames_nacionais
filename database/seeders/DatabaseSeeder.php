@@ -3,7 +3,8 @@
 namespace Database\Seeders;
 
 use Illuminate\Database\Seeder;
-
+use App\Models\User;
+use Illuminate\Support\Facades\Hash;
 class DatabaseSeeder extends Seeder
 {
     /**
@@ -13,6 +14,13 @@ class DatabaseSeeder extends Seeder
      */
     public function run()
     {
-
+        User::create([
+            'name'=>'MED',
+            'email'=>'med@gmail.com',
+            'password'=>Hash::make('12345678'),
+            'tipo_user'=>'admin',
+            'telefone'=>931537786,
+            'instituicao'=>'inade',
+         ]);
     }
 }

@@ -17,3 +17,5 @@ use App\Http\Controllers\Auth\LoginController;
 Route::post('terminar_sessao', [LoginController::class,'logout'])->name('logout');
 Route::post('login',[LoginController::class,'login'])->name('login');
  //END OF LoginController
+ Route::post('update_password/{id}', [UserController::class, 'UpdatePassword'])->name('UpdatePassword');
+ Route::get('/delete/{id}', [UserController::class, 'delete'])->name('delete');
