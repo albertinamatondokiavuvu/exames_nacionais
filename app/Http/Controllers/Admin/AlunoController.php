@@ -24,8 +24,8 @@ class AlunoController extends Controller
         ];
         $request->validate(
             [
-            'presaenca'=>'required|max:5|min:1',
-            'Deficiencia'=>'required|max:5|min:1',
+            'presenca'=>'required|max:5|min:1',
+            'deficiencia'=>'required|max:5|min:1',
             'name'=>'required|max:5|min:1',
             'data_nasc'=>'required|max:5|min:1',
             'vigilante'=>'required|max:5|min:1',
@@ -38,14 +38,21 @@ class AlunoController extends Controller
         );
 
              User::create([
+                'presenca'=>$request->deficiencia,
+                'deficiencia'=>$request->deficiencia,
                 'name'=>$request->name,
-                'qtd'=>$request->qtd,
+                'data_nasc'=>$request->data_nasc,
+                'vigilante'=>$request->vigilante,
+                'cod_prova'=>$request->cod_prova,
+                'cod_resp_prova'=>$request->cod_resp_prova,
+                'provincia'=>$request->provincia,
+                'municipio'=>$request->municipio
              ]);
     }
     public function aluno_edit($id)
     {
         $aluno=aluno::find($id);
-        return view('dashboard.aluno.edit.index',compact('aluno'));
+        return view('dashboard.Aluno.edit.index',compact('aluno'));
     }
     public function aluno_update(Request $request,$id)
     {
@@ -69,8 +76,15 @@ class AlunoController extends Controller
         );
 
              aluno::find($id)->update([
+                'presenca'=>$request->deficiencia,
+                'deficiencia'=>$request->deficiencia,
                 'name'=>$request->name,
-                'qtd'=>$request->qtd,
+                'data_nasc'=>$request->data_nasc,
+                'vigilante'=>$request->vigilante,
+                'cod_prova'=>$request->cod_prova,
+                'cod_resp_prova'=>$request->cod_resp_prova,
+                'provincia'=>$request->provincia,
+                'municipio'=>$request->municipio
              ]);
     }
 
