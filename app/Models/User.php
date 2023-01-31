@@ -37,6 +37,20 @@ class User extends Authenticatable
         'email_verified_at' => 'datetime',
     ];
 
+
+    public function alunos(){
+        return $this->hasMany('App\Models\Alunos');
+    }
+    public function classes(){
+        return $this->hasMany('App\Models\Classe');
+    }
+    public function turmas(){
+        return $this->hasMany('App\Models\Turma');
+    }
+    public function centro_exames(){
+        return $this->hasMany('App\Models\CentroExame');
+    }
+
    /* protected $table = 'logs';
 
     public function LogsForSearch($anoLectivo, $utilizador, $departamento)
@@ -106,4 +120,5 @@ class User extends Authenticatable
 
         return $response['logs']->get();
     }*/
+
 }

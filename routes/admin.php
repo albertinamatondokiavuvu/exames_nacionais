@@ -18,22 +18,36 @@ use App\Http\Controllers\Report\ReportController;
 Route::middleware('auth')->group(function () {
 
  //BEGIN OF TURMACONTROLLER
-
-
+ Route::get('/turma_add',[TurmaController::class,'turma_add'])->name('turma_add');
+ Route::post('/turma_store',[TurmaController::class,'turma_store'])->name('turma_store');
+ Route::get('/turma_edit/{id}',[TurmaController::class,'turma_edit'])->name('turma_edit');
+ Route::post('/turma_update/{id}',[TurmaController::class,'turma_update'])->name('turma_update');
+ Route::get('/turma_index',[TurmaController::class,'turma_index'])->name('turma_index');
  //END OF TURMACONTROLLER
 
  //BEGIN OF CLASSECONTROLLER
-
+ Route::get('/classe_add',[ClasseController::class,'classe_add'])->name('classe_add');
+ Route::post('/classe_store',[ClasseController::class,'classe_store'])->name('classe_store');
+ Route::get('/classe_edit/{id}',[ClasseController::class,'classe_edit'])->name('classe_edit');
+ Route::post('/classe_update/{id}',[ClasseController::class,'classe_update'])->name('classe_update');
+ Route::get('/classe_index',[ClasseController::class,'classe_index'])->name('classe_index');
 
  //END OF CLASSECONTROLLER
 
  //BEGIN OF ALUNOCONTROLLER
-
-
+ Route::get('/aluno_add',[AlunoExameController::class,'aluno_add'])->name('aluno_add');
+ Route::post('/aluno_store',[AlunoController::class,'aluno_store'])->name('aluno_store');
+ Route::get('/aluno_edit/{id}',[AlunoController::class,'aluno_edit'])->name('aluno_edit');
+ Route::post('/aluno_update/{id}',[AlunoController::class,'aluno_update'])->name('aluno_update');
+ Route::get('/aluno_index',[AlunoController::class,'aluno_index'])->name('aluno_index');
  //END OF ALUNOCONTROLLER
 
  //BEGIN OF CENTROEXAMECONTROLLER
-
+ Route::get('/centroExame_add',[CentroExameController::class,'centroExame_add'])->name('centroExame_add');
+ Route::post('/centroExame_store',[CentroExameController::class,'centroExame_store'])->name('centroExame_store');
+ Route::get('/centroExame_edit/{id}',[CentroExameController::class,'centroExame_edit'])->name('centroExame_edit');
+ Route::post('/centroExame_update/{id}',[CentroExameController::class,'centroExame_update'])->name('centroExame_update');
+ Route::get('/centroExame_index',[CentroExameController::class,'centroExame_index'])->name('centroExame_index');
 
  //END OF CENTROEXAMECONTROLLER
 
