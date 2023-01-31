@@ -26,7 +26,6 @@ class CreateAlunosTable extends Migration
             $table->string('cod_resp_prova');
             $table->string('provincia')->nullable();
             $table->string('municipio')->nullable();
-            $table->integer('quantidade');
             $table->foreignId('classe_id')
             ->constrained()
             ->onDelete('cascade');

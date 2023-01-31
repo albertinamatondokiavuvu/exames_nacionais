@@ -16,5 +16,6 @@ class Turma extends Model
     public function alunos(){
         return $this->hasMany('App\Models\Aluno');
     }
+    
 
 }
