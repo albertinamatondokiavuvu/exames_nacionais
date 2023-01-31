@@ -21,7 +21,7 @@ class CreateUsersTable extends Migration
             $table->string('password');
             $table->string('tipo_user');
             $table->integer('telefone');
-            $table->string('instituicao');
+            $table->string('instituicao')->nullable();
             $table->string('provincia')->nullable();
             $table->string('municipio')->nullable();
             $table->rememberToken();

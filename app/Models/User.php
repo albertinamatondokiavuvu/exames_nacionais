@@ -37,6 +37,7 @@ class User extends Authenticatable
         'email_verified_at' => 'datetime',
     ];
 
+
     public function alunos(){
         return $this->hasMany('App\Models\Alunos');
     }
@@ -49,4 +50,75 @@ class User extends Authenticatable
     public function centro_exames(){
         return $this->hasMany('App\Models\CentroExame');
     }
+
+   /* protected $table = 'logs';
+
+    public function LogsForSearch($anoLectivo, $utilizador, $departamento)
+    {
+        $response['logs'] = DB::table('logs')
+            ->select('logs.*')
+            ->whereYear('logs.created_at', '=', $anoLectivo)
+            ->where([
+                ['logs.USER_NAME', '=', $utilizador],
+                ['logs.departamento', '=', $departamento],
+            ]);
+        if (
+            $anoLectivo == 'Todos' &&
+            $utilizador == 'Todos' &&
+            $departamento == 'Todos'
+        ) {
+            $response['logs'] = DB::table('logs')
+            ->select('logs.*');
+        } elseif ($anoLectivo == 'Todos' && $utilizador && $departamento) {
+            $response['logs'] = DB::table('logs')
+
+                ->select('logs.*')
+                ->where([
+                    ['logs.USER_NAME', '=', $utilizador],
+                    ['logs.departamento', '=', $departamento],
+                ]);
+        } elseif (
+            $anoLectivo == 'Todos' &&
+            $utilizador == 'Todos' &&
+            $departamento
+        ) {
+            $response['logs'] = DB::table('logs')
+
+                ->select('logs.*')
+                ->where([['logs.departamento', '=', $departamento]]);
+        } elseif (
+            $anoLectivo == 'Todos' &&
+            $utilizador &&
+            $departamento == 'Todos'
+        ) {
+            $response['logs'] = DB::table('logs')
+
+                ->select('logs.*')
+                ->where([['logs.USER_NAME', '=', $utilizador]]);
+        } elseif ($anoLectivo && $utilizador == 'Todos' && $departamento) {
+            $response['logs'] = DB::table('logs')
+
+                ->select('logs.*')
+                ->whereYear('logs.created_at', '=', $anoLectivo)
+                ->where([['logs.departamento', '=', $departamento]]);
+        } elseif (
+            $anoLectivo &&
+            $utilizador == 'Todos' &&
+            $departamento == 'Todos'
+        ) {
+            $response['logs'] = DB::table('logs')
+
+                ->select('logs.*')
+                ->whereYear('logs.created_at', '=', $anoLectivo);
+        } elseif ($anoLectivo && $utilizador && $departamento == 'Todos') {
+            $response['logs'] = DB::table('logs')
+
+                ->select('logs.*')
+                ->whereYear('logs.created_at', '=', $anoLectivo)
+                ->where([['logs.USER_NAME', '=', $utilizador]]);
+        }
+
+        return $response['logs']->get();
+    }*/
+
 }

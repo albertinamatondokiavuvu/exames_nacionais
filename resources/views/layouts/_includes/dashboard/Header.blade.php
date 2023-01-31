@@ -20,6 +20,7 @@
 <body>
   <div class="container-scroller">
     <!-- partial:partials/_navbar.html -->
+    @include('extra.sweetalert.index')
   @include('layouts._includes.dashboard.Menu')
       <!-- partial -->
       <div class="main-panel">

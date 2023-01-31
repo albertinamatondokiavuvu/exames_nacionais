@@ -20,7 +20,7 @@ class DatabaseSeeder extends Seeder
             'password'=>Hash::make('12345678'),
             'tipo_user'=>'admin',
             'telefone'=>931537786,
-            'instituicao'=>'inade',
+
          ]);
     }
 }
