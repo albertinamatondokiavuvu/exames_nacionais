@@ -5,6 +5,7 @@ namespace Database\Seeders;
 use Illuminate\Database\Seeder;
 use App\Models\User;
 use Illuminate\Support\Facades\Hash;
+use App\Models\Classe;
 class DatabaseSeeder extends Seeder
 {
     /**
@@ -14,6 +15,9 @@ class DatabaseSeeder extends Seeder
      */
     public function run()
     {
+        Classe::create([
+            'nome_classe'=>'12ª Classe',
+        ]);
         User::create([
             'name'=>'MED',
             'email'=>'med@gmail.com',

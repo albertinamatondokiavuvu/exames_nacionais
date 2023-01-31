@@ -2,5 +2,6 @@
 <option>Camacuio</option>
 <option>Bibala</option>
 <option>Virei</option>
-<option>Tombwa</option>
+<option>Tômbwa</option>
+<option>Moçâmedes</option>
 

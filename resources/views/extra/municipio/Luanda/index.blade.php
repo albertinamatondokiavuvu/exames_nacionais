@@ -1,18 +1,11 @@
-<option>Bengo</option>
-<option>Benguela</option>
-<option>Bié</option>
-<option>Cabinda</option>
-<option>Cuando-Cubango</option>
-<option>Cunene</option>
-<option>Huambo</option>
-<option>Huíla</option>
-<option>Kwanza Sul</option>
-<option>Kwanza Norte</option>
+<option>Belas</option>
+<option>Cacuaco</option>
+<option>Cazenga</option>
+<option>Estrutura Central</option>
+<option>Icolo e Bengo</option>
+<option>Kilamba Kiaxi</option>
 <option>Luanda</option>
-<option>Lunda Norte</option>
-<option>Lunda Sul</option>
-<option>Malanje</option>
-<option>Moxico</option>
-<option>Namibe</option>
-<option>Uíge</option>
-<option>Zaire</option>
+<option>Quiçama</option>
+<option>Rangel (old)</option>
+<option>Talatona</option>
+<option>Viana</option>

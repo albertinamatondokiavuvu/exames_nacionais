@@ -9,13 +9,6 @@ class Turma extends Model
 {
     use HasFactory;
     protected $guarded = ['id'];
-    
-    public function user(){
-        return $this->belongTo('App\Models\User');
-    }
-    public function alunos(){
-        return $this->hasMany('App\Models\Aluno');
-    }
-    
+
 
 }

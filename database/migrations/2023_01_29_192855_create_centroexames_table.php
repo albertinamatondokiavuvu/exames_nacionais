@@ -16,9 +16,8 @@ class CreateCentroexamesTable extends Migration
         Schema::create('centroexames', function (Blueprint $table) {
             $table->id();
             $table->string('nome_centro');
-            $table->foreignId('user_id')
-            ->constrained()
-            ->onDelete('cascade');
+            $table->string('provincia');
+            $table->string('municipio');
             $table->timestamps();
         });
     }
