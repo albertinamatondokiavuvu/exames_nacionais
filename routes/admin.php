@@ -2,6 +2,8 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\Admin\UserController;
+use App\Http\Controllers\Report\ReportController;
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -65,6 +67,31 @@ Route::middleware('auth')->group(function () {
  Route::post('/update/{id}',[UserController::class,'update'])->name('update');
  Route::get('/index',[UserController::class,'index'])->name('index');
  //END OF USERCONTROLLER
+
+ //BEGIN RELATORIOS
+
+ //relatorios administrativos
+ Route::get('/DP_PDF',[ReportController::class,'DP_PDF'])->name('DP_PDF');
+ Route::get('/DM_PDF',[ReportController::class,'DM_PDF'])->name('DM_PDF');
+ Route::get('/DC_PDF',[ReportController::class,'DC_PDF'])->name('DC_PDF');
+
+ //relatorios directores provinciais
+ Route::get('/DM_PDF_DP',[ReportController::class,'DM_PDF_DP'])->name('DM_PDF_DP');
+ Route::get('/DC_PDF_DP',[ReportController::class,'DC_PDF_DP'])->name('DC_PDF_DP');
+
+ //relatorios directores municipais
+ Route::get('/DC_PDF_DM',[ReportController::class,'DC_PDF_DM'])->name('DC_PDF_DM');
+
+ //relatorios directores de centros
+
+ //relatorios de supervisores
+
+
+ //relatorios de vigilantes
+
+
+
+ //END RELATORIOS
 
 
 });

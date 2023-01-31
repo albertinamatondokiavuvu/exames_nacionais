@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
 
-    <title>Relatório de utentes por país e por ano</title>
+    <title>Relatório de Directores de Centros de Exames</title>
     <style>
         <?php echo $bootstrap;
         echo $css;
@@ -17,28 +17,34 @@
     <img class="logotipo" src="images/logo.png" alt="" srcset="">
     <p class=" republica text-center">REPÚBLICA DE ANGOLA <br> MINISTÉRIO DA EDUCAÇÃO <br>INSTITUTO NACIONAL DE AVALIAÇÃO E DESENVOLVIMENTO DA EDUCAÇÃO</p>
     <div class="text-center">
-        <h1 class="text-primary" style="margin-top: 100px; margin-bottom: 50px;" > LISTA DE TOTAL DE UTENTES POR PAÍS E ANO LECTIVO</h1>
+        <h1 class="text-primary" style="margin-top: 100px; margin-bottom: 50px;" > LISTA DE DIRECTORES DE CENTROS DE EXAMES</h1>
     </div>
     <table  class=" table">
         <thead >
             <tr >
                 <th style="height:30px; width:20px;"  class="text-center" >Nº</th>
-               <th class="text-center">Pais</th>
-                <th  class="text-center" >Quantidade de utentes</th>
-                <th class="text-center">Ano</th>
+                <th  class="text-center" >Nome</th>
+                <th  class="text-center" >Email</th>
+                <th class="text-center">Telefone</th>
+                <th class="text-center">Provincia</th>
+                <th class="text-center">Municipio</th>
+                <th class="text-center">Centro de Exame</th>
 
             </tr>
         </thead>
         <tbody>
 
             <?php $contador = 1; ?>
-            <?php foreach ($pais as $test) : ?>
+            <?php foreach ($users as $test) : ?>
 
                 <tr >
                     <td style="height:25px" class="text-center"><?php echo $contador++; ?></td>
-                    <td><?php echo $test->paisDestino?></td>
-                    <td  class="text-left"><?php echo $test->count ?></td>
-                    <td  class="text-center"><?php echo $test->year ?></td>
+                    <td  class="text-center"><?php echo $test->name ?></td>
+                    <td  class="text-center"><?php echo $test->email ?></td>
+                    <td  class="text-center"><?php echo $test->telefone ?></td>
+                    <td  class="text-center"><?php echo $test->provincia ?></td>
+                    <td  class="text-center"><?php echo $test->municipio ?></td>
+                    <td  class="text-center"><?php echo $test->instituicao ?></td>
                 </tr>
 
             <?php endforeach; ?>

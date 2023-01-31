@@ -15,6 +15,7 @@ use App\Http\Controllers\Admin\UserController;
 */
 
  // BEGINNING OF LoginController
+ Route::get('/login', [LoginController::class,'showLoginForm']);
 Route::post('terminar_sessao', [LoginController::class,'logout'])->name('logout');
 Route::post('login',[LoginController::class,'login'])->name('login');
  //END OF LoginController
