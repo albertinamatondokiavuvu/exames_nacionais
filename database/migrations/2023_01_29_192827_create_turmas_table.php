@@ -21,7 +21,6 @@ class CreateTurmasTable extends Migration
             ->constrained()
             ->onDelete('cascade');
             $table->timestamps();
-            $table->timestamps();
         });
     }
 

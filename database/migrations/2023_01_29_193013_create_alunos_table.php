@@ -15,12 +15,17 @@ class CreateAlunosTable extends Migration
     {
         Schema::create('alunos', function (Blueprint $table) {
             $table->id();
-            $table->string('nome_aluno');
             $table->string('presenca');
-            $table->string('sexo');
+            $table->string('deficiencia');
+            $table->string('nome_aluno');
             $table->string('data_nasc');
+            $table->string('vigilante');
+            $table->string('sexo');
+            $table->string('escola_proveniencia');
             $table->string('cod_prova');
             $table->string('cod_resp_prova');
+            $table->string('provincia')->nullable();
+            $table->string('municipio')->nullable();
             $table->integer('quantidade');
             $table->foreignId('classe_id')
             ->constrained()
@@ -28,7 +33,7 @@ class CreateAlunosTable extends Migration
             $table->foreignId('turma_id')
             ->constrained()
             ->onDelete('cascade');
-            $table->foreignId('centro_id')
+            $table->foreignId('centroexame_id')
             ->constrained()
             ->onDelete('cascade');
             $table->timestamps();
