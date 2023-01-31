@@ -78,11 +78,11 @@
             </a>
             <div class="collapse" id="relat">
               <ul class="nav flex-column sub-menu">
-                  <li class="nav-item"> <a class="nav-link" href="">Diectores Provinciais</a></li>
-                  <li class="nav-item"> <a class="nav-link" href="">Directores Municipais</a></li>
-                  <li class="nav-item"> <a class="nav-link" href="">Directores de Centros</a></li>
-                  <li class="nav-item"> <a class="nav-link" href="">Centros de exames</a></li>
-                  <li class="nav-item"> <a class="nav-link" href="">Alunos</a></li>
+                  <li class="nav-item"> <a target="_blank" class="nav-link" href="{{ route('DP_PDF') }}">Diectores Provinciais</a></li>
+                  <li class="nav-item"> <a target="_blank" class="nav-link" href="{{ route('DM_PDF') }}">Directores Municipais</a></li>
+                  <li class="nav-item"> <a target="_blank" class="nav-link" href="{{ route('DC_PDF') }}">Directores de Centros</a></li>
+                  <li class="nav-item"> <a target="_blank" class="nav-link" href="">Centros de exames</a></li>
+                  <li class="nav-item"> <a target="_blank" class="nav-link" href="">Alunos</a></li>
             </ul>
             </div>
         </li>
@@ -108,10 +108,10 @@
             </a>
             <div class="collapse" id="relat">
               <ul class="nav flex-column sub-menu">
-                  <li class="nav-item"> <a class="nav-link" href="">Directores Municipais</a></li>
-                  <li class="nav-item"> <a class="nav-link" href="">Directores de Centros</a></li>
-                  <li class="nav-item"> <a class="nav-link" href="">Centros de exames</a></li>
-                  <li class="nav-item"> <a class="nav-link" href="">Alunos</a></li>
+                  <li class="nav-item"> <a target="_blank" class="nav-link" href="{{ route('DM_PDF_DP') }}">Directores Municipais</a></li>
+                  <li class="nav-item"> <a target="_blank" class="nav-link" href="{{ route('DC_PDF_DP') }}">Directores de Centros</a></li>
+                  <li class="nav-item"> <a target="_blank" class="nav-link" href="">Centros de exames</a></li>
+                  <li class="nav-item"> <a target="_blank" class="nav-link" href="">Alunos</a></li>
             </ul>
             </div>
         </li>
@@ -151,9 +151,9 @@
                 </a>
                 <div class="collapse" id="relat">
                   <ul class="nav flex-column sub-menu">
-                      <li class="nav-item"> <a class="nav-link" href="">Directores de Centros</a></li>
-                      <li class="nav-item"> <a class="nav-link" href="">Centros de exames</a></li>
-                      <li class="nav-item"> <a class="nav-link" href="">Alunos</a></li>
+                      <li class="nav-item"> <a target="_blank" class="nav-link" href="{{ route('DC_PDF_DM') }}">Directores de Centros</a></li>
+                      <li class="nav-item"> <a target="_blank" class="nav-link" href="">Centros de exames</a></li>
+                      <li class="nav-item"> <a target="_blank" class="nav-link" href="">Alunos</a></li>
                 </ul>
                 </div>
             </li>
@@ -206,8 +206,8 @@
                 </a>
                 <div class="collapse" id="relat">
                   <ul class="nav flex-column sub-menu">
-                      <li class="nav-item"> <a class="nav-link" href="">Centros de exames</a></li>
-                      <li class="nav-item"> <a class="nav-link" href="">Alunos</a></li>
+                      <li class="nav-item"> <a target="_blank" class="nav-link" href="">Centros de exames</a></li>
+                      <li class="nav-item"> <a target="_blank" class="nav-link" href="">Alunos</a></li>
                 </ul>
                 </div>
             </li>
@@ -233,7 +233,7 @@
             </a>
             <div class="collapse" id="relat">
               <ul class="nav flex-column sub-menu">
-                  <li class="nav-item"> <a class="nav-link" href="">Alunos</a></li>
+                  <li class="nav-item"> <a target="_blank" class="nav-link" href="">Alunos</a></li>
             </ul>
             </div>
         </li>
