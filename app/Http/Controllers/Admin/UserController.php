@@ -39,6 +39,7 @@ class UserController extends Controller
             $mensagens
         );
 
+        try{
              User::create([
                 'name'=>$request->name,
                 'email'=>$request->email,
@@ -47,6 +48,10 @@ class UserController extends Controller
                 'telefone'=>$request->telefone,
                 'password' => Hash::make($request->password),
              ]);
+             return redirect()->back()->with('status_add', '1');
+            } catch (\Exception $exceptio) {
+                return redirect()->back()->with('status_error', '1');
+            }
     }
     public function user_edit_dp($id)
     {
@@ -75,12 +80,17 @@ class UserController extends Controller
             $mensagens
         );
 
+        try{
              User::find($id)->update([
                 'name'=>$request->name,
                 'email'=>$request->email,
                 'provincia'=>$request->provincia,
                 'telefone'=>$request->telefone,
              ]);
+             return redirect()->back()->with('status_update', '1');
+            } catch (\Exception $exceptio) {
+                return redirect()->back()->with('status_error', '1');
+            }
     }
     public function index_dp()
     {
@@ -115,7 +125,7 @@ class UserController extends Controller
             ],
             $mensagens
         );
-
+try{
              User::create([
                 'name'=>$request->name,
                 'email'=>$request->email,
@@ -125,6 +135,10 @@ class UserController extends Controller
                 'telefone'=>$request->telefone,
                 'password' => Hash::make($request->password),
              ]);
+             return redirect()->back()->with('status_add', '1');
+            } catch (\Exception $exceptio) {
+                return redirect()->back()->with('status_error', '1');
+            }
     }
     public function user_edit_dm($id)
     {
@@ -152,13 +166,17 @@ class UserController extends Controller
             ],
             $mensagens
         );
-
+try{
              User::find($id)->update([
                 'name'=>$request->name,
                 'email'=>$request->email,
                 'municipio'=>$request->municipio,
                 'telefone'=>$request->telefone,
              ]);
+             return redirect()->back()->with('status_update', '1');
+            } catch (\Exception $exceptio) {
+                return redirect()->back()->with('status_error', '1');
+            }
     }
     public function index_dm()
     {
@@ -193,7 +211,7 @@ class UserController extends Controller
             ],
             $mensagens
         );
-
+        try{
              User::create([
                 'name'=>$request->name,
                 'email'=>$request->email,
@@ -204,6 +222,10 @@ class UserController extends Controller
                 'telefone'=>$request->telefone,
                 'password' => Hash::make($request->password),
              ]);
+             return redirect()->back()->with('status_add', '1');
+            } catch (\Exception $exceptio) {
+                return redirect()->back()->with('status_error', '1');
+            }
     }
     public function user_edit_dc($id)
     {
@@ -232,12 +254,17 @@ class UserController extends Controller
             $mensagens
         );
 
+        try{
              User::find($id)->update([
                 'name'=>$request->name,
                 'email'=>$request->email,
                 'instituicao'=>$request->instituicao,
                 'telefone'=>$request->telefone,
              ]);
+             return redirect()->back()->with('status_update', '1');
+            } catch (\Exception $exceptio) {
+                return redirect()->back()->with('status_error', '1');
+            }
     }
     public function index_dc()
     {
@@ -272,6 +299,7 @@ class UserController extends Controller
             $mensagens
         );
 
+        try{
              User::create([
                 'name'=>$request->name,
                 'email'=>$request->email,
@@ -282,6 +310,10 @@ class UserController extends Controller
                 'telefone'=>$request->telefone,
                 'password' => Hash::make($request->password),
              ]);
+             return redirect()->back()->with('status_add', '1');
+            } catch (\Exception $exceptio) {
+                return redirect()->back()->with('status_error', '1');
+            }
     }
     public function user_edit($id)
     {
@@ -311,12 +343,17 @@ class UserController extends Controller
             $mensagens
         );
 
+        try{
              User::find($id)->update([
                 'name'=>$request->name,
                 'email'=>$request->email,
                 'tipo_user'=> $request->tipo_user,
                 'telefone'=>$request->telefone,
              ]);
+             return redirect()->back()->with('status_update', '1');
+            } catch (\Exception $exceptio) {
+                return redirect()->back()->with('status_error', '1');
+            }
     }
     public function index()
     {
@@ -327,8 +364,13 @@ class UserController extends Controller
     //coisas gerais
     public function delete($id)
     {
+        try{
         $users = User::findOrFail($id);
         $users->delete();
+        return redirect()->back()->with('status_delete', '1');
+    } catch (\Exception $exceptio) {
+        return redirect()->back()->with('status_error', '1');
+    }
     }
     public function UpdatePassword(Request $request,$id)
     {
@@ -344,9 +386,14 @@ class UserController extends Controller
             ],
             $mensagens
         );
+        try{
         User::find($id)->update([
             'password' => Hash::make($request->password)
         ]);
+     return redirect()->back()->with('UpdatePassword', '1');
+        } catch (\Exception $exceptio) {
+            return redirect()->back()->with('status_error', '1');
+        }
 
     }
 }
