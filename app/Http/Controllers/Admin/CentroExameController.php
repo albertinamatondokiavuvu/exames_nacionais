@@ -4,58 +4,45 @@ namespace App\Http\Controllers\Admin;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
-use App\Models\User;
+use Illuminate\Support\Facades\Auth;
 use App\Models\CentroExame;
-
 class CentroExameController extends Controller
 {
-    public function centroExame_add()
+    public function centro_add()
     {
-        return view('dashboard.CentroExame.create.index');
+
+        return view('dashboard.Centro_Exame.create.index');
     }
-    public function centroExame_store(Request $request)
+    public function centro_store(Request $request)
     {
         $mensagens = [
             'required' => 'O :attribute é obrigatório!',
+            'nome_centro.min' => 'É necessário no mínimo 9 caracteres no nome!',
+            'nome_centro.max' => 'É necessário no máximo 9 caracteres no nome!',
         ];
         $request->validate(
             [
-            'name'=>'required|max:5|min:1',
+                'nome_centro' => 'required|max:5|min:1',
             ],
             $mensagens
         );
 
-             User::create([
-                'name'=>$request->name,
-                'qtd'=>$request->qtd,
-             ]);
+        CentroExame::create([
+            'nome_centro' => $request->nome_centro,
+            'provincia' => Auth::user()->provincia,
+            'municipio' => Auth::user()->municipio,
+        ]);
     }
-    public function centroExame_edit($id)
+    public function centro_index()
     {
-        $centroExame=centroExame::find($id);
-        return view('dashboard.centroExame.edit.index',compact('centroExame'));
+        $centros = CentroExame::where([['provincia', '=',Auth::user()->provincia], ['municipio', '=', Auth::user()->municipio]])->get();
+        return view('dashboard.Centro_Exame.index.index', compact('centros'))->with('i', (request()->input('page', 1) - 1) * 5);
     }
-    public function centroExame_update(Request $request,$id)
-    {
-        $mensagens = [
-            'required' => 'O :attribute é obrigatório!',
-        ];
-        $request->validate(
-            [
-            'name'=>'required|max:255|min:4',
-            ],
-            $mensagens
-        );
+ //coisas gerais
+ public function delete_centro($id)
+ {
+     $centros = CentroExame::findOrFail($id);
+     $centros->delete();
+ }
 
-             centroExame::find($id)->update([
-                'name'=>$request->name,
-             ]);
-    }
-
-    //coisas gerais
-    public function delete($id)
-    {
-        $centroExame = centroExame::findOrFail($id);
-        $centroExame->delete();
-    }
 }

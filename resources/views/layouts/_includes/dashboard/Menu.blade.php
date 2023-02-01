@@ -80,7 +80,7 @@
               <ul class="nav flex-column sub-menu">
                   <li class="nav-item"> <a target="_blank" class="nav-link" href="{{ route('DP_PDF') }}">Diectores Provinciais</a></li>
                   <li class="nav-item"> <a target="_blank" class="nav-link" href="{{ route('DM_PDF') }}">Directores Municipais</a></li>
-                  <li class="nav-item"> <a target="_blank" class="nav-link" href="{{ route('DC_PDF') }}">Directores de Centros</a></li>
+                  <li class="nav-item"> <a target="_blank" class="nav-link" href="{{ route('DC_PDF') }}">Directores de centroExames</a></li>
             </ul>
             </div>
         </li>
@@ -107,8 +107,8 @@
             <div class="collapse" id="relat">
               <ul class="nav flex-column sub-menu">
                   <li class="nav-item"> <a target="_blank" class="nav-link" href="{{ route('DM_PDF_DP') }}">Directores Municipais</a></li>
-                  <li class="nav-item"> <a target="_blank" class="nav-link" href="{{ route('DC_PDF_DP') }}">Directores de Centros</a></li>
-                  <li class="nav-item"> <a target="_blank" class="nav-link" href="">Centros de exames</a></li>
+                  <li class="nav-item"> <a target="_blank" class="nav-link" href="{{ route('DC_PDF_DP') }}">Directores de centroExames</a></li>
+                  <li class="nav-item"> <a target="_blank" class="nav-link" href="">centroExames de exames</a></li>
                   <li class="nav-item"> <a target="_blank" class="nav-link" href="">Alunos</a></li>
             </ul>
             </div>
@@ -129,15 +129,15 @@
         </li>
 
             <li class="nav-item">
-              <a class="nav-link" data-toggle="collapse" href="#centro_exame" aria-expanded="false" aria-controls="centro_exame">
+              <a class="nav-link" data-toggle="collapse" href="#centroExame_exame" aria-expanded="false" aria-controls="centroExame_exame">
                 <i class="typcn typcn-document-text menu-icon"></i>
                 <span class="menu-title">Centro de exame</span>
                 <i class="menu-arrow"></i>
               </a>
-              <div class="collapse" id="centro_exame">
+              <div class="collapse" id="centroExame_exame">
                 <ul class="nav flex-column sub-menu">
-                  <li class="nav-item"> <a class="nav-link" href="">Cadastrar</a></li>
-                  <li class="nav-item"> <a class="nav-link" href="">Listar</a></li>
+                  <li class="nav-item"> <a class="nav-link" href="{{ route('centro_add') }}">Cadastrar</a></li>
+                  <li class="nav-item"> <a class="nav-link" href="{{ route('centro_index') }}">Listar</a></li>
                 </ul>
               </div>
             </li>
@@ -149,8 +149,8 @@
                 </a>
                 <div class="collapse" id="relat">
                   <ul class="nav flex-column sub-menu">
-                      <li class="nav-item"> <a target="_blank" class="nav-link" href="{{ route('DC_PDF_DM') }}">Directores de Centros</a></li>
-                      <li class="nav-item"> <a target="_blank" class="nav-link" href="">Centros de exames</a></li>
+                      <li class="nav-item"> <a target="_blank" class="nav-link" href="{{ route('DC_PDF_DM') }}">Directores de centroExames</a></li>
+                      <li class="nav-item"> <a target="_blank" class="nav-link" href="">centroExames de exames</a></li>
                       <li class="nav-item"> <a target="_blank" class="nav-link" href="">Alunos</a></li>
                 </ul>
                 </div>
@@ -170,19 +170,6 @@
             </ul>
             </div>
         </li>
-          <li class="nav-item">
-              <a class="nav-link" data-toggle="collapse" href="#classe" aria-expanded="false" aria-controls="classe">
-                <i class="typcn typcn-document-text menu-icon"></i>
-                <span class="menu-title">Classe</span>
-                <i class="menu-arrow"></i>
-              </a>
-              <div class="collapse" id="classe">
-                <ul class="nav flex-column sub-menu">
-                  <li class="nav-item"> <a class="nav-link" href="">Cadastrar</a></li>
-                  <li class="nav-item"> <a class="nav-link" href="">Listar</a></li>
-                </ul>
-              </div>
-            </li>
             <li class="nav-item">
               <a class="nav-link" data-toggle="collapse" href="#turma" aria-expanded="false" aria-controls="turma">
                 <i class="typcn typcn-document-text menu-icon"></i>
@@ -217,7 +204,7 @@
               </a>
               <div class="collapse" id="ui-basic">
                 <ul class="nav flex-column sub-menu">
-                  <li class="nav-item"> <a class="nav-link" href="">Cadastrar</a></li>
+                  <li class="nav-item"> <a class="nav-link" href="{{route('aluno_add')}}">Cadastrar</a></li>
                   <li class="nav-item"> <a class="nav-link" href="">Listar</a></li>
                 </ul>
               </div>

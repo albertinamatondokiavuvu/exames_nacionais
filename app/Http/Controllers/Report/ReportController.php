@@ -65,7 +65,7 @@ class ReportController extends Controller
         $mpdf->AddPage('L');
         $html = view("pdfs/report/dc", $data);
         $mpdf->writeHTML($html);
-        $mpdf->Output("directores_de_centros.pdf", "I");
+        $mpdf->Output("directores_de_centroExames.pdf", "I");
     }
 
 
@@ -106,7 +106,7 @@ class ReportController extends Controller
         $mpdf->AddPage('L');
         $html = view("pdfs/report/dcp", $data);
         $mpdf->writeHTML($html);
-        $mpdf->Output("directores_de_centros.pdf", "I");
+        $mpdf->Output("directores_de_centroExames.pdf", "I");
     }
 
     //DM
@@ -127,7 +127,7 @@ class ReportController extends Controller
         $mpdf->AddPage('L');
         $html = view("pdfs/report/dcc", $data);
         $mpdf->writeHTML($html);
-        $mpdf->Output("directores_de_centros.pdf", "I");
+        $mpdf->Output("directores_de_centroExames.pdf", "I");
     }
 
     //DC

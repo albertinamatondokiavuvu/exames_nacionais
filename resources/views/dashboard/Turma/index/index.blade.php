@@ -24,7 +24,7 @@
                     <td class="text-center">{{ $turmas->nome_turma }}</td>
                     <td class="text-center">{{ $turmas->quantidade }}</td>
                     <td class="text-center">{{ $turmas->nome_classe }}</td>
-                    <td class="text-center">{{ $turmas->centroexame }}</td>
+                    <td class="text-center">{{ $turmas->centroExame }}</td>
                     <td>
                         <div class="dropdown">
                             <button class="btn btn-light dropdown-toggle" type="button" id="dropdownMenuButton"
@@ -35,7 +35,7 @@
                                 <a class="dropdown-item btn btn-danger "
 
                                 href="{{ route('turma_edit',$turmas->id) }}">Editar</a>
-                                <form action="{{ route('delete',$turmas->id) }}" method="POST">
+                                <form action="{{ route('delete_turma',$turmas->id) }}" method="POST">
                                     @csrf
                                     @method('DELETE')
 

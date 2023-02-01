@@ -4,6 +4,7 @@ namespace App\Http\Controllers\Admin;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
+use App\Models\Aluno;
 
 class AlunoController extends Controller
 {
@@ -27,31 +28,32 @@ class AlunoController extends Controller
             'presenca'=>'required|max:5|min:1',
             'deficiencia'=>'required|max:5|min:1',
             'name'=>'required|max:5|min:1',
-            'data_nasc'=>'required|max:5|min:1',
-            'vigilante'=>'required|max:5|min:1',
-            'cod_prova'=>'required|max:5|min:1',
-            'cod_resp_prova'=>'required|max:5|min:1',
-            'provincia'=>'required|max:5|min:1',
-            'municipio'=>'required|max:5|min:1',
+            'data_nasc'=>'required|max:5|min:1'
             ],
             $mensagens
         );
 
-             User::create([
-                'presenca'=>$request->deficiencia,
+        Aluno::create([
+                'presenca'=>'',
                 'deficiencia'=>$request->deficiencia,
-                'name'=>$request->name,
+                'nome_aluno'=>$request->name,
                 'data_nasc'=>$request->data_nasc,
-                'vigilante'=>$request->vigilante,
-                'cod_prova'=>$request->cod_prova,
-                'cod_resp_prova'=>$request->cod_resp_prova,
-                'provincia'=>$request->provincia,
-                'municipio'=>$request->municipio
+                'vigilante'=>'',
+                'sexo'=>$request->sexo,
+                'escola_proveniencia'=>$request->escola_prov,
+                'cod_prova'=>'',
+                'cod_resp_prova'=>'',
+                'provincia'=>1,
+                'municipio'=>1,
+                'classe_id'=>1,
+                'turma_id'=>1,
+                'centro_id'=>1
+
              ]);
     }
     public function aluno_edit($id)
     {
-        $aluno=aluno::find($id);
+        $aluno=Aluno::find($id);
         return view('dashboard.Aluno.edit.index',compact('aluno'));
     }
     public function aluno_update(Request $request,$id)
@@ -75,23 +77,28 @@ class AlunoController extends Controller
             $mensagens
         );
 
-             aluno::find($id)->update([
-                'presenca'=>$request->deficiencia,
+        Aluno::find($id)->update([
+                'presenca'=>'',
                 'deficiencia'=>$request->deficiencia,
-                'name'=>$request->name,
+                'nome_aluno'=>$request->name,
                 'data_nasc'=>$request->data_nasc,
-                'vigilante'=>$request->vigilante,
-                'cod_prova'=>$request->cod_prova,
-                'cod_resp_prova'=>$request->cod_resp_prova,
-                'provincia'=>$request->provincia,
-                'municipio'=>$request->municipio
+                'vigilante'=>'',
+                'sexo'=>$request->sexo,
+                'escola_proveniencia'=>$request->escola_prov,
+                'cod_prova'=>'',
+                'cod_resp_prova'=>'',
+                'provincia'=>1,
+                'municipio'=>1,
+                'classe_id'=>1,
+                'turma_id'=>1,
+                'centro_id'=>1
              ]);
     }
 
     //coisas gerais
-    public function delete($id)
+    public function aluno_delete($id)
     {
-        $aluno = aluno::findOrFail($id);
+        $aluno = Aluno::findOrFail($id);
         $aluno->delete();
     }
 }

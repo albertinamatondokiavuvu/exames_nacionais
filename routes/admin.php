@@ -2,11 +2,11 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\Admin\UserController;
-use App\Http\Controllers\Admin\CentroController;
 use App\Http\Controllers\Admin\ClasseController;
 use App\Http\Controllers\Admin\TurmaController;
 use App\Http\Controllers\Admin\AlunoController;
 use App\Http\Controllers\Report\ReportController;
+use App\Http\Controllers\Admin\CentroExameController;
 
 /*
 |--------------------------------------------------------------------------
@@ -27,6 +27,7 @@ Route::middleware('auth')->group(function () {
  Route::get('/turma_edit/{id}',[TurmaController::class,'turma_edit'])->name('turma_edit');
  Route::post('/turma_update/{id}',[TurmaController::class,'turma_update'])->name('turma_update');
  Route::get('/turma_index',[TurmaController::class,'turma_index'])->name('turma_index');
+ Route::get('/delete_turma/{id}', [UserController::class, 'delete_turma'])->name('delete_turma');
  //END OF TURMACONTROLLER
 
  //BEGIN OF CLASSECONTROLLER
@@ -39,21 +40,20 @@ Route::middleware('auth')->group(function () {
  //END OF CLASSECONTROLLER
 
  //BEGIN OF ALUNOCONTROLLER
- Route::get('/aluno_add',[AlunoExameController::class,'aluno_add'])->name('aluno_add');
+ Route::get('/aluno_add',[AlunoController::class,'aluno_add'])->name('aluno_add');
+ 
  Route::post('/aluno_store',[AlunoController::class,'aluno_store'])->name('aluno_store');
- Route::get('/aluno_edit/{id}',[AlunoController::class,'aluno_edit'])->name('aluno_edit');
+ /*Route::get('/aluno_edit/{id}',[AlunoController::class,'aluno_edit'])->name('aluno_edit');
  Route::post('/aluno_update/{id}',[AlunoController::class,'aluno_update'])->name('aluno_update');
- Route::get('/aluno_index',[AlunoController::class,'aluno_index'])->name('aluno_index');
+ Route::get('/aluno_index',[AlunoController::class,'aluno_index'])->name('aluno_index');*/
  //END OF ALUNOCONTROLLER
 
- //BEGIN OF CENTROEXAMECONTROLLER 
- Route::get('/centroExame_add',[CentroController::class,'centroExame_add'])->name('centroExame_add');
- Route::post('/centroExame_store',[CentroController::class,'centroExame_store'])->name('centroExame_store');
- Route::get('/centroExame_edit/{id}',[CentroController::class,'centroExame_edit'])->name('centroExame_edit');
- Route::post('/centroExame_update/{id}',[CentroController::class,'centroExame_update'])->name('centroExame_update');
- Route::get('/centroExame_index',[CentroExameController::class,'centroExame_index'])->name('centroExame_index');
-
- //END OF CENTROEXAMECONTROLLER*/
+ //BEGIN OF centroExameEXAMECONTROLLER
+ Route::get('/centroExameExame_add',[CentroExameController::class,'centro_add'])->name('centro_add');
+ Route::post('/centroExameExame_store',[CentroExameController::class,'centro_store'])->name('centro_store');
+ Route::get('/centroExameExame_index',[CentroExameController::class,'centro_index'])->name('centro_index');
+ Route::get('/delete_centro/{id}', [CentroExameController::class, 'delete_centro'])->name('delete_centro');
+ //END OF centroExameEXAMECONTROLLER*/
 
  //BEGIN OF USERCONTROLLER
 
@@ -100,7 +100,7 @@ Route::middleware('auth')->group(function () {
  //relatorios directores municipais
  Route::get('/DC_PDF_DM',[ReportController::class,'DC_PDF_DM'])->name('DC_PDF_DM');
 
- //relatorios directores de centros
+ //relatorios directores de centroExames
 
  //relatorios de supervisores
 

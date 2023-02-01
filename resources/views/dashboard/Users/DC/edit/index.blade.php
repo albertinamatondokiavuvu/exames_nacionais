@@ -1,5 +1,5 @@
 @extends('layouts._includes.dashboard.Header')
-@section('title','Editar director do centro')
+@section('title','Editar director do centroExame')
 @section('content')
 <style>
     .center{
@@ -9,7 +9,7 @@
 <div class="col-md-8 center">
     <div class="card">
       <div class="card-body">
-        <h4 class="card-title">Editar Director do Centro</h4>
+        <h4 class="card-title">Editar Director do centroExame</h4>
         @include('extra.errorInputs.index')
         <form class="forms-sample" method="POST" action="{{ route('update_dc',$users->id) }}">
             @csrf

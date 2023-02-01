@@ -38,7 +38,7 @@
                 <div class="card-body">
                   <div class="d-flex align-items-center justify-content-between justify-content-md-center justify-content-xl-between flex-wrap mb-4">
                     <div>
-                      <p class="mb-2 text-md-center text-lg-left">Total de Centros de Exames</p>
+                      <p class="mb-2 text-md-center text-lg-left">Total de Centro de exame</p>
                       <h1 class="mb-0">$7,243</h1>
                     </div>
                     <a href="" class="btn btn-primary">Imprimir</a>
@@ -92,7 +92,7 @@
                 <div class="card-body">
                   <div class="d-flex align-items-center justify-content-between justify-content-md-center justify-content-xl-between flex-wrap mb-4">
                     <div>
-                      <p class="mb-2 text-md-center text-lg-left">Directores de Centros </p>
+                      <p class="mb-2 text-md-center text-lg-left">Directores de centroExames </p>
                       <h1 class="mb-0">@isset($dc){{ $dc }}
                     @else
                 0
@@ -109,7 +109,7 @@
                 <div class="card-body">
                   <div class="d-flex align-items-center justify-content-between justify-content-md-center justify-content-xl-between flex-wrap mb-4">
                     <div>
-                      <p class="mb-2 text-md-center text-lg-left">Centros de exames</p>
+                      <p class="mb-2 text-md-center text-lg-left">Centro de exame</p>
                       <h1 class="mb-0">@isset($c)
                         {{ $c }}
                     @else
@@ -149,7 +149,7 @@
                 <div class="card-body">
                   <div class="d-flex align-items-center justify-content-between justify-content-md-center justify-content-xl-between flex-wrap mb-4">
                     <div>
-                      <p class="mb-2 text-md-center text-lg-left">Directores de Centros</p>
+                      <p class="mb-2 text-md-center text-lg-left">Directores de Centro de exame</p>
                       <h1 class="mb-0">8742</h1>
                     </div>
                     <a href="" class="btn btn-primary">Imprimir</a>
@@ -162,7 +162,7 @@
                 <div class="card-body">
                   <div class="d-flex align-items-center justify-content-between justify-content-md-center justify-content-xl-between flex-wrap mb-4">
                     <div>
-                      <p class="mb-2 text-md-center text-lg-left">Total Centros de Exames</p>
+                      <p class="mb-2 text-md-center text-lg-left">Total Centro de exame</p>
                       <h1 class="mb-0">47,840</h1>
                     </div>
                     <a href="" class="btn btn-primary">Imprimir</a>
@@ -212,7 +212,7 @@
                 <div class="card-body">
                   <div class="d-flex align-items-center justify-content-between justify-content-md-center justify-content-xl-between flex-wrap mb-4">
                     <div>
-                      <p class="mb-2 text-md-center text-lg-left">Centros de Exames</p>
+                      <p class="mb-2 text-md-center text-lg-left">Centro de exame</p>
                       <h1 class="mb-0">8742</h1>
                     </div>
                     <a href="" class="btn btn-primary">Imprimir</a>

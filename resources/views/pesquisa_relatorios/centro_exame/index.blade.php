@@ -1,5 +1,5 @@
 @extends('layouts._includes.dashboard.Header')
-@section('title','Pesquisar centros de exames')
+@section('title','Pesquisar centroExames de exames')
 @section('content')
 <style>
     .center{
@@ -9,7 +9,7 @@
 <div class="col-md-8 center">
     <div class="card">
       <div class="card-body">
-        <h4 class="card-title">Pesquisar Centros de Exames</h4>
+        <h4 class="card-title">Pesquisar centroExames de Exames</h4>
         @include('extra.errorInputs.index')
         <form class="forms-sample" method="POST" action="{{ route('store_dc') }}">
             @csrf
