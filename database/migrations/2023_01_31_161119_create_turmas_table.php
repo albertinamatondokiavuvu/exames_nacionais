@@ -17,12 +17,9 @@ class CreateTurmasTable extends Migration
             $table->id();
             $table->string('nome_turma');
             $table->integer('quantidade');
-            $table->foreignId('user_id')
-            ->constrained()
-            ->onDelete('cascade');
-            $table->foreignId('classe_id')
-            ->constrained()
-            ->onDelete('cascade');
+            $table->bigInteger('classe_id')->unsigned();
+            $table->foreign('classe_id')->references('id')->on('classes')->onDelete('cascade');
+            $table->string('centroexame');
             $table->timestamps();
         });
     }

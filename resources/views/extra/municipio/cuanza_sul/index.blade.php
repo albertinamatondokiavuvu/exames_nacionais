@@ -7,7 +7,6 @@
 <option>Ebo</option>
 <option>Quilenda</option>
 <option>Conda</option>
-<option>Waku Kungo</option>
 <option>Seles</option>
+<option>Cela</option>
 <option>Cassongue</option>
-

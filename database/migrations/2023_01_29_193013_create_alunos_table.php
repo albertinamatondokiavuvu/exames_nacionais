@@ -26,15 +26,6 @@ class CreateAlunosTable extends Migration
             $table->string('cod_resp_prova');
             $table->string('provincia')->nullable();
             $table->string('municipio')->nullable();
-            $table->foreignId('classe_id')
-            ->constrained()
-            ->onDelete('cascade');
-            $table->foreignId('turma_id')
-            ->constrained()
-            ->onDelete('cascade');
-            $table->foreignId('centroexame_id')
-            ->constrained()
-            ->onDelete('cascade');
             $table->timestamps();
         });
     }

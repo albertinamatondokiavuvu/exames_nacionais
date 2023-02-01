@@ -16,9 +16,6 @@ class CreateClassesTable extends Migration
         Schema::create('classes', function (Blueprint $table) {
             $table->id();
             $table->string('nome_classe');
-            $table->foreignId('user_id')
-            ->constrained()
-            ->onDelete('cascade');
             $table->timestamps();
         });
     }

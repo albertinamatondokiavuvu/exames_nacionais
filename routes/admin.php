@@ -3,6 +3,7 @@
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\Admin\UserController;
 use App\Http\Controllers\Report\ReportController;
+use App\Http\Controllers\Admin\TurmaController;
 
 /*
 |--------------------------------------------------------------------------
@@ -23,6 +24,7 @@ Route::middleware('auth')->group(function () {
  Route::get('/turma_edit/{id}',[TurmaController::class,'turma_edit'])->name('turma_edit');
  Route::post('/turma_update/{id}',[TurmaController::class,'turma_update'])->name('turma_update');
  Route::get('/turma_index',[TurmaController::class,'turma_index'])->name('turma_index');
+ Route::get('/delete_turma/{id}', [TurmaController::class, 'delete'])->name('delete_turma');
  //END OF TURMACONTROLLER
 
  //BEGIN OF CLASSECONTROLLER
