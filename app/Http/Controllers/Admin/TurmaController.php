@@ -4,44 +4,41 @@ namespace App\Http\Controllers\Admin;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
-use App\Models\Turma;
-use Illuminate\Support\Facades\DB;
-use Illuminate\Support\Facades\Auth;
 
 class TurmaController extends Controller
 {
-
+    
     public function turma_add()
     {
-        $classes = DB::table('classes')
-            ->get();
-
-        return view('dashboard.Turma.create.index', compact('classes'));
+        return view('dashboard.Turma.create.index');
     }
     public function turma_store(Request $request)
     {
         $mensagens = [
             'required' => 'O :attribute é obrigatório!',
-            'nome_turma.min' => 'É necessário no mínimo 9 caracteres no nome!',
-            'nome_turma.max' => 'É necessário no máximo 9 caracteres no nome!',
+            'unique:users' => 'O :attribute já está sendo utilizado',
+            'name.min' => 'É necessário no mínimo 9 caracteres no nome!',
+            'name.max' => 'É necessário no máximo 9 caracteres no nome!',
+            'telefone.min' => 'É necessário no mínimo 9 caracteres no telefone!',
+            'telefone.max' => 'É necessário no máximo 9 caracteres no telefone!',
+            'email.email' => 'Digite um email válido!',
         ];
         $request->validate(
             [
-                'nome_turma' => 'required|max:5|min:1',
-                'quantidade' => 'required|max:5|min:1',
+            'name'=>'required|max:5|min:1',
+            'qtd'=>'required|max:5|min:1',
             ],
             $mensagens
         );
 
-        Turma::create([
-            'nome_turma' => $request->nome_turma,
-            'quantidade' => $request->quantidade,
-            'classe_id' => $request->classe_id,
-            'centroexame' => Auth::user()->instituicao,
-        ]);
+             User::create([
+                'name'=>$request->name,
+                'qtd'=>$request->qtd,
+             ]);
     }
     public function turma_edit($id)
     {
+
         $turmas = Turma::find($id);
         $classes = DB::table('classes')
             ->join('turmas', 'classes.id', '=', 'turmas.classe_id')
@@ -50,38 +47,35 @@ class TurmaController extends Controller
 
         return view('dashboard.Turma.edit.index', compact('turmas', 'classes'));
     }
-    public function turma_update(Request $request, $id)
+    public function turma_update(Request $request,$id)
     {
         $mensagens = [
             'required' => 'O :attribute é obrigatório!',
-            'nome_turma.min' => 'É necessário no mínimo 9 caracteres no nome!',
-            'nome_turma.max' => 'É necessário no máximo 9 caracteres no nome!',
-
+            'unique:users' => 'O :attribute já está sendo utilizado',
+            'name.min' => 'É necessário no mínimo 9 caracteres no nome!',
+            'name.max' => 'É necessário no máximo 9 caracteres no nome!',
+            'telefone.min' => 'É necessário no mínimo 9 caracteres no telefone!',
+            'telefone.max' => 'É necessário no máximo 9 caracteres no telefone!',
+            'email.email' => 'Digite um email válido!',
         ];
         $request->validate(
             [
-                'nome_turma' => 'required|max:255|min:4',
-                'quantidade' => 'required',
+            'name'=>'required|max:255|min:4',
+            'email'=>'email',
+            'provincia'=>'required',
+            'telefone'=>'required|min:9|max:9',
             ],
             $mensagens
         );
 
-        Turma::find($id)->update([
-            'nome_turma' => $request->nome_turma,
-            'quantidade' => $request->quantidade,
-            'classe_id' => $request->classe_id,
+             Turma::find($id)->update([
+                'name'=>$request->name,
+                'qtd'=>$request->qtd,
+             ]);
+    }
 
-        ]);
-    }
-    public function turma_index()
-    {
-        $turmas = DB::table('turmas')
-        ->join('classes','classes.id','turmas.classe_id')
-        ->get();
-        return view('dashboard.Turma.index.index', compact('turmas'))->with('i', (request()->input('page', 1) - 1) * 5);
-    }
     //coisas gerais
-    public function delete_turma($id)
+    public function delete($id)
     {
         $turma = Turma::findOrFail($id);
         $turma->delete();
