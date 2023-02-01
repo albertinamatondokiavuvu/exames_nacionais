@@ -32,7 +32,34 @@ class DatabaseSeeder extends Seeder
             'password'=>Hash::make('12345678'),
             'tipo_user'=>'admin',
             'telefone'=>931537786,
-
+         ]);
+         User::create([
+            'name'=>'Delfina',
+            'email'=>'dp@gmail.com',
+            'password'=>Hash::make('12345678'),
+            'tipo_user'=>'DP',
+            'telefone'=>931537786,
+         ]);
+         User::create([
+            'name'=>'Alex',
+            'email'=>'dm@gmail.com',
+            'password'=>Hash::make('12345678'),
+            'tipo_user'=>'DM',
+            'telefone'=>931537786,
+         ]);
+         User::create([
+            'name'=>'Fernando',
+            'email'=>'dc@gmail.com',
+            'password'=>Hash::make('12345678'),
+            'tipo_user'=>'DC',
+            'telefone'=>931537786,
+         ]);
+         User::create([
+            'name'=>'Garcia',
+            'email'=>'sp@gmail.com',
+            'password'=>Hash::make('12345678'),
+            'tipo_user'=>'Sp',
+            'telefone'=>931537786,
          ]);
          User::create([
             'name'=>'dp',
