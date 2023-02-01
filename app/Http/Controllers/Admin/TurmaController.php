@@ -38,8 +38,14 @@ class TurmaController extends Controller
     }
     public function turma_edit($id)
     {
-        $turma=Turma::find($id);
-        return view('dashboard.Turma.edit.index',compact('turma'));
+
+        $turmas = Turma::find($id);
+        $classes = DB::table('classes')
+            ->join('turmas', 'classes.id', '=', 'turmas.classe_id')
+            ->select('classes.nome_classe','classes.id')
+            ->get();
+
+        return view('dashboard.Turma.edit.index', compact('turmas', 'classes'));
     }
     public function turma_update(Request $request,$id)
     {
