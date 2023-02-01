@@ -7,9 +7,32 @@
         @endisset
 
 @if(Auth::user()->provincia == "Bengo")
-@include('extra.centro.Bengo.index')
+<option>Dande</option>
+<option>Ambriz</option>
+<option>Pango Aluquém</option>
+<option>Dembos</option>
+<option>Nambuangongo</option>
+<option>Bula Atumba</option>
+
+
+
+@if(Auth::user()->municipio == "Dande")
+@include('extra.centro.Bengo.Dande.index')
+@elseif (Auth::user()->municipio == "Bula Atumba")
+@include('extra.centro.Bengo.Bula_atumba.index')
+@elseif (Auth::user()->municipio == "Ambriz")
+@include('extra.centro.Bengo.Ambriz.index')
+@elseif (Auth::user()->municipio == "Pango Aluqém")
+@include('extra.centro.Bengo.pango_aluquem.index')
+@elseif (Auth::user()->municipio == "Dembos")
+@include('extra.centro.Bengo.Dembos.index')
+@elseif (Auth::user()->municipio == "Nambuangongo")
+@include('extra.centro.Bengo.nambuangongo.index')
+@endif
 @elseif(Auth::user()->provincia == "Benguela")
-@include('extra.centro.Benguela.index')
+
+
+
 @elseif(Auth::user()->provincia == "Bie")
 @include('extra.centro.Bie.index')
 @elseif(Auth::user()->provincia == "Cabinda")
