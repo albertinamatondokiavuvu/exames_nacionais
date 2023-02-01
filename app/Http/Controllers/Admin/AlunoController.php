@@ -27,12 +27,7 @@ class AlunoController extends Controller
             'presenca'=>'required|max:5|min:1',
             'deficiencia'=>'required|max:5|min:1',
             'name'=>'required|max:5|min:1',
-            'data_nasc'=>'required|max:5|min:1',
-            'vigilante'=>'required|max:5|min:1',
-            'cod_prova'=>'required|max:5|min:1',
-            'cod_resp_prova'=>'required|max:5|min:1',
-            'provincia'=>'required|max:5|min:1',
-            'municipio'=>'required|max:5|min:1',
+            'data_nasc'=>'required|max:5|min:1'
             ],
             $mensagens
         );

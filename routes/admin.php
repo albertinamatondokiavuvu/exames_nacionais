@@ -39,11 +39,12 @@ Route::middleware('auth')->group(function () {
  //END OF CLASSECONTROLLER
 
  //BEGIN OF ALUNOCONTROLLER
- Route::get('/aluno_add',[AlunoExameController::class,'aluno_add'])->name('aluno_add');
+ Route::get('/aluno_add',[AlunoController::class,'aluno_add'])->name('aluno_add');
+ 
  Route::post('/aluno_store',[AlunoController::class,'aluno_store'])->name('aluno_store');
- Route::get('/aluno_edit/{id}',[AlunoController::class,'aluno_edit'])->name('aluno_edit');
+ /*Route::get('/aluno_edit/{id}',[AlunoController::class,'aluno_edit'])->name('aluno_edit');
  Route::post('/aluno_update/{id}',[AlunoController::class,'aluno_update'])->name('aluno_update');
- Route::get('/aluno_index',[AlunoController::class,'aluno_index'])->name('aluno_index');
+ Route::get('/aluno_index',[AlunoController::class,'aluno_index'])->name('aluno_index');*/
  //END OF ALUNOCONTROLLER
 
  //BEGIN OF CENTROEXAMECONTROLLER 

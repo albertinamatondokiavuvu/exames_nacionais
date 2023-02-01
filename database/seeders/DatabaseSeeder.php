@@ -15,9 +15,10 @@ class DatabaseSeeder extends Seeder
      */
     public function run()
     {
-        Classe::create([
+        /*Classe::create([
             'nome_classe'=>'12ª Classe',
-        ]);
+            'user_id'=> '1',
+        ]);*/
         User::create([
             'name'=>'MED',
             'email'=>'med@gmail.com',
@@ -44,6 +45,13 @@ class DatabaseSeeder extends Seeder
             'email'=>'dc@gmail.com',
             'password'=>Hash::make('12345678'),
             'tipo_user'=>'DC',
+            'telefone'=>931537786,
+         ]);
+         User::create([
+            'name'=>'Garcia',
+            'email'=>'sp@gmail.com',
+            'password'=>Hash::make('12345678'),
+            'tipo_user'=>'Sp',
             'telefone'=>931537786,
          ]);
     }
