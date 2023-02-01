@@ -45,7 +45,7 @@ class TurmaController extends Controller
         $turmas = Turma::find($id);
         $classes = DB::table('classes')
             ->join('turmas', 'classes.id', '=', 'turmas.classe_id')
-            ->select('classes.nome_classe')
+            ->select('classes.nome_classe','classes.id')
             ->get();
 
         return view('dashboard.Turma.edit.index', compact('turmas', 'classes'));
