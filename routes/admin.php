@@ -2,11 +2,11 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\Admin\UserController;
-use App\Http\Controllers\Admin\centroExameController;
 use App\Http\Controllers\Admin\ClasseController;
 use App\Http\Controllers\Admin\TurmaController;
 use App\Http\Controllers\Admin\AlunoController;
 use App\Http\Controllers\Report\ReportController;
+use App\Http\Controllers\Admin\CentroExameController;
 
 /*
 |--------------------------------------------------------------------------
@@ -48,12 +48,10 @@ Route::middleware('auth')->group(function () {
  //END OF ALUNOCONTROLLER
 
  //BEGIN OF centroExameEXAMECONTROLLER
- Route::get('/centroExameExame_add',[centroExameController::class,'centroExameExame_add'])->name('centroExameExame_add');
- Route::post('/centroExameExame_store',[centroExameController::class,'centroExameExame_store'])->name('centroExameExame_store');
- Route::get('/centroExameExame_edit/{id}',[centroExameController::class,'centroExameExame_edit'])->name('centroExameExame_edit');
- Route::post('/centroExameExame_update/{id}',[centroExameController::class,'centroExameExame_update'])->name('centroExameExame_update');
- Route::get('/centroExameExame_index',[centroExameExameController::class,'centroExameExame_index'])->name('centroExameExame_index');
-
+ Route::get('/centroExameExame_add',[CentroExameController::class,'centro_add'])->name('centro_add');
+ Route::post('/centroExameExame_store',[CentroExameController::class,'centro_store'])->name('centro_store');
+ Route::get('/centroExameExame_index',[CentroExameController::class,'centro_index'])->name('centro_index');
+ Route::get('/delete_centro/{id}', [CentroExameController::class, 'delete_centro'])->name('delete_centro');
  //END OF centroExameEXAMECONTROLLER*/
 
  //BEGIN OF USERCONTROLLER

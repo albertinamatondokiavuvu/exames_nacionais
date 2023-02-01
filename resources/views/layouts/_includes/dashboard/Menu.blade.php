@@ -131,13 +131,13 @@
             <li class="nav-item">
               <a class="nav-link" data-toggle="collapse" href="#centroExame_exame" aria-expanded="false" aria-controls="centroExame_exame">
                 <i class="typcn typcn-document-text menu-icon"></i>
-                <span class="menu-title">centroExame de exame</span>
+                <span class="menu-title">Centro de exame</span>
                 <i class="menu-arrow"></i>
               </a>
               <div class="collapse" id="centroExame_exame">
                 <ul class="nav flex-column sub-menu">
-                  <li class="nav-item"> <a class="nav-link" href="">Cadastrar</a></li>
-                  <li class="nav-item"> <a class="nav-link" href="">Listar</a></li>
+                  <li class="nav-item"> <a class="nav-link" href="{{ route('centro_add') }}">Cadastrar</a></li>
+                  <li class="nav-item"> <a class="nav-link" href="{{ route('centro_index') }}">Listar</a></li>
                 </ul>
               </div>
             </li>

@@ -19,7 +19,7 @@ class CreateTurmasTable extends Migration
             $table->integer('quantidade');
             $table->bigInteger('classe_id')->unsigned();
             $table->foreign('classe_id')->references('id')->on('classes')->onDelete('cascade');
-            $table->string('centroExameexame');
+            $table->string('centroexame');
             $table->timestamps();
         });
     }
