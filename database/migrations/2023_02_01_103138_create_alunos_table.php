@@ -32,9 +32,9 @@ class CreateAlunosTable extends Migration
             $table->foreignId('turma_id')
             ->constrained()
             ->onDelete('cascade');
-            $table->foreignId('centro_id')
+           /*$table->foreignId('centroExame_id')
             ->constrained()
-            ->onDelete('cascade');
+            ->onDelete('cascade');*/
             $table->timestamps();
         });
     }

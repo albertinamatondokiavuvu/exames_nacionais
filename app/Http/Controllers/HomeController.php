@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers;
 
-use App\Models\CentroExame;
+use App\Models\centroExameExame;
 use Illuminate\Http\Request;
 use App\Models\User;
 use Illuminate\Support\Facades\Auth;
@@ -28,13 +28,6 @@ class HomeController extends Controller
         $dp= User::where([['tipo_user','=','DP']])->count();
         $dm= User::where([['tipo_user','=','DM'],['provincia','=',Auth::user()->provincia]])->count();
         $dc= User::where([['tipo_user','=','DC'],['provincia','=',Auth::user()->provincia]])->count();
-        if(Auth::user()->provincia != NUll)
-        {
-            $c= CentroExame::where([['provincia','=',Auth::user()->provincia]])->count();
-        }
-       else{
-        $c=0;
-       }
-        return view('dashboard.home.index',compact('dp','dm','dc','c'));
+        return view('dashboard.home.index',compact('dp','dm','dc'));
     }
 }

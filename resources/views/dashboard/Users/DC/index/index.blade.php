@@ -1,10 +1,10 @@
 @extends('layouts._includes.dashboard.Header')
-@section('title','Listar directores de centros de exames')
+@section('title','Listar directores de centroExames de exames')
 @section('content')
 <div class="col-lg-12 grid-margin stretch-card">
     <div class="card">
       <div class="card-body">
-        <h4 class="card-title">Listar directores de centros de exames</h4>
+        <h4 class="card-title">Listar directores de centroExames de exames</h4>
 
         <div class="table-responsive">
           <table id="table_id" class="table table-hover">
@@ -13,7 +13,7 @@
                 <th class="text-center">Nome</th>
                 <th class="text-center">Email</th>
                 <th class="text-center">Telefone</th>
-                <th class="text-center">Centro de Exame</th>
+                <th class="text-center">centroExame de Exame</th>
                 <th>Acções</th>
                 </tr>
             </thead>

@@ -47,8 +47,8 @@ class User extends Authenticatable
     public function turmas(){
         return $this->hasMany('App\Models\Turma');
     }
-    public function centro_exames(){
-        return $this->hasMany('App\Models\CentroExame');
+    public function centroExame_exames(){
+        return $this->hasMany('App\Models\centroExameExame');
     }
 
    /* protected $table = 'logs';

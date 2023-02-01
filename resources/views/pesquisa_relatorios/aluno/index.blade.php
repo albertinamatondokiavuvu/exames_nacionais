@@ -14,7 +14,7 @@
         <form class="forms-sample" method="POST" action="{{ route('store_dc') }}">
             @csrf
             <div class="form-group col-md-3">
-                <label for="municipio" class="form-label">Centro de exames</label>
+                <label for="municipio" class="form-label">centroExame de exames</label>
                 <select name="municipio" id="municipio" class="form-control">
                     <option value="Todos">Todos</option>
                     @foreach ($utilizadores as $utilizadores)

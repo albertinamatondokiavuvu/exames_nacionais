@@ -37,7 +37,7 @@ class TurmaController extends Controller
             'nome_turma' => $request->nome_turma,
             'quantidade' => $request->quantidade,
             'classe_id' => $request->classe_id,
-            'centroexame' => Auth::user()->instituicao,
+            'centroExameexame' => Auth::user()->instituicao,
         ]);
     }
     public function turma_edit($id)

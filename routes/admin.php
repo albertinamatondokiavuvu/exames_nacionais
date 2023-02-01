@@ -2,7 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\Admin\UserController;
-use App\Http\Controllers\Admin\CentroController;
+use App\Http\Controllers\Admin\centroExameController;
 use App\Http\Controllers\Admin\ClasseController;
 use App\Http\Controllers\Admin\TurmaController;
 use App\Http\Controllers\Admin\AlunoController;
@@ -27,6 +27,7 @@ Route::middleware('auth')->group(function () {
  Route::get('/turma_edit/{id}',[TurmaController::class,'turma_edit'])->name('turma_edit');
  Route::post('/turma_update/{id}',[TurmaController::class,'turma_update'])->name('turma_update');
  Route::get('/turma_index',[TurmaController::class,'turma_index'])->name('turma_index');
+ Route::get('/delete_turma/{id}', [UserController::class, 'delete_turma'])->name('delete_turma');
  //END OF TURMACONTROLLER
 
  //BEGIN OF CLASSECONTROLLER
@@ -46,14 +47,14 @@ Route::middleware('auth')->group(function () {
  Route::get('/aluno_index',[AlunoController::class,'aluno_index'])->name('aluno_index');
  //END OF ALUNOCONTROLLER
 
- //BEGIN OF CENTROEXAMECONTROLLER 
- Route::get('/centroExame_add',[CentroController::class,'centroExame_add'])->name('centroExame_add');
- Route::post('/centroExame_store',[CentroController::class,'centroExame_store'])->name('centroExame_store');
- Route::get('/centroExame_edit/{id}',[CentroController::class,'centroExame_edit'])->name('centroExame_edit');
- Route::post('/centroExame_update/{id}',[CentroController::class,'centroExame_update'])->name('centroExame_update');
- Route::get('/centroExame_index',[CentroExameController::class,'centroExame_index'])->name('centroExame_index');
+ //BEGIN OF centroExameEXAMECONTROLLER
+ Route::get('/centroExameExame_add',[centroExameController::class,'centroExameExame_add'])->name('centroExameExame_add');
+ Route::post('/centroExameExame_store',[centroExameController::class,'centroExameExame_store'])->name('centroExameExame_store');
+ Route::get('/centroExameExame_edit/{id}',[centroExameController::class,'centroExameExame_edit'])->name('centroExameExame_edit');
+ Route::post('/centroExameExame_update/{id}',[centroExameController::class,'centroExameExame_update'])->name('centroExameExame_update');
+ Route::get('/centroExameExame_index',[centroExameExameController::class,'centroExameExame_index'])->name('centroExameExame_index');
 
- //END OF CENTROEXAMECONTROLLER*/
+ //END OF centroExameEXAMECONTROLLER*/
 
  //BEGIN OF USERCONTROLLER
 
@@ -100,7 +101,7 @@ Route::middleware('auth')->group(function () {
  //relatorios directores municipais
  Route::get('/DC_PDF_DM',[ReportController::class,'DC_PDF_DM'])->name('DC_PDF_DM');
 
- //relatorios directores de centros
+ //relatorios directores de centroExames
 
  //relatorios de supervisores
 

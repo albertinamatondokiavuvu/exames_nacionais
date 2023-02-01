@@ -13,8 +13,8 @@ class Aluno extends Model
     public function user(){
         return $this->belongTo('App\Models\User');
     }
-    public function centroexame(){
-        return $this->belongTo('App\Models\CentroExame');
+    public function centroExameexame(){
+        return $this->belongTo('App\Models\centroExameExame');
     }
     public function classe(){
         return $this->belongTo('App\Models\Classe');
