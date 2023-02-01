@@ -4,7 +4,7 @@ use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 
-class CreateClassesTable extends Migration
+class CreateTurmasTable extends Migration
 {
     /**
      * Run the migrations.
@@ -13,10 +13,14 @@ class CreateClassesTable extends Migration
      */
     public function up()
     {
-        Schema::create('classes', function (Blueprint $table) {
+        Schema::create('turmas', function (Blueprint $table) {
             $table->id();
-            $table->string('nome_classe');
+            $table->string('nome_turma');
+            $table->integer('quantidade');
             $table->foreignId('user_id')
+            ->constrained()
+            ->onDelete('cascade');
+            $table->foreignId('classe_id')
             ->constrained()
             ->onDelete('cascade');
             $table->timestamps();
@@ -30,6 +34,6 @@ class CreateClassesTable extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('classes');
+        Schema::dropIfExists('turmas');
     }
 }
