@@ -15,9 +15,17 @@ class DatabaseSeeder extends Seeder
      */
     public function run()
     {
+
+        Classe::create([
+            'nome_classe'=>'6ª Classe',
+        ]);
+        Classe::create([
+            'nome_classe'=>'9ª Classe',
+        ]);
         Classe::create([
             'nome_classe'=>'12ª Classe',
         ]);
+        //users_type
         User::create([
             'name'=>'MED',
             'email'=>'med@gmail.com',

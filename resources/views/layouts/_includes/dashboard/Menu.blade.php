@@ -170,19 +170,6 @@
             </ul>
             </div>
         </li>
-          <li class="nav-item">
-              <a class="nav-link" data-toggle="collapse" href="#classe" aria-expanded="false" aria-controls="classe">
-                <i class="typcn typcn-document-text menu-icon"></i>
-                <span class="menu-title">Classe</span>
-                <i class="menu-arrow"></i>
-              </a>
-              <div class="collapse" id="classe">
-                <ul class="nav flex-column sub-menu">
-                  <li class="nav-item"> <a class="nav-link" href="">Cadastrar</a></li>
-                  <li class="nav-item"> <a class="nav-link" href="">Listar</a></li>
-                </ul>
-              </div>
-            </li>
             <li class="nav-item">
               <a class="nav-link" data-toggle="collapse" href="#turma" aria-expanded="false" aria-controls="turma">
                 <i class="typcn typcn-document-text menu-icon"></i>
