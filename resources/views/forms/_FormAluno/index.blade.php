@@ -34,6 +34,3 @@
         </select>
     </div>
 </div>
-<!--div class="mb-3">
-    <input type="text" name="escola_prov" class="form-control" id="setting-input-1" placeholder="Escola de Proveniência" required>
-</div-->

@@ -33,15 +33,21 @@ class AlunoController extends Controller
         );
 
              User::create([
-                'presenca'=>$request->deficiencia,
+                'presenca'=>'',
                 'deficiencia'=>$request->deficiencia,
-                'name'=>$request->name,
+                'nome_aluno'=>$request->name,
                 'data_nasc'=>$request->data_nasc,
-                'vigilante'=>$request->vigilante,
-                'cod_prova'=>$request->cod_prova,
-                'cod_resp_prova'=>$request->cod_resp_prova,
-                'provincia'=>$request->provincia,
-                'municipio'=>$request->municipio
+                'vigilante'=>'',
+                'sexo'=>$request->sexo,
+                'escola_proveniencia'=>$request->escola_prov,
+                'cod_prova'=>'',
+                'cod_resp_prova'=>'',
+                'provincia'=>1,
+                'municipio'=>1,
+                'classe_id'=>1,
+                'turma_id'=>1,
+                'centro_id'=>1
+
              ]);
     }
     public function aluno_edit($id)
@@ -71,20 +77,25 @@ class AlunoController extends Controller
         );
 
              aluno::find($id)->update([
-                'presenca'=>$request->deficiencia,
+                'presenca'=>'',
                 'deficiencia'=>$request->deficiencia,
-                'name'=>$request->name,
+                'nome_aluno'=>$request->name,
                 'data_nasc'=>$request->data_nasc,
-                'vigilante'=>$request->vigilante,
-                'cod_prova'=>$request->cod_prova,
-                'cod_resp_prova'=>$request->cod_resp_prova,
-                'provincia'=>$request->provincia,
-                'municipio'=>$request->municipio
+                'vigilante'=>'',
+                'sexo'=>$request->sexo,
+                'escola_proveniencia'=>$request->escola_prov,
+                'cod_prova'=>'',
+                'cod_resp_prova'=>'',
+                'provincia'=>1,
+                'municipio'=>1,
+                'classe_id'=>1,
+                'turma_id'=>1,
+                'centro_id'=>1
              ]);
     }
 
     //coisas gerais
-    public function delete($id)
+    public function aluno_delete($id)
     {
         $aluno = aluno::findOrFail($id);
         $aluno->delete();
