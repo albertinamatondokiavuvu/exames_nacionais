@@ -162,6 +162,23 @@
         @include('extra.centro.Luanda_norte.Lucapa.index')
         @endif
 
+        @elseif(Auth::user()->provincia == "Lunda-Norte")
+        <option>Cacolo</option>
+        <option>Dala</option>
+        <option>Muconda</option>
+        <option>Saurimo</option>
+    
+        
+            @if(Auth::user()->municipio == "Cacolo")
+            @include('extra.centro.Luanda_sul.Cacolo.index')
+            @elseif (Auth::user()->municipio == "Dala")
+            @include('extra.centro.Luanda_sul.Dala.index')
+            @elseif (Auth::user()->municipio == "Muconda")
+            @include('extra.centro.Luanda_sul.Muconda.index')
+            @elseif (Auth::user()->municipio == "Saurimo")
+            @include('extra.centro.Luanda_sul.Saurimo.index')
+            @endif
+        
 @elseif(Auth::user()->provincia == "Lunda-Sul")
 @include('extra.centro.Lunda_sul.index')
 @elseif(Auth::user()->provincia == "Malanje")
