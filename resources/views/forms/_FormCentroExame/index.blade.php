@@ -130,9 +130,39 @@
     @include('extra.centro.Luanda.Viana.index')
     @endif
 
-@elseif(Auth::user()->provincia == "Lunda Norte")
-@include('extra.centro.Lunda_norte.index')
-@elseif(Auth::user()->provincia == "Lunda Sul")
+    @elseif(Auth::user()->provincia == "Lunda-Norte")
+    <option>Cambulo</option>
+    <option>Capenda-Camulemba</option>
+    <option>Caungula</option>
+    <option>Chitato</option>
+    <option>Cuango</option>
+    <option>Cuilo</option>
+    <option>Lóvua</option>
+    <option>Lubalo</option>
+    <option>Lucapa</option>
+
+    
+        @if(Auth::user()->municipio == "Cambulo")
+        @include('extra.centro.Luanda_norte.Cambulo.index')
+        @elseif (Auth::user()->municipio == "Capenda-Camulemba")
+        @include('extra.centro.Luanda_norte.Capenda_camulemba.index')
+        @elseif (Auth::user()->municipio == "Caungula")
+        @include('extra.centro.Luanda_norte.Caungula.index')
+        @elseif (Auth::user()->municipio == "Chitato")
+        @include('extra.centro.Luanda_norte.Chitato.index')
+        @elseif (Auth::user()->municipio == "Cuango")
+        @include('extra.centro.Luanda_norte.Cuango.index')
+        @elseif (Auth::user()->municipio == "Cuilo")
+        @include('extra.centro.Luanda_norte.Cuilo.index')
+        @elseif (Auth::user()->municipio == "Lóvua")
+        @include('extra.centro.Luanda_norte.Lovua.index')
+        @elseif (Auth::user()->municipio == "Lubalo")
+        @include('extra.centro.Luanda_norte.Lubalo.index')
+        @elseif (Auth::user()->municipio == "Lucapa")
+        @include('extra.centro.Luanda_norte.Lucapa.index')
+        @endif
+
+@elseif(Auth::user()->provincia == "Lunda-Sul")
 @include('extra.centro.Lunda_sul.index')
 @elseif(Auth::user()->provincia == "Malanje")
 @include('extra.centro.Malanje.index')
