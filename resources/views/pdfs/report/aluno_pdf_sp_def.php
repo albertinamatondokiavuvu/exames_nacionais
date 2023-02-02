@@ -19,7 +19,7 @@
     <div class="text-center">
         <h1 class="text-primary" style="margin-top: 100px; margin-bottom: 50px;" > LISTA DE ALUNOS DEFICIENTES DO CENTRO DE EXAME <span style="text-transform:uppercase;"><?php
         use Illuminate\Support\Facades\Auth;
-       echo Auth::user()->instituicao;?></span></h1>
+       echo Auth::user()->instituicao; ?></span></h1>
     </div>
     <table  class=" table">
         <thead >
