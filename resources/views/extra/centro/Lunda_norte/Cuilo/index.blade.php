@@ -1,18 +1,3 @@
-<option>Cuito</option>
-<option>Andulo</option>
-<option>Nharêa</option>
-<option>Cuemba</option>
-<option>Cunhinga</option>
-<option>Catabola</option>
-<option>Camacupa</option>
-<option>Chinguar</option>
-<option>Chitembo</option>
-
-
-
-
-
-
-
-
-
+<option>Direcção Municipal Da Educação Do Cuilo</option>
+<option>Escola Do Ensino Primário E Do I Ciclo Do Cuilo - Cuilo</option>
+<option>Escola Primária N. 106 - Sede Municipal</option>

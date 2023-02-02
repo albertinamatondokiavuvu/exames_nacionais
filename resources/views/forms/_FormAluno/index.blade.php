@@ -16,6 +16,7 @@
             @else
             <option disabled selected>Selecione o sexo</option>
             @endisset
+<<<<<<< HEAD
           <option>Feminino</option>
           <option>Masculino</option>
         </select>
@@ -51,6 +52,9 @@
             <option disabled selected>Selecione a Deficiencia</option>
             @endisset
            @include('extra.deficiencias.index')
+=======
+           @include('extra.sexo.index')
+>>>>>>> 06ce48154f4f70b7172e41563283f9c845b4c40f
         </select>
     </div>
 
