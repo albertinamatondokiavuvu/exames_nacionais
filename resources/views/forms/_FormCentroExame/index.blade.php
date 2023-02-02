@@ -94,7 +94,42 @@
     @endif
 
 @elseif(Auth::user()->provincia == "Luanda")
-@include('extra.centro.Luanda.index')
+<option>BELAS</option>
+<option>CACUACO</option>
+<option>CAZENGA</option>
+<option>ESTRUTURA CENTRAL</option>
+<option>ICOLO E BENGO</option>
+<option>KILAMBA KIAXI</option>
+<option>LUANDA</option>
+<option>QUIÇAMA</option>
+<option>RANGEL</option>
+<option>TALATONA</option>
+<option>VIANA</option>
+
+    @if(Auth::user()->municipio == "BELAS")
+    @include('extra.centro.Luanda.Belas.index')
+    @elseif (Auth::user()->municipio == "CACUACO")
+    @include('extra.centro.Luanda.Cacuaco.index')
+    @elseif (Auth::user()->municipio == "CAZENGA")
+    @include('extra.centro.Luanda.Cazenga.index')
+    @elseif (Auth::user()->municipio == "ESTRUTURA CENTRAL")
+    @include('extra.centro.Luanda.Estrutura_central.index')
+    @elseif (Auth::user()->municipio == "ICOLO E BENGO")
+    @include('extra.centro.Luanda.Icolo_e_bengo.index')
+    @elseif (Auth::user()->municipio == "KILAMBA KIAXI")
+    @include('extra.centro.Luanda.Kilamba_kiaxi.index')
+    @elseif (Auth::user()->municipio == "LUANDA")
+    @include('extra.centro.Luanda.Luanda.index')
+    @elseif (Auth::user()->municipio == "QUIÇAMA")
+    @include('extra.centro.Luanda.Quicama.index')
+    @elseif (Auth::user()->municipio == "RANGEL")
+    @include('extra.centro.Luanda.Rangel.index')
+    @elseif (Auth::user()->municipio == "TALATONA")
+    @include('extra.centro.Luanda.Talatona.index')
+    @elseif (Auth::user()->municipio == "VIANA")
+    @include('extra.centro.Luanda.Viana.index')
+    @endif
+
 @elseif(Auth::user()->provincia == "Lunda Norte")
 @include('extra.centro.Lunda_norte.index')
 @elseif(Auth::user()->provincia == "Lunda Sul")
