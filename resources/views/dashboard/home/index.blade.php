@@ -55,7 +55,7 @@
                   <div class="card-body">
                     <div class="d-flex justify-content-between align-items-start flex-wrap">
                       <div>
-                        <p class="mb-3">Monthly Increase</p>
+                        <p class="mb-3">Gráficos</p>
                         <h3>67842</h3>
                       </div>
                       <div id="income-chart-legend" class="d-flex flex-wrap mt-1 mt-md-0"></div>
@@ -130,7 +130,7 @@
                   <div class="card-body">
                     <div class="d-flex justify-content-between align-items-start flex-wrap">
                       <div>
-                        <p class="mb-3">Monthly Increase</p>
+                        <p class="mb-3">Gráficos</p>
                         <h3>67842</h3>
                       </div>
                       <div id="income-chart-legend" class="d-flex flex-wrap mt-1 mt-md-0"></div>
@@ -152,7 +152,7 @@
                       <p class="mb-2 text-md-center text-lg-left">Directores de Centro de exame</p>
                       <h1 class="mb-0">8742</h1>
                     </div>
-                    <a href="" class="btn btn-primary">Imprimir</a>
+                    <a href="" target="_blank" class="btn btn-primary">Imprimir</a>
                   </div>
                 </div>
               </div>
@@ -193,7 +193,7 @@
                   <div class="card-body">
                     <div class="d-flex justify-content-between align-items-start flex-wrap">
                       <div>
-                        <p class="mb-3">Monthly Increase</p>
+                        <p class="mb-3">Gráficos</p>
                         <h3>67842</h3>
                       </div>
                       <div id="income-chart-legend" class="d-flex flex-wrap mt-1 mt-md-0"></div>
@@ -256,7 +256,7 @@
                   <div class="card-body">
                     <div class="d-flex justify-content-between align-items-start flex-wrap">
                       <div>
-                        <p class="mb-3">Monthly Increase</p>
+                        <p class="mb-3">Gráficos</p>
                         <h3>67842</h3>
                       </div>
                       <div id="income-chart-legend" class="d-flex flex-wrap mt-1 mt-md-0"></div>
@@ -269,19 +269,38 @@
           </div>
             @elseif(Auth::user()->tipo_user == "SP")
            <div class="row">
-            <div class="col-md-12 grid-margin stretch-card">
+            <div class="col-md-6 grid-margin stretch-card">
               <div class="card">
                 <div class="card-body">
                   <div class="d-flex align-items-center justify-content-between justify-content-md-center justify-content-xl-between flex-wrap mb-4">
                     <div>
                       <p class="mb-2 text-md-center text-lg-left">Total de Alunos</p>
-                      <h1 class="mb-0">8742</h1>
+                      <h1 class="mb-0">{{ $alunos }}</h1>
                     </div>
-                    <a href="" class="btn btn-primary">Imprimir</a>
-                  </div>
+                    @if($alunos == 0)
+                    @else
+                    <a href="{{ route('Aluno_pdf_sp') }}" target="_blank" class="btn btn-primary">Imprimir</a>
+                @endif
+                </div>
                 </div>
               </div>
             </div>
+            <div class="col-md-6 grid-margin stretch-card">
+                <div class="card">
+                  <div class="card-body">
+                    <div class="d-flex align-items-center justify-content-between justify-content-md-center justify-content-xl-between flex-wrap mb-4">
+                      <div>
+                        <p class="mb-2 text-md-center text-lg-left">Total de Deficientes</p>
+                        <h1 class="mb-0">{{ $defAluno }}</h1>
+                      </div>
+                      @if($defAluno == 0)
+                      @else
+                      <a href="{{ route('Aluno_pdf_sp_def') }}" target="_blank" class="btn btn-primary">Imprimir</a>
+                    @endif
+                    </div>
+                  </div>
+                </div>
+              </div>
 
           </div>
           <div class="col-xl-12 grid-margin stretch-card flex-column">
@@ -292,7 +311,7 @@
                   <div class="card-body">
                     <div class="d-flex justify-content-between align-items-start flex-wrap">
                       <div>
-                        <p class="mb-3">Monthly Increase</p>
+                        <p class="mb-3">Gráficos</p>
                         <h3>67842</h3>
                       </div>
                       <div id="income-chart-legend" class="d-flex flex-wrap mt-1 mt-md-0"></div>
@@ -313,7 +332,7 @@
                       <div class="card-body">
                         <div class="d-flex justify-content-between align-items-start flex-wrap">
                           <div>
-                            <p class="mb-3">Monthly Increase</p>
+                            <p class="mb-3">Gráficos</p>
                             <h3>67842</h3>
                           </div>
                           <div id="income-chart-legend" class="d-flex flex-wrap mt-1 mt-md-0"></div>

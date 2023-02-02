@@ -41,11 +41,12 @@ Route::middleware('auth')->group(function () {
 
  //BEGIN OF ALUNOCONTROLLER
  Route::get('/aluno_add',[AlunoController::class,'aluno_add'])->name('aluno_add');
- 
+
  Route::post('/aluno_store',[AlunoController::class,'aluno_store'])->name('aluno_store');
- /*Route::get('/aluno_edit/{id}',[AlunoController::class,'aluno_edit'])->name('aluno_edit');
+ Route::get('/aluno_edit/{id}',[AlunoController::class,'aluno_edit'])->name('aluno_edit');
  Route::post('/aluno_update/{id}',[AlunoController::class,'aluno_update'])->name('aluno_update');
- Route::get('/aluno_index',[AlunoController::class,'aluno_index'])->name('aluno_index');*/
+ Route::get('/aluno_index',[AlunoController::class,'aluno_index'])->name('aluno_index');
+ Route::get('/delete_aluno{id}', [AlunoController::class, 'delete_aluno'])->name('delete_aluno');
  //END OF ALUNOCONTROLLER
 
  //BEGIN OF centroExameEXAMECONTROLLER
@@ -103,8 +104,8 @@ Route::middleware('auth')->group(function () {
  //relatorios directores de centroExames
 
  //relatorios de supervisores
-
-
+ Route::get('/Aluno_pdf_sp',[ReportController::class,'Aluno_pdf_sp'])->name('Aluno_pdf_sp');
+ Route::get('/Aluno_pdf_sp_def',[ReportController::class,'Aluno_pdf_sp_def'])->name('Aluno_pdf_sp_def');
  //relatorios de vigilantes
 
 

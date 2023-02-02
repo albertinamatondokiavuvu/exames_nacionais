@@ -7,14 +7,6 @@
         @endisset
 
 @if(Auth::user()->provincia == "Bengo")
-<option>Dande</option>
-<option>Ambriz</option>
-<option>Pango Aluquém</option>
-<option>Dembos</option>
-<option>Nambuangongo</option>
-<option>Bula Atumba</option>
-
-
 
 @if(Auth::user()->municipio == "Dande")
 @include('extra.centro.Bengo.Dande.index')
@@ -28,25 +20,184 @@
 @include('extra.centro.Bengo.Dembos.index')
 @elseif (Auth::user()->municipio == "Nambuangongo")
 @include('extra.centro.Bengo.nambuangongo.index')
+@elseif (Auth::user()->municipio == "Gombe")
+@include('extra.centro.Bengo.Gombe.index')
 @endif
+
 @elseif(Auth::user()->provincia == "Benguela")
 
-
+@if(Auth::user()->municipio == "Lobito")
+@include('extra.centro.Benguela.Lobito.index')
+@elseif (Auth::user()->municipio == "Bocoio")
+@include('extra.centro.Benguela.Bocoio.index')
+@elseif (Auth::user()->municipio == "Balombo")
+@include('extra.centro.Benguela.Balombo.index')
+@elseif (Auth::user()->municipio == "Ganda")
+@include('extra.centro.Benguela.Ganda.index')
+@elseif (Auth::user()->municipio == "Cubal")
+@include('extra.centro.Benguela.Cubal.index')
+@elseif (Auth::user()->municipio == "Caiambambo")
+@include('extra.centro.Benguela.Caimbambo.index')
+@elseif (Auth::user()->municipio == "Benguela")
+@include('extra.centro.Benguela.Benguela.index')
+@elseif (Auth::user()->municipio == "Baía Farta")
+@include('extra.centro.Benguela.Baia_farta.index')
+@elseif (Auth::user()->municipio == "Chongoroi")
+@include('extra.centro.Benguela.Chongoroi.index')
+@elseif (Auth::user()->municipio == "Catumbela")
+@include('extra.centro.Benguela.Catumbela.index')
+@endif
 
 @elseif(Auth::user()->provincia == "Bie")
-@include('extra.centro.Bie.index')
+
+@if(Auth::user()->municipio == "Cuito")
+@include('extra.centro.Bie.Cuito.index')
+@elseif (Auth::user()->municipio == "Andulo")
+@include('extra.centro.Bie.Andulo.index')
+@elseif (Auth::user()->municipio == "Nharêa")
+@include('extra.centro.Bie.Nharea.index')
+@elseif (Auth::user()->municipio == "Cuemba")
+@include('extra.centro.Bie.Cuemba.index')
+@elseif (Auth::user()->municipio == "Cunhinga")
+@include('extra.centro.Bie.Cunhinga.index')
+@elseif (Auth::user()->municipio == "Catabola")
+@include('extra.centro.Benguela.Catabola.index')
+@elseif (Auth::user()->municipio == "Camacupa")
+@include('extra.centro.Benguela.Benguela.index')
+@elseif (Auth::user()->municipio == "Chinguar")
+@include('extra.centro.Bie.Chinguar.index')
+@elseif (Auth::user()->municipio == "Chitembo")
+@include('extra.centro.Bie.Chitembo.index')
+@endif
+
 @elseif(Auth::user()->provincia == "Cabinda")
-@include('extra.centro.Cabinda.index')
+
+@if(Auth::user()->municipio == "Cabinda")
+@include('extra.centro.Cabinda.Cabinda.index')
+@elseif (Auth::user()->municipio == "Cacongo")
+@include('extra.centro.Cabinda.Cacongo.index')
+@elseif (Auth::user()->municipio == "Buco-Zau")
+@include('extra.centro.Cabinda.Buco_zau.index')
+@elseif (Auth::user()->municipio == "Belize")
+@include('extra.centro.Cabinda.Belize.index')
+@endif
+
 @elseif(Auth::user()->provincia == "Cuando Cubango")
-@include('extra.centro.Cuando_Cubango.index')
-@elseif(Auth::user()->provincia == "Cuanza Norte")
-@include('extra.centro.Cuanza_norte.index')
+
+@if(Auth::user()->municipio == "Menongue")
+@include('extra.centro.Cuando_Cubango.Menongue.index')
+@elseif (Auth::user()->municipio == "Cuito Cuanavale")
+@include('extra.centro.Cuando_Cubango.Cuito_cuanavale.index')
+@elseif (Auth::user()->municipio == "Cuchi")
+@include('extra.centro.Cuando_Cubango.Cuchi.index')
+@elseif (Auth::user()->municipio == "Cuangar")
+@include('extra.centro.Cuando_Cubango.Cuangar.index')
+@elseif(Auth::user()->municipio == "Mavinga")
+@include('extra.centro.Cuando_Cubango.Mavinga.index')
+@elseif (Auth::user()->municipio == "Calai")
+@include('extra.centro.Cuando_Cubango.Calai.index')
+@elseif (Auth::user()->municipio == "Dirico")
+@include('extra.centro.Cuando_Cubango.Dirico.index')
+@elseif (Auth::user()->municipio == "Rivungo")
+@include('extra.centro.Cuando_Cubango.Rivungo.index')
+@elseif (Auth::user()->municipio == "Nancova")
+@include('extra.centro.Cuando_Cubango.Nancova.index')
+@endif
+
+@elseif(Auth::user()->provincia == "Cuanza Norte")c
+
+@if(Auth::user()->municipio == "Cazengo")
+@include('extra.centro.Cuanza_norte.Cazengo.index')
+@elseif (Auth::user()->municipio == "Lucala")
+@include('extra.centro.Cuanza_norte.Lucala.index')
+@elseif (Auth::user()->municipio == "Ambaca")
+@include('extra.centro.Cuanza_norte.Ambaca.index')
+@elseif (Auth::user()->municipio == "Golungo Alto")
+@include('extra.centro.Cuanza_norte.Golungo_alto.index')
+@elseif(Auth::user()->municipio == "Cambambe")
+@include('extra.centro.Cuanza_norte.Cambambe.index')
+@elseif (Auth::user()->municipio == "Quiculungo")
+@include('extra.centro.Cuanza_norte.Quiculungo.index')
+@elseif (Auth::user()->municipio == "Bolongongo")
+@include('extra.centro.Cuanza_norte.Bolongongo.index')
+@elseif (Auth::user()->municipio == "Banga")
+@include('extra.centro.Cuanza_norte.Banga.index')
+@elseif (Auth::user()->municipio == "Samba Cajú")
+@include('extra.centro.Cuanza_norte.Samba_caju.index')
+@elseif (Auth::user()->municipio == "Gonguembo")
+@include('extra.centro.Cuanza_norte.Ngonguembo.index')
+@endif
+
 @elseif(Auth::user()->provincia == "Cuanza Sul")
-@include('extra.centro.cuanza_sul.index')
+
+@if(Auth::user()->municipio == "Sumbe")
+@include('extra.centro.cuanza_sul.Sumbe.index')
+@elseif (Auth::user()->municipio == "Porto Amboim")
+@include('extra.centro.cuanza_sul.Porto_amboim.index')
+@elseif (Auth::user()->municipio == "Quibala")
+@include('extra.centro.cuanza_sul.Quibala.index')
+@elseif (Auth::user()->municipio == "Libolo")
+@include('extra.centro.cuanza_sul.Libolo.index')
+@elseif(Auth::user()->municipio == "Mussende")
+@include('extra.centro.cuanza_sul.Mussende.index')
+@elseif (Auth::user()->municipio == "Amboim")
+@include('extra.centro.cuanza_sul.Amboim.index')
+@elseif (Auth::user()->municipio == "Ebo")
+@include('extra.centro.cuanza_sul.Ebo.index')
+@elseif (Auth::user()->municipio == "Quilenda")
+@include('extra.centro.cuanza_sul.Quilenda.index')
+@elseif (Auth::user()->municipio == "Conda")
+@include('extra.centro.cuanza_sul.Conda.index')
+@elseif (Auth::user()->municipio == "Seles")
+@include('extra.centro.cuanza_sul.Seles.index')
+@elseif (Auth::user()->municipio == "Cela")
+@include('extra.centro.cuanza_sul.Cela.index')
+@elseif (Auth::user()->municipio == "Cassongue")
+@include('extra.centro.cuanza_sul.Cassongue.index')
+@endif
+
 @elseif(Auth::user()->provincia == "Cunene")
-@include('extra.centro.Cunene.index')
+
+@if(Auth::user()->municipio == "Cuanhama")
+@include('extra.centro.Cunene.Cuanhama.index')
+@elseif (Auth::user()->municipio == "Ombadja")
+@include('extra.centro.Cunene.Ombadja.index')
+@elseif (Auth::user()->municipio == "Cuvelai")
+@include('extra.centro.Cunene.Cuvelai.index')
+@elseif (Auth::user()->municipio == "Curoca")
+@include('extra.centro.Cunene.Curoca.index')
+@elseif(Auth::user()->municipio == "Cahama")
+@include('extra.centro.Cunene.Cahama.index')
+@elseif (Auth::user()->municipio == "Namacunde")
+@include('extra.centro.Cunene.Namacunde.index')
+@elseif (Auth::user()->municipio == "Xangongo")
+@include('extra.centro.Cunene.Xangongo.index')
+@endif
+
 @elseif(Auth::user()->provincia == "Huambo")
-@include('extra.centro.Huambo.index')
+
+@if(Auth::user()->municipio == "Huambo")
+@include('extra.centro.Huambo.Huambo.index')
+@elseif (Auth::user()->municipio == "Londuimbali")
+@include('extra.centro.Huambo.Londuinbali.index')
+@elseif (Auth::user()->municipio == "Bailundo")
+@include('extra.centro.Huambo.Bailundo.index')
+@elseif (Auth::user()->municipio == "Chindjenje")
+@include('extra.centro.Huambo.Chinjenje.index')
+@elseif(Auth::user()->municipio == "Ucuma")
+@include('extra.centro.Huambo.Ucuma.index')
+@elseif (Auth::user()->municipio == "Ecunha")
+@include('extra.centro.Huambo.Ecunha.index')
+@elseif (Auth::user()->municipio == "Chicala-Choloanga")
+@include('extra.centro.Huambo.Chicala_cholohanga.index')
+@elseif (Auth::user()->municipio == "Cachiungo")
+@include('extra.centro.Huambo.Cachilungo.index')
+@elseif (Auth::user()->municipio == "Longonjo")
+@include('extra.centro.Huambo.Longonjo.index')
+@elseif (Auth::user()->municipio == "Caála")
+@include('extra.centro.Huambo.Caala.index')
+@endif
+
 @elseif(Auth::user()->provincia == "Huíla")
 @include('extra.centro.Huila.index')
 @elseif(Auth::user()->provincia == "Luanda")

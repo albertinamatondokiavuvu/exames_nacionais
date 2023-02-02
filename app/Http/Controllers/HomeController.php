@@ -6,6 +6,7 @@ use App\Models\centroExameExame;
 use Illuminate\Http\Request;
 use App\Models\User;
 use Illuminate\Support\Facades\Auth;
+use Illuminate\Support\Facades\DB;
 class HomeController extends Controller
 {
     /**
@@ -28,6 +29,16 @@ class HomeController extends Controller
         $dp= User::where([['tipo_user','=','DP']])->count();
         $dm= User::where([['tipo_user','=','DM'],['provincia','=',Auth::user()->provincia]])->count();
         $dc= User::where([['tipo_user','=','DC'],['provincia','=',Auth::user()->provincia]])->count();
-        return view('dashboard.home.index',compact('dp','dm','dc'));
+        $alunos = DB::table('alunos')
+        ->join('turmas','turmas.id','alunos.turma_id')
+        ->join('classes','classes.id','turmas.classe_id')
+        ->where([['centroexame','=',Auth::user()->instituicao]])
+        ->count();
+        $defAluno = DB::table('alunos')
+        ->join('turmas','turmas.id','alunos.turma_id')
+        ->join('classes','classes.id','turmas.classe_id')
+        ->where([['centroexame','=',Auth::user()->instituicao],['deficiencia','!=','Nenhum']])
+        ->count();
+        return view('dashboard.home.index',compact('dp','dm','dc','alunos','defAluno'));
     }
 }

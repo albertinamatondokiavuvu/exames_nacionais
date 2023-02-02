@@ -33,12 +33,17 @@ class TurmaController extends Controller
             $mensagens
         );
 
+        try{
         Turma::create([
             'nome_turma' => $request->nome_turma,
             'quantidade' => $request->quantidade,
             'classe_id' => $request->classe_id,
             'centroexame' => Auth::user()->instituicao,
         ]);
+        return redirect()->back()->with('status_add', '1');
+    } catch (\Exception $exceptio) {
+        return redirect()->back()->with('status_error', '1');
+    }
     }
     public function turma_edit($id)
     {
@@ -65,13 +70,17 @@ class TurmaController extends Controller
             ],
             $mensagens
         );
-
+try{
         Turma::find($id)->update([
             'nome_turma' => $request->nome_turma,
             'quantidade' => $request->quantidade,
             'classe_id' => $request->classe_id,
 
         ]);
+        return redirect()->back()->with('status_update', '1');
+    } catch (\Exception $exceptio) {
+        return redirect()->back()->with('status_error', '1');
+    }
     }
     public function turma_index()
     {
@@ -83,7 +92,12 @@ class TurmaController extends Controller
     //coisas gerais
     public function delete_turma($id)
     {
+        try{
         $turma = Turma::findOrFail($id);
         $turma->delete();
+        return redirect()->back()->with('status_delete', '1');
+    } catch (\Exception $exceptio) {
+        return redirect()->back()->with('status_error', '1');
+    }
     }
 }
