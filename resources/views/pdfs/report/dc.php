@@ -17,7 +17,7 @@
     <img class="logotipo" src="images/logo.png" alt="" srcset="">
     <p class=" republica text-center">REPÚBLICA DE ANGOLA <br> MINISTÉRIO DA EDUCAÇÃO <br>INSTITUTO NACIONAL DE AVALIAÇÃO E DESENVOLVIMENTO DA EDUCAÇÃO</p>
     <div class="text-center">
-        <h1 class="text-primary" style="margin-top: 100px; margin-bottom: 50px;" > LISTA DE DIRECTORES DE centroExameS DE EXAMES</h1>
+        <h1 class="text-primary" style="margin-top: 100px; margin-bottom: 50px;" > LISTA DE DIRECTORES DE CENTROS DE EXAMES</h1>
     </div>
     <table  class=" table">
         <thead >
