@@ -23,7 +23,7 @@
     </div>
     <table  class=" table">
         <thead >
-            <tr >
+            <tr>
                 <th style="height:30px; width:20px;"  class="text-center" >Nº</th>
                 <th class="text-center">Nome</th>
                 <th class="text-center">Sexo</th>
@@ -32,7 +32,6 @@
                 <th class="text-center">Classe</th>
                 <th class="text-center">Escola de Proveniencia</th>
                 <th class="text-center">Tipo de Deficiência</th>
-
 
             </tr>
         </thead>
