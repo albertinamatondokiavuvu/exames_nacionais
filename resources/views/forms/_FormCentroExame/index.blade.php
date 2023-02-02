@@ -178,11 +178,73 @@
             @elseif (Auth::user()->municipio == "Saurimo")
             @include('extra.centro.Luanda_sul.Saurimo.index')
             @endif
+
         
-@elseif(Auth::user()->provincia == "Lunda-Sul")
-@include('extra.centro.Lunda_sul.index')
 @elseif(Auth::user()->provincia == "Malanje")
-@include('extra.centro.Malanje.index')
+@include('extra.centro.Luanda_norte.Cambulo.index')
+@elseif (Auth::user()->municipio == "Capenda-Camulemba")
+@include('extra.centro.Luanda_norte.Capenda_camulemba.index')
+@elseif (Auth::user()->municipio == "Caungula")
+@include('extra.centro.Luanda_norte.Caungula.index')
+@elseif (Auth::user()->municipio == "Chitato")
+@include('extra.centro.Luanda_norte.Chitato.index')
+@elseif (Auth::user()->municipio == "Cuango")
+@include('extra.centro.Luanda_norte.Cuango.index')
+@elseif (Auth::user()->municipio == "Cuilo")
+@include('extra.centro.Luanda_norte.Cuilo.index')
+@elseif (Auth::user()->municipio == "Lóvua")
+@include('extra.centro.Luanda_norte.Lovua.index')
+@elseif (Auth::user()->municipio == "Lubalo")
+@include('extra.centro.Luanda_norte.Lubalo.index')
+@elseif (Auth::user()->municipio == "Lucapa")
+@include('extra.centro.Luanda_norte.Lucapa.index')
+@endif
+
+@elseif(Auth::user()->provincia == "Lunda-Norte")
+<option>Cacuso</option>
+<option>Cahombo</option>
+<option>Calandula</option>
+<option>Cambundi-Catembo</option>
+<option>Cangandala</option>
+<option>Kiwaba-Nzoji</option>
+<option>Luquembo</option>
+<option>Malanje</option>
+<option>Marimba</option>
+<option>Massango</option>
+<option>Moxico</option>
+<option>Mucari</option>
+<option>Quela</option>
+
+
+    @if(Auth::user()->municipio == "Cacuso")
+    @include('extra.centro.Malanje.Cacuso.index')
+    @elseif (Auth::user()->municipio == "Cahombo")
+    @include('extra.centro.Malanje.Cahombo.index')
+    @elseif (Auth::user()->municipio == "Calandula")
+    @include('extra.centro.Malanje.Calandula.index')
+    @elseif (Auth::user()->municipio == "Cambundi-Catembo")
+    @include('extra.centro.Malanje.Cambundi_catembo.index')
+    @elseif (Auth::user()->municipio == "Cangandala")
+    @include('extra.centro.Malanje.Cangandala.index')
+    @elseif (Auth::user()->municipio == "Kiwaba-Nzoji")
+    @include('extra.centro.Malanje.Kiwaba_nzoji.index')
+    @elseif (Auth::user()->municipio == "Luquembo")
+    @include('extra.centro.Malanje.Luquembo.index')
+    @elseif (Auth::user()->municipio == "Malanje")
+    @include('extra.centro.Malanje.Malanje.index')
+    @elseif (Auth::user()->municipio == "Marimba")
+    @include('extra.centro.Malanje.Marimba.index')
+    @elseif (Auth::user()->municipio == "Massango")
+    @include('extra.centro.Malanje.Massango.index')
+    @elseif (Auth::user()->municipio == "Moxico")
+    @include('extra.centro.Malanje.Moxico.index')
+    @elseif (Auth::user()->municipio == "Mucari")
+    @include('extra.centro.Malanje.Mucari.index')
+    @elseif (Auth::user()->municipio == "Quela")
+    @include('extra.centro.Malanje.Quela.index')
+    @endif
+
+
 @elseif(Auth::user()->provincia == "Moxico")
 @include('extra.centro.Moxico.index')
 @elseif(Auth::user()->provincia == "Namibe")
