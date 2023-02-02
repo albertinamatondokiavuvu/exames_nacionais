@@ -3,7 +3,7 @@
         @isset($centros)
         <option>{{ $centros->nome_centro }}</option>
         @else
-        <option disabled selected>Selecione o o centro</option>
+        <option disabled selected>Selecione o centro</option>
         @endisset
 
 @if(Auth::user()->provincia == "Bengo")
@@ -14,21 +14,19 @@
 <option>Nambuangongo</option>
 <option>Bula Atumba</option>
 
-
-
-@if(Auth::user()->municipio == "Dande")
-@include('extra.centro.Bengo.Dande.index')
-@elseif (Auth::user()->municipio == "Bula Atumba")
-@include('extra.centro.Bengo.Bula_atumba.index')
-@elseif (Auth::user()->municipio == "Ambriz")
-@include('extra.centro.Bengo.Ambriz.index')
-@elseif (Auth::user()->municipio == "Pango Aluqém")
-@include('extra.centro.Bengo.pango_aluquem.index')
-@elseif (Auth::user()->municipio == "Dembos")
-@include('extra.centro.Bengo.Dembos.index')
-@elseif (Auth::user()->municipio == "Nambuangongo")
-@include('extra.centro.Bengo.nambuangongo.index')
-@endif
+    @if(Auth::user()->municipio == "Dande")
+    @include('extra.centro.Bengo.Dande.index')
+    @elseif (Auth::user()->municipio == "Bula Atumba")
+    @include('extra.centro.Bengo.Bula_atumba.index')
+    @elseif (Auth::user()->municipio == "Ambriz")
+    @include('extra.centro.Bengo.Ambriz.index')
+    @elseif (Auth::user()->municipio == "Pango Aluqém")
+    @include('extra.centro.Bengo.pango_aluquem.index')
+    @elseif (Auth::user()->municipio == "Dembos")
+    @include('extra.centro.Bengo.Dembos.index')
+    @elseif (Auth::user()->municipio == "Nambuangongo")
+    @include('extra.centro.Bengo.nambuangongo.index')
+    @endif
 @elseif(Auth::user()->provincia == "Benguela")
 
 
@@ -47,8 +45,54 @@
 @include('extra.centro.Cunene.index')
 @elseif(Auth::user()->provincia == "Huambo")
 @include('extra.centro.Huambo.index')
-@elseif(Auth::user()->provincia == "Huíla")
-@include('extra.centro.Huila.index')
+
+@if(Auth::user()->provincia == "Huila")
+<option>Caconda</option>
+<option>Cacula</option>
+<option>Caluquembe</option>
+<option>Chibia</option>
+<option>Chicomba</option>
+<option>Chipindo</option>
+<option>Cuvango</option>
+<option>Gambos</option>
+<option>Humpata</option>
+<option>Jamba</option>
+<option>Lombonjo</option>
+<option>Lubango</option>
+<option>Matala</option>
+<option>Quilembes</option>
+<option>Quipungo</option>
+
+    @if(Auth::user()->municipio == "Caconda")
+    @include('extra.centro.Huila.Caconda.index')
+    @elseif (Auth::user()->municipio == "Cacula")
+    @include('extra.centro.Huila.Cacula.index')
+    @elseif (Auth::user()->municipio == "Caluquembe")
+    @include('extra.centro.Huila.Caluquembe.index')
+    @elseif (Auth::user()->municipio == "Chibia")
+    @include('extra.centro.Huila.Chibia.index')
+    @elseif (Auth::user()->municipio == "Chicomba")
+    @include('extra.centro.Huila.Chicomba.index')
+    @elseif (Auth::user()->municipio == "Chipindo")
+    @include('extra.centro.Huila.Chipindo.index')
+    @elseif (Auth::user()->municipio == "Cuvango")
+    @include('extra.centro.Huila.Cuvango.index')
+    @elseif (Auth::user()->municipio == "Humpata")
+    @include('extra.centro.Huila.Humpata.index')
+    @elseif (Auth::user()->municipio == "Jamba")
+    @include('extra.centro.Huila.Jamba.index')
+    @elseif (Auth::user()->municipio == "Lombonjo")
+    @include('extra.centro.Huila.Lombonjo.index')
+    @elseif (Auth::user()->municipio == "Lubango")
+    @include('extra.centro.Huila.Lubango.index')
+    @elseif (Auth::user()->municipio == "Matala")
+    @include('extra.centro.Huila.Matala.index')
+    @elseif (Auth::user()->municipio == "Quilembes")
+    @include('extra.centro.Huila.Quilembes.index')
+    @elseif (Auth::user()->municipio == "Quipungo")
+    @include('extra.centro.Huila.Quipungo.index')
+    @endif
+
 @elseif(Auth::user()->provincia == "Luanda")
 @include('extra.centro.Luanda.index')
 @elseif(Auth::user()->provincia == "Lunda Norte")

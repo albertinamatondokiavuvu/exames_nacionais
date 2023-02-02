@@ -30,7 +30,7 @@
             @else
             <option disabled selected>Selecione o sexo</option>
             @endisset
-           @include('extra.deficiencias.index')
+           @include('extra.sexo.index')
         </select>
     </div>
 </div>
