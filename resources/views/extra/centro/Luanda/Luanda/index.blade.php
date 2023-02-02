@@ -231,4 +231,3 @@
 <option>Repartição De Educação Do Distrito Utbano Do Ngola Kiluanje</option>
 <option>Repartição De Educacao De K.Kiaxi </option>
 <option>Sec.Mun. Do Cacuaco - Admitidos Out. - 05</option>
-</option></option>
