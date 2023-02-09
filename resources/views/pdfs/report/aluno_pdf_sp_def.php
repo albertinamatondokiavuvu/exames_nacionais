@@ -13,7 +13,6 @@
 </head>
 
 <body>
-
     <img class="logotipo" src="images/logo.png" alt="" srcset="">
     <p class=" republica text-center">REPÚBLICA DE ANGOLA <br> MINISTÉRIO DA EDUCAÇÃO <br>INSTITUTO NACIONAL DE AVALIAÇÃO E DESENVOLVIMENTO DA EDUCAÇÃO</p>
     <div class="text-center">
