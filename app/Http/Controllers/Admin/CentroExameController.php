@@ -17,21 +17,23 @@ class CentroExameController extends Controller
     {
         $mensagens = [
             'required' => 'O :attribute é obrigatório!',
-            'nome_centro.min' => 'É necessário no mínimo 9 caracteres no nome!',
-            'nome_centro.max' => 'É necessário no máximo 9 caracteres no nome!',
         ];
         $request->validate(
             [
-                'nome_centro' => 'required|max:5|min:1',
+                'nome_centro' => 'required',
             ],
             $mensagens
         );
-
+try{
         CentroExame::create([
             'nome_centro' => $request->nome_centro,
             'provincia' => Auth::user()->provincia,
             'municipio' => Auth::user()->municipio,
         ]);
+        return redirect()->back()->with('status_add', '1');
+    } catch (\Exception $exceptio) {
+        return redirect()->back()->with('status_error', '1');
+    }
     }
     public function centro_index()
     {
@@ -41,8 +43,13 @@ class CentroExameController extends Controller
  //coisas gerais
  public function delete_centro($id)
  {
+    try{
      $centros = CentroExame::findOrFail($id);
      $centros->delete();
+    } catch (\Exception $exceptio) {
+        return redirect()->back()->with('status_error', '1');
+    }
+
  }
 
 }
