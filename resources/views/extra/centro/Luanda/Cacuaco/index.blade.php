@@ -1,9 +1,9 @@
 <option>Cuito</option>
 <option>Colégio N. 4047</option>
-Colégio N. 4078 - Padre Ernesto</option>
-Colégio Pública N. 4010 - Cacuaco</option>
-Colégio Público N. 4027 - Cacuaco</option>
-Colégio Público N. 4082 - Cacuaco</option>
+<option>Colégio N. 4078 - Padre Ernesto</option>
+<option>Colégio Pública N. 4010 - Cacuaco</option>
+<option>Colégio Público N. 4027 - Cacuaco</option>
+<option>Colégio Público N. 4082 - Cacuaco</option>
 <option>Complexo Escolar N. 4001 - Cacuaco</option>
 <option>Complexo Escolar N. 4005 - Cacuaco</option>
 <option>Complexo Escolar N. 4006 - Cacuaco</option>
@@ -32,8 +32,8 @@ Colégio Público N. 4082 - Cacuaco</option>
 <option>Escola I Ciclo Do Ensino Secundário Nº 4093 - Cacuaco</option>
 <option>Escola Prim. E Iº Ciclo Nº 4061</option>
 <option>Escola Prim. E Iº Ciclo Nº 4065</option>
-<option>Escola Primária  Nº 4017 Cacuaco</option> 
-<option>Escola Primária E Iº Ciclo Do Ensino Secundário Nº 4020- Cacuaco</option> 
+<option>Escola Primária  Nº 4017 Cacuaco</option>
+<option>Escola Primária E Iº Ciclo Do Ensino Secundário Nº 4020- Cacuaco</option>
 <option>Escola Primária N. 4003 Cacuaco</option>
 <option>Escola Primária N. 4004 Cacuaco</option>
 <option>Escola Primária N. 4008 - Cacuaco</option>

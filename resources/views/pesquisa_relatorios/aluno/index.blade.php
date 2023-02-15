@@ -6,6 +6,7 @@
   margin: 0 auto;
 }
 </style>
+
 <div class="col-md-8 center">
     <div class="card">
       <div class="card-body">
@@ -13,41 +14,41 @@
         @include('extra.errorInputs.index')
         <form class="forms-sample" method="POST" action="{{ route('store_dc') }}">
             @csrf
-            <div class="form-group col-md-3">
-                <label for="municipio" class="form-label">centroExame de exames</label>
-                <select name="municipio" id="municipio" class="form-control">
-                    <option value="Todos">Todos</option>
-                    @foreach ($utilizadores as $utilizadores)
-                    <option value="{{ $utilizadores->instituicao}}">
-                        {{ $utilizadores->instituicao }}
-                    </option>
-                    @endforeach
-                </select>
+            <div class="mb-3">
 
+                <select name="provincia" id="provincia" class="form-control">
+                    <option value="" disabled selected>Selecione a província</option>
+                    <option value="Todos">Todos</option>
+
+                </select>
             </div>
-            <div class="form-group col-md-3">
-                <label for="vc_nome" class="form-label">Turma</label>
-                <select name="vc_nome" id="vc_nome" class="form-control">
-                    <option value="Todos">Todos</option>
-                    @foreach ($utilizadores as $provincia)
-                    <option value="{{ $provincia->provincia}}">
-                        {{ $provincia->provincia }}
-                    </option>
-                    @endforeach
-                </select>
+            <div class="row g-3 mb-3">
 
-            </div>
-            <div class="form-group col-md-3">
-                <label for="municipio" class="form-label">Classe</label>
+
+                <div class="col-sm">
+
                 <select name="municipio" id="municipio" class="form-control">
+                    <option value="" disabled selected>Selecione o município</option>
                     <option value="Todos">Todos</option>
-                    @foreach ($utilizador as $municipio)
-                    <option value="{{ $municipio->municipio}}">
-                        {{ $municipio->municipio }}
-                    </option>
-                    @endforeach
-                </select>
 
+                </select>
+                </div>
+                <div class="col-sm">
+
+                <select name="centro" id="centro" class="form-control">
+                    <option value="" disabled selected>Selecione o centro de exame</option>
+                    <option value="Todos">Todos</option>
+
+                </select>
+                </div>
+            </div>
+            <div class="mb-3">
+
+                <select name="turma" id="turma" class="form-control">
+                    <option value="" disabled selected>Selecione a classe | turma</option>
+                    <option value="Todos">Todos</option>
+
+                </select>
             </div>
           <a target="_blank" type="submit" class="btn btn-primary mr-2">Imprimir</a>
         </form>

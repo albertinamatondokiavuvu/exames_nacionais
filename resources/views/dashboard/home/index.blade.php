@@ -14,7 +14,7 @@
                                 <p class="mb-2 text-md-center text-lg-left">Total de Alunos</p>
                                 <h1 class="mb-0">{{ $total_alunos }}</h1>
                             </div>
-                            <a href="" target="_blank" class="btn btn-primary">Imprimir</a>
+                            <a href="{{ route('aluno_centroAdmin') }}"  class="btn btn-primary">Imprimir</a>
                         </div>
                     </div>
                 </div>

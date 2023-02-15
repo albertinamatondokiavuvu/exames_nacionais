@@ -68,6 +68,10 @@ class ReportController extends Controller
         $mpdf->writeHTML($html);
         $mpdf->Output("directores_de_centroExames.pdf", "I");
     }
+    public function aluno_centroAdmin()
+    {
+       return view('pesquisa_relatorios.aluno.index');
+    }
 
 
     //Dp
@@ -183,4 +187,12 @@ class ReportController extends Controller
 
 
     //V
+
+
+
+
+
+
+
+
 }

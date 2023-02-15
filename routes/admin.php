@@ -93,7 +93,7 @@ Route::middleware('auth')->group(function () {
  Route::get('/DP_PDF',[ReportController::class,'DP_PDF'])->name('DP_PDF');
  Route::get('/DM_PDF',[ReportController::class,'DM_PDF'])->name('DM_PDF');
  Route::get('/DC_PDF',[ReportController::class,'DC_PDF'])->name('DC_PDF');
-
+ Route::get('/aluno_centroAdmin',[ReportController::class,'aluno_centroAdmin'])->name('aluno_centroAdmin');
  //relatorios directores provinciais
  Route::get('/DM_PDF_DP',[ReportController::class,'DM_PDF_DP'])->name('DM_PDF_DP');
  Route::get('/DC_PDF_DP',[ReportController::class,'DC_PDF_DP'])->name('DC_PDF_DP');
