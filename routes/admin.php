@@ -102,10 +102,12 @@ Route::middleware('auth')->group(function () {
  Route::get('/DC_PDF_DM',[ReportController::class,'DC_PDF_DM'])->name('DC_PDF_DM');
 
  //relatorios directores de centroExames
-
+ Route::get('/sp_dc_report',[ReportController::class,'sp_dc_report'])->name('sp_dc_report');
+ Route::get('/v_dc_report',[ReportController::class,'v_dc_report'])->name('v_dc_report');
  //relatorios de supervisores
  Route::get('/Aluno_pdf_sp',[ReportController::class,'Aluno_pdf_sp'])->name('Aluno_pdf_sp');
  Route::get('/Aluno_pdf_sp_def',[ReportController::class,'Aluno_pdf_sp_def'])->name('Aluno_pdf_sp_def');
+
  //relatorios de vigilantes
 
 
@@ -113,4 +115,8 @@ Route::middleware('auth')->group(function () {
  //END RELATORIOS
 
 
+ //alunos na visao do vigilante
+ Route::post('/prova_update/{id}',[AlunoController::class,'prova_update'])->name('prova_update');
+ Route::post('/resposta_update/{id}',[AlunoController::class,'resposta_update'])->name('resposta_update');
+ Route::get('/V_aluno',[AlunoController::class,'V_aluno'])->name('V_aluno');
 });

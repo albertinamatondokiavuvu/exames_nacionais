@@ -12,7 +12,7 @@
       <div class="card-body">
         <h4 class="card-title">Pesquisar alunos</h4>
         @include('extra.errorInputs.index')
-        <form class="forms-sample" method="POST" action="{{ route('store_dc') }}">
+        <form class="forms-sample" method="POST" action="">
             @csrf
             <div class="mb-3">
 

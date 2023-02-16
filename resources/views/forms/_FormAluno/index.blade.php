@@ -9,7 +9,7 @@
         <input type="date" name="data_nasc" class="form-control" id="setting-input-1" placeholder="Data de Nascimento" required>
     </div>
     <div class="col-sm">
-        <select name="sexo" value="{{ isset($alunos->sexo) ? $alunos->sexo : '' }}" class="form-control" id="">
+        <select name="sexo" value="{{ isset($alunos->sexo) ? $alunos->sexo : '' }}" class="form-control multiplo" id="">
 
             @isset($alunos)
             <option>{{ $alunos->sexo }}</option>
@@ -22,7 +22,7 @@
     </div>
 </div>
 <div class="mb-3">
-    <select name="turma_id"  class="form-control" id="">
+    <select  name="turma_id"  class="form-control multiplo" id="">
 
         @isset($alunos)
         <option value="{{ $alunos->turma_id }}" ></option>
@@ -43,7 +43,7 @@
         <input type="text" name="escola_prov" value="{{ isset($alunos->escola_proveniencia) ? $alunos->escola_proveniencia : '' }}" class="form-control" id="setting-input-1" placeholder="Escola de Proveniência" required>
     </div>
     <div class="col-sm">
-        <select name="deficiencia" class="form-control" id="">
+        <select name="deficiencia" class="form-control multiplo" id="">
 
             @isset($alunos)
             <option>{{ $alunos->deficiencia }}</option>

@@ -3,6 +3,7 @@
 namespace App\Http\Controllers\Admin;
 
 use App\Http\Controllers\Controller;
+use App\Models\CentroExame;
 use App\Models\User;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Hash;
@@ -187,7 +188,8 @@ class UserController extends Controller
     //DC
     public function user_add_dc()
     {
-        return view('dashboard.Users.DC.create.index');
+        $centros = CentroExame::where([['provincia','=',Auth::user()->provincia],['municipio','=',Auth::user()->municipio]])->get();
+        return view('dashboard.Users.DC.create.index', compact('centros'));
     }
     public function store_dc(Request $request)
     {

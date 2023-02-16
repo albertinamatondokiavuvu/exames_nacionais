@@ -85,11 +85,11 @@
                     <div class="collapse" id="relat">
                         <ul class="nav flex-column sub-menu">
                             <li class="nav-item"> <a target="_blank" class="nav-link"
-                                    href="{{ route('DP_PDF') }}">Diectores Provinciais</a></li>
+                                    href="{{ route('DP_PDF') }}">Directores Provinciais</a></li>
                             <li class="nav-item"> <a target="_blank" class="nav-link"
                                     href="{{ route('DM_PDF') }}">Directores Municipais</a></li>
                             <li class="nav-item"> <a target="_blank" class="nav-link"
-                                    href="{{ route('DC_PDF') }}">Directores de centroExames</a></li>
+                                    href="{{ route('DC_PDF') }}">Directores de centros</a></li>
                         </ul>
                     </div>
                 </li>
@@ -123,21 +123,7 @@
                     </div>
                 </li>
             @elseif(Auth::user()->tipo_user == 'DM')
-                <li class="nav-item">
-                    <a class="nav-link" data-toggle="collapse" href="#utilizador" aria-expanded="false"
-                        aria-controls="utilizador">
-                        <i class="typcn typcn-document-text menu-icon"></i>
-                        <span class="menu-title">Utilizador</span>
-                        <i class="menu-arrow"></i>
-                    </a>
-                    <div class="collapse" id="utilizador">
-                        <ul class="nav flex-column sub-menu">
-                            <li class="nav-item"> <a class="nav-link"
-                                    href="{{ route('user_add_dc') }}">Cadastrar</a></li>
-                            <li class="nav-item"> <a class="nav-link" href="{{ route('index_dc') }}">Listar</a></li>
-                        </ul>
-                    </div>
-                </li>
+
 
                 <li class="nav-item">
                     <a class="nav-link" data-toggle="collapse" href="#centroExame_exame" aria-expanded="false"
@@ -152,6 +138,21 @@
                             </li>
                             <li class="nav-item"> <a class="nav-link" href="{{ route('centro_index') }}">Listar</a>
                             </li>
+                        </ul>
+                    </div>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" data-toggle="collapse" href="#utilizador" aria-expanded="false"
+                        aria-controls="utilizador">
+                        <i class="typcn typcn-document-text menu-icon"></i>
+                        <span class="menu-title">Utilizador</span>
+                        <i class="menu-arrow"></i>
+                    </a>
+                    <div class="collapse" id="utilizador">
+                        <ul class="nav flex-column sub-menu">
+                            <li class="nav-item"> <a class="nav-link"
+                                    href="{{ route('user_add_dc') }}">Cadastrar</a></li>
+                            <li class="nav-item"> <a class="nav-link" href="{{ route('index_dc') }}">Listar</a></li>
                         </ul>
                     </div>
                 </li>
@@ -215,7 +216,7 @@
                     </a>
                     <div class="collapse" id="ui-basic">
                         <ul class="nav flex-column sub-menu">
-                            <li class="nav-item"> <a class="nav-link" href="">Listar</a></li>
+                            <li class="nav-item"> <a class="nav-link" href="{{ route('V_aluno') }}">Listar</a></li>
                         </ul>
                     </div>
                 </li>

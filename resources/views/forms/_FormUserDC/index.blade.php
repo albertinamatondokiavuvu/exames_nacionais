@@ -14,8 +14,17 @@
     </div>
 </div>
 <div class=" mb-3">
-    <input type="text" name="instituicao"   value="{{ isset($users->instituicao) ? $users->instituicao : '' }}"class="form-control" id="setting-input-1"
-        placeholder="instituicao" required>
+        <select name="instituicao" id="" class="form-control multiplo">
+            @isset($users->instituicao)
+            <option hidden style="color: green" selected value="{{ $users->instituicao }}"></option>
+            @else
+                <option selected disabled>Selecione o centro de exame</option>
+            @endisset
+            @foreach ($centros as $centros )
+            <option value="{{ $centros->nome_centro }}" >{{ $centros->nome_centro }}</option>
+            @endforeach
+
+           </select>
 </div>
 @isset($users)
 @else

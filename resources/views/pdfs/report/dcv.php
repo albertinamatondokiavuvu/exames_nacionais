@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
 
-    <title>Relatório de Alunos Deficientes</title>
+    <title>Relatório de Vigilantes de Exames</title>
     <style>
         <?php echo $bootstrap;
         echo $css;
@@ -13,41 +13,39 @@
 </head>
 
 <body>
+
     <img class="logotipo" src="images/logo.png" alt="" srcset="">
     <p class=" republica text-center">REPÚBLICA DE ANGOLA <br> MINISTÉRIO DA EDUCAÇÃO <br>INSTITUTO NACIONAL DE AVALIAÇÃO E DESENVOLVIMENTO DA EDUCAÇÃO</p>
     <div class="text-center">
-        <h1 class="text-primary" style="margin-top: 100px; margin-bottom: 50px;" > LISTA DE ALUNOS COM DEFICIÊNCIAS DO CENTRO DE EXAME <span style="text-transform:uppercase;"><?php
+        <h1 class="text-primary" style="margin-top: 100px; margin-bottom: 50px;" > LISTA DE VIGILANTES DO CENTROS DE EXAMES <span style="text-transform:uppercase;"><?php
         use Illuminate\Support\Facades\Auth;
        echo Auth::user()->instituicao; ?></span></h1>
     </div>
     <table  class=" table">
         <thead >
-            <tr>
+            <tr >
                 <th style="height:30px; width:20px;"  class="text-center" >Nº</th>
-                <th class="text-center">Nome</th>
-                <th class="text-center">Sexo</th>
-                <th class="text-center">Data de nascimento</th>
-                <th class="text-center">Turma</th>
-                <th class="text-center">Classe</th>
-                <th class="text-center">Escola de Proveniencia</th>
-                <th class="text-center">Tipo de Deficiência</th>
+                <th  class="text-center" >Nome</th>
+                <th  class="text-center" >Email</th>
+                <th class="text-center">Telefone</th>
+                <th class="text-center">Provincia</th>
+                <th class="text-center">Municipio</th>
 
             </tr>
         </thead>
         <tbody>
 
             <?php $contador = 1; ?>
-            <?php foreach ($alunos as $test) : ?>
+            <?php foreach ($users as $users) : ?>
 
                 <tr >
                     <td style="height:25px" class="text-center"><?php echo $contador++; ?></td>
-                    <td class="text-center"><?php echo $test->nome_aluno;?></td>
-                    <td class="text-center"><?php echo $test->sexo;?></td>
-                    <td class="text-center"><?php echo $test->data_nasc;?></td>
-                    <td class="text-center"><?php echo $test->nome_turma;?></td>
-                    <td class="text-center"><?php echo $test->nome_classe;?></td>
-                    <td class="text-center"><?php echo $test->escola_proveniencia;?></td>
-                    <td class="text-center"><?php echo $test->deficiencia;?></td>
+                    <td  class="text-center"><?php echo $users->name ?></td>
+                    <td  class="text-center"><?php echo $users->email ?></td>
+                    <td  class="text-center"><?php echo $users->telefone ?></td>
+                    <td  class="text-center"><?php echo $users->provincia ?></td>
+                    <td  class="text-center"><?php echo $users->municipio ?></td>
+                </tr>
 
             <?php endforeach; ?>
 

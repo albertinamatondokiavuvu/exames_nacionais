@@ -1,11 +1,26 @@
 </div>
+<style>
+.form-control{
+    border-color: rgb(59, 58, 58) !important;
+}
+    .select2-selection__rendered {
+    line-height: 31px !important;
+}
+.select2-container .select2-selection--single {
+    height: 50px !important;
+}
+.select2-selection__arrow {
+    height: 34px !important;
+}
+
+</style>
 <!-- content-wrapper ends -->
 <!-- partial:partials/_footer.html -->
 <footer class="footer">
     <div class="card">
         <div class="card-body">
             <div class="d-sm-flex justify-content-center justify-content-sm-between">
-                <span class="text-muted text-center text-sm-left d-block d-sm-inline-block">Copyright © 2020.</span>
+                <span class="text-muted text-center text-sm-left d-block d-sm-inline-block">Copyright © 2023.</span>
             </div>
         </div>
     </div>
@@ -37,6 +52,18 @@
 <!-- Custom js for this page-->
 <script src="/template/js/dashboard.js"></script>
 <!-- End custom js for this page-->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.5/css/select2.css" rel="stylesheet"/>
+                <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.5/js/i18n/pt-BR.js"></script>
+                <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.5/js/select2.js"></script>
+<script>
+    $(document).ready(function() {
+    $('.multiplo').select2({
+        width: 'resolve',
+
+    });
+});
+</script>
 <script>
     $(document).ready(function() {
         //start delete

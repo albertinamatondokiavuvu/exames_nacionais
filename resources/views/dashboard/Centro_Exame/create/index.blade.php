@@ -11,7 +11,7 @@
       <div class="card-body">
         <h4 class="card-title">Centros de Exames</h4>
         @include('extra.errorInputs.index')
-        <form class="forms-sample" method="POST" action="{{ route('centro_store') }}">
+        <form class="" method="POST" action="{{ route('centro_store') }}">
             @csrf
           @include('forms._FormCentroExame.index')
 

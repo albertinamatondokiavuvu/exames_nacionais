@@ -136,7 +136,44 @@ class ReportController extends Controller
     }
 
     //DC
+public function sp_dc_report()
+{
+    $users= User::Where([['tipo_user','=','SP'],['municipio','=',Auth::user()->municipio],['instituicao','=',Auth::user()->instituicao]])->orderByRaw("provincia ASC,municipio ASC ,instituicao ASC,name ASC")->get();
 
+    $data['users']=$users;
+    $data["bootstrap"] = file_get_contents("src/users/bootstrap.min.css");
+    $data["css"] = file_get_contents("src/users/style.css");
+    $mpdf = new \Mpdf\Mpdf([
+        'mode' => 'utf-8', 'margin_top' => 17,
+        'margin_left' => 10,
+        'margin_right' => 10, 'margin_bottom' => 0, 'format' => [297, 210]
+    ]);
+    $mpdf->SetFont("arial");
+    $mpdf->setHeader();
+    $mpdf->AddPage('L');
+    $html = view("pdfs/report/dcsp", $data);
+    $mpdf->writeHTML($html);
+    $mpdf->Output("Secretarios.pdf", "I");
+}
+public function v_dc_report()
+{
+    $users= User::Where([['tipo_user','=','V'],['municipio','=',Auth::user()->municipio],['instituicao','=',Auth::user()->instituicao]])->orderByRaw("provincia ASC,municipio ASC ,instituicao ASC,name ASC")->get();
+
+    $data['users']=$users;
+    $data["bootstrap"] = file_get_contents("src/users/bootstrap.min.css");
+    $data["css"] = file_get_contents("src/users/style.css");
+    $mpdf = new \Mpdf\Mpdf([
+        'mode' => 'utf-8', 'margin_top' => 17,
+        'margin_left' => 10,
+        'margin_right' => 10, 'margin_bottom' => 0, 'format' => [297, 210]
+    ]);
+    $mpdf->SetFont("arial");
+    $mpdf->setHeader();
+    $mpdf->AddPage('L');
+    $html = view("pdfs/report/dcv", $data);
+    $mpdf->writeHTML($html);
+    $mpdf->Output("Vigilantes.pdf", "I");
+}
     //SP
     public function Aluno_pdf_sp()
     {

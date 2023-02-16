@@ -29,6 +29,49 @@ class HomeController extends Controller
      */
     public function index()
     {
+
+//dm
+$centro_aluno =  DB::table('alunos')
+->join('turmas', 'turmas.id', 'alunos.turma_id')
+->join('classes', 'classes.id', 'turmas.classe_id')
+->where([['municipio', '=', Auth::user()->municipio]])
+->selectRaw('centroexame as centro3,COUNT(*) as count')->groupBy('centro3')->get();
+
+
+    $centro3 = json_encode($centro_aluno->pluck('centro3'));
+    $total_aluno = json_encode($centro_aluno->pluck('count'));
+
+
+$centro_sp= User::where([['tipo_user','=','SP'],['municipio', '=', Auth::user()->municipio]])
+->selectRaw('instituicao as sp_centro,COUNT(*) as count')->groupBy('sp_centro')->get();
+
+
+    $sp_centro =json_encode($centro_sp->pluck('sp_centro'));
+    $total_sp = json_encode($centro_sp->pluck('count'));
+
+$centro_v= User::where([['tipo_user','=','SP'],['municipio', '=', Auth::user()->municipio]])
+->selectRaw('instituicao as v_centro,COUNT(*) as count')->groupBy('v_centro')->get();
+
+
+    $v_centro =json_encode($centro_v->pluck('v_centro'));
+    $total_v = json_encode($centro_v->pluck('count'));
+
+
+        //V
+        $tes = Aluno::get();
+        $ano = Aluno::selectRaw('YEAR(created_at) as year,COUNT(*) as count')->groupBy('year')->get();
+
+        $data = [
+            'year' => json_encode($ano->pluck('year')),
+            'user' => json_encode($ano->pluck('count')),
+        ];
+        $data['masculino']=0;
+        $data['feminino']=0;
+      foreach($tes as $teb)
+       {
+        $data['feminino'] = Aluno::where('sexo','=','Feminino')->count();
+        $data['masculino'] = Aluno::where('sexo','=','Masculino')->count();
+       }
         //admin
         $data['total_alunos'] = Aluno::count();
         $data['total_centroexame'] = CentroExame::count();
@@ -49,16 +92,17 @@ $data['ac']= DB::table('alunos')
 $data['sp_dc'] =User::where([['tipo_user','=','SP'],['instituicao','=',Auth::user()->instituicao]])->count();
 $data['v_dc'] =User::where([['tipo_user','=','V'],['instituicao','=',Auth::user()->instituicao]])->count();
 
-        $data['alunos'] = DB::table('alunos')
-        ->join('turmas','turmas.id','alunos.turma_id')
-        ->join('classes','classes.id','turmas.classe_id')
-        ->where([['centroexame','=',Auth::user()->instituicao]])
-        ->count();
-        $data['defAluno'] = DB::table('alunos')
-        ->join('turmas','turmas.id','alunos.turma_id')
-        ->join('classes','classes.id','turmas.classe_id')
-        ->where([['centroexame','=',Auth::user()->instituicao],['deficiencia','!=','Nenhum']])
-        ->count();
-        return view('dashboard.home.index',$data);
+
+       $data['alunos'] = DB::table('alunos')
+       ->join('turmas','turmas.id','alunos.turma_id')
+       ->join('classes','classes.id','turmas.classe_id')
+       ->where([['centroexame','=',Auth::user()->instituicao]])
+       ->count();
+       $data['defAluno'] = DB::table('alunos')
+       ->join('turmas','turmas.id','alunos.turma_id')
+       ->join('classes','classes.id','turmas.classe_id')
+       ->where([['centroexame','=',Auth::user()->instituicao],['deficiencia','!=','Nenhum']])
+       ->count();
+        return view('dashboard.home.index',compact('centro3','total_aluno','sp_centro','total_sp','v_centro','total_v'),$data);
     }
 }

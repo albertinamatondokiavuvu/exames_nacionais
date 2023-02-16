@@ -1,5 +1,5 @@
 <div class="mb-3">
-    <select name="nome_centro" class="form-control" id="">
+    <select name="nome_centro" class="form-control multiplo" id="">
         @isset($centros)
             <option>{{ $centros->nome_centro }}</option>
         @else
@@ -215,27 +215,27 @@
                 @include('extra.centro.Huila.Quipungo.index')
             @endif
         @elseif(Auth::user()->provincia == 'Luanda')
-            @if (Auth::user()->municipio == 'BELAS')
+            @if (Auth::user()->municipio == 'Belas')
                 @include('extra.centro.Luanda.Belas.index')
-            @elseif (Auth::user()->municipio == 'CACUACO')
+            @elseif (Auth::user()->municipio == 'Cacuaco')
                 @include('extra.centro.Luanda.Cacuaco.index')
-            @elseif (Auth::user()->municipio == 'CAZENGA')
+            @elseif (Auth::user()->municipio == 'Cazenga')
                 @include('extra.centro.Luanda.Cazenga.index')
-            @elseif (Auth::user()->municipio == 'ESTRUTURA CENTRAL')
+            @elseif (Auth::user()->municipio == 'Estrutura Central')
                 @include('extra.centro.Luanda.Estrutura_central.index')
-            @elseif (Auth::user()->municipio == 'ICOLO E BENGO')
+            @elseif (Auth::user()->municipio == 'Icolo e Bengo')
                 @include('extra.centro.Luanda.Icolo_e_bengo.index')
-            @elseif (Auth::user()->municipio == 'KILAMBA KIAXI')
+            @elseif (Auth::user()->municipio == 'Kilamba Kiaxi')
                 @include('extra.centro.Luanda.Kilamba_kiaxi.index')
-            @elseif (Auth::user()->municipio == 'LUANDA')
+            @elseif (Auth::user()->municipio == 'Luanda')
                 @include('extra.centro.Luanda.Luanda.index')
-            @elseif (Auth::user()->municipio == 'QUIÇAMA')
+            @elseif (Auth::user()->municipio == 'Quiçama')
                 @include('extra.centro.Luanda.Quicama.index')
-            @elseif (Auth::user()->municipio == 'RANGEL')
+            @elseif (Auth::user()->municipio == 'Rangel')
                 @include('extra.centro.Luanda.Rangel.index')
-            @elseif (Auth::user()->municipio == 'TALATONA')
+            @elseif (Auth::user()->municipio == 'Talatona')
                 @include('extra.centro.Luanda.Talatona.index')
-            @elseif (Auth::user()->municipio == 'VIANA')
+            @elseif (Auth::user()->municipio == 'Viana')
                 @include('extra.centro.Luanda.Viana.index')
             @endif
         @elseif(Auth::user()->provincia == 'Lunda-Norte')

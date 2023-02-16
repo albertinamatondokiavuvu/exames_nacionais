@@ -1,10 +1,10 @@
 @extends('layouts._includes.dashboard.Header')
-@section('title','Listar Supervisores e Vigilantes')
+@section('title','Listar Secretários e Vigilantes')
 @section('content')
 <div class="col-lg-12 grid-margin stretch-card">
     <div class="card">
       <div class="card-body">
-        <h4 class="card-title">Listar Supervisores e Vigilantes</h4>
+        <h4 class="card-title">Listar Secretários e Vigilantes</h4>
 
         <div class="table-responsive">
           <table id="table_id" class="table table-hover">
@@ -25,7 +25,7 @@
                     <td class="text-center">{{ $users->email }}</td>
                     <td class="text-center">{{ $users->telefone }}</td>
                     @if($users->tipo_user == "SP")
-                    <td class="text-center">Supervisor</td>
+                    <td class="text-center">Secretários</td>
                     @else
                     <td class="text-center">Vigilante</td>
                     @endif
