@@ -323,6 +323,16 @@
     @include('extra.centro.Malanje.Quela.index')
     @endif
 
+    ALTO ZAMBEZE
+    BUNDAS
+    CAMANONGUE
+    CAMEIA
+    LÉUA
+    LUACANO
+    LUAU
+    LUCHAZES
+    MOXICO
+    
 
 @elseif(Auth::user()->provincia == "Moxico")
 @include('extra.centro.Moxico.index')
