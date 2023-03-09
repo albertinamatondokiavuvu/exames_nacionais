@@ -16,9 +16,10 @@
             @csrf
             <div class="mb-3">
 
-                <select name="provincia" id="provincia" class="form-control">
+                <select name="provincia" id="provincia" class="form-control multiplo">
                     <option value="" disabled selected>Selecione a província</option>
                     <option value="Todos">Todos</option>
+                    @include('extra.provincias.index')
 
                 </select>
             </div>
@@ -27,7 +28,7 @@
 
                 <div class="col-sm">
 
-                <select name="municipio" id="municipio" class="form-control">
+                <select name="municipio " id="municipio" class="form-control multiplo">
                     <option value="" disabled selected>Selecione o município</option>
                     <option value="Todos">Todos</option>
 
@@ -35,7 +36,7 @@
                 </div>
                 <div class="col-sm">
 
-                <select name="centro" id="centro" class="form-control">
+                <select name="centro" id="centro" class="form-control multiplo">
                     <option value="" disabled selected>Selecione o centro de exame</option>
                     <option value="Todos">Todos</option>
 
@@ -44,7 +45,7 @@
             </div>
             <div class="mb-3">
 
-                <select name="turma" id="turma" class="form-control">
+                <select name="turma" id="turma" class="form-control multiplo">
                     <option value="" disabled selected>Selecione a classe | turma</option>
                     <option value="Todos">Todos</option>
 

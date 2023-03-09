@@ -31,7 +31,7 @@ class UserController extends Controller
         ];
         $request->validate(
             [
-                'name' => 'required|max:255|min:4',
+                'name' => 'required',
                 'email' => 'required|email|unique:users',
                 'provincia' => 'required',
                 'telefone' => 'required|min:9|max:9|unique:users',
@@ -73,7 +73,7 @@ class UserController extends Controller
         ];
         $request->validate(
             [
-                'name' => 'required|max:255|min:4',
+                'name' => 'required',
                 'email' => 'email',
                 'provincia' => 'required',
                 'telefone' => 'required|min:9|max:9',
@@ -118,7 +118,7 @@ class UserController extends Controller
         ];
         $request->validate(
             [
-                'name' => 'required|max:255|min:4',
+                'name' => 'required',
                 'email' => 'required|email|unique:users',
                 'municipio' => 'required',
                 'telefone' => 'required|min:9|max:9|unique:users',
@@ -160,10 +160,10 @@ class UserController extends Controller
         ];
         $request->validate(
             [
-                'name' => 'required|max:255|min:4',
-                'email' => 'required|email|unique:users',
+                'name' => 'required',
+                'email' => 'required|email',
                 'municipio' => 'required',
-                'telefone' => 'required|min:9|max:9|unique:users',
+                'telefone' => 'required|min:9|max:9',
             ],
             $mensagens
         );
@@ -205,7 +205,7 @@ class UserController extends Controller
         ];
         $request->validate(
             [
-                'name' => 'required|max:255|min:4',
+                'name' => 'required',
                 'email' => 'required|email|unique:users',
                 'instituicao' => 'required',
                 'telefone' => 'required|min:9|max:9|unique:users',
@@ -232,7 +232,8 @@ class UserController extends Controller
     public function user_edit_dc($id)
     {
         $users = User::find($id);
-        return view('dashboard.Users.DC.edit.index', compact('users'));
+        $centros = CentroExame::where([['provincia','=',Auth::user()->provincia],['municipio','=',Auth::user()->municipio]])->get();
+        return view('dashboard.Users.DC.edit.index', compact('users','centros'));
     }
     public function update_dc(Request $request, $id)
     {
@@ -248,10 +249,10 @@ class UserController extends Controller
         ];
         $request->validate(
             [
-                'name' => 'required|max:255|min:4',
-                'email' => 'required|email|unique:users',
+                'name' => 'required',
+                'email' => 'required|email',
                 'instituicao' => 'required',
-                'telefone' => 'required|min:9|max:9|unique:users',
+                'telefone' => 'required|min:9|max:9',
             ],
             $mensagens
         );
@@ -292,7 +293,7 @@ class UserController extends Controller
         ];
         $request->validate(
             [
-                'name' => 'required|max:255|min:4',
+                'name' => 'required',
                 'email' => 'required|email|unique:users',
                 'telefone' => 'required|min:9|max:9|unique:users',
                 'tipo_user' => 'required',
@@ -336,11 +337,10 @@ class UserController extends Controller
         ];
         $request->validate(
             [
-                'name' => 'required|max:255|min:4',
-                'email' => 'required|email|unique:users',
+                'name' => 'required',
+                'email' => 'required|email',
                 'tipo_user' => 'required',
-                'instituicao' => 'required',
-                'telefone' => 'required|min:9|max:9|unique:users',
+                'telefone' => 'required|min:9|max:9',
             ],
             $mensagens
         );

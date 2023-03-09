@@ -15,7 +15,7 @@
 <body>
 
     <img class="logotipo" src="images/logo.png" alt="" srcset="">
-    <p class=" republica text-center">REPÚBLICA DE ANGOLA <br> MINISTÉRIO DA EDUCAÇÃO <br>INSTITUTO NACIONAL DE AVALIAÇÃO E DESENVOLVIMENTO DA EDUCAÇÃO</p>
+    <p class=" republica text-center">REPÚBLICA DE ANGOLA <br> MINISTÉRIO DA EDUCAÇÃO <br>INSTITUTO NACIONAL DE AVALIAÇÃO E DESENVOLVIMENTO DA EDUCAÇÃO<br> <?php echo date("d-m-Y");?></p>
     <div class="text-center">
         <h1 class="text-primary" style="margin-top: 100px; margin-bottom: 50px;" > LISTA DE SECRETÁRIOS DO CENTROS DE EXAMES <span style="text-transform:uppercase;"><?php
         use Illuminate\Support\Facades\Auth;
@@ -56,14 +56,8 @@
 
 
 
-    <div style="margin-top:57%; margin-left:50%;">
-    <p style="text-align:center;padding-top:20px;">O Director Geral<br>______________________________</p>
-    <p style="text-align:center;">Diassala Jacinto André</p>
-    </div>
-    <p style="text-align:center;">Luanda <?php
-    setlocale(LC_TIME, 'pt_BR', 'pt_BR.utf-8', 'pt_BR.utf-8', 'portuguese');
-    date_default_timezone_set('America/Sao_Paulo');
-    echo strftime(' %d de %B de %Y', strtotime('today')); ?></p>
+
+
 </body>
 
 </html>

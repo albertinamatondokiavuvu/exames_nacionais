@@ -27,7 +27,7 @@ class CreateAlunosTable extends Migration
             $table->string('municipio')->nullable();
             $table->foreignId('turma_id')
             ->constrained()
-            ->onDelete('cascade');
+            ->onDelete('cascade')->onUpdate('cascade');
             $table->timestamps();
         });
     }

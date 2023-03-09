@@ -33,17 +33,20 @@ class AlunoController extends Controller
             [
                 'deficiencia' => 'required',
                 'nome_aluno' => 'required',
-                'data_nasc' => 'required'
+                'data_nasc' => 'required',
+                'escola_proveniencia' =>'required',
+                'turma_id' =>'required',
+                'sexo' =>'required',
             ],
             $mensagens
         );
         $alunos = DB::table('turmas')
             ->join('alunos', 'turmas.id', 'alunos.turma_id')
-            ->select('turmas.*')->where([['centroexame', '=', Auth::user()->instituicao]])->count();
+            ->select('turmas.*')->where([['centroexame', '=', Auth::user()->instituicao],['turma_id','=',$request->turma_id]])->count();
 
         $turma = Turma::where([['id', '=', $request->turma_id]])->first();
-        if ($alunos >= $turma->quantidade) {
-            echo ('numero excidido tente adicionar na outra turma');
+        if ($alunos >= $turma->quantidade  ) {
+            return redirect()->back()->with('status_full', '1');
         } else {
             try {
                 Aluno::create([
@@ -112,6 +115,7 @@ class AlunoController extends Controller
             ->join('turmas', 'turmas.id', 'alunos.turma_id')
             ->join('classes', 'classes.id', 'turmas.classe_id')
             ->where([['centroexame', '=', Auth::user()->instituicao]])
+            ->selectRaw('alunos.*,classes.nome_classe,turmas.centroexame,turmas.nome_turma')
             ->get();
         return view('dashboard.Aluno.index.index', compact('alunos'))->with('i', (request()->input('page', 1) - 1) * 5);
     }
@@ -163,5 +167,14 @@ class AlunoController extends Controller
             return redirect()->back()->with('status_error', '1');
         }
     }
-
+    public function delete_aluno($id)
+    {
+        try{
+        $alunos = Aluno::findOrFail($id);
+        $alunos->delete();
+        return redirect()->back()->with('status_delete', '1');
+    } catch (\Exception $exceptio) {
+        return redirect()->back()->with('status_error', '1');
+    }
+    }
 }

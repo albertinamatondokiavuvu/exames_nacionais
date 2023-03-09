@@ -102,3 +102,5 @@
 <option>Magistério Da "Marconi" N. 3118</option>
 <option>Pessoal Controlado Pela Dpe - Cazenga</option>
 <option>Escola Do Iiº Ciclo Magistério Primário Nº 1093</option>
+<option>Escola Primária N.3048</option>
+<option>Escola Primária Nº 3126</option>

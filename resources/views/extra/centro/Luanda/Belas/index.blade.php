@@ -49,6 +49,7 @@
 <option>Liceu 14 De Abril N. 2003</option>
 <option>Liceu N. 2032 - Belas </option>
 <option>Magistério Adpp N. 2042 - Belas</option>
-<option>Repartição Da Educação Do Distrito Urbano Da Samba</option> 
-<option>Repartição Da Educação Do Distrito Urbano Da Samba-Segurança</option> 
-
+<option>Repartição Da Educação Do Distrito Urbano Da Samba</option>
+<option>Repartição Da Educação Do Distrito Urbano Da Samba-Segurança</option>
+<option>Escola Primária Quedas de Kalandula Nº 2055</option>
+<option>Complexo Escolar Negra Nº 2062</option>

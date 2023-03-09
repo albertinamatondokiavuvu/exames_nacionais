@@ -1,13 +1,7 @@
 <option>Cuito</option>
-<option>Andulo</option>
-<option>Nharêa</option>
-<option>Cuemba</option>
-<option>Cunhinga</option>
-<option>Catabola</option>
-<option>Camacupa</option>
-<option>Chinguar</option>
-<option>Chitembo</option>
-
+Complexo Escolar N. 603 - 11 De Novembro
+Complexo Escolar N. 604 - Luulu
+Direcção Municipal Da Educação Do Bolongongo
 
 
 

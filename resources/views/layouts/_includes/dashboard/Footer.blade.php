@@ -56,6 +56,26 @@
 <link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.5/css/select2.css" rel="stylesheet"/>
                 <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.5/js/i18n/pt-BR.js"></script>
                 <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.5/js/select2.js"></script>
+
+                <script>
+                    $(document).ready(function() {
+                        //start delete
+                        $('a[data-confirm]').click(function(ev) {
+                            var href = $(this).attr('href');
+                            if (!$('#confirm-delete').length) {
+                                $('table').append(
+                                    '<div class="modal fade" id="confirm-delete" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true"><div class="modal-dialog" role="document"><div class="modal-content"> <div class="modal-header"> <h5 class="modal-title" id="exampleModalLabel">Eliminar os dados</h5><button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button></div><div class="modal-body">Tem certeza que pretende elimnar?</div><div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Cancelar</button> <a  class="btn btn-info" id="dataConfirmOk">Eliminar</a> </div></div></div></div>'
+                                );
+                            }
+                            $('#dataConfirmOk').attr('href', href);
+                            $('#confirm-delete').modal({
+                                shown: true
+                            });
+                            return false;
+                        });
+                        //end delete
+                    });
+                </script>
 <script>
     $(document).ready(function() {
     $('.multiplo').select2({
@@ -64,25 +84,7 @@
     });
 });
 </script>
-<script>
-    $(document).ready(function() {
-        //start delete
-        $('a[data-confirm]').click(function(ev) {
-            var href = $(this).attr('href');
-            if (!$('#confirm-delete').length) {
-                $('table').append(
-                    '<div class="modal fade" id="confirm-delete" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true"><div class="modal-dialog" role="document"><div class="modal-content"> <div class="modal-header"> <h5 class="modal-title" id="exampleModalLabel">Eliminar os dados</h5><button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button></div><div class="modal-body">Tem certeza que pretende elimnar?</div><div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Cancelar</button> <a  class="btn btn-info" id="dataConfirmOk">Eliminar</a> </div></div></div></div>'
-                );
-            }
-            $('#dataConfirmOk').attr('href', href);
-            $('#confirm-delete').modal({
-                shown: true
-            });
-            return false;
-        });
-        //end delete
-    });
-</script>
+
 <script>
     $(document).ready(function() {
         $('#table_id').DataTable({

@@ -22,8 +22,14 @@
         })
     </script>
 @endif
-
-
+echo ('');
+@if (session('status_full'))
+    <script>
+        swal('Ups!!', 'quantidade excidida, tente adicionar numa outra turma', 'info', {
+            button: 'ok'
+        })
+    </script>
+@endif
 @if (session('status_add'))
     <script>
         swal('Bom trabalho!!', 'Dados adicionado com sucesso', 'success', {

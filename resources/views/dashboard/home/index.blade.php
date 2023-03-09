@@ -1,8 +1,7 @@
 @extends('layouts._includes.dashboard.Header')
 @section('title', 'exames nacionais')
 @section('content')
-
-@include('extra.grafics.index')
+    @include('extra.grafics.index')
     @if (Auth::user()->tipo_user == 'admin')
 
         <div class="row">
@@ -15,7 +14,7 @@
                                 <p class="mb-2 text-md-center text-lg-left">Total de Alunos</p>
                                 <h1 class="mb-0">{{ $total_alunos }}</h1>
                             </div>
-                            <a href="{{ route('aluno_centroAdmin') }}"  class="btn btn-primary">Imprimir</a>
+                            <a href="{{ route('aluno_centroAdmin') }}" class="btn btn-primary">Imprimir</a>
                         </div>
                     </div>
                 </div>
@@ -29,7 +28,7 @@
                                 <p class="mb-2 text-md-center text-lg-left">Alunos Com deficiências </p>
                                 <h1 class="mb-0">{{ $total_alunos_def }}</h1>
                             </div>
-                            <a href="" target="_blank" class="btn btn-primary">Imprimir</a>
+                           <!-- <a href="" target="_blank" class="btn btn-primary">Imprimir</a>-->
                         </div>
 
                     </div>
@@ -44,7 +43,7 @@
                                 <p class="mb-2 text-md-center text-lg-left">Total de Centro de exame</p>
                                 <h1 class="mb-0"> {{ $total_centroexame }}</h1>
                             </div>
-                            <a href="" target="_blank" class="btn btn-primary">Imprimir</a>
+                           <!-- <a href="" target="_blank" class="btn btn-primary">Imprimir</a>-->
                         </div>
                     </div>
                 </div>
@@ -125,27 +124,50 @@
                                     @endisset
                                 </h1>
                             </div>
-                            <a href="" target="_blank" class="btn btn-primary">Imprimir</a>
+                           <!-- <a href="" target="_blank" class="btn btn-primary">Imprimir</a>-->
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="col-xl-12 grid-margin stretch-card flex-column">
-            <h5 class="mb-2 text-titlecase mb-4"></h5>
-            <div class="row h-100">
-                <div class="col-md-12 stretch-card">
-                    <div class="card">
-                        <div class="card-body">
-                            <div class="d-flex justify-content-between align-items-start flex-wrap">
-                                <div>
-                                    <p class="mb-3">Gráficos</p>
-
-                                </div>
-                                <div id="income-chart-legend" class="d-flex flex-wrap mt-1 mt-md-0"></div>
-                            </div>
-                            <canvas id="income-chart"></canvas>
+        <div class="row">
+            <div class="col-md-6 grid-margin stretch-card">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="d-flex justify-content-between">
+                            <p class="card-title">Alunos por Munícipio</p>
                         </div>
+                        <canvas id="myChart6" width="100" height="100"></canvas>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 grid-margin stretch-card">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="d-flex justify-content-between">
+                            <p class="card-title">Centros de exames por Município</p>
+                        </div>
+                        <canvas id="myChart7" width="100" height="100"></canvas>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 grid-margin stretch-card">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="d-flex justify-content-between">
+                            <p class="card-title">Secretários por município</p>
+                        </div>
+                        <canvas id="myChart8" width="100" height="100"></canvas>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 grid-margin stretch-card">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="d-flex justify-content-between">
+                            <p class="card-title">Vigilantes por município</p>
+                        </div>
+                        <canvas id="myChart9" width="100" height="100"></canvas>
                     </div>
                 </div>
             </div>
@@ -175,7 +197,7 @@
                                 <p class="mb-2 text-md-center text-lg-left">Total Centro de exame</p>
                                 <h1 class="mb-0">{{ $c }}</h1>
                             </div>
-                            <a href="" target="_blank" class="btn btn-primary">Imprimir</a>
+                          <!-- <a href="" target="_blank" class="btn btn-primary">Imprimir</a>-->
                         </div>
 
                     </div>
@@ -190,46 +212,45 @@
                                 <p class="mb-2 text-md-center text-lg-left">Total de Alunos</p>
                                 <h1 class="mb-0">{{ $ac }}</h1>
                             </div>
-                            <a href="" target="_blank" class="btn btn-primary">Imprimir</a>
+                           <!-- <a href="" target="_blank" class="btn btn-primary">Imprimir</a>-->
                         </div>
                     </div>
                 </div>
             </div>
         </div>
 
-            <div class="row">
-                <div class="col-md-4 grid-margin stretch-card">
-                    <div class="card">
-                        <div class="card-body">
-                            <div class="d-flex justify-content-between">
-                                <p class="card-title">Alunos Por centro de exame</p>
-                            </div>
-                            <canvas id="myChart2" width="100" height="100"></canvas>
+        <div class="row">
+            <div class="col-md-4 grid-margin stretch-card">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="d-flex justify-content-between">
+                            <p class="card-title">Alunos Por centro de exame</p>
                         </div>
-                    </div>
-                </div>
-                <div class="col-md-4 grid-margin stretch-card">
-                    <div class="card">
-                        <div class="card-body">
-                            <div class="d-flex justify-content-between">
-                                <p class="card-title">Secretários por centro de exame</p>
-                            </div>
-                            <canvas id="myChart4" width="100" height="100"></canvas>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4 grid-margin stretch-card">
-                    <div class="card">
-                        <div class="card-body">
-                            <div class="d-flex justify-content-between">
-                                <p class="card-title">Vigilantes por centro de exame</p>
-                            </div>
-                            <canvas id="myChart5" width="400" height="300"></canvas>
-                        </div>
+                        <canvas id="myChart2" width="100" height="100"></canvas>
                     </div>
                 </div>
             </div>
-
+            <div class="col-md-4 grid-margin stretch-card">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="d-flex justify-content-between">
+                            <p class="card-title">Secretários por centro de exame</p>
+                        </div>
+                        <canvas id="myChart4" width="100" height="100"></canvas>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 grid-margin stretch-card">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="d-flex justify-content-between">
+                            <p class="card-title">Vigilantes por centro de exame</p>
+                        </div>
+                        <canvas id="myChart5" width="400" height="300"></canvas>
+                    </div>
+                </div>
+            </div>
+        </div>
     @elseif(Auth::user()->tipo_user == 'DC')
         <div class="row">
             <div class="col-md-4 grid-margin stretch-card">
@@ -364,29 +385,28 @@
             </div>
         </div>
     @elseif(Auth::user()->tipo_user == 'V')
-
-<div class="row">
-    <div class="col-md-6 grid-margin stretch-card">
-        <div class="card">
-            <div class="card-body">
-                <div class="d-flex justify-content-between">
-                    <p class="card-title">Alunos Por ano</p>
+        <div class="row">
+            <div class="col-md-6 grid-margin stretch-card">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="d-flex justify-content-between">
+                            <p class="card-title">Alunos Por ano</p>
+                        </div>
+                        <canvas id="myChart1" width="100" height="100"></canvas>
+                    </div>
                 </div>
-                <canvas id="myChart1" width="100" height="100"></canvas>
+            </div>
+            <div class="col-md-6 grid-margin stretch-card">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="d-flex justify-content-between">
+                            <p class="card-title">Alunos Por Gênero</p>
+                        </div>
+                        <canvas id="myChart3" width="400" height="300"></canvas>
+                    </div>
+                </div>
             </div>
         </div>
-    </div>
-    <div class="col-md-6 grid-margin stretch-card">
-        <div class="card">
-            <div class="card-body">
-                <div class="d-flex justify-content-between">
-                    <p class="card-title">Alunos Por Gênero</p>
-                </div>
-                <canvas id="myChart3" width="400" height="300"></canvas>
-            </div>
-        </div>
-    </div>
-</div>
 
     @endif
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
@@ -445,82 +465,74 @@
         });
     </script>
     <!--dm-->
-    <script type="text/javascript">
-        var labels1 = {{ $centro3 }};
-        var users1= {{ $total_aluno }};
+    <script>
+        const ctx = document.getElementById('myChart2');
 
-        const data = {
-            labels: labels1,
-            datasets: [{
-                label: 'Alunos por centro de exame',
-                backgroundColor: 'rgb(255, 99, 132)',
-                borderColor: 'rgb(255, 99, 132)',
-                data: users1,
-            }]
-        };
-
-        const config = {
+        new Chart(ctx, {
             type: 'polarArea',
-            data: data,
-            options: {}
-        };
-
-        const myChart2 = new Chart(
-            document.getElementById('myChart2'),
-            config
-        );
+            data: {
+                labels: {{ Js::from($centro3) }},
+                datasets: [{
+                    label: 'Alunos por Centros de exames',
+                    data: {{ $total_aluno }},
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                scales: {
+                    y: {
+                        beginAtZero: true
+                    }
+                }
+            }
+        });
     </script>
-    <script type="text/javascript">
-        var labels2 = {{ $sp_centro }};
-        var users2= {{ $total_sp }};
+ <script>
+    const ctx3 = document.getElementById('myChart4');
 
-        const data = {
-            labels: labels2,
+    new Chart(ctx3, {
+        type: 'polarArea',
+        data: {
+            labels: {{ Js::from($sp_centro) }},
             datasets: [{
-                label: 'Secretários por centro de exame',
-                backgroundColor: 'rgb(255, 99, 132)',
-                borderColor: 'rgb(255, 99, 132)',
-                data: users2,
+                label: 'Secretários por Centros de exames',
+                data: {{ $total_sp }},
+                borderWidth: 1
             }]
-        };
+        },
+        options: {
+            scales: {
+                y: {
+                    beginAtZero: true
+                }
+            }
+        }
+    });
+</script>
+<script>
+    const ctx4 = document.getElementById('myChart5');
 
-        const config = {
-            type: 'polarArea',
-            data: data,
-            options: {}
-        };
-
-        const myChart1 = new Chart(
-            document.getElementById('myChart4'),
-            config
-        );
-    </script>
-
-    <script type="text/javascript">
-        var labels3 = {{ $v_centro }};
-        var users3= {{ $total_v }};
-
-        const data = {
-            labels: labels3,
+    new Chart(ctx4, {
+        type: 'polarArea',
+        data: {
+            labels: {{ Js::from($v_centro) }},
             datasets: [{
-                label: 'Vigilantes por centro de exame',
-                backgroundColor: 'rgb(255, 99, 132)',
-                borderColor: 'rgb(255, 99, 132)',
-                data: users3,
+                label: 'Vigilantes por Centros de exames',
+                data: {{ $total_v }},
+                borderWidth: 1
             }]
-        };
+        },
+        options: {
+            scales: {
+                y: {
+                    beginAtZero: true
+                }
+            }
+        }
+    });
+</script>
 
-        const config = {
-            type: 'polarArea',
-            data: data,
-            options: {}
-        };
 
-        const myChart3 = new Chart(
-            document.getElementById('myChart5'),
-            config
-        );
-    </script>
 
 
     @include('layouts._includes.dashboard.Footer')
