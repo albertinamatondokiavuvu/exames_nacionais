@@ -1,50 +1,50 @@
-<option>Cuito</option>
-Escola Primária De Chiamba
-Complexo Escola 4 De Fevereiro
-Complexo Escolar 10 De Dezembro
-Complexo Escolar 17 De Setembro
-Complexo Escolar De Malengue
-Complexo Escolar De Mutumbo
-Complexo Escolar Do Munbue
-Complexo Escolar Missionária São João Baptista
-Coordenação Comunal De Mumbué
-Direcção Municipal Da Educação De Chitembo
-Direcção Municipal De Educação De Chitembo
-Esc. Do I Ciclo 17 De Setembro
-Esc. Do I Ciclo 4 De Abril
-Esc. Primária De 11 De Novembro
-Esc. Primária De Cacuchi Liazemba
-Esc. Primária De Cambimbia
-Esc. Primária De Cambundi
-Esc. Primária De Capango Nº 408
-Esc. Primária De Cheleca
-Esc. Primária De Chihongo
-Esc. Primária De Chingungo E Chilomba
-Esc. Primária De Chissoca
-Esc. Primária De Chivembe
-Esc. Primária De Chivongo
-Esc. Primária De Chivongovongo
-Esc. Primária De Chiwano
-Esc. Primária De Cusseque
-Esc. Primária De Embala Chissilo
-Esc. Primária De Embala Malengue
-Esc. Primária De Huambo
-Esc. Primária De Jamba-Ya Cassissi
-Esc. Primária De Kandingo
-Esc. Primária De Lilemba
-Esc. Primária De Lingongo
-Esc. Primária De Livuvu
-Esc. Primária De Macova
-Esc. Primária De Malonga
-Esc. Primária De Mihato Iº
-Esc. Primária De Mukunha
-Esc. Primária De Sachimalia
-Esc. Primária De Satchijamba
-Esc. Primária De Senze
-Esc. Primária De Vissumba
-Esc. Primária E Do I Ciclo De Chiamba
-Esco Primária De Cawe E Lingongo
-Esco Primária De Chitiengo-Njinva
+Cuito</option>
+<option>Escola Primária De Chiamba
+<option>Complexo Escola 4 De Fevereiro
+<option>Complexo Escolar 10 De Dezembro
+<option>Complexo Escolar 17 De Setembro
+<option>Complexo Escolar De Malengue
+<option>Complexo Escolar De Mutumbo
+<option>Complexo Escolar Do Munbue
+<option>Complexo Escolar Missionária São João Baptista
+    <option>Coordenação Comunal De Mumbué
+<option>Direcção Municipal Da Educação De Chitembo
+<option>Direcção Municipal De Educação De Chitembo
+<option>Esc. Do I Ciclo 17 De Setembro
+<option>Esc. Do I Ciclo 4 De Abril
+<option>Esc. Primária De 11 De Novembro
+<option>Esc. Primária De Cacuchi Liazemba
+<option>Esc. Primária De Cambimbia
+<option>Esc. Primária De Cambundi
+<option>Esc. Primária De Capango Nº 408
+<option>Esc. Primária De Cheleca
+<option>Esc. Primária De Chihongo
+<option>Esc. Primária De Chingungo E Chilomba
+<option>Esc. Primária De Chissoca
+<option>Esc. Primária De Chivembe
+<option>Esc. Primária De Chivongo
+<option>Esc. Primária De Chivongovongo
+<option>Esc. Primária De Chiwano
+<option>Esc. Primária De Cusseque
+<option>Esc. Primária De Embala Chissilo
+<option>Esc. Primária De Embala Malengue
+<option>Esc. Primária De Huambo
+<option>Esc. Primária De Jamba-Ya Cassissi
+<option>Esc. Primária De Kandingo
+<option>Esc. Primária De Lilemba
+<option>Esc. Primária De Lingongo
+<option>Esc. Primária De Livuvu
+<option>Esc. Primária De Macova
+<option>Esc. Primária De Malonga
+<option>Esc. Primária De Mihato Iº
+<option>Esc. Primária De Mukunha
+<option>Esc. Primária De Sachimalia
+<option>Esc. Primária De Satchijamba
+<option>Esc. Primária De Senze
+<option>Esc. Primária De Vissumba
+<option>Esc. Primária E Do I Ciclo De Chiamba
+Escola Primária De Cawe E Lingongo
+Escola Primária De Chitiengo-Njinva
 Escola Miss. Do Ens. Primário De Catota
 Escola Missionária Do Ens. Primário Da Ieca - Nova Vida-
 Escola Primária - 11 De Novembro- Chitembo

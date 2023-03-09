@@ -1,12 +1,10 @@
-<option>Cuito</option>
-<option>Andulo</option>
-<option>Nharêa</option>
-<option>Cuemba</option>
-<option>Cunhinga</option>
-<option>Catabola</option>
-<option>Camacupa</option>
-<option>Chinguar</option>
-<option>Chitembo</option>
+<option>Colégio De Ambuila</option>
+<option>Escola Primária De Bela Encoge</option>
+<option>Escola Primária De Mayanga</option>
+<option>Escola Primária De Mvuanga</option>
+<option>Escola Primária De Nova Aliança</option>
+<option>Escola Primária De Quissengui</option>
+<option>Escola Primária N. 623 Mantoyo</option>
 
 
 

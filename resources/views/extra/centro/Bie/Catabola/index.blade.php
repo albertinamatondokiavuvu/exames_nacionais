@@ -1,190 +1,189 @@
-<option>Cuito</option>
-Colégio Patrício Lumumba
-Colégio Soba S. Canica
-Colégio Técnico De Práticas Agrárias
-Complexo Escola - Rev. Lumbo
-Complexo Escola De São Lucas
-Complexo Escolar - 11 De Novembro
-Complexo Escolar - Felizberto D. Ngunga
-Complexo Escolar - Pacaça Aleijada
-Complexo Escolar - Simione Mucume
-Complexo Escolar 17 De Set. E Form. De Prof. Adpp
-Complexo Escolar 4 De Abril
-Complexo Escolar 4 De Janeiro E Óngue
-Complexo Escolar Baptista Chicuecue
-Complexo Escolar De Cajungo
-Complexo Escolar De Embala Calucia
-Complexo Escolar De Essaca Lianjimbi
-Complexo Escolar De Muquinda
-Complexo Escolar Fernando Nanga
-Complexo Escolar Rev. Costa Ulo - Sachondi E Samulunga
-Complexo Escolar São Tomás Sandundo
-Complexo Escolar Soba Canjundo
-Complexo Escolar Soba Wango Wonjamba -Voloti E Naluminga
-Direcção Municipal Da Educação De Catabola
-Esc. Do Ii Ciclo De Catabola Felizberto Domingos Ngunga/Extensã Chipeta
-Esc. Missionária Do Ens. Prim. De Chitalela
-Esc. Missionária Do Ens. Primário De Chissamba
-Esc. Primária 28 De Agosto
-Esc. Primária De Acuco
-Esc. Primária De Banjela
-Esc. Primária De Bº Hospital "Augusto Ngangula"
-Esc. Primária De Boma
-Esc. Primária De Cachõha
-Esc. Primária De Cacocolo
-Esc. Primária De Cahuma
-Esc. Primária De Caiovo
-Esc. Primária De Calengue/Anexa
-Esc. Primária De Calia
-Esc. Primária De Calombambi
-Esc. Primária De Calombuale
-Esc. Primária De Cambalanganja
-Esc. Primária De Cambuengue
-Esc. Primária De Camundo Etapi
-Esc. Primária De Camuxito Novo
-Esc. Primária De Canda
-Esc. Primária De Cangombe
-Esc. Primária De Canguela
-Esc. Primária De Canjengo
-Esc. Primária De Canjoio
-Esc. Primária De Canonga
-Esc. Primária De Cariongo
-Esc. Primária De Cassalo
-Esc. Primária De Cassamba
-Esc. Primária De Cassengo
-Esc. Primária De Catala
-Esc. Primária De Cateto
-Esc. Primária De Catovo
-Esc. Primária De Catundo
-Esc. Primária De Catuta
-Esc. Primária De Chicongo
-Esc. Primária De Chifruta
-Esc. Primária De Chifuluta
-Esc. Primária De Chilalo
-Esc. Primária De Chilundundo
-Esc. Primária De Chinganguela
-Esc. Primária De Chinjengue
-Esc. Primária De Chinjoia
-Esc. Primária De Chipaco
-Esc. Primária De Chipululo
-Esc. Primária De Chiqueva
-Esc. Primária De Chissapa Nº 187
-Esc. Primária De Chissingui Nº 59
-Esc. Primária De Chitue
-Esc. Primária De Compão "S. Domingos"
-Esc. Primária De Dembei
-Esc. Primária De Embala Chissende
-Esc. Primária De Entre-Rios
-Esc. Primária De Epongo
-Esc. Primária De Eteca
-Esc. Primária De Etunda
-Esc. Primária De Hombo
-Esc. Primária De Hongolo
-Esc. Primária De Hungulo
-Esc. Primária De Jengo
-Esc. Primária De Kahombo
-Esc. Primária De Kangaye
-Esc. Primária De Kanhanga
-Esc. Primária De Kanjamba
-Esc. Primária De Kapinãla
-Esc. Primária De Kassombo
-Esc. Primária De Kassumba
-Esc. Primária De Kavanga
-Esc. Primária De Londela "S. António"
-Esc. Primária De Lucata
-Esc. Primária De Luela
-Esc. Primária De Mângua
-Esc. Primária De Missene
-Esc. Primária De Mungindo
-Esc. Primária De Mussinda
-Esc. Primária De Nassoma
-Esc. Primária De Ndama
-Esc. Primária De Ndopi
-Esc. Primária De Nende
-Esc. Primária De Nhuangur
-Esc. Primária De Ombala Chissamba
-Esc. Primária De Ombala Chiuca
-Esc. Primária De Popular
-Esc. Primária De Sachiwala
-Esc. Primária De Sachondi
-Esc. Primária De Saiaio
-Esc. Primária De Salohuma Nº 55
-Esc. Primária De Samulunga
-Esc. Primária De Sangombe
-Esc. Primária De Sanimbo
-Esc. Primária De Sanjepele
-Esc. Primária De Santana
-Esc. Primária De Santinho
-Esc. Primária De Sapomba
-Esc. Primária De Sassapi
-Esc. Primária De Sassolo-Cambundo
-Esc. Primária De Saviti
-Esc. Primária De Sawimbo
-Esc. Primária De Socola
-Esc. Primária De Tico
-Esc. Primária De Ussamba
-Esc. Primária De Utalamo
-Esc. Primária De Veve
-Esc. Primária De Vicumba
-Esc. Primária De Vila-Monte
-Esc. Primária De Vionga
-Esc. Primária De Vitaca
-Esc. Primária De Vitata
-Esc. Primária De Voloti
-Esc. Primária De Wia
-Escola De Formação De Professores - Adpp -Bie-Katabola - Katabola
-Escola Primária - 16 De Junhode Bulo
-Escola Primária - Laurindo Ngayetangumbe E Cassombo
-Escola Primária - M. Wonjimbon. 55
-Escola Primária - Maquina Caiombo
-Escola Primária - Mateus Chicanha-
-Escola Primária De 7 Casas - 1 De Junho-
-Escola Primária De Bambo
-Escola Primária De Belchior
-Escola Primária De Bonga
-Escola Primária De Cacunho N. 57
-Escola Primária De Calila
-Escola Primária De Calohanda
-Escola Primária De Calussimba- Chifuluta E Vitiapo
-Escola Primária De Camuxito N. 56
-Escola Primária De Candimba
-Escola Primária De Capoco
-Escola Primária De Caquengue
-Escola Primária De Cassumba-Santa Filomena E Saculeña
-Escola Primaria De Chacucuta-Katabola - Katabola
-Escola Primária De Chiaca
-Escola Primária De Chicundo
-Escola Primária De Chilalo
-Escola Primária De Chimbuio
-Escola Primária De Chinhulo
-Escola Primária De Chipenhe-Cahombo E Epongo
-Escola Primária De Chissende-Keu
-Escola Primária De Cuimbra Ombo - Mujinda - Catabola
-Escola Primária De Dende
-Escola Primária De Gonde
-Escola Primária De Londela Industrial N. 61
-Escola Primária De Mingungo E Capela
-Escola Primária De Munhango
-Escola Primária De Muquinda
-Escola Primária De Mutietie
-Escola Primária De Naliminga - Catabola
-Escola Primária De Nhime
-Escola Primária De Ombala Chissende
-Escola Primária De Ombala Chitalela
-Escola Primária De Sachindondo
-Escola Primária De Sachiwala N. 22
-Escola Primária De Samasseca
-Escola Primária De Sanambelo
-Escola Primária De Sassongo
-Escola Primária De Sede Sande
-Escola Primária De Sede-Chiúca
-Escola Primária De Sewime
-Escola Primária De Súku
-Escola Primária De Úyue N. 280
-Escola Primária N. 60 Sede-Chipeta
-Escola Primária N. 69 Catabola
-Escola Primária Nº 281 - Uié - Catabola
-Escola Primária Oliveira Sukuma
+<option>Colégio Patrício Lumumba</option>
+<option>Colégio Soba S. Canica</option>
+<option>Colégio Técnico De Práticas Agrárias</option>
+<option>Complexo Escola - Rev. Lumbo</option>
+<option>Complexo Escola De São Lucas</option>
+<option>Complexo Escolar - 11 De Novembro</option>
+<option>Complexo Escolar - Felizberto D. Ngunga</option>
+<option>Complexo Escolar - Pacaça Aleijada</option>
+<option>Complexo Escolar - Simione Mucume</option>
+<option>Complexo Escolar 17 De Set. E Form. De Prof. Adpp</option>
+<option>Complexo Escolar 4 De Abril</option>
+<option>Complexo Escolar 4 De Janeiro E Óngue</option>
+<option>Complexo Escolar Baptista Chicuecue</option>
+<option>Complexo Escolar De Cajungo</option>
+<option>Complexo Escolar De Embala Calucia</option>
+<option>Complexo Escolar De Essaca Lianjimbi</option>
+<option>Complexo Escolar De Muquinda</option>
+<option>Complexo Escolar Fernando Nanga</option>
+<option>Complexo Escolar Rev. Costa Ulo - Sachondi E Samulunga</option>
+<option>Complexo Escolar São Tomás Sandundo</option>
+<option>Complexo Escolar Soba Canjundo</option>
+<option>Complexo Escolar Soba Wango Wonjamba -Voloti E Naluminga</option>
+    <option>Direcção Municipal Da Educação De Catabola</option>
+<option>Esc. Do Ii Ciclo De Catabola Felizberto Domingos Ngunga/Extensã Chipeta</option>
+<option>Esc. Missionária Do Ens. Prim. De Chitalela</option>
+<option>Esc. Missionária Do Ens. Primário De Chissamba</option>
+<option>Esc. Primária 28 De Agosto</option>
+<option>Esc. Primária De Acuco</option>
+<option>Esc. Primária De Banjela</option>
+<option>Esc. Primária De Bº Hospital "Augusto Ngangula"</option>
+<option>Esc. Primária De Boma</option>
+<option>Esc. Primária De Cachõha</option>
+<option>Esc. Primária De Cacocolo</option>
+<option>Esc. Primária De Cahuma</option>
+<option>Esc. Primária De Caiovo</option>
+<option>Esc. Primária De Calengue/Anexa</option>
+<option>Esc. Primária De Calia</option>
+<option>Esc. Primária De Calombambi</option>
+<option>Esc. Primária De Calombuale</option>
+<option>Esc. Primária De Cambalanganja</option>
+<option>Esc. Primária De Cambuengue</option>
+<option>Esc. Primária De Camundo Etapi</option>
+<option>Esc. Primária De Camuxito Novo</option>
+<option>Esc. Primária De Canda</option>
+<option>Esc. Primária De Cangombe</option>
+<option>Esc. Primária De Canguela</option>
+<option>Esc. Primária De Canjengo</option>
+<option>Esc. Primária De Canjoio</option>
+<option>Esc. Primária De Canonga</option>
+<option>Esc. Primária De Cariongo</option>
+<option>Esc. Primária De Cassalo</option>
+<option>Esc. Primária De Cassamba</option>
+<option>Esc. Primária De Cassengo</option>
+<option>Esc. Primária De Catala</option>
+<option>Esc. Primária De Cateto</option>
+<option>Esc. Primária De Catovo</option>
+<option>Esc. Primária De Catundo</option>
+<option>Esc. Primária De Catuta</option>
+<option>Esc. Primária De Chicongo</option>
+<option>Esc. Primária De Chifruta</option>
+<option>Esc. Primária De Chifuluta</option>
+<option>Esc. Primária De Chilalo</option>
+<option>Esc. Primária De Chilundundo</option>
+<option>Esc. Primária De Chinganguela</option>
+<option>Esc. Primária De Chinjengue</option>
+<option>Esc. Primária De Chinjoia</option>
+<option>Esc. Primária De Chipaco</option>
+<option>Esc. Primária De Chipululo</option>
+<option>Esc. Primária De Chiqueva</option>
+<option>Esc. Primária De Chissapa Nº 187</option>
+<option>Esc. Primária De Chissingui Nº 59</option>
+<option>Esc. Primária De Chitue</option>
+<option>Esc. Primária De Compão "S. Domingos"</option>
+<option>Esc. Primária De Dembei</option>
+<option>Esc. Primária De Embala Chissende</option>
+<option>Esc. Primária De Entre-Rios</option>
+<option>Esc. Primária De Epongo</option>
+<option>Esc. Primária De Eteca</option>
+<option>Esc. Primária De Etunda</option>
+<option>Esc. Primária De Hombo</option>
+<option>Esc. Primária De Hongolo</option>
+<option>Esc. Primária De Hungulo</option>
+<option>Esc. Primária De Jengo</option>
+<option>Esc. Primária De Kahombo</option>
+<option>Esc. Primária De Kangaye</option>
+<option>Esc. Primária De Kanhanga</option>
+<option>Esc. Primária De Kanjamba</option>
+<option>Esc. Primária De Kapinãla</option>
+<option>Esc. Primária De Kassombo</option>
+<option>Esc. Primária De Kassumba</option>
+<option>Esc. Primária De Kavanga</option>
+<option>Esc. Primária De Londela "S. António"</option>
+<option>Esc. Primária De Lucata</option>
+<option>Esc. Primária De Luela</option>
+<option>Esc. Primária De Mângua</option>
+<option>Esc. Primária De Missene</option>
+<option>Esc. Primária De Mungindo</option>
+<option>Esc. Primária De Mussinda</option>
+<option>Esc. Primária De Nassoma</option>
+<option>Esc. Primária De Ndama</option>
+<option>Esc. Primária De Ndopi</option>
+<option>Esc. Primária De Nende</option>
+<option>Esc. Primária De Nhuangur</option>
+<option>Esc. Primária De Ombala Chissamba</option>
+<option>Esc. Primária De Ombala Chiuca</option>
+<option>Esc. Primária De Popular</option>
+<option>Esc. Primária De Sachiwala</option>
+<option>Esc. Primária De Sachondi</option>
+<option>Esc. Primária De Saiaio</option>
+<option>Esc. Primária De Salohuma Nº 55</option>
+<option>Esc. Primária De Samulunga</option>
+<option>Esc. Primária De Sangombe</option>
+<option>Esc. Primária De Sanimbo</option>
+<option>Esc. Primária De Sanjepele</option>
+<option>Esc. Primária De Santana</option>
+<option>Esc. Primária De Santinho</option>
+<option>Esc. Primária De Sapomba</option>
+<option>Esc. Primária De Sassapi</option>
+<option>Esc. Primária De Sassolo-Cambundo</option>
+<option>Esc. Primária De Saviti</option>
+<option>Esc. Primária De Sawimbo</option>
+<option>Esc. Primária De Socola</option>
+<option>Esc. Primária De Tico</option>
+<option>Esc. Primária De Ussamba</option>
+<option>Esc. Primária De Utalamo</option>
+<option>Esc. Primária De Veve</option>
+<option>Esc. Primária De Vicumba</option>
+<option>Esc. Primária De Vila-Monte</option>
+<option>Esc. Primária De Vionga</option>
+<option>Esc. Primária De Vitaca</option>
+<option>Esc. Primária De Vitata</option>
+<option>Esc. Primária De Voloti</option>
+<option>Esc. Primária De Wia</option>
+<option>Escola De Formação De Professores - Adpp -Bie-Katabola - Katabola</option>
+<option>Escola Primária - 16 De Junhode Bulo</option>
+<option>Escola Primária - Laurindo Ngayetangumbe E Cassombo</option>
+<option>Escola Primária - M. Wonjimbon. 55</option>
+<option>Escola Primária - Maquina Caiombo</option>
+<option>Escola Primária - Mateus Chicanha-</option>
+<option>Escola Primária De 7 Casas - 1 De Junho-</option>
+<option>Escola Primária De Bambo</option>
+<option>Escola Primária De Belchior</option>
+<option>Escola Primária De Bonga</option>
+<option>Escola Primária De Cacunho N. 57</option>
+<option>Escola Primária De Calila</option>
+<option>Escola Primária De Calohanda</option>
+<option>Escola Primária De Calussimba- Chifuluta E Vitiapo</option>
+<option>Escola Primária De Camuxito N. 56</option>
+<option>Escola Primária De Candimba</option>
+<option>Escola Primária De Capoco</option>
+<option>Escola Primária De Caquengue</option>
+<option>Escola Primária De Cassumba-Santa Filomena E Saculeña</option>
+<option>Escola Primaria De Chacucuta-Katabola - Katabola</option>
+<option>Escola Primária De Chiaca</option>
+<option>Escola Primária De Chicundo</option>
+<option>Escola Primária De Chilalo</option>
+<option>Escola Primária De Chimbuio</option>
+<option>Escola Primária De Chinhulo</option>
+<option>Escola Primária De Chipenhe-Cahombo E Epongo</option>
+<option>Escola Primária De Chissende-Keu</option>
+<option>Escola Primária De Cuimbra Ombo - Mujinda - Catabola</option>
+<option>Escola Primária De Dende</option>
+<option>Escola Primária De Gonde</option>
+<option>Escola Primária De Londela Industrial N. 61</option>
+<option>Escola Primária De Mingungo E Capela</option>
+<option>Escola Primária De Munhango</option>
+<option>Escola Primária De Muquinda</option>
+<option>Escola Primária De Mutietie</option>
+<option>Escola Primária De Naliminga - Catabola</option>
+<option>Escola Primária De Nhime</option>
+<option>Escola Primária De Ombala Chissende</option>
+<option>Escola Primária De Ombala Chitalela</option>
+<option>Escola Primária De Sachindondo</option>
+<option>Escola Primária De Sachiwala N. 22</option>
+<option>Escola Primária De Samasseca</option>
+<option>Escola Primária De Sanambelo</option>
+<option>Escola Primária De Sassongo</option>
+<option>Escola Primária De Sede Sande</option>
+<option>Escola Primária De Sede-Chiúca</option>
+<option>Escola Primária De Sewime</option>
+<option>Escola Primária De Súku</option>
+<option>Escola Primária De Úyue N. 280</option>
+<option>Escola Primária N. 60 Sede-Chipeta</option>
+<option>Escola Primária N. 69 Catabola</option>
+<option>Escola Primária Nº 281 - Uié - Catabola</option>
+<option>Escola Primária Oliveira Sukuma</option>
 
 
 
