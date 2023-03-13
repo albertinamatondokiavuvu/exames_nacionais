@@ -359,7 +359,7 @@ class UserController extends Controller
     }
     public function index()
     {
-        $users = User::WhereIn('tipo_user', ['SP', 'V'])->where([['municipio', '=', Auth::user()->municipio]])->get();
+        $users = User::WhereIn('tipo_user', ['SP', 'V'])->where([['municipio', '=', Auth::user()->municipio],['instituicao', '=', Auth::user()->instituicao]])->get();
         return view('dashboard.Users.SP_PV.index.index', compact('users'))->with('i', (request()->input('page', 1) - 1) * 5);
     }
 

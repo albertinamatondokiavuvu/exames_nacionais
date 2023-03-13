@@ -178,15 +178,10 @@ public function v_dc_report()
     $mpdf->Output("Vigilantes.pdf", "I");
 }
     //SP
-    public function Aluno_pdf_sp()
+    public function Aluno_pdf_sp(Aluno $alunoP,$turma)
     {
-        $alunos = DB::table('alunos')
-        ->join('turmas','turmas.id','alunos.turma_id')
-        ->join('classes','classes.id','turmas.classe_id')
-        ->where([['centroexame','=',Auth::user()->instituicao]])
-        ->get();
-
-        $data['alunos']=$alunos;
+        $data['turma'] = $turma;
+        $data['alunos']=$alunoP-> AlunosDcForSearch($turma);
         $data["bootstrap"] = file_get_contents("src/users/bootstrap.min.css");
         $data["css"] = file_get_contents("src/users/style.css");
         $mpdf = new \Mpdf\Mpdf([

@@ -31,7 +31,7 @@
                 <th class="text-center">Turma</th>
                 <th class="text-center">Classe</th>
                 <th class="text-center">Escola de Proveniencia</th>
-
+                <th class="text-center">Tipo de Deficiência</th>
 
             </tr>
         </thead>
@@ -48,7 +48,7 @@
                     <td class="text-center"><?php echo $test->nome_turma;?></td>
                     <td class="text-center"><?php echo $test->nome_classe;?></td>
                     <td class="text-center"><?php echo $test->escola_proveniencia;?></td>
-
+                    <td class="text-center"><?php echo $test->deficiencia;?></td>
 
             <?php endforeach; ?>
 

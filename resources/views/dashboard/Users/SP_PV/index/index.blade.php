@@ -7,7 +7,7 @@
         <h4 class="card-title">Listar Secretários e Vigilantes</h4>
 
         <div class="table-responsive">
-          <table id="table_id" class="table table-hover">
+          <table  class="table table-hover table_id">
             <thead class="">
                 <th>Nº</th>
                 <th class="text-center">Nome</th>

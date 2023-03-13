@@ -199,7 +199,6 @@
                             </div>
                           <!-- <a href="" target="_blank" class="btn btn-primary">Imprimir</a>-->
                         </div>
-
                     </div>
                 </div>
             </div>
@@ -262,7 +261,7 @@
                                 <p class="mb-2 text-md-center text-lg-left">Total de Aluno</p>
                                 <h1 class="mb-0">{{ $alunos }}</h1>
                             </div>
-                            <a href="{{ route('Aluno_pdf_sp') }}" target="_blank" class="btn btn-primary">Imprimir</a>
+                            <a href="{{ route('searchAluno') }}"  class="btn btn-primary">Imprimir</a>
                         </div>
                     </div>
                 </div>
@@ -335,7 +334,7 @@
                             </div>
                             @if ($alunos == 0)
                             @else
-                                <a href="{{ route('Aluno_pdf_sp') }}" target="_blank"
+                                <a href="{{ route('searchAluno') }}"
                                     class="btn btn-primary">Imprimir</a>
                             @endif
                         </div>

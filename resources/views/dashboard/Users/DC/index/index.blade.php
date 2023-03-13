@@ -7,13 +7,13 @@
         <h4 class="card-title">Listar directores de centroExames de exames</h4>
 
         <div class="table-responsive">
-          <table id="table_id" class="table table-hover">
+          <table  class="table table-hover table_id">
             <thead class="">
                 <th>Nº</th>
                 <th class="text-center">Nome</th>
                 <th class="text-center">Email</th>
                 <th class="text-center">Telefone</th>
-                <th class="text-center">centroExame de Exame</th>
+                <th class="text-center">centro de Exame</th>
                 <th>Acções</th>
                 </tr>
             </thead>

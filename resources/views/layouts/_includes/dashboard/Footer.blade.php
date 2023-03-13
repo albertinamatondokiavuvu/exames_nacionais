@@ -46,6 +46,11 @@
 <script src="/template/js/settings.js"></script>
 <script src="/template/js/todolist.js"></script>
 <!-- endinject -->
+<script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+<script src="https://cdn.datatables.net/1.13.3/js/jquery.dataTables.min.js"></script>
+<script src="https://cdn.datatables.net/1.13.3/js/dataTables.bootstrap.min.js"></script>
+<script src="https://cdn.datatables.net/rowreorder/1.3.2/js/dataTables.rowReorder.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.js"></script>
 <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.css">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.js"></script>
 <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.js"></script>
@@ -85,9 +90,12 @@
 });
 </script>
 
+<script src="https://cdn.datatables.net/1.13.3/js/jquery.dataTables.min.js"></script>
+
+
 <script>
     $(document).ready(function() {
-        $('#table_id').DataTable({
+        $('.table_id').DataTable({
             "language": {
                 "url": "//cdn.datatables.net/plug-ins/9dcbecd42ad/i18n/Portuguese.json"
             }

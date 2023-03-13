@@ -107,7 +107,9 @@ Route::middleware('auth')->group(function () {
  Route::get('/sp_dc_report',[ReportController::class,'sp_dc_report'])->name('sp_dc_report');
  Route::get('/v_dc_report',[ReportController::class,'v_dc_report'])->name('v_dc_report');
  //relatorios de supervisores
- Route::get('/Aluno_pdf_sp',[ReportController::class,'Aluno_pdf_sp'])->name('Aluno_pdf_sp');
+ Route::get('/searchAluno', [AlunoController::class, 'searchAluno'])->name('searchAluno');
+ Route::post('/TakeAluno', [AlunoController::class, 'TakeAluno'])->name('TakeAluno');
+ Route::get('/Aluno_pdf_sp/{turma}',[ReportController::class,'Aluno_pdf_sp'])->name('Aluno_pdf_sp');
  Route::get('/Aluno_pdf_sp_def',[ReportController::class,'Aluno_pdf_sp_def'])->name('Aluno_pdf_sp_def');
 
  //relatorios de vigilantes

@@ -34,7 +34,6 @@ class AlunoController extends Controller
                 'deficiencia' => 'required',
                 'nome_aluno' => 'required',
                 'data_nasc' => 'required',
-                'escola_proveniencia' =>'required',
                 'turma_id' =>'required',
                 'sexo' =>'required',
             ],
@@ -177,4 +176,48 @@ class AlunoController extends Controller
         return redirect()->back()->with('status_error', '1');
     }
     }
+
+
+
+
+    //DC//
+    public function searchAluno()
+    {
+        try {
+
+                $response['turma'] = DB::table('turmas')
+                ->join('classes', 'classes.id', 'turmas.classe_id')
+                    ->selectRaw('turmas.*,classes.nome_classe')
+                    ->where([['centroexame','=',Auth::user()->instituicao]])
+                    ->get();
+
+            return view('dashboard.Users.DC.aluno.index', $response);
+        } catch (\Exception $exception) {
+            return redirect()
+                ->back()
+                ->with('status_Error', '1');
+        }
+    }
+    public function TakeAluno(Request $request)
+    {
+        try {
+            $turma = $request->turma;
+            return redirect("/Aluno_pdf_sp/$turma");
+        } catch (\Exception $exception) {
+            return redirect()
+                ->back()
+                ->with('status_Error', '1');
+        }
+    }
+    public function index(Aluno $alunoP,$turma)
+    {
+      try{
+      $response['turma'] = $turma;
+      $response['logs'] =  $alunoP-> AlunosDcForSearch($turma);
+      return view('admin.logs.visualizar.index', $response);
+  } catch (\Exception $exception) {
+      return redirect()->back()->with('status_Error', '1');
+  }
+    }
+
 }
