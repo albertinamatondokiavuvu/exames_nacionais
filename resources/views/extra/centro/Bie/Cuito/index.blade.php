@@ -1,225 +1,160 @@
-<option>Cuito</option>
-Centro De Pre-Universitario Do Andulo
-Centro Pre-Universitario - Kuito
-Centro Pre-Universitario Do Kunge
-Colégio   N. 175-Cdte Kataleco
-Colégio   N. 236 Dr. João Andereu Cole
-Colégio   N. 284 De Muxiquita
-Colégio   N. 66 - 4 De Abril
-Colégio   N. 67 -Manguxi
-Colégio   N. 98 De   Kambândua
-Colégio N. 275 Do Cuito
-Colégio N. 300 Cdte Cussumua
-Colégio N. 38 - Rei Liavenda
-Colégio N. 41 - 17 Setembro
-Colégio N. 53 Da Chicala
-Colégio N. 57 Reverendo Augusto Chipesse
-Colégio N. 69-Cdte Noventa
-Colégio N. 78 Jamba-Ya-Mina
-Complexo Escolar   N. 110 De Ebenézer
-Complexo Escolar   N. 22 São Tomás De Aquino
-Complexo Escolar   N. 55 - Ecolelo
-Complexo Escolar   N. 74 Estrela Da Manhã
-Complexo Escolar 10 De Dezembro N. 48-Cuito
-Complexo Escolar Ensino Especial N. 271
-Complexo Escolar N.   8-Hoji-Ya-Henda
-Complexo Escolar N. 10 Missão   Chanhora
-Complexo Escolar N. 14 Cdte Cussumua
-Complexo Escolar N. 148 Missão Camundongo
-Complexo Escolar N. 2 Antónia J. Silva
-Complexo Escolar N. 264 De Epongoloco
-Complexo Escolar N. 268 Sebastiana Garcia
-Complexo Escolar N. 291 Simione Mucume
-Complexo Escolar N. 30 Ana Maria Fidalga
-Complexo Escolar N. 314 - 28 De Junho
-Complexo Escolar N. 5 Nossa Senhora De Fátima
-Complexo Escolar N. 63 - E.M.I.E.I.A
-Complexo Escolar N. 65 Nossa Senhora Da Paz
-Complexo Escolar N. 76 - 1 De Maio
-Complexo Escolar N. 9 Clemente Viniombo
-Contratados Da Formacao Basica Dos Docentes
-Coodenação Comunal De Chicala - Bié - Kuito
-Coordenação Comunal Do Kunje
-Del. Mun. Da Educacao De Andulo
-Del. Mun. Da Educacao De Chinguar
-Del. Mun. Da Educacao De Chitembo
-Del. Mun. Da Educacao De Kamacupa
-Del. Mun. Da Educacao De Katabola
-Del. Mun. Da Educacao De Kunhinga
-Del. Mun. Da Educacao De Nharea
-Del. Mun. Da Educacao Do Kuemba
-Delegacao Provincial Da Educacao Do Bie
-Dir. Prov. De Alfabetizacao Do Bie
-Dir. Prov. Educacao Do Bie-Inseridos Nov./05
-Dir.Prov.Educ.Bie-Conc.Pub./07-Ins.Mer./08
-Dir.Prov.Educacao Bie-Conc.Pub./06-Ins.Jun/07
-Direcção Municípal Da Educação Do Cuito
-Direcção Municipal Da Educação Do Kuito
-Esc. Primária " Rei Ekuikui Ii" Nº  267
-Esc. Primária "25 De Maio" Nº 28
-Esc. Primária "Afonso Praia" Nº 140
-Esc. Primária "Marcelino" N.º 97
-Esc. Primária "Maria Luisa" Nº 182
-Esc. Primária "Sausa Salopa" Nº 176
-Esc. Primária De Bambi Nº 87
-Esc. Primária De Cachiculo Nº 81
-Esc. Primária De Canata Sango
-Esc. Primária De Caquengue Nº 146
-Esc. Primária De Cassinda Nº 186
-Esc. Primária De Chimungo Nº 269
-Esc. Primária De Chipuca Nº 226
-Esc. Primária De Chissingui
-Esc. Primária De Chitane Nº 92
-Esc. Primária De Chitete Nº 49
-Esc. Primária De Chivovo Nº 149
-Esc. Primária De Cossengue Nº 138
-Esc. Primária De Epaquela Nº 195
-Esc. Primária De Essuma Nº 152
-Esc. Primária De Kahanda-Ecovongo Nº 211
-Esc. Primária De Kalumbo Nº 90
-Esc. Primária De Kango Kolombinga Nº 209
-Esc. Primária De Kapalandanda Nº 216
-Esc. Primária De Kapanda N.º 73
-Esc. Primária De Kavissito Nº 52
-Esc. Primária De Kuwa
-Esc. Primária De Mango Nº 129
-Esc. Primária De Missa Nº 165
-Esc. Primária De Munhango Nº 104
-Esc. Primária De Nassoque Nº 83
-Esc. Primária De Ngunga Kaiombo Nº 93
-Esc. Primária De Numala Nº 88
-Esc. Primária De Pedro A. Hndanga Nº 185
-Esc. Primária De Sachuma Nº 198
-Esc. Primária De Sacuvela Nº 234
-Esc. Primária De Salipoto-Calipoto Nº 84
-Esc. Primária De Samaiuca Nº 151
-Esc. Primária De Sandala Nguenjo Nº 250
-Esc. Primária De Santo Boa "8 De Março"
-Esc. Primária De Saquanja Nº 265
-Esc. Primária De Savingundo Nº 201
-Esc. Primária De Soba Caunda Nº 106
-Esc. Primária E Do I Ciclo N.º 13 "Francico Júlio Chimbungo" Kambulucuto
-Esc. Primária E Do I Ciclo Nº 16 Katemo
-Esc. Primária E Do I Ciclo Rev. Júlio F. Muehambo Nº 266
-Esc. Primária Nº 112
-Esc. Primária Nº 12
-Esc. Primária Nº 123
-Esc. Primária Nº 218
-Esc. Primária Nº 219
-Esc. Primária Nº 225
-Esc. Primária Nº 231
-Escola Comercial E Industrial Do Bie
-Escola De Formacao De Tecnicos De Saude Do Bie
-Escola Prim.Ária N. 153 De Constantino
-Escola Primária 22 De Novembro N. 61
-Escola Primária N. 03 De André Cole
-Escola Primária N. 1 Nova Cantíflas
-Escola Primária N. 109 De Luciano Salucio
-Escola Primária N. 11 Joaquim Kapango
-Escola Primária N. 117 De Pedro Saluvombo
-Escola Primária N. 12- 16 De Junho
-Escola Primária N. 125 De Bândua
-Escola Primária N. 126 De Sindaco
-Escola Primária N. 127 - 11 De Novembro
-Escola Primária N. 131 De Viye
-Escola Primária N. 136 João Canjungo
-Escola Primária N. 137   - 2 De Março
-Escola Primária N. 139 - Mártires Do Kuito
-Escola Primária N. 141 Centro Jele
-Escola Primária N. 143 De Bundi
-Escola Primária N. 145 De Sambovo
-Escola Primária N. 15 Nossa Senhora Do Carmo
-Escola Primária N. 154 De Chivangulula
-Escola Primária N. 156 De Chombela
-Escola Primária N. 157 De Savicoto
-Escola Primária N. 157 Rei Sassuanga
-Escola Primária N. 166 De Kapeta
-Escola Primária N. 168 De Samalinha
-Escola Primária N. 169 De Ndulo
-Escola Primária N. 17 Cdte Mad. Kalandula
-Escola Primária N. 172 De Sachivinda
-Escola Primária N. 177 De Victor Salucombo
-Escola Primária N. 178 Rei Cufa
-Escola Primária N. 180 De Jaime Capenda
-Escola Primária N. 181 De Nhami
-Escola Primária N. 183 Baptista Yoano
-Escola Primária N. 188 Rainha Teleia
-Escola Primária N. 19 Dr. Savitendela
-Escola Primária N. 206 Ngandavila
-Escola Primária N. 207 De Eyala Liaviye
-Escola Primária N. 21 De Santa Rosa
-Escola Primária N. 223 Ngonga Chianga
-Escola Primária N. 224 Dr. João Andereu Cole
-Escola Primária N. 226 De Chipuca - Domba
-Escola Primária N. 229 Jorge Lupili
-Escola Primária N. 230 De Tandavala
-Escola Primária N. 232 De Sanjimi - Unhamo
-Escola Primária N. 233 De Sapalo Sambuindingui
-Escola Primária N. 238 De Viriato
-Escola Primária N. 24 - 14 De Abril
-Escola Primária N. 25 De Chivango
-Escola Primária N. 255 De Antunes Capusso
-Escola Primária N. 256 Soba Catraio
-Escola Primária N. 258 De Ngulungo
-Escola Primária N. 26 Cmdte Kayundo
-Escola Primária N. 27 Soba Tchindundo
-Escola Primária N. 270 Cmdte Tigre
-Escola Primária N. 272 São Pedro Cláver
-Escola Primária N. 274 António Da Fonseca
-Escola Primária N. 277 De Jamba
-Escola Primária N. 279 De Martinho Sachilulo
-Escola Primária N. 282 De Embala Trumba
-Escola Primária N. 288 De Chimbundi
-Escola Primária N. 289 De Francisco Comboio
-Escola Primária N. 29 São José De Cachingues
-Escola Primária N. 31 Augusto Ngangula
-Escola Primária N. 32 Dr. António Agostinho Neto - Cunje
-Escola Primária N. 33 De Canomba
-Escola Primária N. 36 Adriano Kapumba
-Escola Primária N. 37 Ginga Mbandi
-Escola Primária N. 4 Rei Feca
-Escola Primária N. 42 Deolinda Rodrigues
-Escola Primária N. 47 De Ginga-Kuvo
-Escola Primária N. 51 De Capolo
-Escola Primária N. 56 Lumbo
-Escola Primária N. 56 Lumbo
-Escola Primária N. 58 - E.M.I.E.I.A
-Escola Primária N. 59 - Cmdte Martins
-Escola Primária N. 6 Helena De Almeida
-Escola Primária N. 60 04 De Janeiro
-Escola Primária N. 68   -Criança Futuro
-Escola Primária N. 7 Mutu-Ya-Kevela
-Escola Primária N. 70 - Padre António De Oliveira
-Escola Primária N. 71-Kambele
-Escola Primária N. 75 Santa Clara De Assis
-Escola Primária N. 77 Caluco
-Escola Primária N. 79 De Nguendelamba
-Escola Primária N. 82 De Samalengue
-Escola Primária N. 85 De Caliqui
-Escola Primária N. 86 De Ulomba
-Escola Primária N. 91 De Wanga
-Escola Primária N. 94 - Hossi
-Escola Primária N. 95 De Castro Moma
-Escola Primária Nº 115 - Paulo Essuvo - Bié - Kuito
-Escola Primária Nº 228 - Bié - Kuito
-Inst. Medio N. De Educacao Do Chinguar
-Inst. Medio Normal De Educacao - Andulo
-Inst. Medio Normal Educacao De Chitembo
-Inst. Medio Normal Educacao De Cunhinga
-Institudo Médio De Administração E Gestão Do Kuito
-Instituto M.Normal Marista Sao Jose Nº 1
-Instituto Medio Normal Da Educacao
-Instituto Técnico De Saude   N. 295 - Cdte Bula
-Liceu   N. 290 - Rei Ndunduma
-Liceu   N. 293 Samuel Lussati
-Liceu N. 292 - 4. Divisão
-Liceu N. 298 - Bom Deus
-Magistério De Catabola
-Magistério N. 297 - Icra
-Med Delegacao Prov Do Bie Contratados Kuito
-
-
-
-
-
-
+<option>[EQT] COMPLEXO ESCOLAR N. 13 FRANCISCO CHIMBUNGO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 115 MISSÃO CATÓLICA FEMININA</option>
+<option>[EQT] MAGISTÉRIO N. 297 - ICRA</option>
+<option>[EQT] LICEU SAMUEL LUSSATI - CUNJE</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 271 MALANGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 117 DE PEDRO SALUVOMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 131 VIYE - EKOVONGO</option>
+<option>[EQT] COMPLEXO BOM DEUS N. 298 - CUITO</option>
+<option>[EQT] MAGESTÉRIO MARISTA SÃO JOSÉ - CUITO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 22 SÃO TOMÁS DE AQUINO</option>
+<option>[EQT] INSTITUTO POLITÉCNICO DE ADMINI DA CENTRALIDADE H. DO CUÍTO</option>
+<option>[EQT] COMPLEXO ESCOLAR N.º 317 REI VIYE - CUITO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 119 BOA ESPERANÇA - CHISSINGUI</option>
+<option>[EQT] ESCOLA PRIMARIA N. 256 SOBA CATRAIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 109 DE LUCIANO SALUCIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 6 HELENA DE ALMEIDA</option>
+<option>[EQT] COLEGIO RER. JÚLIO FRANCISCO MUEHOMBO N. 266</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 86 DE ULOMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 27 SOBA TCHINDUNDO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 157 DE SAVICOTI</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 233 DE SAPALO SAMBUINDINGUI</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 272 SÃO PEDRO CLÁVER</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 21 DE SANTA ROSA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 70 - PADRE ANTÓNIO DE OLIVEIRA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 79 DE NGUENDELAMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 226 DE CHIPUCA - DOMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 288 DE CHIMBUNDI</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 166 DE KAPETA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 289 FRANCISCO CAMBOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 183 BAPTISTA YOANO</option>
+<option>[EQT] LICEU N. 292 - 4. DIVISÃO</option>
+<option>[EQT] COLÉGIO N. 57 REVERENDO AUGUSTO CHIPESSE</option>
+<option>[EQT] COLEGIO N. 275 DO CUÍTO</option>
+<option>[EQT] MAGISTÉRIO "CÂNDIDA CELESTE DA SILVA"- CUÍTO/BIÉ</option>
+<option>[EQT] COLÉGIO N. 300 CDTE CUSSUMUA</option>
+<option>[EQT] GABINETE PROVINCIAL DE EDUCAÇÃO DO BIÉ</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 318 PIMPÓLIO CUITO</option>
+<option>[EQT] COMPLEXO ESCOLAR CDTE SIMIONE MUCUNE - CENTRALIDADE HORIZONTE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 177 DE VICTOR SALUCOMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 59 - CMDTE MARTINS</option>
+<option>[EQT] COLÉGIO N. 53 DA CHICALA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 76 - 1 DE MAIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 137 - 2 DE MARÇO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 274 ANTÓNIO DA FONSECA</option>
+<option>[EQT] LICEU N. 290 - REI NDUNDUMA</option>
+<option>[EQT] INSTITUTO TÉCNICO DE SAUDE N. 295 - CDTE BULA</option>
+<option>[EQT] COLÉGIO N. 78 JAMBA - YA - MINA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 65 NOSSA SENHORA DA PAZ</option>
+<option>[EQT] COLÉGIO N. 175 - CDTE KATALECO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 133 PE. AGOSTINHO VERÍSSIMO SONJAMBA</option>
+<option>[EQT] COLÉGIO N. 302 - CDTE REGRESSO</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DO CUITO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 60 04 DE JANEIRO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 24 - 14 DE ABRIL</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 51 DE CAPOLO</option>
+<option>[EQT] COMPLEXO ESCOLAR ENSINO ESPECIAL N. 271</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 14 CDTE CUSSUMUA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 74 ESTRELA DA MANHÃ</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 03 DE ANDRÉ COLE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 37 GINGA MBANDI</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 223 NGONGA CHIANGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 7 MUTU - YA - KEVELA</option>
+<option>[EQT] COMPLEXO ESCOLAR Nº 16 FELIZBERTO NGUNGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 255 DE ANTUNES CAPUSSO</option>
+<option>[EQT] COLÉGIO N. 41 - 17 SETEMBRO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 50 ANTÓNIO CHISSAPA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 303 - DR. FERNANDO SAMUEL PEQUENINO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 94 - HOSSI</option>
+<option>[EQT] ESCOLA PRIMÁRIA 25 DE MAIO N. 28 - MUCUMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 157 REI SASSUANGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 230 DE TANDAVALA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 180 DE JAIME CAPENDA</option>
+<option>[EQT] COLÉGIO N. 38 REI LIAVENDA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 314 - 28 DE JUNHO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 8 - HOJI - YA - HENDA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 264 DE EPONGOLOCO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 148 MISSÃO CAMUNDONGO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 30 ANA MARIA FIDALGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA 22 DE NOVEMBRO N. 61</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 168 DE SAMALINHA</option>
+<option>[EQT] COLÉGIO N. 215 DE BRUGALHO CHIPEPE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 188 RAINHA TELEIA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 258 DE NGULUNGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 4 REI FECA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 11 JOAQUIM KAPANGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 33 DE CANOMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 71 - KAMBELE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 26 CDTE KAYUNDO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 17 CDTE MAD. KALANDULA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 56 LUMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIO N 270 COMANDANTE TIGRE</option>
+<option>[EQT] COLÉGIO N. 236 DR. JOÃO ANDEREU COLE</option>
+<option>[EQT] COLÉGIO N. 67 - MANGUXI</option>
+<option>[EQT] COLÉGIO N. 69 - CDTE NOVENTA</option>
+<option>[EQT] COLÉGIO N. 312 CHARLES DONALD E NAOMI COLE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CHITEQUE</option>
+<option>[EQT] ESCOLA PRIMÁRIA MISSIONÁRIA N.124</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 269 DE CHIMUNGO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 268 SEBASTIANA GARCIA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 2 ANTÓNIA J. SILVA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 55 - ECOLELO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 10 MISSÃO CHANHORA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 301 SOBA RUBEN LUVENI</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 75 SANTA CLARA DE ASSIS</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 82 DE SAMALENGUE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 198 UNIDA DE SACHUMA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 232 DE SANJIMI - UNHAMO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 47 DE GINGA - KUVO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 88</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE MANGO N. 129</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 222 JOAQUIM SANDOMBUA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 279 DE MARTINHO SACHILULO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 85 DE CALIQUI</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 206 NGANDAVILA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 141 CENTRO NJELE</option>
+<option>[EQT] ESCOLA PRIMARIA N. 15 NOSSA SENHORA DO CARMO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 95 DE CASTRO MOMA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 125 DE BÂNDUA</option>
+<option>[EQT] COLÉGIO N. 66 - 4 DE ABRIL</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 273 - CHIPUPILI</option>
+<option>[EQT] ESCOLS PRIMÁRIA N. 224 DR. JOÃO ANDEREU COLE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 19 DR. SAVITENDELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 238 DE VIRIATO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 178 REI CUFA</option>
+<option>[EQT] ESCOLA PRIM.ÁRIA N. 153 DE CONSTANTINO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 282 DE EMBALA TRUMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 12 - 16 DE JUNHO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 68 - CRIANÇA FUTURO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 25 DE CHIVANGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 77 CALUCO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 143 DE BUNDI</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 31 AUGUSTO NGANGULA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 32 DR. ANTÓNIO AGOSTINHO NETO</option>
+<option>[EQT] COLÉGIO N. 98 DE KAMBÂNDUA</option>
+<option>[EQT] INSTITUTO POLITÉCNICO DE ADMINISTRAÇÃO E GESTÃO DO CUITO - BIÉ</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 9 CLEMENTE VINIOMBO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 63 - E.M.I.E.I.A</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 110 DE EBENÉZER</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 136 JOÃO CANJUNGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 277 DE JAMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 122 - CHILEMO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 127 - 11 DE NOVEMBRO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 29 SÃO JOSÉ DE CACHINGUES</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 229 JORGE LUPILI</option>
+<option>[EQT] COMPLEXO ESCOLAR 10 DE DEZEMBRO N. 48 - CUITO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 5 NOSSA SENHORA DE FÁTIMA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 42 DEOLINDA RODRIGUES</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 91 DE WANGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 169 DE NDULO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 145 DE SAMBOVO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 139 - MÁRTIRES DO KUITO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 58 - E.M.I.E.I.A</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 156 DE CHOMBELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 117 PEDRO SALUVOMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1 NOVA CANTÍFLAS</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 154 DE CHIVANGULULA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 140 DE SANTO AFONSO PRAIA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 36 ADRIANO KAPUMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 267 REI EKWIKWI II</option>
+<option>[EQT] INSTITUTO POLITÉCNICO DE GESTÃO DA CENTRALIDADE H. DO CUÍTO</option>

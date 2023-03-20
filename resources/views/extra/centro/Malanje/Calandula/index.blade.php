@@ -1,12 +1,22 @@
-<option>Colégio N. 11 - 4 De Fevereiro - Calandula - Calandula </option>
-<option>Complexo Escolar N. 13 - 11 De Novembro - Kateco Kangola - Calandula </option>
-<option>Complexo Escolar N. 14 - 17 De Setembro - Caxito - Calandula </option>
-<option>Complexo Escolar N. 15 - 17 De Setembro - Kinje - Calandula </option>
-<option>Complexo Escolar N. 16 - 22 De Novembro - Kota - Calandula </option>
-<option>Complexo Escolar N. 19- Ngola Kiluange - Santa Maria - Calandula </option>
-<option>Complexo Escolar N. 20 - Missão Catolica De Kalandula - Calandula </option>
-<option>Escola Primária N. 18- Hoji Ya Henda - Quintumbo - Calandula </option>
-<option>Escola Primária N. 2 - 1.  De Maio - Calandula </option>
-<option>Escola Primária N. 8- Gongo - Calandula </option>
-<option>Escola Primária N. 9 - Tanque - Calandula </option>
-<option>Liceu N. 12- 2 De Setembro - Calandula</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 4 - BUACA - CALANDULA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO HELE-PESO - CALANDULA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 20 - MISSÃO CATÓLICA - CALANDULA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 17 - 4 DE JANEIRO - CALANDULA</option>
+<option>[EQT] COMPLEXO ESCOLA N. 16 - 22 DE NOVEMBRO - CALANDULA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 15 - 17 DE SETEMBRO - CALANDULA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 9 - TANQUE - CALANDULA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 8- GONGO- CALANDULA</option>
+<option>[EQT] COMPLEXO ESCOLA N. 13 - 11 DE NOVEMBRO - KATECO KANGOLA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 6 - MATOMBE - CALANDULA</option>
+<option>[EQT] COLÉGIO N. 11 - 4 DE FEVEREIRO - CALANDULA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 5 - RAINHA NGINGA MBANDE - CALANDULA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 10 - VULA BONGO - CALANDULA</option>
+<option>[EQT] LICEU N. 12 - 2 DE SETEMBRO - CALANDULA</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DE CALANDULA </option>
+<option>[EQT] COMPLEXO ESCOLAR N. 14 - CAXITO- CALANDULA</option>
+<option>[EQT] COMPLEXO ESCOLAR Nº 19 NGOLA KILUANJE - CALANDULA</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DE CALANDULA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1 - PIPA - CALANDULA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 18 - HOJI YA HENDA - CALANDULA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N.3 -  AMARAL - CALANDULA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 2 - 1º DE MAIO - CALANDULA</option>

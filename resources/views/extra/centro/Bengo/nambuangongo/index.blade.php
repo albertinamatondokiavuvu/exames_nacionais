@@ -1,66 +1,39 @@
-<option>Complexo Escolar N. 731 Rodrigues C. Candido</option>
-<option>Complexo Escolar N. 732 Cdte Staline</option>
-<option>Complexo Escolar N. 733 Lopes Maria Ximuto</option>
-<option>Complexo Escolar N. 734 António Adolfo Sacudido</option>
-<option>Complexo Escolar N. 735 João Mario Da Costa</option>
-<option>Complexo Escolar N. 735 João Mario Da Costa</option>
-<option>Complexo Escolar N. 736 Kiwembo</option>
-<option>Escola Do Lº Ciclo Nº 725 - Muxaluando Sede </option>
-<option>Escola Primaria 751/Kilai </option>
-<option>Escola Primaria N. 700 Cdte Dimbondua</option>
-<option>Escola Primária N. 701 - Kissacala</option>
-<option>Escola Primária N. 705 Kinguengo</option>
-<option>Escola Primária N. 706 - Nobre Manuel Adão</option>
-<option>Escola Primária N. 707 Vila - Mpipa</option>
-<option>Escola Primária N. 708 Kilumbo</option>
-<option>Escola Primária N. 709 Kimazangui</option>
-<option>Escola Primária N. 712 Lopes Fernando</option>
-<option>Escola Primária N. 713 Sebastião Bundo</option>
-<option>Escola Primária N. 715 Raul Marques Mahinga</option>
-<option>Escola Primária N. 716 - Zemba</option>
-<option>Escola Primária N. 717 Kihinga Nzambi</option>
-<option>Escola Primária N. 718 - Gonçalves G. Cauanga</option>
-<option>Escola Primária N. 719 Kimbage</option>
-<option>Escola Primária N. 720 Gomes João Neto</option>
-<option>Escola Primária N. 722 Mutolo Muginga</option>
-<option>Escola Primária N. 723 Kicangassala</option>
-<option>Escola Primária N. 724 Pedro Mateus Congo</option>
-<option>Escola Primária N. 725 João D. De Carvalho</option>
-<option>Escola Primária N. 726 Tempo Muda</option>
-<option>Escola Primária N. 727 - Teresa Afonso</option>
-<option>Escola Primária N. 728 Kiniêngue</option>
-<option>Escola Primária N. 729 Tongo Dyandua</option>
-<option>Escola Primaria Nº 701 - Kicunzo Sede </option>
-<option>Escola Primaria Nº 703 - Hala-Amor </option>
-<option>Escola Primaria Nº 705 - Kimussanga </option>
-<option>Escola Primaria Nº 706 - Muanda </option>
-<option>Escola Primaria Nº 711 - Calunga-Samba </option>
-<option>Escola Primaria Nº 712/Zambaxi </option>
-<option>Escola Primaria Nº 716/Terra-Nova </option>
-<option>Escola Primaria Nº 720 - Matanga </option>
-<option>Escola Primaria Nº 721 - Kifula </option>
-<option>Escola Primaria Nº 723 - Kissacala </option>
-<option>Escola Primaria Nº 724 - Águas-Belas </option>
-<option>Escola Primaria Nº 727 - Kigombe </option>
-<option>Escola Primaria Nº 729 - Posse </option>
-<option>Escola Primaria Nº 730 - Libanzo </option>
-<option>Escola Primaria Nº 731 - Hungo </option>
-<option>Escola Primaria Nº 736/Kinguimbi </option>
-<option>Escola Primaria Nº 738/Kuto </option>
-<option>Escola Primaria Nº 740/Kifuta </option>
-<option>Escola Primaria Nº 742/Gombe Sede </option>
-<option>Escola Primaria Nº 743/Kifama </option>
-<option>Escola Primaria Nº 744/Hinda </option>
-<option>Escola Primaria Nº 746/Kicanga Samba </option>
-<option>Escola Primaria Nº 747/Kimuanassala </option>
-<option>Escola Primaria Nº 750/Kimbamba </option>
-<option>Escola Primaria Nº 754/Kinzeguete </option>
-<option>Escola Primaria Nº 755/Kiba </option>
-<option>Escola Primaria Nº 758/Kiembo </option>
-<option>Escola Primaria Nº 767 - Muxaluando Sede </option>
-<option>Escola Primaria Nº 769/Kicunzo </option>
-<option>Escola Primaria Nº 771/Kiginga </option>
-<option>Escola Primaria Nº 772/Kindembe </option>
-<option>Liceu N. 774 - General Domingos Sks</option>
-<option>Repartição De Educação, Ciencia E Tecnologia Nambuango </option>
-<option>Reparticao Municipal De Educacao D/Bengo</option>
+<option>[EQT] ESCOLA PRIMARIA N. 701 - KISSACALA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 716 - ZEMBA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 736 KIWEMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 709 KIMAZANGUI</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 706 - NOBRE MANUEL ADÃO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 728 KINIÊNGUE</option>
+<option>[EQT] ESCOLA PRIMARIA N. 700 COMANDANTE DIMBONDUA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 719- KIMBAGE</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 733 LOPES MARIA XIMUTO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 712 LOPES FERNANDO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 723 KICANGASSALA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 718 - CAMEMBE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 717 KIHINGA NZAMBI</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 707 VILA - MPIPA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 713 SEBASTIÃO BUNDO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 714 NOBRE CAMPOS PEREIRA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 705 KINGUENGO</option>
+<option>[EQT] ESCOLA PRIMARIA N. 703- GOMBE SEDE</option>
+<option>[EQT] LICEU N. 774 - GENERAL DOMINGOS HUNGO "SKS"</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 725 JOÃO D. DE CARVALHO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 724 PEDRO MATEUS CONGO</option>
+<option>[EQT] COMPLETO ESCOLAR  N. 730 - COMANDANTE BOLA DO POVO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 735 JOÃO MARIO DA COSTA- NAMBUAGONGO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 732 COMANDANTE STALINE</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 731 RODRIGUES C. CANDIDO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 711-JOAQUIM F. MUSSUNDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 726 TEMPO MUDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 722 MUTOLO MUGINGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 702 - CAIENGUE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 720 GOMES JOÃO NETO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 727 - TERESA AFONSO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 729 TONGO DYANDUA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 715 RAUL MARQUES MAHINGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 704- BANZA-SÃO PAULO</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DO NAMBUANGONGO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 734 ANTÓNIO ADOLFO SACUDIDO</option>
+<option>[EQT] ESCOLA PRIMARIA Nº 721 - DIAGUERRA-MUXALUANDO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 708 KILUMBO</option>
+<option>[EQT] ESCOLA PRIMARIA N. 710- KIBUMDA - NAMBUANGONGO</option>

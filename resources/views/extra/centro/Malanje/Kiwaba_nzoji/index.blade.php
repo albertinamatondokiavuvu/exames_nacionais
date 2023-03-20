@@ -1,9 +1,11 @@
-<option>Colégio N. 8 - Hoji-Ya-Henda - Kiwaba Nzoji </option>
-<option>Escola De Formação Técnicos De Saúde - Kiwaba Nzoji </option>
-<option>Escola Primária N. 1 - Kilamba - Kiwaba Nzoji</option>
-<option>Escola Primária N. 2 - Tunda-Dia-Mola - Kiwaba Nzoji </option>
-<option>Escola Primária N. 3 - Quissua - Kiwaba Nzoji </option>
-<option>Escola Primária N. 4 - Cambo Cafuxe - Kiwaba Nzoji </option>
-<option>Escola Primária N. 5 - Quifucussa - Kiwaba Nzoji </option>
-<option>Escola Primária N. 6 - Luthau - Kiwaba Nzoji </option>
-<option>Escola Primária N. 7 - Mufuma - Kiwaba Nzoji </option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DE EDUCAÇÃO DE KWABA NZOJI</option>
+<option>[EQT] COLÉGIO N. 8 - HOJI-YA-HENDA - KIWABA NZOJI</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº2 TUNDA DYA MOLA - KIWABA NZOJI</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº7 MUFUMA - KIWABA NZOJI</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº6 LUTAU - KIWABA NZOJI</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº3 QUISSUA - KIWABA NZOJI</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº5 QUIFUCUSSA - KIWABA NZOJI</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº4 CAMBO CAFUXI - KIWABA NZOJI</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº9 MANGANGE - KIWABA NZOJI</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº1 KILAMBA - KIWABA NZOJI</option>
+<option>[EQT] INSTITUTO TÉCNICO DE SAÚDE - KIWABA NZOJI</option>

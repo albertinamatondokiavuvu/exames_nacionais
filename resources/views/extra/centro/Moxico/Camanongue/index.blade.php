@@ -1,21 +1,24 @@
-<option>Direcção Municipal De Educação Kamanongue</option>
-<option>Escola Do Ensino Primário Nº 19  - Camanongue</option>
-<option>Escola Do Ensino Primário Nº 20  - Camanongue</option>
-<option>Escola Do Ensino Primário Nº 22  - Camanongue</option>
-<option>Escola Do Ensino Primário Nº 23  - Camanongue</option>
-<option>Escola Do Ensino Primário Nº 24  - Camanongue</option>
-<option>Escola Do Ensino Primário Nº 248  - Camanongue</option>
-<option>Escola Do Ensino Primário Nº 249  - Camanongue</option>
-<option>Escola Do Ensino Primário Nº 25  - Camanongue</option>
-<option>Escola Do Ensino Primário Nº 26  - Camanongue</option>
-<option>Escola Do Ensino Primário Nº 27  - Camanongue</option>
-<option>Escola Do Ensino Primário Nº 29  - Camanongue</option>
-<option>Escola Do Ensino Primário Nº 30  - Camanongue</option>
-<option>Escola Do I Ciclo Do Ens. Sec. Nº 231  - Camanongue</option>
-<option>Escola Primária N. 21 De Camboa</option>
-<option>Escola Primária N. 230 De Caweji</option>
-<option>Escola Primária N. 28 - Sapombo Velho</option>
-<option>Escola Primária N. 85 - Sede</option>
-<option>Escola Primária N. 99 - Sede</option>
-<option>Liceu N. 205 - Kamanongue</option>
-
+<option>[EQT] ESCOLA PRIMÁRIA N. 19 </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 25 KAMULEQUE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 21 CAMBOA</option>
+<option>[EQT] LICEU N. 205 CAMANONGUE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 99 - CAMANONGUE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 248 MUCOLONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 22 CHIUAIA</option>
+<option>[EQT] COLÉGIO N. 231 - DR. ANTÓNIO A. NETO - CAMANONGUE </option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DE CAMANONGUE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 23 MAZEMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 85 CAMANONGUE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 249 NACAVUNGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N.19 - KALUNDUNGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 32 CALIATA</option>
+<option>[EQT] ESCOLA PRIMÁRIA  N. 29 SAMBAVO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 34 MUMANGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 28 SAPOMBO - VELHO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 27 MUSSERINGINGE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 26 MUAPEZO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 230 CAWEJI</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 20 CHINANAMATA</option>
+<option>[EQT] COLÉGIO N. 100 - CAMANONGUE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 30 CAMANONGUE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 24 MISSÃO CATÓLICA SANTA ANA</option>

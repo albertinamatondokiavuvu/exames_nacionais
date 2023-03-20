@@ -1,8 +1,16 @@
-<option>Colégio N. 2- Palanca Negra - Cangandala </option>
-<option>Complexo Escolar N. 5 - Ngola Kiluange - Cangandala </option>
-<option>Escola Primária N. 1 - Hoji Ya Henda - Cangandala </option>
-<option>Escola Primária N. 12 - Comandante Sacalavanca Do Bembo - Cangandala </option>
-<option>Escola Primária N. 4 - Franciscana Bom Pastor - Cangandala </option>
-<option>Escola Primária N. 8 - Sagrada Esperança - Cangandala </option>
-<option>Escola Primária N. 9 - Comandante Capala - Cangandala </option>
-<option>Liceu N. 3 - Njinga Mbandi - Cangandala</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 15 - AUGUSTO NGANGULA - CANGANDALA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 8 - SAGRADA ESPERANÇA - CANGANDALA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 11 - SÔNGUA - CANGANDALA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 12 - COMANDANTE SACALAVANCA - CANGANDALA</option>
+<option>[EQT] COLÉGIO Nº 2- PALANCA NEGRA - CANGANDALA</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DE EDUCAÇÃO DE CANGANDALA</option>
+<option>[EQT] LICEU Nº 3 - NZINGA MBANDI</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 10 - HAVEMOS DE VOLTAR - CANGANDALA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 1- HOJI-YA-HENDA - CANGANDALA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 13 - SUINGUIDALA - CANGANDALA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 14 - GENERAL N´GUETO</option>
+<option>[EQT] ESCOLA PRIMÁRIS Nº 9 - COMANDANTE CAPALA - CANGANDALA</option>
+<option>[EQT] COMPLEXO ESCOLAR Nº 5 - NGOLA KILUANGE</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 7 - SANTO ANTÓNIO - CANGANDALA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 4 - FRANCISCANA BOM PASTOR - CANGANDALA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 6 - GENERAL GONGA - CANGANDALA</option>

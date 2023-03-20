@@ -1,44 +1,41 @@
-<option>Colégio 22 De Novembro N. 1437 <option>
-<option>Escola Do Ensino Primário Bowe Nº 1367 - Chipindo<option>
-<option>Escola Do Ensino Primário Canjanja Nº 1369 - Chipindo<option>
-<option>Escola Do Ensino Primário Catápua Nº 1373 - Chipindo<option>
-<option>Escola Do Ensino Primário Chiconguele Samacaca Nº 1457 - Chipindo<option>
-<option>Escola Do Ensino Primário Chipalanga Nº 1380 - Chipindo<option>
-<option>Escola Do Ensino Primário Ngangula  Nº 1444 - Chipindo<option>
-<option>Escola Do Ensino Primário Ngongo Nº 1446 - Chipindo<option>
-<option>Escola Primária 19 De Março N. 1430 <option>
-<option>Escola Primária 4 De Abril N. 1782 <option>
-<option>Escola Primária Bambi N. 1365 <option>
-<option>Escola Primária Belécua N. 1366 <option>
-<option>Escola Primária Buloteque N. 1424 <option>
-<option>Escola Primária Bunjei N. 1438 <option>
-<option>Escola Primária Camassissa N. 1808 <option>
-<option>Escola Primária Candungo N. 1591 <option>
-<option>Escola Primária Canhawenga N. 1431 <option>
-<option>Escola Primária Capembe N. 1425 <option>
-<option>Escola Primária Capuka N. 1426 <option>
-<option>Escola Primária Caquela N. 419 <option>
-<option>Escola Primária Cassema N. 1371 <option>
-<option>Escola Primária Centro Catchuco N. 1427 <option>
-<option>Escola Primária Centro Escolar Lino N. 1375 <option>
-<option>Escola Primária Centro Kawanga N. 1439 <option>
-<option>Escola Primária Chilanda N. 1448 <option>
-<option>Escola Primária Chiliva N. 1436 <option>
-<option>Escola Primária Chitata N. 1428 <option>
-<option>Escola Primária Chuvica N. 1440 <option>
-<option>Escola Primária Dingo N. 1429 <option>
-<option>Escola Primária Dovala N. 421 <option>
-<option>Escola Primária Guelengue N. 1432 <option>
-<option>Escola Primária Katchawa N. 1381 <option>
-<option>Escola Primária Macongue N. 1382 <option>
-<option>Escola Primária Missão Da Ieca N. 1445 <option>
-<option>Escola Primária N. 153 <option>
-<option>Escola Primária Ngala N. 406 <option>
-<option>Escola Primária Nguvulo N. 1259 <option>
-<option>Escola Primária Sacalombo N. 1442 <option>
-<option>Escola Primária Sangueve N. 420 <option>
-<option>Escola Primária Sapato N. 1443 <option>
-<option>Escola Primária Sapi N. 1434 <option>
-<option>Escola Primária Songa N. 1385  <option>
-<option>Escola Primária Uyamba N. 1435 <option>
-<option>EscolaLiceu N. 1832 - Chipindo<option>
+<option>[EQT] ESCOLA PRIMARIA N. 1434 - SAPI </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1435 - UYAMBA </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 419 - CAQUELA </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1447 - CENTRO CHIMOMA </option>
+<option>[EQT] COMPLEXO ESCOLAR N. 420 - SANGUEVE </option>
+<option>[EQT] ESCOLA PRIMARIA  N. 1425 - CAPEMBE</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DO CHIPINDO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1808 - CAMASSISSA </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1445 - MISSÃO IECA </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1375 - CENTRO ESCOLAR LINO </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1371 - CASSEMA </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1424 - BULOTEQUE </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1432 - GUELENGUE </option>
+<option>[EQT] ESCOLA PRIMARIA N. 1436 - CHILIVA </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1439 - CENTRO KAWANGA </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1427 - CENTRO CATCHUCO </option>
+<option>[EQT] COLÉGIO N. 1437 - 22 DE NOVEMBRO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1373 - NGUVULO </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1443 - SAPATO </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1438 - BUNJEI </option>
+<option>[EQT] ESCOLA PRIMARIA N. 1431 - CANHAWENGA</option>
+<option>[EQT] ESCOLA PRIMARIA N. 1782 - 4 DE ABRIL </option>
+<option>[EQT] ESCOLA PRIMARIA N. 421 - DOVALA </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1428 - CHITATA </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1381 - KATCHAWA </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 406 - NGALA </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 153</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1365 - BAMBI </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1448 - CHILANDA </option>
+<option>[EQT] COLÉGIO N. 1288 - CAMBUJEI</option>
+<option>[EQT] LICEU N. 1832 - CHIPINDO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1442 - SACALOMBO </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1366 - BELÉCUA </option>
+<option>[EQT] ESCOLA PRIMARIA N. 1429 - DINGO </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1385 - SONGA </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1426 - CAPUKA </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1591 - CANDUNGO </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1430 - 19 DE MARÇO </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1440 - CHUVICA </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1441 - CHIVANDA </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1382 - MACONGUE </option>

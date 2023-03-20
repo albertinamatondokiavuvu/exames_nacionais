@@ -1,2 +1,14 @@
-<option>Escola Primária N. 2 - Cambo Sunginge - Kahombo</option>
-<option>Escola Primária N. 3 - Micanda - Kahombo</option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 3 - MICANDA - CAHOMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 7 - CATOTA - CAHOMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 4 - CAMBO CAMANA - CAHOMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 9 - KIBUMO   - CAHOMBO</option>
+<option>[EQT] LICEU N.12 - NZINGA KILUANJE - CAHOMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 1 - AUGUSTO NGANGULA - CAHOMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 13 - SANTA COMBA - CAHOMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 10 - HULO - CAHOMBO</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DE CAHOMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 5 - BANJE ANGOLA - CAHOMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 2 - CAMBO SUNJINJI - CAHOMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 8 - QUENGUES - CAHOMBO</option>
+<option>[EQT] COLÉGIO N. 11 - HOJI-YA-HENDA - CAHOMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 6 - CANZUBI</option>

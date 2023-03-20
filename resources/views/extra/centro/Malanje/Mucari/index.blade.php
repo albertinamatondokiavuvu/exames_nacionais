@@ -1,16 +1,17 @@
-<option>Complexo Escolar N. 15 - Rei Ngola Kiluanje - Caculama </option>
-<option>Escola Primária N. 1 - Major Kahangulo - Caculama</option>
-<option>Escola Primária N. 10 - 1.  De Maio - Caculama </option>
-<option>Escola Primária N. 11 - Comandante Muleka - Caculama </option>
-<option>Escola Primária N. 12 - 28 De Agosto - Caculama </option>
-<option>Escola Primária N. 13 - Deolinda Rodrigues - Caculama </option>
-<option>Escola Primária N. 14 - Nzinga Mbandi - Caculama </option>
-<option>Escola Primária N. 2 - José Do Telhado - Caculama </option>
-<option>Escola Primária N. 3 - Comandante Bula Matade - Caculama </option>
-<option>Escola Primária N. 4 - 17 De Setembro - Caculama </option>
-<option>Escola Primária N. 5 - 11 De Novembro - Caculama </option>
-<option>Escola Primária N. 6 - Hoji-Ya-Henda - Caculama </option>
-<option>Escola Primária N. 7 - Santa Teresinha - Caculama </option>
-<option>Escola Primária N. 8 - 4 De Fevereiro - Caculama </option>
-<option>Escola Primária N. 9 - 1 De Junho - Caculama </option>
-
+<option>[EQT] COMPLEXO ESCOLAR Nº 15 - REI NGOLA KILUANJE - MUCARI</option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 4 - 17 DE SETEMBRO - MUCARI</option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 1 - MAJOR KAHANGULO - MUCARI</option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 8 - 4 DE FEVEREIRO - MUCARI</option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 14 - NZINGA MBANDI  - MUCARI</option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 6 - HOJI-YA-HENDA - MUCARI</option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 2 - JOSÉ DO TELHADO - MUCARI</option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 11 - COMANDANTE MULEKA - MUCARI</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DE MUCARI</option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 7 - SANTA TERESINHA - MUCARI</option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 12 - 28 DE AGOSTO - MUCARI</option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 10 - 1º DE MAIO  - MUCARI</option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 3 - COMANDANTE BULA MATADE - MUCARI</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DO MUCARI  </option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 5 - 11 DE NOVEMBRO - MUCARI</option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 9 - 1 DE JUNHO - MUCARI</option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 13 - DEOLINDA RODRIGUES - MUCARI</option>

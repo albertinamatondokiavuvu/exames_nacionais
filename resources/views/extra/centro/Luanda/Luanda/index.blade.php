@@ -1,4 +1,3 @@
-<option>Escola Do I Ciclo Do Ensino Secundário Nº 2048-Belas</option>
 <option>Centro De Diagnóstico E Orientação Psicopedagógico Nº 1532 - Rangel</option>
 <option>Cmplexo Escolar São João Eudes Nr.1410 - Ngola Kiluanje</option>
 <option>Colégio 1º De Maio Nº 1140 - Maianga</option></option>
@@ -16,8 +15,8 @@
 <option>Colégio N. 5002 - Viana</option>
 <option>Colégio Ngola Kanini Nº 1137 - Maianga</option>
 <option>Colégio Nº 1600 - Chê Guevara - N. Bendinha</option>
-<option>Colégio Nr. 1304 - Sambizanga</option> 
-<option>Colégio Nr. 1305 - Sambizanga</option> 
+<option>Colégio Nr. 1304 - Sambizanga</option>
+<option>Colégio Nr. 1305 - Sambizanga</option>
 <option>Colégio Nr.1404 - Margarita - Ngola Kiluanje
 <option>Colégio Público Nº 1201 - Ingombota</option></option>
 <option>Colégio Público Nº 1203 - Ingombota</option></option>
@@ -34,7 +33,6 @@
 <option>Colégio Uat Nº 1101 - Maianga</option>
 <option>Complexo Escolar Bom Conselho Nº 1216 - Ingombota</option></option>
 <option>Complexo Escolar Catintom Nº 1160 - Maianga</option>
-<option>Complexo Escolar Divina Providência N. 8037 - Kilamba Kiaxi</option>
 <option>Complexo Escolar Monte Sinai Nº 1108 - Maianga</option>
 <option>Complexo Escolar N. 1001 - Samba</option>
 <option>Complexo Escolar N. 1003 I.E.B.A - Samba</option>
@@ -72,13 +70,13 @@
 <option>Escola De Formação De Professores De Educação Física Nº 2006</option>
 <option>Escola De Formacao De Tecnicos De Saude De Luanda</option>
 <option>Escola Do Ensino Primario N.º 8090 - Cacuaco</option>
-<option>Escola Do I Ciclo Do Ens. Sec. Nr 1143-Sambizanga</option> 
-<option>Escola Do I Ciclo N.º 1143 - Sambizanga</option> 
+<option>Escola Do I Ciclo Do Ens. Sec. Nr 1143-Sambizanga</option>
+<option>Escola Do I Ciclo N.º 1143 - Sambizanga</option>
 <option>Escola Do I E Ii Do Ens. Sec. N.º1026 - Belas</option>
 <option>Es</option>cola Do Ii Ciclo Do Ensino Secundário Nº 5135 - Zango Iv - Viana</option>
 <option>Escola Do Ii E Iii N. 17 De Setembro</option>
 <option>Escola Do Iii Nivel Do Golf</option>
-<option>Escola Do Iiº Ciclo Do Ensino Secundário Nº 4057-101ª Brigada Cacuaco</option> 
+<option>Escola Do Iiº Ciclo Do Ensino Secundário Nº 4057-101ª Brigada Cacuaco</option>
 <option>Escola Do Iiº Ciclo Puniv-Ingombota</option>
 <option>Escola Primáriacola Do Ingombota 83 - Nº 1500 - Rangel</option>
 <option>Escola Primária - Beiral - Nº 1514 - Rangel</option>
@@ -94,10 +92,7 @@
 <option>Escola Primária Cdte Imperial Santana Nº 1523 - Rangel</option>
 <option>Escola Primaria E I Ciclo N.º 2009 - Bita</option>
 <option>Escola Primaria E I Ciclo N.º 2031- Bondo Chapeu</option>
-<option>Escola Primaria E I Ciclo Nº 1200 - Havemos De Voltar  -  K.Kiaxi</option> 
-<option>Escola Primaria E I Ciclo Nº 2032  -  Belas  </option>
-<option>Escola Primaria E I Ciclo Nr. 2031  -  Belas </option>
-<option>Escola Primária E Iº Ciclo Nº 1004 I.E.B.A-Samba</option> 
+<option>Escola Primária E Iº Ciclo Nº 1004 I.E.B.A-Samba</option>
 <option>Escola Primária E Iº Ciclo Nº 2104</option>
 <option>Escola Primária Emanuel Nº 1520 - Rangel</option>
 <option>Escola Primária I E Ii Ciclo Nº 6021 </option>
@@ -165,8 +160,8 @@
 <option>Escola Primaria N.1402 - Ngola Kiluanje</option>
 <option>Escola Primaria N.1403 - Iera - Ngola Kiluanje</option>
 <option>Escola Primária Nª Senhora Da Guadalupe Nº 1510 - Rangel</option>
-<option>Escola Primária Nº 1040 - Maianga</option> 
-<option>Escola Primária Nº 1073 - Maianga</option> 
+<option>Escola Primária Nº 1040 - Maianga</option>
+<option>Escola Primária Nº 1073 - Maianga</option>
 <option>Escola Primária Nº 1108-Ingombota</option>
 <option>Escola Primaria Nº 1112-Ingombota</option>
 <option>Escola Primária Nº 1122-Ingombota</option>
@@ -179,8 +174,8 @@
 <option>Escola Primária Nº 1521 - Rangel</option>
 <option>Escola Primária Nº 1522 - Rangel</option>
 <option>Escola Primária Nº 1525 - Rangel</option>
-<option>Escola Primaria Nr. 1145  -  Sambizanga</option> 
-<option>Escola Primária Pica - Pau Nº 1519 - Rangel</option> 
+<option>Escola Primaria Nr. 1145  -  Sambizanga</option>
+<option>Escola Primária Pica - Pau Nº 1519 - Rangel</option>
 <option>Escola Primária Posto Quinze N. 1121 - Maianga</option>
 <option>Escola Primária Rainha Ginga N. 1116 - Maianga</option>
 <option>Escola Primária Rainha Lueji Nº 1508 - Rangel</option>
@@ -188,13 +183,13 @@
 <option>Escola Primária Soeiro Nº 1524 - Rangel</option><option>Escola Primária Sonangol N. 1157 - Maianga</option>
 <option>Escola Primaria Virgem Milagrosa N. 1127 - Maianga</option>
 <option>Escola Primária Yasa N. 1112 - Maianga</option>
-<option>Escola Primária, Iº E Iiº  Nº 1243 Apocalipse I.E.I.A-Samba</option> 
+<option>Escola Primária, Iº E Iiº  Nº 1243 Apocalipse I.E.I.A-Samba</option>
 <option>Escola Primário Kapipa N. 1104 - Maianga</option>
 <option>Escola Primário N. 1103 - Maianga</option>
 <option>Escola Primário Nossa Senhora De Fatima N. 1105 - Maianga</option>
 <option>Inst.Med.Polivalente Do Reg.Policia Militar</option>
 <option>Inst.Medio Industrial De Luanda-P.Quadro</option>
-<option>Instituto Médio De Gestão Do Kicolo Nº 4031 Cacuaco</option> 
+<option>Instituto Médio De Gestão Do Kicolo Nº 4031 Cacuaco</option>
 <option>Instituto Médio Técnico Imel Nº 1142 - Maianga</option></option>
 <option>Instituto Normal De Educação Garcia Neto</option>
 <option>Instituto Politécnica - Alda Lara Nº 1225</option>
@@ -220,7 +215,7 @@
 <option>Repartição Da Educação Do Distrito Urbano Da   Ingombota</option>
 <option>Repartição Da Educação Do Distrito Urbano Da  Ingombota</option>
 <option>Repartição Da Educação Do Distrito Urbano Da Maianga</option>
-<option>Repartição Da Educação Do Distrito Urbano Da Maianga Admitidos</option> 
+<option>Repartição Da Educação Do Distrito Urbano Da Maianga Admitidos</option>
 <option>Repartição Da Educação Do Distrito Urbano Da Maianga Segurança</option>
 <option>Repartição Da Educacao Do Distrito Urbano Do Kilamba Kiaxi-Segurança </option>
 <option>Repartição Da Educação Do Distrito Urbano Do Rangel</option>

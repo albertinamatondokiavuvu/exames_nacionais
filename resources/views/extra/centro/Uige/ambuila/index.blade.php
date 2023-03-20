@@ -1,16 +1,28 @@
-<option>Colégio De Ambuila</option>
-<option>Escola Primária De Bela Encoge</option>
-<option>Escola Primária De Mayanga</option>
-<option>Escola Primária De Mvuanga</option>
-<option>Escola Primária De Nova Aliança</option>
-<option>Escola Primária De Quissengui</option>
-<option>Escola Primária N. 623 Mantoyo</option>
-
-
-
-
-
-
-
-
-
+<option>[EQT] ESCOLA PRIMÁRIA DE KANIKI</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE NSANDA KINA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE KIBALAKATE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE QUISPELHO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE MAYANGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE TERRA MÃE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE QUIMUTANGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE QUISSENGUI</option>
+<option>[EQT] COLÉGIO DE AMBUILA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE QUINGOLA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE NDUIZU</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE KIKAI</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE QUISSALAVA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE QUICUMBI</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE MBANZA AMBUELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 623 MANTOYO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE NOVA ALIANÇA</option>
+<option>[EQT] LICEU DE AMBUILA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE MUINGO AMBUELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE GRUTAS DO NZENZU MPETE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE NSEMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE MBANZA KINA</option>
+<option>[EQT] COLÉGIO DE QUIPEDRO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE QUILEKE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE MVUANGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE BELA ENCOGE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE LUEGE</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DE AMBUILA</option>

@@ -1,15 +1,9 @@
-<option>Escola Primária N. 6 - Mufuma - Quela </option>
-<option>Escola Primária N. 8 - Banda - Quela (Retirar)</option>
-<option>Direcção Municipal De Educação De Cacuso</option>
-<option>Direcção Municipal De Educação De Calandula</option>
-<option>Direcção Municipal De Educação De Cambundi Catembo</option>
-<option>Direcção Municipal De Educação De Cangandala</option>
-<option>Direcção Municipal De Educação De Cunda Dia Base</option>
-<option>Direcção Municipal De Educação De Kwaba Nzoji</option>
-<option>Direcção Municipal De Educação De Luquembo</option>
-<option>Direcção Municipal De Educação De Malanje</option>
-<option>Direcção Municipal De Educação De Marimba</option>
-<option>Direcção Municipal De Educação De Massango</option>
-<option>Direcção Municipal De Educação De Quela</option>
-<option>Direcção Municipal De Educação De Quirima</option>
-<option>Direcção Municipal De Educação Mucari</option>
+<option>[EQT] DIRECÇÃO  MUNICIPAL DA EDUCAÇÃO DE QUELA</option>
+<option>[EQT] COLÉGIO Nº 1 - 4 DE JANEIRO - QUELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 4 - CAMBAMBA - QUELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 7 - QUELA </option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 6 - MUFUMA - QUELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 3 - COMANDANTE VALÓDIA - QUELA</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DE QUELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 5 - NGOLA CABILA - QUELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 2 - SANTA ISABEL - QUELA</option>

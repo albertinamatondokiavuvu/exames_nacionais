@@ -1,86 +1,61 @@
-<option>Colégio Cacula N. 963 </option>
-<option>Complexo Escolar Da Viamba N. 68</option>
-<option>Escola Do Ensino Primário Caheia Nº 668 - Cacula</option>
-<option>Escola Do Ensino Primário Calihengua Nº 931 - Cacula</option>
-<option>Escola Do Ensino Primário Calombambi Nº 932 - Cacula</option>
-<option>Escola Do Ensino Primário Calondau Nº 979 - Cacula</option>
-<option>Escola Do Ensino Primário Camongua Nº 981 - Cacula</option>
-<option>Escola Do Ensino Primário Capai Capalala Nº 1004 - Cacula</option>
-<option>Escola Do Ensino Primário Cavissi  Ii Nº 1230 - Cacula</option>
-<option>Escola Do Ensino Primário Hambia Nº 985 - Cacula</option>
-<option>Escola Do Ensino Primário Mambondue Nº 228 - Cacula</option>
-<option>Escola Do Ensino Primário Mapile Nº 948 - Cacula</option>
-<option>Escola Do Ensino Primário Mbulo Nº 789 - Cacula</option>
-<option>Escola Do Ensino Primário Mucumbe Nº 1006 - Cacula</option>
-<option>Escola Do Ensino Primário Muhamba Nº 961 - Cacula</option>
-<option>Escola Do Ensino Primário Mungongo-A Nº 971 - Cacula</option>
-<option>Escola Do Ensino Primário Nhundo Nº 975 - Cacula</option>
-<option>Escola Do Ensino Primário Nº 25 - Cacula</option>
-<option>Escola Do Ensino Primário Nossite I Nº 988 - Cacula</option>
-<option>Escola Do Ensino Primário Tchivucusso Nº 1008 - Cacula</option>
-<option>Escola Do Ensino Primário Vicala Nº 122 - Cacula</option>
-<option>Escola Do Ensino Primário Vilola Nº 994 - Cacula</option>
-<option>Escola Do Ensino Primário Vissassa Nº 20  - Cacula</option>
-<option>Escola Do I Ciclo Do Ensino Secundário Nº 1659 - Cacula</option>
-<option>Escola Do I Ciclo Do Ensino Secundário Tchicuaqueia Nº 967 - Cacula</option>
-<option>Escola Primária 16 De Agosto N. 1684</option>
-<option>Escola Primária Alto Chiva N. 929 </option>
-<option>Escola Primária Cacua N. 977</option>
-<option>Escola Primária Calomalanga Rainha Nangombe N. 571</option>
-<option>Escola Primária Camphaca N. 962</option>
-<option>Escola Primária Camucuio I N. 934</option>
-<option>Escola Primária Camucuio Ii N. 1664 </option>
-<option>Escola Primária Camucuio Ii N. 995</option>
-<option>Escola Primária Camucuio Vite Vivali N. 1018</option>
-<option>Escola Primária Camunda N. 306 </option>
-<option>Escola Primária Capewa N. 998 </option>
-<option>Escola Primária Cassimo N. 1286 </option>
-<option>Escola Primária Catanha Mawelequesse N. 938</option>
-<option>Escola Primária Catanha Mbandi N. 1046 </option>
-<option>Escola Primária Catanha Ponte N. 939</option>
-<option>Escola Primária Catepe N. 940</option>
-<option>Escola Primária Caúle N. 333 </option>
-<option>Escola Primária Cavi Povoação N. 390 </option>
-<option>Escola Primária Cavinga N. 983 </option>
-<option>Escola Primária Cavingolo N. 966</option>
-<option>Escola Primária Cavissi I N. 129 </option>
-<option>Escola Primária Cavitchapi N. 123 </option>
-<option>Escola Primária Chiva Baixo N. 1376 </option>
-<option>Escola Primária Ecamba N. 942 </option>
-<option>Escola Primária Hupa N. 968 </option>
-<option>Escola Primária Hupanda N. 986</option>
-<option>Escola Primária Km 100 N. 44</option>
-<option>Escola Primária Lucondo Nomphalanga N. 235</option> 
-<option>Escola Primária Macalango N. 944 </option>
-<option>Escola Primária Macuco N. 1379</option>
-<option>Escola Primária Maholeco N. 970 </option>
-<option>Escola Primária Mambandi N. 1788 </option>
-<option>Escola Primária Matome Ii N. 1805 </option>
-<option>Escola Primária Mawengue N. 128 </option>
-<option>Escola Primária Mphombo N. 130</option>
-<option>Escola Primária Mucamba I N. 1255 </option>
-<option>Escola Primária Mucondo I N. 1005 </option>
-<option>Escola Primária Muesse N. 976 </option>
-<option>Escola Primária Munkhumbi N. 969</option>
-<option>Escola Primária Muquete N. 955</option>
-<option>Escola Primária N. 1000 </option>
-<option>Escola Primária N. 227 </option>
-<option>Escola Primária N. 7 </option>
-<option>Escola Primária Nangolo N. 987</option> 
-<option>Escola Primária Nongongue N. 989 </option>
-<option>Escola Primária Nonjava N. 1721</option>
-<option>Escola Primária Simo Yombia N. 755</option>
-<option>Escola Primária Tchainda N. 992 </option>
-<option>Escola Primária Tchicocoti N. 991 </option>
-<option>Escola Primária Tchicuaqueia Sede N. 1696 </option>
-<option>Escola Primária Tcholo N. 1285</option>
-<option>Escola Primária Tunda N. 231</option>
-<option>Escola Primária Ussamba N. 958</option>
-<option>Escola Primária Vimbamba N. 1010</option>
-<option>Escola Primária Vimpuaquita N. 973</option>
-<option>Escola Primária Vissassa N. 1418</option>
-<option>Escola Primária Viti Vivali Sede N. 882 </option>
-<option>Escola Primária Vitingã N. 1705 </option>
-<option>Escola Primária Yavula N. 1184 </option>
-<option>Escola Primária Yela N. 1016 </option>
-<option>Liceu Da Cacula N. 1706</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 668 - CAHEIA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1805 - MATOME II </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1376 - CHIVA BAIXO </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 938 - CATANHA MAWELEQUESSE  </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 130 - MPHOMBO </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 228 - MAMBONDUE </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1788 - MAMBANDI </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 44 - KM 100 </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 931 - CALIHENGUA </option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 942 - ECAMBA </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 966 - CAVINGOLO </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1046 - CATANHA MBANDI </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1286 - CASSIMO </option>
+<option>[EQT] ESCOLA PRIMÁRIA  N. 995 - CAMUCUIO II </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 979 - CALONDAU </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 227</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 970 - MAHOLECO </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 944 - MACALANGO </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 977 - CACUA </option>
+<option>[EQT] ESCOLA PRIMÁRIA N.940 - CATEPE </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 939 -  CATANHA PONTE </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 235 - LUCONDO NOMPHALANGA </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1018 - CAMUCUIO VITE VIVALI </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 123 - CAVITCHAPI </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 231 - TUNDA </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 882 - VITI VIVALI SEDE </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1418 - VISSASSA </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1010 - VIMBAMBA </option>
+<option>[EQT] LICEU N. 1706 - DA CACULA </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1684 - 16 DE AGOSTO </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 7</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 994 - VILOLA </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 989 - NONGONGUE </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 955 - MUQUETE </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 971 - MUNGONGO - A </option>
+<option>[EQT] ESCOLA PRIMÁRIA  N. 961 - MUHAMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1285 - TCHOLO </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 988 - NOSSITE I </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1721 - NONJAVA </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1184 - YAVULA </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1664 - CAMUCUIO II </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 983 - CAVINGA </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1000</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 128 - MAWENGUE </option>
+<option>[EQT] COMPLEXO ESCOLAR  N. 68 - DA VIAMBA </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1016 - YELA </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 571 - CALOMALANGA RAINHA NANGOMBE </option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DA CACULA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 129 - CAVISSI I </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 333 - CAÚLE </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1255 - MUCAMBA I </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 969 - MUNKHUMBI </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 976 - MUESSE </option>
+<option>[EQT] COMPLEXO ESCOLAR N. 1696 -  TCHICUAQUEIA SEDE</option>
+<option>[EQT] COLÉGIO N. 963 - CACULA </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1005 - MUCONDO I </option>
+<option>[EQT] ESCOLA PRIMÁRIA  N. 968 - HUPA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 987 - NANGOLO </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 755 - SIMO YOMBIA </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 991 - TCHICOCOTI </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 390 - CAVI POVOAÇÃO </option>

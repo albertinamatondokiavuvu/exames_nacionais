@@ -1,32 +1,37 @@
-<option>Cuito</option>
-Colégio Comandante Dangereux De Camabatela N. 203
-Complexo Escolar N. 209 - Bairro Cazua
-Complexo Escolar N. 210 - Luínga
-Complexo Escolar N. 215 - Tango - Sede
-Complexo Escolar N. 218 - Maúa - Sede
-Direcção Municipal Da Educação De Ambaca
-Escola Do Ii Ciclo Do Ambaca
-Escola Primária N. 204 - Comandante Bula
-Escola Primária N. 205 - Bairro Kina
-Escola Primária N. 206 - Bairro Talambaza
-Escola Primária N. 208 - Camabatela
-Escola Primária N. 218 - Bairro Hanga
-Escola Primária Nº 387 – Cacuso - Ambaca
-Escola Primária Nº 393 - Cole  - Ambaca
-Escola Primária Nº 397 - Quibendo - Ambaca
-Escola Primária Nº 415 - Luamba - Ambaca
-Escola Primária Nº 424 - Tunda - Ambaca
-Escola Primária Nº 432- Tandala - Ambaca
-Escola Primária Nº 437- Dez - Ambaca
-Escola Primária Nº 441 - Kidinda - Ambaca
-Escola Primária Nº 447 - Kididi - Ambaca
-Escola Primária Nº 508 - Senda Iº - Ambaca
-Repartição Municipal De Educação De Ambaca / Contratado
-
-
-
-
-
-
-
-
+<option>[EQT] COLÉGIO COMANDANTE DANGEREUX DE CAMABATELA N. 206</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 210 - BAIRRO KINA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 232 - BAIRRO FABI</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 223 - SECTOR DO LONGA - SEDE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 220 - BAIRRO KAHIMA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 236 - BAIRRO SONHI</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 226 - BAIRRO KAZANGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 214 - BAIRRO BINDO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 235 - BAIRRO KIMBAMBA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 215 - BAIRRO CAZUA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 207 - COMANDANTE BULA</option>
+<option>[EQT] COMPLEXO ESCOLAR S. FRANCISCO DE ASSIS N. 204</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 222 - BAIRRO DALA KINGUNGO</option>
+<option>[EQT] COMPLEXO ESCOLAR 28 DE AGOSTO N. 205</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 237 - BAIRRO DIMUCA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 230 - BAIRRO BANGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 228 - BAIRRO ZAGE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 216 - BAIRRO KANAKANJUNGO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 224 - MAÚA - SEDE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 238 - BAIRRO KIMACO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 225 - BAIRRO JICULA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 234 - BAIRRO HOTE</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 233 - TANGO - SEDE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 218 - BAIRRO HANGA</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DE AMBACA</option>
+<option>[EQT] INSTITUTO POLITÉCNICO DE CAMABATELA N. 201-DOM A.KAHANGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 212 - BAIRRO DONGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 213 - BAIRRO POVO LONGE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 219 - BAIRRO KIXINA KIATUCO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 208 - CAMABATELA</option>
+<option>[EQT] MAGISTÉRIO CAPUCHINHO S. FRANCISCO DE ASSIS N. 203 CAMABATELA</option>
+<option>[EQT] MAGISTÉRIO DO LUÍNGA Nº 202</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 229 - BAIRRO KAMAHONJO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 227 - BAIRRO KANGUIMBI</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 221 - BAIRRO KANGULUNGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 211 - BAIRRO TALAMBAZA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 217 - LUÍNGA</option>

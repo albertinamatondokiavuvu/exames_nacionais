@@ -1,28 +1,10 @@
-<option>Cuito</option>
-Colégio N. 02ccr  - 28 De Agosto
-Escola Primária Do Kambala - Rivungo
-Escola Primária Do Luiana  - Rivungo
-Escola Primária Do Nhungo - Rivungo
-Escola Primária N. 01ccr Do Rivungo
-Escola Primária N. 03ccr Do Samatamo
-Escola Primária N. 05ccr Do Muyau
-Escola Primária N. 07ccr Do Chifuako
-Escola Primária N. 08ccr Do Chipundo
-Escola Primária Nº 73, Do Luiana - Rivungo
-Direcção Municipal De Educação De Mavinga
-Direcção Municipal De Educação De Nancova
-Direcção Municipal De Educação Do Calai
-Direcção Municipal De Educação Do Cuangar
-Direcção Municipal De Educação Do Cuchi
-Direcção Municipal De Educação Do Cuito - Cuanavale
-Direcção Municipal De Educação Do Dirico
-Direcção Municipal De Educação Do Menongue
-Direcção Municipal De Educação Do Rivungo
-
-
-
-
-
-
-
-
+<option>[EQT] ESCOLA  PRIMÁRIA Nº 11 CCR-LUIANA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 05 CCR - MUYAU</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DO RIVUNGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 09 - CCR - LUIANA</option>
+<option>[EQT] COLÉGIO N. 02 CCR- 28 DE AGOSTO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 08 CCR - CHIPUNDO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 07 CCR - CHIFUAKO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 03 CCR - SAMATAMO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 12 CCR - NERIQUINHA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 01 CCR - RIVUNGO</option>

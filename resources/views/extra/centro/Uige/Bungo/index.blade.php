@@ -1,46 +1,29 @@
-<option>Escola Do I Ciclo Do Bungo</option>
-<option>Escola Do I Ciclo Dr.A.A Neto</option>
-<option>Escola Do Ii Ciclo Secundário  Do  Bungo</option> 
-<option>Escola Primária 17 De Setembro Do Bungo</option>
-<option>Escola Primária De  Quiquinguila Ii</option>
-<option>Escola Primária De Calanda</option>
-<option>Escola Primária De Cungo</option>
-<option>Escola Primária De Macunge</option>
-<option>Escola Primária De Quicabuaba</option>
-<option>Escola Primária De Quicote</option>
-<option>Escola Primária De Quicungaii</option>
-<option>Escola Primária De Quilanda</option>
-<option>Escola Primária De Quimbala</option>
-<option>Escola Primária De Quimbongo</option>
-<option>Escola Primária De Quimuanza</option>
-<option>Escola Primária De Quingola Fuxe</option>
-<option>Escola Primária De Quiombo I</option>
-<option>Escola Primária De Quiputo</option>
-<option>Escola Primária De Quiquelele</option>
-<option>Escola Primária De Quiquielo</option>
-<option>Escola Primária De Quissângua</option>
-<option>Escola Primária De Quissona</option>
-<option>Escola Primária Dequipembe Ii</option>
-<option>Escola Primária Do Dela</option>
-<option>Escola Primária Do Guanza</option>
-<option>Escola Primária N. 010 - Quianga</option>
-<option>Escola Primária N. 014 - Pambos</option>
-<option>Escola Primária N. 017 - Mulamba I</option>
-<option>Escola Primária N. 019 Banza Congo</option>
-<option>Escola Primária N. 02 - Cristo Rei</option>
-<option>Escola Primária N. 022 - Américo Boa Vida</option>
-<option>Escola Primária N. 023 Banza Pôlo</option>
-<option>Escola Primária N. 03 Quicunguri</option>
-<option>Escola Primária N. 05 Quitocama</option>
-<option>Escola Primária N. 06 Banza Lucunga</option>
-<option>Escola Primária N. 11 Quiuqueque</option>
-<option>Escola Primária N. 12 Gombe</option>
-<option>Escola Primária N. 13 Quizoézoe</option>
-<option>Escola Primária N. 16 Quicunga I</option>
-<option>Escola Primária N. 18 Quiluquelo</option>
-<option>Escola Primária N. 20 - Sanzala-Soldado</option>
-<option>Escola Primária N. 21 Zulo-Zundo</option>
-<option>Escola Primária N. 4 Quiquinguila I</option>
-<option>Escola Primária N. 7 Quiombo Ii</option>
-<option>Escola Primária N. 8 Hinda</option>
-<option>Escola Primária N. 9 Quimulunga</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 24 QUIPANDA FUTILA</option>
+<option>[EQT] COLÉGIO 11 DE NOVEMBRO DE BANZA LUCUNGA</option>
+<option>[EQT] COLÉGIO 4 DE ABRIL QUICUNGA I</option>
+<option>[EQT] COLÉGIO DR. ANTÓNIO AGOSTINHO NETO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 06 DE BANZA LUCUNGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 19 - BANZA CONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 09 - QUIMULUNGA</option>
+<option>[EQT] COLÉGIO CRISTO REI DO BUNGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 22 - AMÉRICO BOA VIDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 03 DE QUICUNGURI</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 10 - QUIANGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 07 DE QUIOMBO II</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 16 - QUICUNGA I</option>
+<option>[EQT] ESCOLA PRIMÁRIA 17 DE SETEMBRO DO BUNGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 12 - GOMBE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 08 DE HINDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 21 - ZULO ZUNDO</option>
+<option>[EQT] LICEU DO BUNGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 20 - SANZALA SOLDADO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 14 - PAMBOS</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 15 - QUINGOLA FUXE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 05 DE QUITOCAMA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 23 - BANZA PÔLO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 17 - MULAMBA I</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 13 - QUIZOÉZOE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 11 - QUIUQUEQUE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 04 DE QUIQUINGUILA I</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 18 - QUILUQUELO</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DO BUNGO</option>

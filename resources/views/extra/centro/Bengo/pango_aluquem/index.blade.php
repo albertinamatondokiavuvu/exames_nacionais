@@ -1,8 +1,18 @@
-<option>Colégio Público N. 806 - 28 De Agosto</option>
-<option>Escola Do I Ciclo Nº 813 - Cazua - Pango Aluquem</option>
-<option>Escola Do Iiº Ciclo Do Ensino Secundario Nº 817/Pango Velho - Pango Aluquém</option>
-<option>Escola Do Iº Ciclo Nº 814/Quita - Pango Aluquém</option>
-<option>Escola Primária N. 800 - Carlos Escrivão Tavares</option>
-<option>Escola Primaria Nº 801/Benza - Pango Aluquém</option>
-<option>Reparticao Municipal De Educacao De Pango Aluquem/Bengo</option>
-<option>Escola Do Ii Ciclo Do Ensino Secundario Da Eiffel</option>
+<option>[EQT] COMPLEXO ESCOLAR N.803 - PAULINO JORGE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 804 - MIGUEL LOMBA</option>
+<option>[EQT] COLÉGIO N. 814- LUÍS PASCOAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 816 MUANDO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 803 -PAULINO JORGE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 802 - ELISEU MIGUEL VUNGE</option>
+<option>[EQT] DIREÇÃO.MUNICIPAL DO PANGO-ALUQUEM</option>
+<option>[EQT] COLÉGIO N. 812 - KIBATA XIDI</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 818 VICTOR FERRÃO MAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 808 - CARLOS ESCRIVÃO TAVARES</option>
+<option>[EQT] COLÉGIO  N. 813 - CAMUAGONGO CANGONGO</option>
+<option>[EQT] LICEU N. 817 CARLOS DE OLIVEIRA FLAVIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA - 809 BOA ENTRADA</option>
+<option>[EQT] ESCOLA PRIMARIA N. 806 - MENE KITELEMBE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N.805 - JOSÉ MANUEL</option>
+<option>[EQT] ESCOLA PRIMARIA N. 801- MANUEL GOLA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N.807 - JOSÉ ANTÓNIO MARTINS</option>
+<option>[EQT] COLÉGIO N. 815- PAULINO JORGE</option>

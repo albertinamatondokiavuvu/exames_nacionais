@@ -1,63 +1,68 @@
-<option>Escola Do I Ciclo De Milunga</option>
-<option>Escola Primária  De  Quimutuani-Tomba</option>      
-<option>Escola Primária 357  Sede/Macocola</option>
-<option>Escola Primária De Benfica</option>
-<option>Escola Primária De Bengui-Muxinga</option>
-<option>Escola Primária De Braga</option>
-<option>Escola Primária De Capitao  Kongolo</option>
-<option>Escola Primária De Coimbra</option>
-<option>Escola Primária De Encontro</option>
-<option>Escola Primária De Mabanda</option>
-<option>Escola Primária De Macolo N. 39 </option>
-<option>Escola Primária De Mafuani</option>
-<option>Escola Primária De Marioco</option>
-<option>Escola Primária De Marioco  </option>
-<option>Escola Primária De Maturi</option>
-<option>Escola Primária De Mazangama</option>
-<option>Escola Primária De Mazangma(B)</option>
-<option>Escola Primária De Mb.Ndamba</option>
-<option>Escola Primária De Mbemba</option>
-<option>Escola Primária De Nguvo-Kuango</option>
-<option>Escola Primária De Nova-Ideia</option>
-<option>Escola Primária De Panda Magumbo</option>
-<option>Escola Primária De Quibengui-Teca</option>
-<option>Escola Primária De Quiendissa</option>
-<option>Escola Primária De Quiluvualo (A)</option>
-<option>Escola Primária De Quimanuel</option>
-<option>Escola Primária De Quimbuangi</option>
-<option>Escola Primária De Quimongo</option>
-<option>Escola Primária De Quimuanza</option>
-<option>Escola Primária De Quimuanza (B)</option>
-<option>Escola Primária De Quimucandi</option>
-<option>Escola Primária De Quimucueno</option>
-<option>Escola Primária De Quimuzengo</option>
-<option>Escola Primária De Quindaca</option>
-<option>Escola Primária De Quindala</option>
-<option>Escola Primária De Quindamba</option>
-<option>Escola Primária De Quinzevo</option>
-<option>Escola Primária De Quissaco</option>
-<option>Escola Primária De Quissango</option>
-<option>Escola Primária De Quissossso</option>
-<option>Escola Primária De Quissuca-Malungo</option>
-<option>Escola Primária De Quiteca</option>
-<option>Escola Primária De Quitsamba-Ndelexi</option>
-<option>Escola Primária De Quivunda</option>
-<option>Escola Primária De Quizassala</option>
-<option>Escola Primária De Sintra (A)</option>
-<option>Escola Primária De Vila-Nova</option>
-<option>Escola Primária De Vila-Verde</option>
-<option>Escola Primária N. 01 De Milunga </option>
-<option>Escola Primária N. 25 De Quimbuco </option>
-<option>Escola Primária N. 26 De Massau </option>
-<option>Escola Primária N. 31 De Quimusseco </option>
-<option>Liceu De Massau N. 61 </option>
-<option>Liceu De Milunga N. 57 </option>
-
-
-
-
-
-
-
-
-
+<option>[EQT] ESCOLA PRIMÁRIA DE MB.NDAMBA N. 55</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE BIQUESSO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE LULA</option>
+<option>[EQT] ESCOLA PRIMÁRIA S.PAULO</option>
+<option>[EQT] COLÉGIO QUIMUSSECO N. 062</option>
+<option>[EQT] COLÉGIO QUIMONGO N. 059</option>
+<option>[EQT] COLÉGIO N. 69 MASSAU</option>
+<option>[EQT] ESCOLA PRIMÁRIA NGUVO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE VILA - NOVA </option>
+<option>[EQT] ESCOLA PRIMÁRIA DE SANTA - NORTE N. 014</option>
+<option>[EQT] ESCOLA PRIMÁRIA QUISSOSSO</option>
+<option>[EQT] ESCOLA PRIMÁRIA QUINDAMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA QUINDACA</option>
+<option>[EQT] ESCOLA PRIMÁRIA QUIMBUBI N. 003</option>
+<option>[EQT] COLÉGIO MBEMBE N. 060</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE SINTRA (A)</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 31 QUIMUSSECO</option>
+<option>[EQT] LICEU DE MASSAU N. 61</option>
+<option>[EQT] COLÉGIO DE MACOLO N. 064</option>
+<option>[EQT] ESCOLA PRIMÁRIA 357 DE MACOCOLA</option>
+<option>[EQT] ESCOLA PRIMÁRIA ENCONTRO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BRAGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE BOM - JESUS N. 011</option>
+<option>[EQT] ESCOLA PRIMÁRIA QUISSANGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA QUINZEVO</option>
+<option>[EQT] ESCOLA PRIMÁRIA SINTRA (B)</option>
+<option>[EQT] ESCOLA PRIMÁRIA QUIMUANZA N. 021</option>
+<option>[EQT] ESCOLA PRIMÁRIA QUIMONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE MAZANGAMA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE MAFUANI </option>
+<option>[EQT] ESCOLA PRIMÁRIA QUIBENGUI N. 008</option>
+<option>[EQT] ESCOLA PRIMÁRIA TENGO N. 029</option>
+<option>[EQT] ESCOLA PRIMÁRIA QUILONDA N. 34</option>
+<option>[EQT] ESCOLA PRIMÁRIA MATURI</option>
+<option>[EQT] ESCOLA PRIMÁRIA QUIMUCUENO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CAMUNGO N. 047</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 01</option>
+<option>[EQT] ESCOLA PRIMÁRIA QUIMBUANGI</option>
+<option>[EQT] ESCOLA PRIMÁRIA VIANA N. 024</option>
+<option>[EQT] COLÉGIO QUIMUCUENO N. 066</option>
+<option>[EQT] COLÉGIO QUISSANGO N. 063</option>
+<option>[EQT] LICEU DE MACOLO - MILUNGA N. 068</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE SANTO - ANTÓNIO N. 046</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE QUIZASSALA</option>
+<option>[EQT] ESCOLA PRIMÁRIA QUIVUNDA N. 036</option>
+<option>[EQT] LICEU DE MILUNGA N. 57</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE MANDAMBA </option>
+<option>[EQT] ESCOLA PRIMÁRIA QUIBENGUI TECA</option>
+<option>[EQT] ESCOLA PRIMÁRIA MACOLO N. 39</option>
+<option>[EQT] ESCOLA PRIMÁRIA MANGUMBO N. 030</option>
+<option>[EQT] ESCOLA PRIMÁRIA MUGINGA N. 019</option>
+<option>[EQT] COLÉGIO DE MACOCOLA N. 058</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE QUITECA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE QUISSACO N. 54</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DE MILUNGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 27 QUIMBUCO</option>
+<option>[EQT] ESCOLA PRIMÁRIA QUIMUCANDI N. 042</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE MARIOCO</option>
+<option>[EQT] COLÉGIO DE MILUNGA N. 067</option>
+<option>[EQT] ESCOLA PRIMÁRIA QUICUBIXI N. 017</option>
+<option>[EQT] ESCOLA PRIMÁRIA MORRO N. 018</option>
+<option>[EQT] ESCOLA PRIMÁRIA KIKUA N. 049</option>
+<option>[EQT] COLÉGIO QUIMBUANGE N. 065</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE TSAMBA NDELEZI </option>
+<option>[EQT] ESCOLA PRIMÁRIA QUINDALA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE QUISSEQUELE </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 26 MASSAU</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE MBEMBE N. 71</option>

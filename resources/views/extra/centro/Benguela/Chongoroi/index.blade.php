@@ -1,111 +1,69 @@
-<option>Colégio Do Chongoroi</option>
-<option>Complexo Escolar Da Vinama</option>
-<option>Complexo Escolar De Angola Livre</option>
-<option>Complexo Escolar De Cambandi I</option>
-<option>Complexo Escolar De Deolinda Rodrigues</option>
-<option>Complexo Escolar De Londanganga</option>
-<option>Complexo Escolar De Missão Cat. Do Malongo</option>
-<option>Complexo Escolar Do Chó</option>
-<option>Complexo Escolar Do Cui -Sede</option>
-<option>Complexo Escolar Do Senje</option>
-<option>Escola Prim. E Sec. Do 1º Ciclo De Missão Cat. Malongo Bg Nº 9059- Chongoroi</option>
-<option>Escola Prim. E Sec. Do 1º Ciclo Do Cui -Sede Bg Nº 9036- Chongoroi</option>
-<option>Escola Prim. E Sec. Do 1º Ciclobg Nº 9313. Da Hanja - Chongoroi</option>
-<option>Escola Primária Nº 313. Da Hanja</option>
-<option>Escola Primária Nº 400</option>
-<option>Escola Primária Bg Nº 9217 - Chongoroi</option>
-<option>Escola Primária Da Bolonguela</option>
-<option>Escola Primária Da Maca Bg Nº 9058- Chongoroi</option>
-<option>Escola Primária Da Taca</option>
-<option>Escola Primária Da Taca Bg Nº 9023 - Chongoroi</option>
-<option>Escola Primária Da Vianja</option>
-<option>Escola Primária Da Yamba</option>
-<option>Escola Primária Da Yamba Bg Nº 9101- Chongoroi</option>
-<option>Escola Primária De Cayundi Bg Nº 9015- Chongoroi</option>
-<option>Escola Primária De Alto Yuvo Bg Nº 9076- Chongoroi</option>
-<option>Escola Primária De Apito</option>
-<option>Escola Primária De Assaveto</option>
-<option>Escola Primária De Assaveto Bg Nº 9078- Chongoroi</option>
-<option>Escola Primária De Bondongolo</option>
-<option>Escola Primária De Bunjei I</option>
-<option>Escola Primária De Bunjei I Bg Nº 9071- Chongoroi</option>
-<option>Escola Primária De Caimbula</option>
-<option>Escola Primária De Caimbungululo Bg Nº 9056- Chongoroi</option>
-<option>Escola Primária De Caissaca Bg Nº 9035- Chongoroi</option>
-<option>Escola Primária De Calilongue</option>
-<option>Escola Primária De Calomanda Ii</option>
-<option>Escola Primária De Calomanda Ii Bg Nº 9081- Chongoroi</option>
-<option>Escola Primária De Calussipa I</option>
-<option>Escola Primária De Calussipa I Bg Nº 9008 - Chongoroi</option>
-<option>Escola Primária De Camaia</option>
-<option>Escola Primária De Camaia Bg Nº 9010- Chongoroi</option>
-<option>Escola Primária De Cambandi Ii</option>
-<option>Escola Primária De Camucuio</option>
-<option>Escola Primária De Camuine Baixo</option>
-<option>Escola Primária De Camuine Baixo Bg Nº 9074- Chongoroi</option>
-<option>Escola Primária De Cavaloñga</option>
-<option>Escola Primária De Cavaloñga Bg Nº 9011- Chongoroi</option>
-<option>Escola Primária De Cavingirite</option>
-<option>Escola Primária De Cavingirite Bg Nº 9012 - Chongoroi</option>
-<option>Escola Primária De Cavissecua</option>
-<option>Escola Primária De Cavissecua Bg Nº 9079- Chongoroi</option>
-<option>Escola Primária De Cawongo Ii</option>
-<option>Escola Primária De Cawongo Ii Bg Nº 9014- Chongoroi</option>
-<option>Escola Primária De Cayundi</option>
-<option>Escola Primária De Cutembo </option>
-<option>Escola Primária De Cutembo Embala</option>
-<option>Escola Primária De Cutembo Embala Bg Nº 9048- Chongoroi</option>
-<option>Escola Primária De Hengue Ndova</option>
-<option>Escola Primária De Hetala</option>
-<option>Escola Primária De Janjo Bg Nº 9019- Chongoroi</option>
-<option>Escola Primária De Kamoñga</option>
-<option>Escola Primária De Katchimano</option>
-<option>Escola Primária De Katchipatinho</option>
-<option>Escola Primária De Katchipatinho Bg Nº 9053- Chongoroi</option>
-<option>Escola Primária De Katelelã</option>
-<option>Escola Primária De Katelelã Bg Nº 9082- Chongoroi</option>
-<option>Escola Primária De Kayoa</option>
-<option>Escola Primária De Lavelo</option>
-<option>Escola Primária De Lavelo Bg Nº 9040- Chongoroi</option>
-<option>Escola Primária De Lomalaca</option>
-<option>Escola Primária De Lomalaca Bg Nº 9021- Chongoroi</option>
-<option>Escola Primária De Lumbili</option>
-<option>Escola Primária De Mapembe Bg Nº 9061- Chongoroi</option>
-<option>Escola Primária De Missão Cat. De São Paulo Do Mundjombue</option>
-<option>Escola Primária De Mussolo Camuvi</option>
-<option>Escola Primária De Mussolo Camuvi Bg Nº 9092- Chongoroi</option>
-<option>Escola Primária De Mutepila</option>
-<option>Escola Primária De Mutepila Bg Nº 9041- Chongoroi</option>
-<option>Escola Primária De Ndungula</option>
-<option>Escola Primária De Ndungula Bg Nº 9062 - Chongoroi</option>
-<option>Escola Primária De Nhañga</option>
-<option>Escola Primária De Nhañga Bg Nº 9042- Chongoroi</option>
-<option>Escola Primária De Nº 9217 Malongo</option>
-<option>Escola Primária De Sondondo</option>
-<option>Escola Primária De Tchavolongua Bg Nº 9070- Chongoroi</option>
-<option>Escola Primária De Tchelekela</option>
-<option>Escola Primária De Tchilui</option>
-<option>Escola Primária De Tchilui Bg Nº 9093- Chongoroi</option>
-<option>Escola Primária De Tchimbandi Bg Nº 9027- Chongoroi</option>
-<option>Escola Primária De Tchinoñgua</option>
-<option>Escola Primária De Tchinoñgua Bg Nº 9067- Chongoroi</option>
-<option>Escola Primária De Tchitata I</option>
-<option>Escola Primária De Tchitata I Bg Nº 9024- Chongoroi</option>
-<option>Escola Primária De Tchiteta</option>
-<option>Escola Primária De Tchitoco</option>
-<option>Escola Primária De Tchitoco Bg Nº 9099- Chongoroi</option>
-<option>Escola Primária De Upinde</option>
-<option>Escola Primária De Vaiva</option>
-<option>Escola Primária De Vandombe Ii</option>
-<option>Escola Primária De Vandombe Ii Bg Nº 9102 - Chongoroi</option>
-<option>Escola Primária De Viheletete</option>
-<option>Escola Primária De Yuvo</option>
-<option>Escola Primária Do Túwe</option>
-<option>Escola Primária Do Yuvu Bg Nº 9045- Chongoroi</option>
-<option>Escola Primária Hoji Ya Henda</option>
-<option>Liceu Do Chongoroi</option>
-<option>Secção Comunal Do Camuine - Chongoroi</option>
-
-
-
-
+<option>[EQT] ESCOLA PRIMÁRIA BG 9021 - LOMALACA - CHONGOROI</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 9040 - LAVELO - CHONGOROI</option>
+<option>[EQT] COMPLEXO ESCOLAR  BG 9084 - LONDANGANGA - CHONGOROI</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 9098 - SENJE - CHONGOROI</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 9093 - TCHILUI - CHONGOROI</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 9033 - VIHELETETE - CHONGOROI</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 9011 - CAVALOÑGA - CHONGOROI</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 9057 - LUMBILI - CHONGOROI</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 9103 - HETALA - CHONGOROI</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 9050 - CUTEMBO - CHONGOROI</option>
+<option>[EQT] COLÉGIO BG 9016 - CHONGOROI</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 9047 - CHÓ - CHONGOROI</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 9029 - TÚWE - CHONGOROI</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 9089 - TCHITETA - CHONGOROI</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 9068 - SONDONDO - CHONGOROI</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 9102 - VANDOMBE II - CHONGOROI</option>
+<option>[EQT] ESCOLA PRIMÁRIA  BG 9014 - CAWONGO II - CHONGOROI</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 9059 - MISSÃO DE MALONGO  - CHONGOROI</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 9032 - VIANJA - CHONGOROI</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 9006 - CAMBANDI I - CHONGOROI</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DO CHONGOROI</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 9041 - MUTEPILA - CHONGOROI</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 9053 - KATCHIPATINHO - CHONGOROI</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 9063 - UPINDE - CHONGOROI</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 9060 - KAMOÑGA - CHONGOROI</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 9048 DE CUTEMBO EMBALA - CHONGOROI</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 9051 - HENGUE NDOVA - CHONGOROI</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 9104 - BOLONGUELA - CHONGOROI</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 9092 - MUSSOLO CAMUVI - CHONGOROI</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 9001 - ANGOLA LIVRE - CHONGOROI</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 9005 - DEOLINDA RODRIGUES - CHONGOROI </option>
+<option>[EQT] COMPLEXO ESCOLAR BG 9052 - M. S. PAULO-MUNDJOMBUE- CHONGOROI</option>
+<option>[EQT] LICEU BG 9017 - CHONGOROI</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 9045 - YUVO - CHONGOROI</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 9008 - CALUSSIPA I - CHONGOROI</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 9003 - CALILONGUE - CHONGOROI</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 9015 - CAYUNDI - CHONGOROI</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 9099 - TCHITOCO - CHONGOROI</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 9023 - TACA - CHONGOROI</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 9079 - CAVISSECUA - CHONGOROI</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 9073 - TCHELEKELA - CHONGOROI</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 9071 - BUNJEI I - CHONGOROI</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 9062 - NDUNGULA - CHONGOROI</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 9088 - BONDONGOLO - CHONGOROI</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 9082 - KATELELÃ - CHONGOROI</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 9012 - CAVINGIRITE - CHONGOROI</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 9069 - VAIVA - CHONGOROI</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 9067 - TCHINOÑGUA - CHONGOROI</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 9313 - HANJA - CHONGOROI</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 9083 - KAYOA - CHONGOROI</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 9030 - KATCHIMANO - CHONGOROI</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 9042 - NHAÑGA - CHONGOROI</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 9081 - CALOMANDA II - CHONGOROI</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 9002 HOJI -YA -HENDA - CHONGOROI</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 9024 - TCHITATA I - CHONGOROI</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 9010 - CAMAIA - CHONGOROI</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 9078 - ASSAVETO - CHONGOROI</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 9028 - CAMUCUIO - CHONGOROI</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 9080 - CAIMBULÃ - CHONGOROI</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 9054 - APITO - CHONGOROI</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 9105 - CAVISSAMBA - CHONGOROI</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 9106 - LONDANGANGA - CHONGOROI</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 9034 - VINAMA - CHONGOROI</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 9036 - CUI SEDE - CHONGOROI</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 9217 - MALONGO - CHONGOROI</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 9074 - CAMUINE BAIXO - CHONGOROI</option>
+<option>[EQT] ESCOLA PRIMÁRIA  BG 9400 - CHONGOROI</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 9101 - YAMBA - CHONGOROI</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 9007 - CAMBANDI II - CHONGOROI</option>

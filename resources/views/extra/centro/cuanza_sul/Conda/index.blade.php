@@ -1,18 +1,28 @@
-<option>Cuito</option>
-<option>Andulo</option>
-<option>Nharêa</option>
-<option>Cuemba</option>
-<option>Cunhinga</option>
-<option>Catabola</option>
-<option>Camacupa</option>
-<option>Chinguar</option>
-<option>Chitembo</option>
-
-
-
-
-
-
-
-
-
+<option>[EQT] ESCOLA PRIMÁRIA SAGRADO CORAÇÃO DE JESUS - CONDA</option>
+<option>[EQT] COMPLEXO ESCOLAR DO HUANDE - CONDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA ASSANGO II - CONDA</option>
+<option>[EQT] LICEU 11 DE NOVEMBRO - CONDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO CAQUINDE - CONDA</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DE EDUCAÇÃO DA CONDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA LIMBA - CONDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA QUILUMBO DA ANGA - CONDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO HONGO - CONDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO QUITONGO - CONDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO ICUCO - CONDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO CANGOMBE - CONDA</option>
+<option>[EQT] COMPLEXO ESCOLAR DA GANJA - CONDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA CUMBIRA II - CONDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA CUMBIRA I - CONDA</option>
+<option>[EQT] COMPLEXO ESCOLAR 11 DE NOVEMBRO - CACHOEIRAS - CONDA</option>
+<option>[EQT] COLÉGIO 5 DE OUTUBRO - CONDA</option>
+<option>[EQT] ESCOLA PRIMARIA DO JOMBE 1 - CONDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA TCHINGURI - TARI - CONDA</option>
+<option>[EQT] COMPLEXO ESCOLAR DO CUNJO - CONDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA GUMBA - CONDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 138 - CONDA</option>
+<option>[EQT] ESCOLA PRIMARIA DO JOMBE 2 - CONDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA NOVA ESPERANÇA - CONDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA CACULA - CONDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA MONTE BELO - CONDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA MANDA - CONDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO QUIPOMBO - CONDA</option>

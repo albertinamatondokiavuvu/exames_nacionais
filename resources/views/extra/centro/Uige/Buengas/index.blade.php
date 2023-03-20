@@ -1,53 +1,31 @@
-<option>Escola Do  Ii  Ciclo  De  Buengas   </option>    
-<option>Escola Do I Ciclo De Buenga Sul</option>
-<option>Escola Do I Ciclo De Buengas </option>
-<option>Escola Do I Ciclo De Cuilo Cambozo</option>
-<option>Escola Primária Hinda</option>
-<option>Escola Primária Iº De Maio</option>
-<option>Escola Primária Kiteca Bengui</option>
-<option>Escola Primária Kiteka Salço</option>
-<option>Escola Primária Lema</option>
-<option>Escola Primária Maria E. Neto</option>
-<option>Escola Primária Mbanza Cumi</option>
-<option>Escola Primária Mbanza Quifua</option>
-<option>Escola Primária Quicanga Cumba</option>
-<option>Escola Primária Quifuta</option>
-<option>Escola Primária Quilalaka</option>
-<option>Escola Primária Quilulendo </option>
-<option>Escola Primária Quilupanvo</option>
-<option>Escola Primária Quimafuani Antigo</option>
-<option>Escola Primária Quimalungo Capela</option>
-<option>Escola Primária Quimbengui Teca</option>
-<option>Escola Primária Quimbequete</option>
-<option>Escola Primária Quimbianda Iii</option>
-<option>Escola Primária Quimbuco</option>
-<option>Escola Primária Quimbunga Malungo</option>
-<option>Escola Primária Quimuanza Bunga</option>
-<option>Escola Primária Quimunanga</option>
-<option>Escola Primária Quinanga Zulo</option>
-<option>Escola Primária Quingoma</option>
-<option>Escola Primária Quingumba</option>
-<option>Escola Primária Quinioca</option>
-<option>Escola Primária Quinlando</option>
-<option>Escola Primária Quinzolo</option>
-<option>Escola Primária Quipanda Bunga</option>
-<option>Escola Primária Quipanda Longo</option>
-<option>Escola Primária Quipanzo Bengui</option>
-<option>Escola Primária Quiquiuma</option>
-<option>Escola Primária Quissembo</option>
-<option>Escola Primária Quiteca Bunga</option>
-<option>Escola Primária Quiteca Quinanga</option>
-<option>Escola Primária Quitecapanzo</option>
-<option>Escola Primária Quituia</option>
-<option>Escola Primária Santa Bakita</option>
-<option>Escola Primária Simon Kimbangu</option>
-<option>Escola Primária Vuabo</option>
-
-
-
-
-
-
-
-
-
+<option>[EQT] ESCOLA PRIMÁRIA DE QUISSEMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA QUIPANDA BUNGA</option>
+<option>[EQT] COLÉGIO DE CUILO CAMBOZO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE KIMAFUMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE VUABO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE QUIZULO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE QUINGUMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA QUILUPANVO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE QUIMBENGUI MATADI</option>
+<option>[EQT] ESCOLA PRIMÁRIA QUITECA QUINANGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA QUIMALUNGO CAPELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE MBANZA CUMI</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE QUIPUNGUI CAINDO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE QUITUIA DE BUENGA NORTE</option>
+<option>[EQT] COLÉGIO DO BUENGA NORTE</option>
+<option>[EQT] COLÉGIO DO BUENGA SUL</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE KINDOMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE LEMA</option>
+<option>[EQT] ESCOLA PRIMÁRIA KITECA BENGUI</option>
+<option>[EQT] LICEU DOS BUENGAS</option>
+<option>[EQT] ESCOLA PRIMÁRIA SANTA BAKITA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE QUINANGA ZULO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE BUENGA SUL</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE MBANZA KIFUA</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DE BUENGAS</option>
+<option>[EQT] ESCOLA PRIMÁRIA SIMON KIMBANGU</option>
+<option>[EQT] ESCOLA PRIMÁRIA QUIMBENGUI TECA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE QUIPEDRO</option>
+<option>[EQT] ESCOLA PRIMÁRIA NOVA ESPERANÇA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE KIMBIANDA II</option>
+<option>[EQT] ESCOLA PRIMÁRIA QUINIOCA</option>

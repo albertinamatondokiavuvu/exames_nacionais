@@ -1,10 +1,12 @@
-<option>Cuito</option>
-Direcção Municipal Da Educação De Quiculungo
-
-
-
-
-
-
-
-
+<option>[EQT] COMPLEXO ESCOLAR N. 1410 SÃO PEDRO NOLASCO DE QUICULUNGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1403-KIBANDA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 1408 BENGUEJI - 4° SECTOR</option>
+<option>[EQT] INSTITUTO POLITÉCNICO N. 1411-QUICULUNGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1404-KISSEQUE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1402-ZONA 3</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 1407 ZALA - 3° SECTOR</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1405-QUIMEIA</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DE QUICULUNGO</option>
+<option>[EQT] COLÉGIO N. 1409 - 17 DE SETEMBRO - QUICULUNGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1406-NGONGOLO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1401 SEDE</option>

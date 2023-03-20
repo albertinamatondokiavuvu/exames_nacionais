@@ -1,11 +1,16 @@
-<option>Complexo Escolar N. 143 - 4 De Fevereiro</option>
-<option>Direcção Municipal Da Educação Do Capenda-Camulemba</option>
-<option>Escola Do Ensino Primário  E Iº Ciclo 22 De Nov. - Capenda Camulemba</option>
-<option>Escola Do Ensino Primário Ngola Kiluangue - Capenda Camulemba</option>
-<option>Escola Primária N. 136 - 11 De Novembro</option>
-
-
-
-
-
-
+<option>[EQT] ESCOLA PRIMÁRIA N. 139 - 1 DE MAIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 148 - HOJI - YA - HENDA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 143 - 4 DE FEVEREIRO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 136 - 11 DE NOVEMBRO</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DE EDUCAÇÃO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 131 - COMANDANTE BULA</option>
+<option>[EQT] COMPLEXO ESCOLAR 17 DE SETEMBRO - XAMIQUELENGUE</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 147 - NJINGA MBANDI</option>
+<option>[EQT] LICEU DO CAPENDA - CAMULENDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 137 - HELDER NETO</option>
+<option>[EQT] ESCOLA PRIMÁRIA NGOLA KILUANGE - N. 146</option>
+<option>[EQT] ESCOLA PRIMÁRIA DEOLINDA RODRIGUES N. 135</option>
+<option>[EQT] ESCOLA PRIMÁRIA HANDJA - YA CAMBOLO - N. 141</option>
+<option>[EQT] COMPLEXO ESCOLAR 14 DE ABRIL - MUXINDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA AUGUSTO NGANGULA N. 134 - KITUMBA KAMBALA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 91 - 22 DE NOVEMBRO</option>

@@ -1,18 +1,28 @@
-<option>Cuito</option>
-<option>Andulo</option>
-<option>Nharêa</option>
-<option>Cuemba</option>
-<option>Cunhinga</option>
-<option>Catabola</option>
-<option>Camacupa</option>
-<option>Chinguar</option>
-<option>Chitembo</option>
-
-
-
-
-
-
-
-
-
+<option>[EQT] ESCOLA PRIMÁRIA 4 DE ABRIL - MUSSENDE</option>
+<option>[EQT] COMPLEXO ESCOLAR COMANDANTE VALÓDIA -MUSSENDE</option>
+<option>[EQT] COMPLEXO ESCOLAR DE SÃO LUCAS KIPAXI - MUSSENDE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA BELA - VISTA MUSSENDE</option>
+<option>[EQT] ESCOLA PRIMÁRIA VILA NOVA DO KIÊNHA - MUSSENDE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE NAZARETH - MUSSENDE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE SANTA IMACULADA - MUSSENDE</option>
+<option>[EQT] COMPLEXO ESCOLAR SANTO ANTÓNIO DE PÁDUA - MUSSENDE</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DO MUSSENDE</option>
+<option>[EQT] COLÉGIO DO KIÊNHA - MUSSENDE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO JORDÃO - MUSSENDE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE SANTA MÓNICA - MUSSENDE</option>
+<option>[EQT] COMPLEXO ESCOLAR DE KACOLO KM 40 - MUSSENDE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO HACO - KIÊNHA - MUSSENDE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA GALILEIA - MUSSENDE</option>
+<option>[EQT] ESCOLA PRIMÁRIA 1 DE MAIO - MUSSENDE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE SUAMBANDA - MUSSENDE</option>
+<option>[EQT] COMPLEXO ESCOLAR DO MUSSENDE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO KIÊNHA - MUSSENDE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE KASSEQUEL - MUSSENDE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CASSEMBE - MUSSENDE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA SERRAÇÃO - MUSSENDE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO MUHIRIZ - MUSSENDE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE KAMBALE - MUSSENDE</option>
+<option>[EQT] ESCOLA PRIMÁRIA AUGUSTO NGANGULA - MUSSENDE</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 355 - MUSSENDE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO NGANGO - MUSSENDE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE SANTO AGOSTINHO - MUSSENDE</option>

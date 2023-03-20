@@ -1,19 +1,9 @@
-<option>Cuito</option>
-Compexo Escolar N. 401 Sede
-Compexo Escolar N. 402 Quipete
-Compexo Escolar N. 403 Al. Nova
-Direcção Municipal Da Educação Da Banga
-Escola  Do Ensino Primário N/ 317 Cariamba - Banga
-Escola  Do Ensino Primário N/ 359- Caculo Cahui - Banga
-Escola  Do Ensino Primário N/ 466 Quiangala - Banga
-Escola Do Ensino Primário  N/351- Bumba - Banga
-Escola Do Ii Ciclo Ensino Secundário Da Banga  - Banga
-Esola Do I Ciclo Do Ensino  Secundário Da Banga - Banga
-
-
-
-
-
+<option>[EQT] COMPEXO ESCOLAR N.402-QUIPETE</option>
+<option>[EQT] COMPEXO ESCOLAR N. 401 SEDE-BANGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 404-BANZA DE BANZE</option>
+<option>[EQT] COMPEXO ESCOLAR N. 403 ALDEIA NOVA</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DA BANGA</option>
+<option>[EQT] LICEU N. 405-SERRA DA BANGA</option>
 
 
 

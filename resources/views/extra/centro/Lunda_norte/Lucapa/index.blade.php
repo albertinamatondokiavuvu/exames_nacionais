@@ -1,21 +1,18 @@
-<option>Biblioteca Provincial Da L. Norte</option>
-<option>Colaboradores E Contratados Dme.Chitato</option>
-<option>Complexo Escolar Do Rock</option>
-<option>Complexo Escolar Do Veiga</option>
-<option>Complexo Escolar N. 54 Centro Urbano</option>
-<option>Dir.Prov.Educ.L.Norte-Conc.Pub./06-Ins.Mai07</option>
-<option>Direcção Municipal Da Educação Do Lucapa</option>
-<option>Escola Primária Do Camutue</option>
-<option>Escola Primária Do Capaia</option>
-<option>Escola Primária Do Luenda</option>
-<option>Escola Primária Do Sambaia</option>
-<option>Escola Primária Dr. António Angostinho Neto</option>
-<option>Escola Primária N. 51 - Calonda</option>
-<option>Escola Primária Santa Isabel</option>
-<option>Instituto Politec- Contratados</option>
-<option>Med - Instituto Politecnico Do Nordeste</option>
-<option>Med - Municipal Do Chitato</option>
-<option>Med - Municipal Do Xa-Muteba</option>
-<option>Mincult - Direççao Provincial Da Lunda Norte</option>
-<option>Professores   Adpp Do Chitato</option>
-
+<option>[EQT] LICEU DO LUCAPA</option>
+<option>[EQT] ESCOLA PRIMÁRIA SANTA ISABEL</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO CAPAIA</option>
+<option>[EQT] COMPLEXO ESCOLAR DO VEIGA</option>
+<option>[EQT] COMPLEXO ESCOLAR DO CAMISSOMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO CAMUTUE</option>
+<option>[EQT] PRIMÁRIA N. 51 - CALONDA</option>
+<option>[EQT] COMPLEXO ESCOLAR DO SAMBAIA</option>
+<option>[EQT] COMPLEXO ESCOLAR DO XÁ - CASSAU</option>
+<option>[EQT] COMPLEXO ESCOLAR DO LUÓ</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DO LUCAPA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 54 CENTRO URBANO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DR. ANTÓNIO AGOSTINHO NETO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO LUENDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA IMACULADA CORAÇÃO DA MARIA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 8 - CALONDA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 07 DO ROCK</option>
+<option>[EQT] MAGISTÉRIO DO LUCAPA</option>

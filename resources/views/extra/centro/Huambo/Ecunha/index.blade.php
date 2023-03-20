@@ -1,18 +1,47 @@
-<option>Cuito</option>
-<option>Andulo</option>
-<option>Nharêa</option>
-<option>Cuemba</option>
-<option>Cunhinga</option>
-<option>Catabola</option>
-<option>Camacupa</option>
-<option>Chinguar</option>
-<option>Chitembo</option>
-
-
-
-
-
-
-
-
-
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO ECUNHA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N.º 46 CHISSEIA - ECUNHA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº13 DE DONDEIRO ECUNHA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº38 DA OMBALA CALUPELE ECUNHA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 14 DE LOMANDA ECUNHA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 7 DE CÁLIA MAMO ECUNHA</option>
+<option>[EQT] COLÉGIO Nº31 DA ECUNHA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº33 DE LIMUNDO ECUNHA</option>
+<option>[EQT] COMPLEXO ESCOLAR Nº16 DE CANDINGO ECUNHA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 12 DE CALESSI ECUNHA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 11 DO BUINDO ECUNHA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 9 DE CAMBALA ECUNHA</option>
+<option>[EQT] COMPLEXO ESCOLAR Nº53 DA MISSÃO CATÓLICA DO CHIPEIO ECUNHA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº19 DE CHILUMBO ECUNHA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 15 DE CALOMBO ECUNHA</option>
+<option>[EQT] COMPLEXO ESCOLAR Nº 8 DE CÁLIA - PRINHO ECUNHA</option>
+<option>[EQT] COMPLEXO ESCOLAR Nº3 DO CHITUE ECUNHA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 2 DE CHIWAMBA ECUNHA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº1 DA ECUNHA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 62 DE CHITOMA ALTA ECUNHA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 52 DE BUNDO ECUNHA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº51 DE LUNGOLUE ECUNHA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 26 DE CHILANDALA ECUNHA</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DE ECUNHA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº20 DA CHILELA ECUNHA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 32 DE CAHAMBO ECUNHA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 10 DE CALEI - CUXILA ECUNHA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº6 DE CACOIO - ALTO ECUNHA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 5 DE ESSUCULA ECUNHA</option>
+<option>[EQT] LICEU MÁRTIRES DA CANHALA ECUNHA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº67 DE CÂMBIA ECUNHA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº55 DE SÃO JOSÉ ECUNHA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 34 DE FÁTIMA ECUNHA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 27 DE CHIPILU ECUNHA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº23 DE JUÍLA ECUNHA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 72 DE CANGOTI ECUNHA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 71 DE CANGOMBE ECUNHA</option>
+<option>[EQT] COMPLEXO ESCOLAR Nº 69 DE LOSSANGO ECUNHA</option>
+<option>[EQT] COMPLEXO ESCOLAR Nº 37 DO QUIPEIO ECUNHA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº35 DE CHICALA ECUNHA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 24 DE CASSITO ECUNHA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 21 DE CAMONGUE ECUNHA</option>
+<option>[EQT] COMPLEXO ESCOLAR DE ESSUCULA CENTRO ECUNHA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 54 DA SANTA MARIA ECUNHA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 30 DO ECUNHA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº28 DE SAMBALUNDO ECUNHA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 22 DE VILULU ECUNHA</option>

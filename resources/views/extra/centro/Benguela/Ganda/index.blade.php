@@ -1,202 +1,134 @@
-<option>Centro De Recurso Do Ensino Especial Bg 5008</option>
-<option>Colégio 14 De Abril Da Ganda</option>
-<option>Colégio 17 De Setembro Da Ganda</option>
-<option>Colégio 22 De Novembro Da Ganda</option>
-<option>Colégio 5 De Outubro Da Ganda</option>
-<option>Colégio Cdte Kussi Da Ganda</option>
-<option>Colégio Da Etala Da Ganda</option>
-<option>Colégio Dr. Antonio Agostinho Neto Da Ganda</option>
-<option>Colégio Major Saidy Vieira Mingas Da Ganda</option>
-<option>Escola Prim. De 22 De Novembro Bg 5043-Ganda</option>
-<option>Escola Prim. De Cahiquengue Bg 5196-Ganda</option>
-<option>Escola Primária  27 De Março-Bg 5095-Ganda</option>
-<option>Escola Primária  De Bota</option>
-<option>Escola Primária  De Cassissa Bg 5176-Ganda</option>
-<option>Escola Primária  De Catapi Bg 5109-Ganda</option>
-<option>Escola Primária  Missão Do Dunde Da Ganda</option>
-<option>Escola Primária 1 De Junho-Bg 5131-Ganda</option>
-<option>Escola Primária 10 De  Dezembro Bg 5020-Ganda</option>
-<option>Escola Primária 10 De Dezembro-Bg 5137-Ganda</option>
-<option>Escola Primária 10 De Dezembro-Bg 5190-Ganda</option>
-<option>Escola Primária 11 De Novembro Bg 5009-Ganda</option>
-<option>Escola Primária 11 De Novembro-Bg 5015-Ganda</option>
-<option>Escola Primária 17 De Setembro Bg 5135-Ganda</option>
-<option>Escola Primária 1º De Maio Bg 5072-Ganda</option>
-<option>Escola Primária 2 De Março-Bg 5138-Ganda</option>
-<option>Escola Primária 21 De Outubro Bg 5022-Ganda</option>
-<option>Escola Primária 21 De Outubro-Bg 5022-Ganda</option>
-<option>Escola Primária 22 De Novembro-Bg 5013/Babaera-Ganda</option>
-<option>Escola Primária 22 De Novembro-Bg 5141-Ganda</option>
-<option>Escola Primaria 28 De Agosto Bg 5096-Ganda</option>
-<option>Escola Primária 308 Junta De Café Bg 5308-Ganda</option>
-<option>Escola Primária 4 De Abril Da Ganda</option>
-<option>Escola Primária 4 De Janeiro Bg 5012-Ganda</option>
-<option>Escola Primária 4 De Janeiro-Bg 5128/Ebanga-Ganda</option>
-<option>Escola Primária A Luta Continua-Bg 5079/Babaera-Ganda</option>
-<option>Escola Primária Cavava Cayela Bg 5198-Ganda</option>
-<option>Escola Primária Cavava Cayela-Bg 5198-Ganda</option>
-<option>Escola Primária Cdte Dangereux-Bg 5129-Ganda</option>
-<option>Escola Primária Cheguevara  5069-Ganda</option>
-<option>Escola Primária Cmdte Kassanje Bg 5031</option>
-<option>Escola Primária Comandante  Kwenha-Bg 5025-Ganda</option>
-<option>Escola Primária Comandante Jika Bg 5021</option>
-<option>Escola Primária Comandante Jika-Bg 5021-Ganda</option>
-<option>Escola Primária Da Atala-Bg 5206-Ganda</option>
-<option>Escola Primária Da Banda-Bg 5054-Ganda</option>
-<option>Escola Primária Da Capaca Lomumu-Bg 5199-Ganda</option>
-<option>Escola Primária Dangereux Bg 5189-Ganda</option>
-<option>Escola Primária De 17 De Setembro Bg 5046-Ganda</option>
-<option>Escola Primária De 4 De Abril-Bg 5005-Ganda</option>
-<option>Escola Primária De Acarangolo-Bg 5098-Ganda</option>
-<option>Escola Primária De Atuqui Bg 5026-Ganda</option>
-<option>Escola Primária De Cachissequelele Bg 5153-Ganda</option>
-<option>Escola Primária De Cahamboto Bg 5045-Ganda</option>
-<option>Escola Primária De Caicuve-Bg 5169-Ganda</option>
-<option>Escola Primária De Camanga Bg 5165-Ganda</option>
-<option>Escola Primária De Camaponde-Bg 5113-Ganda</option>
-<option>Escola Primária De Cambula Bg 5172-Ganda</option>
-<option>Escola Primária De Cangundo Bg 5170-Ganda</option>
-<option>Escola Primária De Cangundo-Bg 5170-Ganda</option>
-<option>Escola Primária De Capala-Bg 5014-Ganda</option>
-<option>Escola Primária De Cassema-Bg 5140-Ganda</option>
-<option>Escola Primária De Catala Bg 5149-Ganda</option>
-<option>Escola Primária De Catala-Bg 5149-Ganda</option>
-<option>Escola Primária De Catamba Bg 5099-Ganda</option>
-<option>Escola Primária De Cdte Dangereux-Bg 5129/Ebanga-Ganda</option>
-<option>Escola Primária De Cdte Kassange-Bg 5130/Ebanga-Ganda</option>
-<option>Escola Primária De Cerâmica Bg 5024-Ganda</option>
-<option>Escola Primária De Chicandula Bg 5030</option>
-<option>Escola Primária De Chicossi Bg 5152-Ganda</option>
-<option>Escola Primária De Chicossi-Bg 5152-Ganda</option>
-<option>Escola Primária De Chicuma-Sisalana Bg 5036</option>
-<option>Escola Primária De Chilessa Bg 5194-Ganda</option>
-<option>Escola Primária De Chimboa Estação-Bg 5064-Ganda</option>
-<option>Escola Primária De Chipassi-Bg 5193-Ganda</option>
-<option>Escola Primária De Chipipa-Bg 5111-Ganda</option>
-<option>Escola Primária De Dembwe-Bg 5033-Ganda</option>
-<option>Escola Primária De Ekovongo Bg 5139-Ganda</option>
-<option>Escola Primária De Epal-Belém Bg 5027-Ganda</option>
-<option>Escola Primária De Galilea-Bg 5192-Ganda</option>
-<option>Escola Primária De Hulungumbe Bg 5166-Ganda</option>
-<option>Escola Primária De Ikundu-Bgg 5145-Ganda</option>
-<option>Escola Primária De Isoko-Bg 5055-Ganda</option>
-<option>Escola Primária De Kahala-Bg 5104-Ganda</option>
-<option>Escola Primária De Kahiva Bg 5084-Ganda</option>
-<option>Escola Primária De Kahondio Bg 5059-Ganda</option>
-<option>Escola Primária De Kaienje Bg 5168-Ganda</option>
-<option>Escola Primária De Kalandi 2º Bg 5119-Ganda</option>
-<option>Escola Primária De Kalandi 2º-Bg 5119-Ganda</option>
-<option>Escola Primária De Kalandi 3º Bg 5122-Ganda</option>
-<option>Escola Primária De Kalandi 3º-Bg 5122-Ganda</option>
-<option>Escola Primária De Kalandi-Bonga-Bg 5116-Ganda</option>
-<option>Escola Primária De Kalombinda I-Bg 5091-Ganda</option>
-<option>Escola Primária De Kalombinda Ii Bg 5118-Ganda</option>
-<option>Escola Primária De Kalondau-Bg 5093-Ganda</option>
-<option>Escola Primária De Kalulu-Bg 5078-Ganda</option>
-<option>Escola Primária De Kalunhe-Bg 5056-Ganda</option>
-<option>Escola Primária De Kalusipa-Bg 5126-Ganda</option>
-<option>Escola Primária De Kaluyua Bg 5167-Ganda</option>
-<option>Escola Primária De Kamaka Bg 5101-Ganda</option>
-<option>Escola Primária De Kandjola-Bg 5073</option>
-<option>Escola Primária De Kangranela-Bg 5028-Ganda</option>
-<option>Escola Primária De Kaniavita-Bg 5103-Ganda</option>
-<option>Escola Primária De Kapumumu Bg 5120-Ganda</option>
-<option>Escola Primária De Kapumumu-Bg 5120-Ganda</option>
-<option>Escola Primária De Kasamba-Bg 5108-Ganda</option>
-<option>Escola Primária De Kasendje Kwilo Bg 5158-Ganda</option>
-<option>Escola Primária De Kassenje-Epalanga Bg 5157-Ganda</option>
-<option>Escola Primária De Kassenje-Epalanga-Bg 5157-Ganda</option>
-<option>Escola Primária De Kassola Bg 5060-Ganda</option>
-<option>Escola Primária De Kassola-Bg 5060-Ganda</option>
-<option>Escola Primária De Katala-Bg 5034-Ganda</option>
-<option>Escola Primária De Katanha Bg 5159-Ganda</option>
-<option>Escola Primária De Katato Bg 5150-Ganda</option>
-<option>Escola Primária De Katchikwa-Bg 5124-Ganda</option>
-<option>Escola Primária De Katusola-Bg 5081-Ganda</option>
-<option>Escola Primária De Kawanga-Bg 5125-Ganda</option>
-<option>Escola Primária De Kotindi Bg 5050-Ganda</option>
-<option>Escola Primária De Kotindi-Bg 5050-Ganda</option>
-<option>Escola Primária De Kotindi-Bg 5088-Ganda</option>
-<option>Escola Primária De Kulula-Bg 5040-Ganda</option>
-<option>Escola Primária De Livaliva-Bg 5100-Ganda</option>
-<option>Escola Primária De Lomalanga-Bg 5061-Ganda</option>
-<option>Escola Primária De Lombudje-Bg 5117-Ganda</option>
-<option>Escola Primária De Lombundje Bg 5117-Ganda</option>
-<option>Escola Primária De Lomumu-Bg 5051-Ganda</option>
-<option>Escola Primária De Longongo-Bg 5179-Ganda</option>
-<option>Escola Primária De Lossandji 1º-Bg 5039-Ganda</option>
-<option>Escola Primária De Lundungo Bg 5087-Ganda</option>
-<option>Escola Primária De Lussipa I-Bg 5178-Ganda</option>
-<option>Escola Primária De Lussipa Iº Bg 5178-Ganda</option>
-<option>Escola Primária De Luta Continua Bg 5002</option>
-<option>Escola Primária De Luwe Bg 5203-Ganda</option>
-<option>Escola Primária De Luwe-Bg 5203-Ganda</option>
-<option>Escola Primária De Martir De Chicuma Bg 5160</option>
-<option>Escola Primária De Ngolo Bg 5161-Ganda</option>
-<option>Escola Primária De Nima Bg 5162-Ganda</option>
-<option>Escola Primária De Pio Xii-Bg 5042-Ganda</option>
-<option>Escola Primária De Pisi Bg 5000</option>
-<option>Escola Primária De Ramiera-Bg 5094-Ganda</option>
-<option>Escola Primária De Rei Mandume Bg 5001-Ganda</option>
-<option>Escola Primária De Sacuonga Bg 5171-Ganda</option>
-<option>Escola Primária De Sacuonga-Bg 5171-Ganda</option>
-<option>Escola Primária De Sandula-Bg 5092-Ganda</option>
-<option>Escola Primária De Sango-Bg 5121-Ganda</option>
-<option>Escola Primária De Sangungu Bg 5142-Ganda</option>
-<option>Escola Primária De Santa Filomena-Bg 5132-Ganda</option>
-<option>Escola Primária De Santa-Maria-Bg 5048-Ganda</option>
-<option>Escola Primária De Santos-Bg 5029-Ganda</option>
-<option>Escola Primária De Sanzala-Bg 5163-Ganda</option>
-<option>Escola Primária De Sima-Chivole-Bg 5037-Ganda</option>
-<option>Escola Primária De Solio Bg 5065-Ganda</option>
-<option>Escola Primária De Solio-Bg 5065-Ganda</option>
-<option>Escola Primária De Sussangue Bg 5177-Ganda</option>
-<option>Escola Primária De Tchicala-Bg 5136-Ganda</option>
-<option>Escola Primária De Tchikala Bg 5136-Ganda</option>
-<option>Escola Primária De Tchikundangolo-Bg 5057-Ganda</option>
-<option>Escola Primária De Tchimbwekese-Bg 5083-Ganda</option>
-<option>Escola Primária De Tchinguewe-Bg 5052-Ganda</option>
-<option>Escola Primária De Tchiondongolo-Ganda</option>
-<option>Escola Primária De Tchitau Bg 5004-Ganda</option>
-<option>Escola Primária De Tendamoko Bg 5115-Ganda</option>
-<option>Escola Primária De Tendamoko-Bg 5115-Ganda</option>
-<option>Escola Primária De Tira Chapeu-Bg 5058-Ganda</option>
-<option>Escola Primária De Ukuku Bg 5102-Ganda</option>
-<option>Escola Primária De Ulila 3º Bg 5041-Ganda</option>
-<option>Escola Primária De Zootecnica-Bg 5053-Ganda</option>
-<option>Escola Primária Dende-Povoação-Bg 5097-Ganda</option>
-<option>Escola Primária Deolinda Rodrigues Bg 5010-Ganda</option>
-<option>Escola Primária Deolinda Rodrigues-Bg 5144/Ebanga-Ganda</option>
-<option>Escola Primária Dumbo Oliveira Bg 5076-Ganda</option>
-<option>Escola Primária Ekuikui Ii Bg 5079-Ganda</option>
-<option>Escola Primária Ekuikui Ii-Bg 5079/Babaera-Ganda</option>
-<option>Escola Primária Ekuikui Ii-Bg 5146/Ebanga-Ganda</option>
-<option>Escola Primária Havemos De Voltar-Bg 5071/Babaera-Ganda</option>
-<option>Escola Primária Havemos De Voltar-Bg 5127/Ebanga-Ganda</option>
-<option>Escola Primária Hoji-Ya-Henda-Bg 5133-Ganda</option>
-<option>Escola Primária Kakombo Ndunti Bg 5082-Ganda</option>
-<option>Escola Primária Kalundo Bg 5019-Ganda</option>
-<option>Escola Primária Lumwe Ii Bg 5074-Ganda</option>
-<option>Escola Primária Martires De Catengue Bg 5017-Ganda</option>
-<option>Escola Primária Missão De Kapussu Bg 5191</option>
-<option>Escola Primária Missão Evangélica-Bg 5016-Ganda</option>
-<option>Escola Primária Nº 306 Bg 5306</option>
-<option>Escola Primária Nossa Sra De Lassalet Da Ganda</option>
-<option>Escola Primária Rei Mandume-Bg 5077-Ganda</option>
-<option>Escola Primária São Francisco De Assis Bg 5011-Ganda</option>
-<option>Escola Primária Uhalia-Bg 5197-Ganda</option>
-<option>Escola Primária Voye Bg 5195-Ganda</option>
-    <option>Instituto Politécnico Da Ganda</option>
-        <option>Liceu 12 De Março - Alto Catumbela</option>
-            <option>Liceu Da Ganda</option>
-                <option>Magistério Da Ganda</option>
-                    <option>Secção Comunal De Educação, Ciência E Tecnologia Da Chicuma-Ganda</option>
-
-
-
-
-
-
-
-
-
+<option>[EQT] ESCOLA PRIMÁRIA BG 5143 - 8 DE MARÇO - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG - 5191 - MISSÃO DE KAPUSSO - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5190 - 10 DE DEZEMBRO - BABAERA - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5037 - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5138 - 2 DE MARÇO - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5127 - HAVEMOS DE VOLTAR - EBANGA - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5192 - GALILEIA - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5151 - CHICAVA - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5120 - KAPUMUMU - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5125 - MISSÃO DA KAWANGA - GANDA</option>
+<option>[EQT] ESCOLA PRIMARIA BG 5096 - 28 DE AGOSTO - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5046 - 17 DE SETEMBRO - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5043 - 22 DE NOVEMBRO - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5307 - SIMA-CHIVOLE - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5023 - DEOLINDA RODRIGUES - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5079 - EKUIKUI II - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5101 - KAMAKA - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5167 - KALUYUA - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5177 -  SUSSANGUE - GANDA</option>
+<option>[EQT] CENTRO DE RECURSO BG 5008 - EDUCAÇÃO ESPECIAL - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5203 - LUWE - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5153 - CACHISSEQUELELE - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5025 - CDTE. KWENHA - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5205 - LOMUPA - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5000 - PISI - GANDA </option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5026 - ATUQUI - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5009 - 11 DE NOVEMBRO - BABEARA -GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5073 - KANDJOLA - GANDA</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 5003 - JOÃO PAULO II - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5161 - NGOLO - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5076 - DUMBO OLIVEIRA - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5087 - LUNDUNGO - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5159 -  KATANHA - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5078 - KALULU - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5036 - CHICUMA-SISALANA - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5059 - KAHONDIO - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5172 - CAMBULA - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5157 - KASSENJE-EPALANGA - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5031 - CDTE KASSANJE - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5306 - BAIRRO DA FRANÇA - GANDA</option>
+<option>[EQT] COLÉGIO BG 5007 - CDTE. KUSSI - GANDA</option>
+<option>[EQT] INSTITUTO POLITÉCNICO BG 5188 - GANDA</option>
+<option>[EQT] COLÉGIO BG 5182 - MAJOR SAIDY VIEIRA MINGAS - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5018 - SENDJE KAMBAYA - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5135 - 17 DE SETEMBRO - EBANGA - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5015 - 11 DE NOVEMBRO - EBANGA - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5178 - LUSSIPA I - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5117 - LOMBUNDJE - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5074 - LUMWE II BG - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5179 - LONGONGO - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5061 - EMALANGA - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5119 - KALANDI 2º - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5166 - HULUNGUMBE - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5150 - KATATO - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5004 - TCHITAU - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5137 - 10 DE DEZEMBRO - EBANGA - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5196 - CACHIQUENGUE - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5308 - JUNTA DE CAFÉ - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5082 - KAKOMBO NDUNTI - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5077 - REI MANDUME - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5109 - CATAPI - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5126 - KALUSIPA - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5152 - CHICOSSI - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5169 - CAICUVE - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5045 - CAHAMBOTO - GANDA</option>
+<option>[EQT] COLÉGIO BG 5202 - DR. ANTÓNIO AGOSTINHO NETO - GANDA</option>
+<option>[EQT] COLÉGIO BG 5181 - 14 DE ABRIL - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5021 - CDTE. JIKA - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5024 - CERÂMICA - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5019 - KALUNDO - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5017 - MARTIRES DE CATENGUE - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5130 - CDTE. KASSANJI - EBANGA - GANDA</option>
+<option>[EQT] COLÉGIO BG 5183 - 17 DE SETEMBRO - GANDA</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 5012 - 4 DE JANEIRO - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5115 - TENDAMOKO - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5042 - PIO XII - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5171 - SACUONGA - GANDA</option>
+<option>[EQT] LICEU BG 5309 - 12 DE MARÇO - ALTO CATUMBELA - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5165 - CAMANGA - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5170 - CANGUNDO - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5014 - CAPALA - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5195 - VOYE - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5098 - ACARANGOLO - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5030 - CHICANDULA - GANDA </option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5063 - DONGOROCA - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5002 - LUTA CONTINUA - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5072 - 1º DE MAIO - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5131 - 1 DE JUNHO - GANDA</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 5204 - NOSSA SRA DE LASSALET - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5016 - MISSÃO EVANGÉLICA - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5071 - HAVEMOS DE VOLTAR - BABAERA- GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5092 - SANDULA - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5122 - KALANDI 3º - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5168 - KAIENJE - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5145 - EKUIKUI II - EBANGA - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5189 - CDTE. DANGEREUX -  BABAERA - GANDA</option>
+<option>[EQT] LICEU BG 5186 - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5022 - 21 DE OUTUBRO - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5001 - REI MANDUME - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5244 - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5129 - CDTE DANGEREUX - ENABGA - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5085 - BOTA - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5139 - EKOVONGO - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5099 - CATAMBA - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5163 - SANZALA - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5060 - KASSOLA - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5158 - KASENDJE KWILO - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5102 - UKUKU - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5065 - SÓLIO - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5084 - KAHIVA - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5176 - CASSISSA - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5069 - CDTE. CHEGUEVARA - BABAERA - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5020 - 10 DE DEZEMBRO - GANDA</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DA GANDA</option>
+<option>[EQT] MAGISTÉRIO BG 5187 - GANDA</option>
+<option>[EQT] COLÉGIO BG 5147 - ETALA - GANDA</option>
+<option>[EQT] COLÉGIO BG 5089 - 22 DE NOVEMBRO - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5141 - 22 DE NOVEMBRO - EBANGA - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5081 - KATUSOLA - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5133 - HOJI-YA-HENDA - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5198 - CAVAVA CAYELA - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5050 - KOTINDI - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5041 - ULILA 3º - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5011 - SÃO FRANCISCO DE ASSIS - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5142 - SANGUNGU - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5160 - MARTIR DE CHICUMA - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5136 - TCHIKALA - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5118 - KALOMBINDA II - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5149 - CATALA - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5010 - DEOLINDA RODRIGUES BABAERA - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5194 - CHILESSA - GANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 5162 - NIMA - GANDA</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 5148 - 4 DE ABRIL - GANDA</option>
+<option>[EQT] COLÉGIO BG 5207 - 5 DE OUTUBRO DA GANDA</option>

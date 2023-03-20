@@ -1,13 +1,10 @@
-<option>Colégio N. 103 - C.Ngola</option>
-<option>Direcção Municipal De Educação Do Luchazes</option>
-<option>Direcção Municipal De Educação Dos Bundas</option>
-<option>Escola Do Ensino Primário Nº 105  - Luchazes</option>
-<option>Escola Do Ensino Primário Nº 107  - Luchazes</option>
-<option>Escola Do Ensino Primário Nº 242  - Luchazes</option>
-<option>Escola Primária N. 102 - Luzi</option>
-<option>Escola Primária N. 103 - C. Ngola</option>
-<option>Escola Primária N. 104 - Tempué</option>
-<option>Escola Primária N. 106 - Cassamba</option>
-<option>Escola Primária N. 108</option>
-    </option>
-
+<option>[EQT] ESCOLA PRIMÁRIA N.108 LUCHAZES</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 106 CASSAMBA</option>
+<option>[EQT] ESC PRIM N. 103 COMANDANTE NGOLA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N.102 LUZI</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 199 LUCHAZES</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 104  TEMBUÉ</option>
+<option>[EQT] COLÉGIO N. 103 - C.NGOLA</option>
+<option>[EQT] LICEU N.109 LUCHAZES</option>
+<option>[EQT] ESCOLA PRIMÁRIA MISSIONÁRIA N. 252 - SÃO FILIPE NERI</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DE EDUCAÇÃO DE LUCHAZES</option>

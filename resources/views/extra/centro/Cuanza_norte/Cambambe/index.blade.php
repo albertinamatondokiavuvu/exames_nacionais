@@ -1,37 +1,32 @@
-<option>Cuito</option>
-Complexo Escolar 834 Km 13 - Massangano
-Escola Do Ensino Primária N. 822 Ngola Kieto
-Escola Do Ensino Primário N. 818 Ngola Yetu
-Escola Do I Ciclo 4 De Janeiro - Cambambe
-Escola Do I Ciclo Alto Dondo - Cambambe
-Escola Do I Ciclo Sede - Cambambe
-Escola Do Magistério Primário De Cambambe
-Escola Ens. Prim 137 Cachissa - Cambambe
-Escola Ens. Prim S/N Cassua A - Cambambe
-Escola Ens. Prim S/N Cassua B - Cambambe
-Escola Ens. Prim S/N Lucapa - Cambambe
-Escola Ens. Prim S/N Muquila - Cambambe
-Escola Ens. Prim. 132 Alto Fina - Cambambe
-Escola Ens. Prim. 321 Satec - Cambambe
-Escola Ens. Prim. 7º Dia - Cambambe
-Escola Ens. Prim.S/N Km 13 - Cambambe
-Escola Ens. Prim.S/N Mateus Pedro - Cambambe
-Escola Prim. I Ciclo 128 Mucozo - Cambambe
-Escola Prim. I Ciclo 139 Sonef - Cambambe
-Escola Prim. I Ciclo 153 - Cambambe
-Escola Prim. I Ciclo 18 Cidade - Cambambe
-Escola Prim. I Ciclo 396 Cassesse - Cambambe
-Escola Prim. I Ciclo Don Bosco - Cambambe
-Escola Primária 827 Km 34 Nova Cassoalala
-Escola Primária N. 806 Algodoeira
-Escola Primária N. 817 Soba Caboco
-Escola Primária N. 835 - Zenza - Do - Itombe
-Escola Primaria S/N Algodoeira - Cambambe
-Reparticao Municipal Da Educacao De Cambambe
-
-
-
-
-
-
-
+<option>[EQT] COMPLEXO ESCOLAR N. 831 DOM BOSCO-CAMBAMBE</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 810-NGUIMBI - SONGUE CASSECE ZONA - 2</option>
+<option>[EQT] ESCOLA PRIMÁRIA 827 KM 34-NOVA CASSOALALA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 821 JOÃO CARDOSO JORDÃO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 804 - 22 DE NOVEMBRO</option>
+<option>[EQT] COLÉGIO N. 820-DOM PEDRO I</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 822-REI NGUIMBI</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 812 SOBA GINBONGO ALTO - DONDO</option>
+<option>[EQT] COLÉGIO N. 808 - 4 DE JANEIRO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N.819-TALA LEMBA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 824 FRANCISCO POLICARPO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 811 COMANDANTE STONA ALTO - DONDO</option>
+<option>[EQT] INSTITUTO POLITÉCNICO N. 807 CHICO MENDELIEV - CAMBAMBE</option>
+<option>[EQT] COMPLEXO ESCOLAR 834 KM 13 - MASSANGANO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 830 MUCOZO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 816-COMANDANTE CAFEBELE</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 815-COMANDANTE PAKA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 818-NGOLA YETU</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 835 - ZENZA - DO - ITOMBE</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 828 - 1. DE JUNHO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 825-SOBA NGOLOME</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 806-ALGODOEIRA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 832-MATEUS PEDRO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 829 COMANDANTE SARABI</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 805 COMANDANTE BULA SATEC</option>
+<option>[EQT] COLÉGIO N. 801-SOBA MANUEL QUISSOLA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 817-SOBA CABOCO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 822-NGOLA KIETO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 826-SOBA JOAQUIM QUITUXI</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 803 - CIDADE</option>
+<option>[EQT] COMPLEXO ESCOLAR MANUEL N.814-PEDRO PACAVIRA DO ALTO - DONDO</option>
+<option>[EQT] ESCOLA DE MAGISTÉRIO N. 802 MAURÍCIO DOMINGOS - DONDO</option>

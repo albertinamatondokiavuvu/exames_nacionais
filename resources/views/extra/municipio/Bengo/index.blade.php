@@ -4,4 +4,3 @@
 <option>Dembos</option>
 <option>Nambuangongo</option>
 <option>Bula Atumba</option>
-<option>Gombe</option>

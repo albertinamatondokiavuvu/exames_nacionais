@@ -1,34 +1,29 @@
-<option>Complexo Escolar N. 413 - Henriques Cassule Kianvo</option>
-<option>Escola Do I Ciclo Nº 429 - Paredes - Dembos</option>
-<option>Escola Do I Ciclo Nº 438 - Coxe Sede - Dembos</option>
-<option>Escola Do Ii Ciclo Dos Dembos - Dembos</option>
-<option>Escola Prim. Nº 401 - Sede - Dembos</option>
-<option>Escola Prim. Nº 4012 - Quinzala - Dembos</option>
-<option>Escola Prim. Nº 402 - Banza - Dembos</option>
-<option>Escola Prim. Nº 403 - Aldeia De Missão - Dembos</option>
-<option>Escola Prim. Nº 404 - Missão Católica - Dembos</option>
-<option>Escola Prim. Nº 405 - Quipungo - Dembos</option>
-<option>Escola Prim. Nº 406 - Quifulo - Dembos</option>
-<option>Escola Prim. Nº 407 - Catende - Dembos</option>
-<option>Escola Prim. Nº 408 - Gombe De Kibaxe - Dembos</option>
-<option>Escola Prim. Nº 408 - Gombe De Kibaxe - Dembos</option>
-<option>Escola Prim. Nº 409 - Maria De Fátima - Dembos</option>
-<option>Escola Prim. Nº 411 - Quissaquila - Dembos</option>
-<option>Escola Prim. Nº 413 - Quimuquiama - Dembos</option>
-<option>Escola Prim. Nº 415 - Quimuenga - Dembos</option>
-<option>Escola Prim. Nº 416 - Quipaulo - Dembos</option>
-<option>Escola Prim. Nº 417 - Quingange - Dembos</option>
-<option>Escola Prim. Nº 418 - Quibaxe Sede - Dembos</option>
-<option>Escola Prim. Nº 421 - Piri Velho - Dembos</option>
-<option>Escola Prim. Nº 423 - Muquiama Samba - Dembos</option>
-<option>Escola Prim. Nº 427 - Padeiro - Dembos</option>
-<option>Escola Prim. Nº 431 - Quiamuandi - Dembos</option>
-<option>Escola Prim. Nº 436 - Caputo - Dembos</option>
-<option>Escola Prim. Nº 440 - Mobil - Dembos</option>
-<option>Escola Primária N. 410 - Bernardo Domingos Pascoal (Kapasso)</option>
-<option>Escola Primária N. 411 - Rufino Gonga Paca</option>
-<option>Escola Primária N. 412 - Mbombo Cassule</option>
-<option>Escola Primária N. 415 - David Cassule</option>
-<option>I Ciclo N. 414 - Henriques Vasco Paulo Pambalo</option>
-<option>Instituto Medio Politecnico Do Piri-Dembos - Dembos</option>
-<option>Reparticao Municipal Da Educacao Dos Dembos</option>
+<option>[EQT] ENSINO PRIMARIA 436</option>
+<option>[EQT] ESCOLA PRIM. Nº 401 - BANZA DE QUIBAXE</option>
+<option>[EQT] ESCOLA PRIM. Nº 417 - QUIMBAMBA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 419 - MOISÉS WELA </option>
+<option>[EQT] ESCOLA PRIM. N.  408 - QUINZALA </option>
+<option>[EQT] ESCOLA PRIM. N. 407 - QUISSAQUILA </option>
+<option>[EQT] ESCOLA PRIM. N. 403 - PADRE MOTA</option>
+<option>[EQT] ESCOLA PRIM. N. 421 - PACA KAPEMBA</option>
+<option>[EQT] ESCOLA PRIM. N. 418 - MASSUNDA</option>
+<option>[EQT] ESCOLA PRIM. N. 406 - MARIA DE FÁTIMA</option>
+<option>[EQT] ESCOLA PRIM. N. 402 - GERVÁSIO CUSTÓDIO MIGUEL</option>
+<option>[EQT] ESCOLA PRIM. Nº 400 - ELIAS FULA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 413 - HENRIQUES CASSULE KIANVO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 411 - RUFINO GONGA PACA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 410 - BERNARDO DOMINGOS PASCOAL "KAPASSO"</option>
+<option>[EQT] .DIRECÃO MUNICIPAL DOS DEMBOS</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 415 - DAVID CASSULE</option>
+<option>[EQT] ESCOLA PRIM. N. 423 - QUISSANGA NDEMBO</option>
+<option>[EQT] COLÉGIO PÚBLICO N. 420 - MOBIL</option>
+<option>[EQT] COLÉGIO N. 409 - JOÃO BAPTISTA PANZO </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 412 - MBOMBO CASSULE</option>
+<option>[EQT] LICEU N. 441 - PRÍNCIPE JOSÉ SIMÃO DOS DEMBOS</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 416 - GASPAR JOÃO DOMINGOS (MILENGO)</option>
+<option>[EQT] COMPLEXO ESCOLAR. N.416 - GASPAR JOÃO DOMINGOS (MILENGO)2</option>
+<option>[EQT] ESCOLA PRIM. N. 405 - PAULINO BAPTISTA DA CRUZ</option>
+<option>[EQT] INSTITUTO POLITÉCNICO DOS DEMBOS N. 442</option>
+<option>[EQT] ESCOLA PRIMÁRIA N.422 - ANTÓNIO MATEMO  </option>
+<option>[EQT] COLÉGIO PÚBLICO N. 414 - HENRIQUES VASCO PAULO PAMBALA</option>
+<option>[EQT] ESCOLA PRIM. N. 404 - DAVID QUISSANGA</option>

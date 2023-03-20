@@ -10,4 +10,5 @@
 <option>Cangandala</option>
 <option>Cambundi-Catembo</option>
 <option>Luquembo</option>
-<option>Moxico</option>
+<option>Kunda Dya Baze</option>
+<option>Quirima</option>

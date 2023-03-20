@@ -1,19 +1,25 @@
-<option>Complexo Escolar N. 113 - 4 De Abril</option>
-<option>Complexo Escolar N. 128 Arco-Íris</option>
-<option>Complexo Escolar N. 129 Rainha Muana Cafunfo</option>
-<option>Complexo Escolar N. 9 Orgulho De Ser</option>
-<option>Escola Do E. Prim. E Do Iº Ciclo Nº 117 - Cuango</option>
-<option>Escola Do Ensino Primário  Madre Alphonso-Cuango - Cuango</option>
-<option>Escola Do Ensino Primário Do Bº Fernando   - Cuango</option>
-<option>Escola Do Ensino Primário E Do I Ciclo Nº 114 - Cuango</option>
-<option>Escola Do Ensino Primário E Do I Ciclo Nº 118 - Cuango</option>
-<option>Escola Do I Ciclo Do Samuamba - Cuango</option>
-<option>Escola Primária N. 11 Das Antenas</option>
-<option>Escola Primária N. 116 Do Luremo</option>
-<option>Escola Primária N. 119 Da Elevação - Nossa</option>
-<option>Escola Primária N. 120 Do Mussuco</option>
-<option>Escola Primária N. 122 Do Quinguri - Luzamba</option>
-<option>Escola Primária N. 123 Hoji-Ya-Henda Do Camarianga</option>
-<option>Escola Primária N. 13 - Ebenezer</option>
-<option>Escola Primária N. 15 Brilhante Do Amanhã</option>
-<option>Escola Primária N. 16 Do Gika</option>
+<option>[EQT] MAGISTÉRIO DO CUANGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 116 DO LUREMO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 03 DO BAIRRO SAMUAMBA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 129 RAINHA MUANA CAFUNFO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 9 ORGULHO DE SER</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DO CUANGO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 115 NGONGA BABI</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 07 MISSÃO CATÓLICA DO MUSSUCO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 6 - 1 DE MAIO DO SAMUAMBA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 113 - 4 DE ABRIL</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 128 - ARRCO - ÍRIS IEIA - CAPANGO</option>
+<option>[EQT] COLÉGIO N. 5 DO LUREMO</option>
+<option>[EQT] LICEU N. 2 CAFUNFO - SUL</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 8 - MADRE ALPHONSA</option>
+<option>[EQT] ESCOLA DO ENSINO PRIMÁRIO EBENEZER I.E.I.A</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 118 DEOLINDA RODRIGUES</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 123 HOJI - YA - HENDA DO CAMARIANGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 11 DAS ANTENAS</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 16 COMANDANTE GIKA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 15 BRILHANTE DO AMANHÃ</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 119 DA ELEVAÇÃO - NOSSA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 122 DO QUINGURI - LUZAMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 117 - 4 DE FEVEREIRO</option>
+<option>[EQT] COMPLEXO ESCOLAR N.114 DR.ANTÓNIO AGOSTINHO NETO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 12 DO BAIRRO FERNANDO</option>

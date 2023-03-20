@@ -1,18 +1,66 @@
-<option>Cuito</option>
-<option>Andulo</option>
-<option>Nharêa</option>
-<option>Cuemba</option>
-<option>Cunhinga</option>
-<option>Catabola</option>
-<option>Camacupa</option>
-<option>Chinguar</option>
-<option>Chitembo</option>
-
-
-
-
-
-
-
-
-
+<option>[EQT] ESCOLA PRIMÁRIA KAXIQUE KUNGO - CELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA ALDEIA N. 9 - CELA</option>
+<option>[EQT] COLÉGIO DE NGOLA KILUANJE - CELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE MBANZA - LEMBO - CELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA MBANZA NGUMBA - CELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA MBANZA - FUTA - CELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO BAIRRO CASSAPA - CELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA ALD. N. 8 - CELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA ALD. N. 6 - CELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA ALDEIA N. 5 - CELA</option>
+<option>[EQT] COLÉGIO DE KACHONGONO - CELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA SOBA NGUNGUI - CELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 412 - CELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO BAIRRO NGOMBE - CELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE MBANZA - UTONGO - CELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE MBANZA - DUMBO - CELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CHILOEMBA - CELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA CHACAVELA - CELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA ALDEIA N. 15 QUILEMBO - CELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA ALDEIA N. 14 - CELA</option>
+<option>[EQT] COMPLEXO ESCOLAR DOUTOR AGOSTINHO NETO - CELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO KASSOÇO - CELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO BAIRRO DO CAMPO - CELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA CHIMBÂNGUA - SANGA - CELA</option>
+<option>[EQT] INSTITUTO TÉCNICO AGRÁRIO DA CELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA ALDEIA N. 1 - CELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA CHINGO - UTUMBO - CELA</option>
+<option>[EQT] LICEU DO WAKU - KUNGO CELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA 11 DE NOVEMBRO DA CELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA MARTIRES DO HUAMBO - CELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO BAIRRO MORENO - CELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE ENSINO DE ADULTOS - CELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA CALILA - CELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA KICUCUTO - CELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA DEMBA - SANGA - CELA</option>
+<option>[EQT] COLÉGIO JOSÉ EDUARDO DOS SANTOS - CELA</option>
+<option>[EQT] INSTITUTO TÉCNICO DE SAÚDE DA CELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DONGA LENGULUCA KIUNGULO - CELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 82 - CELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA MBANZA ÚTÚE - CELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA MBANZA - FUNGO - CELA</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DE EDUCAÇÃO DA CELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA FAZENDA N. 32 - CELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA ALDEIA N. 12 - CELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA RAINHA NZINGA MBANDI DO TENGUE - CELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO KIMBUNDI - CELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO BAIRRO CERTEZA - CELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA MBANZA MUSSENDE - CELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CHAHOSSI - CELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE UMBONGUE - CELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA SOBA KAZUA - CASSAMBA -CELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CACOLE - CELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO KITUNDO - CELA</option>
+<option>[EQT] MAGISTÉRIO PRIMÁRIO DA CELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA 17 DE SETEMBRO - CELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA SOBA KANDANDI DE CANJOMBE - CELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA MBALA - SANGA - CELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CAPESO - CELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA KISSALA - CELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA ALDEIA N. 3, 4 - CELA</option>
+<option>[EQT] COMPLEXO ESCOLAR 4 DE ABRIL - SANGA - CELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA SOBA CASSUMBA - CELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA EVANGÉLICA REV MILKE SOLBERG - CELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE MANDE - KUNGO - CELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO KICOCOTO  - CELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO BAIRRO CAMBANGO - CELA</option>

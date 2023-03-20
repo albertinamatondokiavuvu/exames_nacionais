@@ -1,143 +1,89 @@
-<option>Escola Primária - 8 De Março</option>
-<option>Centro De Recurso</option>
-<option>Colégio Rei Mandume</option>
-<option>Complexo Escolar - 4 De Janeiro</option>
-<option>Complexo Escolar - Ekuikui I</option>
-<option>Complexo Escolar - Ekuikui Ii</option>
-<option>Complexo Escolar -22 De Novembro</option>
-<option>Complexo Escolar 27 De Março</option>
-<option>Complexo Escolar Cdte Cassanji</option>
-<option>Complexo Escolar Da Tola</option>
-<option>Complexo Escolar De Cavimbi Ii</option>
-<option>Complexo Escolar De Saraiva</option>
-<option>Complexo Escolar De Ungongo</option>
-<option>Complexo Escolar Do Dumbo</option>
-<option>Complexo Escolar Do Passe - Sede</option>
-<option>Complexo Escolar Dr. A. A. Neto</option>
-<option>Complexo Escolar Missionário Vincenzo Montanaro - Kamukwa</option>
-<option>Complexo Escolar Paiva D. Da Silva</option>
-<option>Complexo Escolar Rainha Nj. Mbandi</option>
-<option>Complexo Escolar Ungombo</option>
-<option>Escola Prim´Ria Do Alto Henrique</option>
-<option>Escola Primári De Issaca</option>
-<option>Escola Primária - 11 De Novembro</option>
-<option>Escola Primária - 16 De Junho</option>
-<option>Escola Primária - 4 De Abril</option>
-<option>Escola Primária - 4 De Fevereiro</option>
-<option>Escola Primária Bg 7068 - Camosso - Bocoio</option>
-<option>Escola Primária Mutu - Ya - Kevela</option>
-<option>Escola Primária - Sede Monte Belo</option>
-<option>Escola Primária- 10 De Dezembro</option>
-<option>Escola Primária 25 De Abril</option>
-<option>Escola Primária Augusto Ngangula</option>
-<option>Escola Primária Belino Bastos</option>
-<option>Escola Primária Bg 7006 - Cossolo - Bocoio</option>
-<option>Escola Primária Bg 7013 - Uvi - Bocoio</option>
-<option>Escola Primária Bg 7016 - Vacaria - Bocoio</option>
-<option>Escola Primária Bg 7023 - Kukuvi - Bocoio</option>
-<option>Escola Primária Bg 7030 - Yiya - Bocoio</option>
-<option>Escola Primária Bg 7033 - Tieca - Bocoio</option>
-<option>Escola Primária Bg 7036 - Cacuti - Bocoio</option>
-<option>Escola Primária Bg 7038 - Cassima - Bocoio</option>
-<option>Escola Primária Bg 7039 - Luponde - Bocoio</option>
-<option>Escola Primária Bg 7041 - Catandi - Bocoio</option>
-<option>Escola Primária Bg 7042 - Embombo - Bocoio</option>
-<option>Escola Primária Bg 7044 - Evole - Bocoio</option>
-<option>Escola Primária Bg 7046 - Lohondio - Bocoio</option>
-<option>Escola Primária Bg 7050 - Cambanga - Bocoio</option>
-<option>Escola Primária Bg 7051 - Etacambua - Bocoio</option>
-<option>Escola Primária Bg 7056 - Calupuca - Bocoio</option>
-<option>Escola Primária Bg 7062 -Etutula - Bocoio</option>
-<option>Escola Primária Bg 7064 - Kamupa - Bocoio</option>
-<option>Escola Primária Bg 7066 - Kokonga - Bocoio</option>
-<option>Escola Primária Bg 7069 - Vila- Flor - Bocoio</option>
-<option>Escola Primária Bg 7072 - Jamba - Bocoio</option>
-<option>Escola Primária Bg 7074 - Lomanga - Bocoio</option>
-<option>Escola Primária Bg 7075 - Chiquete I - Bocoio</option>
-<option>Escola Primária Bg 7078 - Akongo - Bocoio</option>
-<option>Escola Primária Bg 7080 - Pumuañgala - Bocoio</option>
-<option>Escola Primária Bg 7083 - Brita - Bocoio</option>
-<option>Escola Primária Bg 7086 - Cambovo - Bocoio</option>
-<option>Escola Primária Bg 7088 - Umbango - Bocoio</option>
-<option>Escola Primária Bg 7090 - Sandele - Bocoio</option>
-<option>Escola Primária Bg 7092 - Balawanda - Bocoio</option>
-<option>Escola Primária Bg 7093 - Atchuyu - Bocoio</option>
-<option>Escola Primária Bg 7095 - Ngunji - Bocoio</option>
-<option>Escola Primária Bg 7098 - Chicala - Bocoio</option>
-<option>Escola Primária Bg 7101 - Ngando - Bocoio</option>
-<option>Escola Primária Bg 7106 Issombo</option>
-<option>Escola Primária Bg 7108 - Dondo - Bocoio</option>
-<option>Escola Primária Bg 7112 - Camoco - Bocoio</option>
-<option>Escola Primária Bg 7113 - Londengo - Bocoio</option>
-<option>Escola Primária Bg 7117 - Londuva - Bocoio</option>
-<option>Escola Primária Bg 7119 - Cahanha - Bocoio</option>
-<option>Escola Primária Bg 7121 - Lonjumba - Bocoio</option>
-<option>Escola Primária Bg 7122 - Cassoque - Bocoio</option>
-<option>Escola Primária Bg 7124 - Etamba - Bocoio</option>
-<option>Escola Primária Bg 7129 - Ngando - Bocoio</option>
-<option>Escola Primária Bg 7130 - Cambuta - Bocoio</option>
-<option>Escola Primária Bg 7131 - Cassema Bondole - Bocoio</option>
-<option>Escola Primária Bg 7132 - Cabaia - Bocoio</option>
-<option>Escola Primária Bg 7135 - Teixeira - Bocoio</option>
-<option>Escola Primária Bg 7140 - Mendonça - Bocoio</option>
-<option>Escola Primária Bg 7141 - Cassema I - Bocoio</option>
-<option>Escola Primária Cdte Gika</option>
-<option>Escola Primária Chicuma</option>
-<option>Escola Primária Chindiandia</option>
-<option>Escola Primária Da Camelã</option>
-<option>Escola Primária Da Chimba</option>
-<option>Escola Primária Da Jumba</option>
-<option>Escola Primária Da Manga</option>
-<option>Escola Primária Da Zuarte</option>
-<option>Escola Primária De Agro Vila</option>
-<option>Escola Primária De Alto Morro</option>
-<option>Escola Primária De Balambi</option>
-<option>Escola Primária De Caála</option>
-<option>Escola Primária De Caissombo</option>
-<option>Escola Primária De Caluvango</option>
-<option>Escola Primária De Cangoia</option>
-<option>Escola Primária De Cangombe</option>
-<option>Escola Primária De Caquim</option>
-<option>Escola Primária De Casseque</option>
-<option>Escola Primária De Cavimbi I</option>
-<option>Escola Primária De Cavinda</option>
-<option>Escola Primária De Chiconguele</option>
-<option>Escola Primária De Chimbuititi</option>
-<option>Escola Primária De Chimbungo</option>
-<option>Escola Primária De Chindemba</option>
-<option>Escola Primária De Chinduri</option>
-<option>Escola Primária De Chitombe</option>
-<option>Escola Primária De Chivangulula</option>
-<option>Escola Primária De Cubal Coyaya</option>
-<option>Escola Primária De Cuhula</option>
-<option>Escola Primária De Ekungo</option>
-<option>Escola Primária De Etunda</option>
-<option>Escola Primária De Eyove</option>
-<option>Escola Primária De Lomolo</option>
-<option>Escola Primária De Lonengue</option>
-<option>Escola Primária De Lonjamba</option>
-<option>Escola Primária De Lossinja</option>
-<option>Escola Primária De Lossonga </option>
-<option>Escola Primária De Messalo</option>
-<option>Escola Primária De Munjomba</option>
-<option>Escola Primária De Ngoa</option>
-<option>Escola Primária De Nguali</option>
-<option>Escola Primária De Sacutopi</option>
-<option>Escola Primária De Sequeta</option>
-<option>Escola Primária Do Alto Pundo</option>
-<option>Escola Primária Do Luvale</option>
-<option>Escola Primária Do Ngando Aweko</option>
-<option>Escola Primária Dr. António A. Neto</option>
-<option>Escola Primária Dr. Freitas</option>
-<option>Escola Primária Lohombo</option>
-<option>Escola Primária Lomama</option>
-<option>Escola Primária Lucunga</option>
-<option>Escola Primária Saidy Vieira D. Mingas</option>
-<option>Escola Primáriade Chingundo</option>
-<option>Instituto Técnico De Saúde Do Bocoio</option>
-<option>Liceu- Bocoio</option>
-<option>Secção Escolar Comunal - Sede - Bocoio</option>
-<option>Secção Escolar Comunal Da Chila - Bocoio</option>
-<option>Secção Escolar Comunal Do Cubal Do Lumbo - Bocoio</option>
-<option>Secção Escolar Comunal Do Monte Belo - Bocoio</option>
-<option>Secção Escolar Comunal Do Passe - Bocoio</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7055 - CHIMBUNGO - BOCOIO</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 7004 - 22 DE NOVEMBRO - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG - 7003 - 25 DE ABRIL - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7142 - CAMELÃ - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7134 - CHIVANGULULA - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7118 - EKUNGO - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7115 - LOSSINJA - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7100 - CHINDIANDIA - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7087 - CHINDEMBA - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7048 - CHICUMA - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7010 - 4 DE FEVEREIRO - BOCOIO</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 7052 - UNGONGO - BOCOIO</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 7018 - RAINHA NJ. MBANDI - BOCOIO</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 7001 - PAIVA D. DA SILVA - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7143 - ALTO HENRIQUE - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7125 - LUCUNGA - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7097 - CAVINDA - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7091 - CALUVANGO - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7081 - BALAMBI - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7060 - MUNJOMBA - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7049 - LOHOMBO - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7045 - CANGOMBE - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7040 - DE ISSAKA - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7032 - CAISSOMBO - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7025 - AUGUSTO NGANGULA - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7009 - 11 DE NOVEMBRO - BOCOIO</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 7047 - 4 DE JANEIRO - BOCOIO</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 7037 - CAVIMBI II - BOCOIO</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 7027 - 27 DE MARÇO - BOCOIO</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 7019 - EKUIKUI I - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7314 - SEDE MONTE BELO - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7139 - JUMBA - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7127 - CHICONGUELE - BOCOIO</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 7026 - MISS. VINCENZO MONTANARO - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7102 - CHITOMBE - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7096 - NGUALI - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7084 - ALTO MORRO - BOCOIO</option>
+<option>[EQT] CENTRO DE RECURSO BG 7146 - EDUCAÇÃO ESPECIAL - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7021 - CHIMBA - BOCOIO</option>
+<option>[EQT] LICEU BG 7000 - BOCOIO </option>
+<option>[EQT] INSTITUTO TÉCNICO DE SAÚDE BG 7145 - BOCOIO</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 7029 - DUMBO - BOCOIO</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 7014 - EKUIKUI II - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7114 - ALTO PUNDO - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7104 - CHIMBUITITI - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7094 - DE CUBAL COYAYA - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7085 - LONJAMBA - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7059 - SACUTOPI - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7057 - MANGA - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7043 - CUHÚLA - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7034 - CAVIMBI I - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7028 - MUTU-YA-KEVELA - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7022 - CHINDURI - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7020 - CANGOIA -BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7007 - 4 DE ABRIL - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7058 - LOSSONGA - BOCOIO</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 7113 - PASSE - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7106 - ISSOMBO - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7077 - MESSALO - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7067 - CHINGUNDO - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7005 - 16 DE JUNHO - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7011 - 10 DE DEZEMBRO - BOCOIO</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 7103 - DR. ANTÓNIO A. NETO - BOCOIO</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 7110 - UNGOMBO - BOCOIO</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 7024 - CDTE CASSANJI - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7137 - ZUARTE - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7120 - EYOVE - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7073 - BELINO BASTOS - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7071 - SEQUETA - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7061 - DR. FREITAS - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7031 - LOMOLÕ - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7017 - DR. ANTÓNIO A. NETO - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7133 - NGANDO AWEKO - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7128 - CAQUIM - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7123 - LUVALE - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7116 - NGOA - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7107 - LOMAMA - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7089 - SAIDY VIEIRA MINGAS - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7063 - CAÁLA - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7012 - ETUNDA - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7015 - 8 DE MARÇO - BOCOIO</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DO BOCOIO</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 7076 - TOLA - BOCOIO</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 7065 - SARAIVA - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7044 - AGRO VILA - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7136 - CASSEQUE - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7054 - LONENGUE - BOCOIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 7008 - CDTE GIKA - BOCOIO</option>
+<option>[EQT] COLÉGIO BG 7002 - REI MANDUME - BOCOIO</option>

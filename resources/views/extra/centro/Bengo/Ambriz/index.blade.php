@@ -1,19 +1,15 @@
-<option>Colégio Público N. 110 Comandante Hoji Henda</option>
-<option>Colégio Público N. 112 Mbanza Nsolela</option>
-<option>Escola Do I Ciclo Nº 112/Tabi - Ambriz</option>
-<option>Escola Do I Ciclo Nº 116/Ambriz Sede - Ambriz</option>
-<option>Escola Do I Ciclo Nº123 Bela Vista - Ambriz</option>
-<option>Escola Do Ii Ciclo Nº 113 Do Ambriz - Ambriz</option>
-<option>Escola Prim. Nº 105 - Loge Grande - Ambriz</option>
-<option>Escola Prim. Nº 119 Kapulo - Ambriz</option>
-<option>Escola Prim. Nº 121 Ningue - Ambriz</option>
-<option>Escola Primária N. 101 Ngola Mbandi - Ambriz</option>
-<option>Escola Primária N. 102 Augusto Ngangukla - Ambriz</option>
-<option>Escola Primária N. 103 - 11 De Novembro</option>
-<option>Escola Primária N. 104 Ndongalacia Nkua Muala</option>
-<option>Escola Primária N. 105 - Nzinga Nkuvu</option>
-<option>Escola Primária N. 106 - António Luís</option>
-<option>Escola Primária N. 106 Nkimpa Nvita</option>
-<option>Escola Primária N. 107 - Dr. António Agostinho Neto</option>
-<option>Escola Primária N. 109 Nimi Ya Lukeni</option>
-<option>Repartição Da Educação, Ciencia E Tecnologia De Ambriz - Ambriz</option>
+<option>[EQT] LICEU N. 113 MBANZA DYA NTUNGU-AMBRIZ</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 107 - DR. ANTÓNIO AGOSTINHO NETO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 101 NGOLA MBANDE </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 106- NKIMPA NVITA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 112 JOÃO DOMINGOS NKODI</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 102 AUGUSTO NGANGULA </option>
+<option>[EQT] COLÉGIO  N. 115 SIMÃO SEBASTIÃO MBIA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 108 - NZINGA NKUVU</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 104 NDONGALACIA NKUA MUNUA</option>
+<option>[EQT] COLÉGIO  N. 114 MBANZA NSOLELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 103 --5 DE MAIO</option>
+<option>[EQT] LICEU N. 113 - MBANZA DYA NTUNGU</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 109 NIMI YA LUKENI</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 105 - ANTÓNIO LUÍS</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DO AMBRIZ </option>

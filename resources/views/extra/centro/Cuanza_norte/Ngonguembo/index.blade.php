@@ -1,17 +1,7 @@
-<option>Cuito</option>
-Complexo Escolar N. 1203 - Comandante Sekouturé
-Complexo Escolar N. 1204 - Cavunga
-Complexo Escolar N. 1205 - Camame
-Escola Nº247-Sede - Gonguembo
-Escola Primária N. 1201 - Banza Quilombo
-Escola Primária N. 1202 - Velho Yango
-Reparticao Municipal Da Educaçao De Gonguembo
-
-
-
-
-
-
-
-
-
+<option>[EQT] ESCOLA PRIMÁRIA N. 1202 - VELHO YANGO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 1203 - COMANDANTE SEKOUTURÉ</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1201 - BANZA QUILOMBO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 1204 - CAVUNGA</option>
+<option>[EQT] REPARTICAO MUNICIPAL DA EDUCAÇAO DE GONGUEMBO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 1205 - CAMAME</option>
+<option>[EQT] LICEU N. 1206 KALA KIZWA - GONGUEMBO</option>

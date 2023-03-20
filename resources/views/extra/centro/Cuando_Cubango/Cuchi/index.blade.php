@@ -1,19 +1,21 @@
-<option>Cuito</option>
-Colégio N. 24ccc3 Do Cutato
-Complexo Escolar N. 13ccc3 - 17 De Setembro
-Complexo Escolar N. 18ccc3 - Muene Mucuva
-Escola Primária  N. 07ccc3 - 1º De Maio
-Escola Primária Do Talama - Cuchi
-Escola Primária N. 01ccc3 - 4 De Fevereiro
-Escola Primária N. 02ccc3 - Hoji-Ya-Henda
-Escola Primária N. 04ccc3 - Dr. Agostinho Neto
-Escola Primária N. 12ccc3 Do 2º Cuchi
-Escola Primária N. 15ccc3 - 10 De Dezembro
-Escola Primária N. 16ccc3 - 11 De Novembro
-Escola Primária N. 17ccc3 - Simione Mucune
-Escola Primária Nº 28, São José - Cuchi
-Escola Primária Nº 34, 22 De Novembro - Cuchi
-
+<option>[EQT] COMPLEXO ESCOLAR N. 20 CCC3 - 4 DE ABRIL</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 10 CCC3 - 17 DE SETEMBRO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 14 CCC3 - RAINHA CACUHU</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 20 CCC3 - 4 DE ABRIL</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 02 CCC3 - HOJI-YA-HENDA</option>
+<option>[EQT] MAGISTÉRIO PRIMÁRIO N. 21 CCC3 - TERESA INTUMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 12 CCC3 - DO 2º CUCHI</option>
+<option>[EQT] COLÉGIO N. 24 CCC3 - DO CUTATO</option>
+<option>[EQT] ESCOLA PRIMARIA N. 17 CCC3 - SIMIONE MUCUNE</option>
+<option>[EQT] ESCOLAR PRIMARIA N. 29 CCC3 - SÃO JOSÉ</option>
+<option>[EQT] LICEU N. 18 CCC3 - MUENE MUCUVA</option>
+<option>[EQT] ESCOLA PRIMARIA N. 16 CCC3 - 11 DE NOVEMBRO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 07 CCC3 - 1º DE MAIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 06 CCC3 - DO MALENGUE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 01 CCC3 - 4 DE FEVEREIRO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 13 CCC3 - 17 DE SETEMBRO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 19 CCC3 - NDUMBA-YA-KAMBANGU</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DO CUCHI</option>
 
 
 

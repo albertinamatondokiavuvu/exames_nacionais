@@ -1,227 +1,170 @@
-<option>Colégio Do Tumbulo </option>
-<option>Colégio Ilídio Machado</option>
-<option>Colégio Kilamba</option>
-<option>Complexo Escolar Capupa</option>
-<option>Complexo Escolar São Paulo</option>
-<option>Complexo Escolar Atiopo</option>
-<option>Complexo Escolar Cdte Cussi</option>
-<option>Complexo Escolar Ekuikui Ii</option>
-<option>Complexo Escolar Lassalete</option>
-<option>Complexo Escolar Lomaun</option>
-<option>Complexo Escolar Loneta-Halo</option>
-<option>Complexo Escolar Teresiana</option>
-<option>Complexo Escolar Vacaria</option>
-<option>Escola Primária Agostinho Neto</option>
-<option>Escola Primária De Arame Tunel</option>
-<option>Escola Primária De Augusto Ngangula</option>
-<option>Escola Primária E Secundária Do I Ciclo Bg Nº 4031 Cdte Cussi-Jerequete - Cubal</option>
-<option>Escola Primária De Caimbovo I</option>
-<option>Escola Primária De Coporolo -Bg Nº 4171- Cubal</option>
-<option>Escola Primária De Kaisasa -Bg Nº 4141 - Cubal</option>
-<option>Escola Primária De Kayove -Bg Nº 4126 - Cubal</option>
-<option>Escola Primária De Lohima -Bg Nº 4132 - Cubal</option>
-<option>Escola Primária De Londuva -Bg Nº 4136 - Cubal</option>
-<option>Escola Primária De Lonjunju -Bg Nº 4184 - Cubal</option>
-<option>Escola Primária De Lulambo -Bg Nº 4017 - Cubal</option>
-<option>Escola Primária De Tchiyala -Bg Nº 4143 - Cubal</option>
-<option>Escola Primária Cambondongolo</option>
-<option>Escola Primária Cdte Kussi Lomaum -Bg Nº 4228 - Cubal</option>
-<option>Escola Primária Da Cassua -Bgnº 4146 - Cubal</option>
-<option>Escola Primária De Akepa-Lulambo -Bg Nº 4133 - Cubal</option>
-<option>Escola Primária De Cachimone-Bg Nº 4227 - Cubal</option>
-<option>Escola Primária De Doloma -Bg Nº 4173 - Cubal</option>
-<option>Escola Primária De Domba -Bg Nº 4174 - Cubal</option>
-<option>Escola Primária De Ekolonga -Bg Nº 4127 - Cubal</option>
-<option>Escola Primária De Elembe -Bg Nº 4115 - Cubal</option>
-<option>Escola Primária De Hoji-Ya-Henda - Bg Nº 4160 - Cubal</option>
-<option>Escola Primária De Kafeka -Bg Nº 4106 - Cubal</option>
-<option>Escola Primária De Kaikela -Bg Nº 4180 - Cubal</option>
-<option>Escola Primária De Kambinji -Bg Nº 4095 - Cubal</option>
-<option>Escola Primária De Kuema -Bg Nº 4170 - Cubal</option>
-<option>Escola Primária De Londesa -Bg Nº 4185 - Cubal</option>
-<option>Escola Primária De Mahumbulo -Bg Nº 4175 - Cubal</option>
-<option>Escola Primária De Ngolo -Bg Nº 4135 - Cubal</option>
-<option>Escola Primária De Ngonde Ii -Bg Nº 4080 - Cubal</option>
-<option>Escola Primária De Ngussi -Bg Nº 4109 - Cubal</option>
-<option>Escola Primária De Tambi -Bg Nº 4124 - Cubal</option>
-<option>Escola Primária De Tchikelengenje -Bg Nº 4179 - Cubal</option>
-<option>Escola Primária De Tchiteta -Bg Nº 4122 - Cubal</option>
-<option>Escola Primária De Ukangala -Bg Nº 4144 - Cubal</option>
-<option>Escola Primária De Ukongolo -Bg Nº 4148 - Cubal</option>
-<option>Escola Primária De Utaku -Bg Nº 4130 - Cubal</option>
-<option>Escola Primária De Uvioque- Bg Nº 4188 - Cubal</option>
-<option>Escola Primária De Wiñgililo -Bg Nº 4102 - Cubal</option>
-<option>Escola Primária Jamba De Baixo -Bg Nº 4119 - Cubal</option>
-<option>Escola Primária Katala Kavíncia -Bg Nº 4140 - Cubal</option>
-<option>Escola Primária Taka I -Bg Nº 4071 - Cubal</option>
-<option>Escola Primária Wé-Humbo -Bg Nº 4178 - Cubal</option>
-<option>Escola Primária 10 De Dezembro</option>
-<option>Escola Primária 11 De Novembro</option>
-<option>Escola Primária 14 De Abril</option>
-<option>Escola Primária 17 De Setembro</option>
-<option>Escola Primária 1º De Agosto</option>
-<option>Escola Primária 1º De Junho</option>
-<option>Escola Primária 2 De Março</option>
-<option>Escola Primária 20 De Junho</option>
-<option>Escola Primária 27 De Março</option>
-<option>Escola Primária 4 De Fevereiro </option>
-<option>Escola Primária 4 De Janeiro</option>
-<option>Escola Primária 5 De Outubro</option>
-<option>Escola Primária 73ª Brigada</option>
-<option>Escola Primária 8 De Março</option>
-<option>Escola Primária Barragem Do Dugo</option>
-<option>Escola Primária Bundiangolo-Luhengue</option>
-<option>Escola Primária Cassiva</option>
-<option>Escola Primária Cdte Jika</option>
-<option>Escola Primária Cdte Bula</option>
-<option>Escola Primária Cdte Kassanje</option>
-<option>Escola Primária Centro Católico De Henga</option>
-<option>Escola Primária Da Simbolia</option>
-<option>Escola Primária Das Caritas</option>
-<option>Escola Primária De Cambondo -Bg Nº 4122 - Cubal</option>
-<option>Escola Primária De 16 De Junho- Sala</option>
-<option>Escola Primária De 1º De Maio</option>
-<option>Escola Primária De 4 De Abril</option>
-<option>Escola Primária De Alto-Tchilenga -Bg Nº 4112 - Cubal</option>
-<option>Escola Primária De Banja</option>
-<option>Escola Primária De Caipumba</option>
-<option>Escola Primária De Calanda</option>
-<option>Escola Primária De Cambondongolo Fazenda</option>
-<option>Escola Primária De Candjelela Nº 4177 - Cubal</option>
-<option>Escola Primária De Cassorio</option>
-<option>Escola Primária De Cdte Kwenha</option>
-<option>Escola Primária De Chimboa Da Hanha</option>
-<option>Escola Primária De Cristino Santo</option>
-<option>Escola Primária De Ehoko</option>
-<option>Escola Primária De Elavelo</option>
-<option>Escola Primária De Hengue</option>
-<option>Escola Primária De Jerequete</option>
-<option>Escola Primária De Kafilili</option>
-<option>Escola Primária De Kahanga-Malongo</option>
-<option>Escola Primária De Kaikuyu</option>
-<option>Escola Primária De Kaipepe</option>
-<option>Escola Primária De Kaipunda</option>
-<option>Escola Primária De Kaissombo</option>
-<option>Escola Primária De Kaitala</option>
-<option>Escola Primária De Kakelewe</option>
-<option>Escola Primária De Kakuti</option>
-<option>Escola Primária De Kalanda -Bg Nº 4067 - Cubal</option>
-<option>Escola Primária De Kaliamuma</option>
-<option>Escola Primária De Kalohanda</option>
-<option>Escola Primária De Kalohombo</option>
-<option>Escola Primária De Kalohula -Bg Nº 4139 - Cubal</option>
-<option>Escola Primária De Kalombambi -Bg Nº 4107 - Cubal</option>
-<option>Escola Primária De Kalombanda</option>
-<option>Escola Primária De Kalomolo</option>
-<option>Escola Primária De Kalondala</option>
-<option>Escola Primária De Kalondjava</option>
-<option>Escola Primária De Kalonengue</option>
-<option>Escola Primária De Kalumwe</option>
-<option>Escola Primária De Kalupuli</option>
-<option>Escola Primária De Kambindji</option>
-<option>Escola Primária De Kamunda Quissolo</option>
-<option>Escola Primária De Kandjumba</option>
-<option>Escola Primária De Kañgele</option>
-<option>Escola Primária De Kangunda</option>
-<option>Escola Primária De Kanhelela Alta</option>
-<option>Escola Primária De Kapela</option>
-<option>Escola Primária De Kapungu</option>
-<option>Escola Primária De Kasalasitu</option>
-<option>Escola Primária De Kaseke-Mbala -Bg Nº 4074 - Cubal</option>
-<option>Escola Primária De Katala Ii -Bg Nº 4161 - Cubal</option>
-<option>Escola Primária De Katala-Cavisya</option>
-<option>Escola Primária De Katamba</option>
-<option>Escola Primária De Katapi</option>
-<option>Escola Primária De Katateka </option>
-<option>Escola Primária De Katchikela</option>
-<option>Escola Primária De Kateya-Matemba</option>
-<option>Escola Primária De Kaviãlã</option>
-<option>Escola Primária De Kavilumba</option>
-<option>Escola Primária De Kavombwe</option>
-<option>Escola Primária De Kavyala S/Nº - Cubal</option>
-<option>Escola Primária De Kayande -Bg Nº 4068 - Cubal</option>
-<option>Escola Primária De Kayandi</option>
-<option>Escola Primária De Kayendje</option>
-<option>Escola Primária De Kayombe</option>
-<option>Escola Primária De Konga</option>
-<option>Escola Primária De Kosolo</option>
-<option>Escola Primária De Kupa</option>
-<option>Escola Primária De Lago-Bom</option>
-<option>Escola Primária De Lavelo</option>
-<option>Escola Primária De Lohala</option>
-<option>Escola Primária De Lomemba -Bg Nº 4069 - Cubal</option>
-<option>Escola Primária De Lomupa</option>
-<option>Escola Primária De Lomupa -Bg Nº 4097 Cubal</option>
-<option>Escola Primária De Londjombele</option>
-<option>Escola Primária De Londjombele -Bg Nº 4077 - Cubal</option>
-<option>Escola Primária De Londuva</option>
-<option>Escola Primária De Longo -Bg Nº 4145 - Cubal</option>
-<option>Escola Primária De Longole</option>
-<option>Escola Primária De Lossinja</option>
-<option>Escola Primária De Lucuio</option>
-<option>Escola Primária De Lukumbi</option>
-<option>Escola Primária De Lukunho</option>
-<option>Escola Primária De Lulambo</option>
-<option>Escola Primária De Lunda </option>
-<option>Escola Primária De Lutila Wemba</option>
-<option>Escola Primária De M. Quifangondo</option>
-<option>Escola Primária De Namba Kalea</option>
-<option>Escola Primária De Nduma</option>
-<option>Escola Primária De Nduvu</option>
-<option>Escola Primária De Onamano</option>
-<option>Escola Primária De Patricie Lumumba</option>
-<option>Escola Primária De Puhona</option>
-<option>Escola Primária De Rei Mandume</option>
-<option>Escola Primária De Rio Bom</option>
-<option>Escola Primária De Samande</option>
-<option>Escola Primária De Sipiti</option>
-<option>Escola Primária De Songue</option>
-<option>Escola Primária De Sope</option>
-<option>Escola Primária De Tchalityañga</option>
-<option>Escola Primária De Tchambungu</option>
-<option>Escola Primária De Tchengueti</option>
-<option>Escola Primária De Tchikala-Tchihata</option>
-<option>Escola Primária De Tchikala-Tchonombo</option>
-<option>Escola Primária De Tchikwa</option>
-<option>Escola Primária De Tchiliva</option>
-<option>Escola Primária De Tchilunda</option>
-<option>Escola Primária De Tchimbiongo</option>
-<option>Escola Primária De Tchindjamba</option>
-<option>Escola Primária De Tchipako</option>
-<option>Escola Primária De Tchipeyo Ii</option>
-<option>Escola Primária De Tchiqueque</option>
-<option>Escola Primária De Tchisselehâ</option>
-<option>Escola Primária De Tchiteva -Bg Nº 4084 - Cubal</option>
-<option>Escola Primária De Tchitiakuma</option>
-<option>Escola Primária De Tchivole</option>
-<option>Escola Primária De Tchiylolyo</option>
-<option>Escola Primária De Tumba Terra</option>
-<option>Escola Primária De Tumbulo Sede</option>
-<option>Escola Primária De Tumolo Sede</option>
-<option>Escola Primária De Ukele -Bg Nº 4085 - Cubal</option>
-<option>Escola Primária De Upindi</option>
-<option>Escola Primária De Utalala</option>
-<option>Escola Primária De Utumba Baixo</option>
-<option>Escola Primária De Vavayela</option>
-<option>Escola Primária De Via Serração</option>
-<option>Escola Primária Deolinda Rodrigues</option>
-<option>Escola Primária Do Goio</option>
-<option>Escola Primária Ekuiekui Ii </option>
-<option>Escola Primária Engracia Jamba- Missão</option>
-<option>Escola Primária Garcia Neto N.º 40</option>
-<option>Escola Primária Handa-Ndende -Bg Nº 4120 - Cubal</option>
-<option>Escola Primária Kanianduti</option>
-<option>Escola Primária Lucrécia Paim</option>
-<option>Escola Primária Pedro De Castro Vandunen Loy</option>
-<option>Escola Primária Sagrada Esperança</option>
-<option>Escola Primária Tomás Ferreira</option>
-<option>Escola Primária Yakanekava</option>
-<option>Escola Primária Yambala</option>
-<option>Escola Prinmária Kahelekete</option>
-<option>Instituto Politécnico Do Cubal</option>
-<option>Instituto Técnico Agrário Do Alto Kapaca</option>
-<option>Instituto Técnico De Saúde Do Cubal</option>
-<option>Magistério Do Cubal</option>
-<option>Primária De Kalea</option>
-<option>Secção Comunal De Educação Da Capupa - Cubal</option>
-<option>Secção Comunal De Educação Da Yambala - Cubal</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4242 - MARCO ESTAÇÃO- CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4206 - GOIO - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4215 - KAKUTI - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4157 - KALUPULI - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4219 - KAIPUNDA - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4211 - KALEA - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4039 - KANHELELA ALTA - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4236 - KAPUNGU - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4176 - CAIPUMBA - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4216 - KAITALA - CUBAL</option>
+<option>[EQT] ESCOLA PRIMARIA BG 4047 - LOSSINJA - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4140 - KATALA-CAVISYA - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE TCHIMBIONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4191 - SIPITI - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4077 - LONDJOMBELE - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4029 - AUGUSTO NGANGULA - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE TCHILIVA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4151 - TCHENGUETI - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4213 - TCHAMBUNGU - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4202 - UPINDI - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE KOSOLO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4222 - KAKELEWE - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4088 - NDUVU - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4135 - KAMBINDJI - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4025 - TCHIPEYO 2º - CUBAL</option>
+<option>[EQT] INSTITUTO TÉCNICO DE SAÚDE BG 4195 - CUBAL</option>
+<option>[EQT] COMPLEXO ESCOLAR  BG 4070 - CAMBONDONGOLO - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4010 - EKUIEKUI II - CUBAL</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 4159 - CAPUPA - CUBAL</option>
+<option>[EQT] COLÉGIO BG 4113 - TUMBULO SEDE - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4034 - HENGA - CUBAL</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 4016 - TERESIANA - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4048 - LUNDA - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4050 - PATRICIE LUMUMBA - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4040 - GARCIA NETO N.º 40 - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4198 - VAVAYELA - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4149 - UTALALA - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4201 - LUKUNHO - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4208 - KATCHIKELA - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4091 - KATATEKA - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4154 - KATAPI - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4049 - MASSACRE DE QUIFANGONDO - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4042 - TCHISSELEHÂ - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE LUKUMBI</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4096 - CASSORIO - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4153 - KALONDJAVA - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4203 - KALOMOLO - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4064 - KAHELEKETE - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4097 - LOMUPA - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4046 - CDTE KWENHA - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4053 - RIO BOM - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4018 - YAKANEKAVA - CUBAL</option>
+<option>[EQT] ESCOLA TÉCNICA AGRÁRIA BG 4197 - ALTO KAPACA - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4022 - 1º DE MAIO - CUBAL</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 4076 - ATIOPO - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4112 - ALTO TCHILENGA - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4217 - LAGO-BOM - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4038 - KANIANDUTI - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4062 - KALOMBANDA - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4080 - NGONDE II - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4224 - LONGOLE - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4111 - KAYENDJE - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4193 - KANGUNDA - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4214 - KAIKUYU - CUBAL </option>
+<option>[EQT] COMPLEXO ESCOLAR BG 4100 - LOMAUM - CUBAL</option>
+<option>[EQT] ESCOLA  PRIMÁRIA BG 4028 - ARAME TUNEL - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4026 - 8 DE MARÇO - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4164 - LUTILA WEMBA - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4199 - KAVOMBWE - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4205 - BARRAGEM DO DUGO - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4020 - 2 DE MARÇO - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4166 - TCHIKWA - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4042 - REI MANDUME - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4165 - TCHINDJAMBA - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4123 - KANDJUMBA - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4065 - CAMBONDONGOLO FAZENDA - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4138 - 4 DE JANEIRO - CUBAL</option>
+<option>[EQT] INSTITUTO POLITÉCNICO BG 4196 - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4017 - TOMÁS FERREIRA - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4024 - 4 DE FEVEREIRO - CUBALO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4036 - DEOLINDA RODRIGUES - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4004 - 20 DE JUNHO - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4063 - 73ª BRIGADA - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4058 - 16 DE JUNHO- SALA - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4204 - SAGRADA ESPERANÇA - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4054 - TCHIPAKO - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4234 - SIMBOLIA - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4092 - SAMANDE - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4086 - KASALASITU - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4181 - KALONDALA - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4209 - NDUMA - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4087 - TCHIVOLE - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4152 - KUPA - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4212 - HENGUE - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE TCHITIAKUMA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4142 - TCHALITYAÑGA - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4226 - KAISSOMBO - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4078 - CHIMBOA DA HANHA - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4158 - KATCHIQUELA - CUBAL</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 4233 - KAHANGA-MALONGO - CUBAL</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 4056 - VACARIA - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4043 - KAMUNDA QUISSOLO - CUBAL</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 4033 - LASSALETE - CUBAL</option>
+<option>[EQT] COMPLEXO ESCOLAR  BG 4015 - SÃO PAULO - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4229 - TUMBULO SEDE - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4044 - KATAMBA - CUBAL</option>
+<option>[EQT] COLÉGIO BG 4013 - KILAMBA - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4230 - ENGRACIA JAMBA- MISSÃO - CUBAL </option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4007 - CDTE  JIKA - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4003 - 1º DE JUNHO - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4014 - LUCRÉCIA PAIM - CUBAL</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DO CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4072 - 5 DE OUTUBRO - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4079 - TCHIQUEQUE - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4182 - KAVIÃLÃ - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4192 - KAFILILI - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4051 - PEDRO DE C. VAN-DÚNEN LOY - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4186 - NAMBA KALEA - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4067 - CALANDA - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4066 - ELAVELO - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4218 - KALUMWE - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4231 - CAIMBOVO I - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4228 - CDTE KUSSI  LOMAUM - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4121 - PUHONA - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4167 - ONAMANO - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4104 - SOPE - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4000 - 10 DE DEZEMBRO - CUBAL</option>
+<option>[EQT] MAGISTÉRIO BG 4011 - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4189 - KAYANDI - CUBAL</option>
+<option>[EQT] COMPLEXO ESCOLAR EKUIKUI II</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4045 - KAVILUMBA - CUBAL</option>
+<option>[EQT] ESCOLA  PRIMÁRIA BG 4027 - AGOSTINHO NETO - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4021 - 1º DE AGOSTO - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4009 - CDTE KASSANJE - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4008 - CDTE BULA - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4006 - CÁRITAS - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4210 - TCHILUNDA - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4200 - TCHIYLOLYO - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4083 - KAYOMBE - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4207 - KALOHANDA - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4117 - LULAMBO - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4099 - LAVELO - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4041 - KALONENGUE - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4194 - KAIPEPE - CUBAL</option>
+<option>[EQT] LICEU BG 4235 - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4061 - BUNDIANGOLO-LUHENGUE - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE VIA SERRAÇÃO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4168 - LOHALA - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4105 - BANJA - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4057 - JEREQUETE - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4005 - 27 DE MARÇO - CUBAL</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 4147 - LONETA-HALO - CUBAL</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 4031 - CASSIVA - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4019 - 14 DE ABRIL - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4002 - 17 DE SETEMBRO - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4023 - 4 DE ABRIL - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4190 - SONGUE - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4094 - KAÑGELE - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4118 - KALIAMUMA - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4059 - UTUMBA BAIXO - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4055 - TUMBA TERRA - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4095 - KATEYA-MATEMBA - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4101 - LUCUIO - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4220 - KONGA - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4068 - KALOHOMBO - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4150 - TUMOLO SEDE - CUBAL</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 4082 - YAMBALA - CUBAL</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 4032 - CDTE CUSSI - CUBAL</option>
+<option>[EQT] COLÉGIO BG 4012 - ILÍDIO MACHADO - CUBAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 4001 - 11 DE NOVEMBRO - CUBAL</option>

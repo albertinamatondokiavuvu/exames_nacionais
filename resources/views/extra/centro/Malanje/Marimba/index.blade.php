@@ -1,1 +1,12 @@
-<option>Liceu N. 11 - 2 De Setembro - Marimba</option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 1 -COMDANTE VALÓDIA - MARIMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 6 - XIQUITA - MARIMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 5 - NGOLA KILUANJE - MARIMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 4 - RAINHA LOLA - MARIMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 9 - MARIMBA NGUENGO - MARIMBA</option>
+<option>[EQT] LICEU Nº 11- 2 DE SETEMBRO - MARIMBA</option>
+<option>[EQT] COLÉGIO Nº 10 - HOJI YA HENDA - MARIMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 7 - DALA-CALUNGA - MARIMBA</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DE MARIMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 3 - MAJOR KANHANGULO - MARIMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 8 - CABOMBO - MARIMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 2 - HOJI YA HENDA - MARIMBA</option>

@@ -1,58 +1,37 @@
-<option>Colégio Da Damba</option>
-<option>Complexo Escolar Do Namputo Da Damba</option> 
-<option>Escola  Primarioa Nº 621 Lembua</option>
-<option>Escola Do Ensino Primario  Nº 989</option>
-<option>Escola Do Ensino Primario  Nº248</option>
-<option>Escola Do Ensino Primario Ieba</option>
-<option>Escola Do Ensino Primario Kaxito Makax.</option>
-<option>Escola Do Ensino Primario Kipanzo Vitu.</option>
-<option>Escola Do Ensino Primário Milango </option>
-<option>Escola Do Ensino Primario Mpaza Ii</option>
-<option>Escola Do Ensino Primario Nº  260</option>
-<option>Escola Do Ensino Primario Nº  262</option>
-<option>Escola Do Ensino Primario Nº  983</option>
-<option>Escola Do Ensino Primario Nº 218</option>
-<option>Escola Do Ensino Primario Nº 225</option>
-<option>Escola Do Ensino Primario Nº 228</option>
-<option>Escola Do Ensino Primario Nº 230</option>
-<option>Escola Do Ensino Primario Nº 233</option>
-<option>Escola Do Ensino Primario Nº 234</option>
-<option>Escola Do Ensino Primario Nº 235</option>
-<option>Escola Do Ensino Primario Nº 237</option>
-<option>Escola Do Ensino Primario Nº 239</option>
-<option>Escola Do Ensino Primario Nº 243</option>
-<option>Escola Do Ensino Primário Nº 252</option>
-<option>Escola Do Ensino Primario Nº 258</option>
-<option>Escola Do Ensino Primario Nº 263</option>
-<option>Escola Do Ensino Primario Nº 267</option>
-<option>Escola Do Ensino Primario Nº 268</option>
-<option>Escola Do Ensino Primario Nº 274</option>
-<option>Escola Do Ensino Primario Nº 622</option>
-<option>Escola Do Ensino Primario Nº 625</option>
-<option>Escola Do Ensino Primario Nº 627</option>
-<option>Escola Do Ensino Primario Nº 890</option>
-<option>Escola Do Ensino Primario Nº 892</option>
-<option>Escola Do Ensino Primario Nº 985</option>
-<option>Escola Do Ensino Primario Quissenguele</option>
-<option>Escola Do Ensino Primario Sotia</option>
-<option>Escola Do Ii Ciclo Da Damba    </option>
-<option>Escola Primária N. 217 De Dom Afonso Nteka</option>
-<option>Escola Primária N. 219 De Nsosso Sede </option>
-<option>Escola Primária N. 222 De Luzuanda</option>
-<option>Escola Primária N. 224 De Mabibe</option>
-<option>Escola Primária N. 230 De Quinguieki-14</option>
-<option>Escola Primária N. 232 De Mbanza Zanza</option>
-<option>Escola Primária N. 241 De Missão Ndemba</option>
-<option>Escola Primária N. 244 De Kimuanza Sacala</option>
-<option>Escola Primária N. 255 De Tema</option>
-<option>Escola Primária N. 256 De Caindo</option>
-<option>Escola Primária N. 257 De Cabôco</option>
-<option>Escola Primária N. 261 De Kimussenga</option>
-<option>Escola Primária N. 264 De Kiteca Malungo</option>
-<option>Escola Primária N. 269 De Kokilo Kilamba</option>
-<option>Escola Primária N. 273 De Kokilo Kinguari</option>
-<option>Escola Primária N. 621 De Lêmboa Sede</option>
-<option>Escola Primária N. 86 - Sede</option>
-<option>Escola Primária N. De Mabubu</option>
-<option>Escola Primária N. De Sala Bongui</option>
-<option>Med - Direcção Municipal Da Educação Da Damba</option>
+<option>[EQT] ESCOLA PRIMÁRIA S N. - BAIRRO DEZASSEIS</option>
+<option>[EQT] ESCOLA PRIMARIA N. 218 DE MBUELA</option>
+<option>[EQT] ESCOLA PRIMARIA DE SOTIA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 269 DE KOKILO KILAMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N.. 259 - KICONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 241 DE MISSÃO NDEMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 222 DE LUZUANDA</option>
+<option>[EQT] ESCOLA PRIMARIA N. 887 DE NZUNGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 161 - MAFUANGUI</option>
+<option>[EQT] COMPLEXO ESCOLAR DO NAMPUTO DA DAMBA</option>
+<option>[EQT] ESCOLA PRIMARIA N. 625 DE MAKANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 257 DE CABÔCO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 255 DE TEMA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 244 DE KIMUANZA SACALA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 245 DE NKAMA NTAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 219 DE NSOSSO </option>
+<option>[EQT] ESCOLA PRIMÁRIA DE MABUBU</option>
+<option>[EQT] LICEU DA DAMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 256 DE CAINDO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 86 </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 264 DE KITECA MALUNGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 251 DE BAKA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 266 - MBEMBE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 242 - NKANDUNGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 273 DE KOKILO KINGUARI</option>
+<option>[EQT] ESCOLA PRIMARIA N. 230 DE QUINGUIEKI - 14</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 621 DE LÊMBOA SEDE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE SALA BONGUI</option>
+<option>[EQT] COLÉGIO DA DAMBA</option>
+<option>[EQT] ESCOLA PRIMARIA N. 627 DE NKUSSO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 232 DE MBANZA ZANZA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 217 DE DOM AFONSO NTEKA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 261 DE KIMUSSENGA</option>
+<option>[EQT] ESCOLA PRIMARIA N. 243 DE MBANZA DAMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 224 DE MABIBE</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DA DAMBA</option>
+<option>[EQT] ESCOLA PRIMARIO Nº 627</option>

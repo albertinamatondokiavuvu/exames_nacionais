@@ -1,101 +1,72 @@
-<option>Colégio Dr. António Agostimho Neto</option>
-<option>Colégio José Eduardo Dos Santos</option>
-<option>Complexo Escolar Da Canhamela</option>
-<option>Complexo Escolar De Kayave Sede</option>
-<option>Complexo Escolar Do 4 De Fevereiro</option>
-<option>Complexo Escolar Do Catengue</option>
-<option>Complexo Escolar Do Niñgiñgi</option>
-<option>Escola Primária 4 De Abril Da Limbuata</option>
-<option>Escola Primária Cdte Hoji-Ya-Henda</option>
-<option>Escola Primária De Kaloneta Bg 8005 - Caimbambo</option>
-<option>Escola Primária Do Epindi Bg 8045 - Caimbambo</option>
-<option>Escola Primária Janjala I</option>
-<option>Escola Primária Rei Mandume</option>
-<option>Escola Primária 1 De Junho</option>
-<option>Escola Primária 11 De Novembro</option>
-<option>Escola Primária 11 De Novembro Bg 8066 - Caimbambo</option>
-<option>Escola Primária 14 De Abril - Upungo</option>
-<option>Escola Primária 14 De Abril De Malowa Ii</option>
-<option>Escola Primária 16 De Junho Bg 8074 - Caimbambo</option>
-<option>Escola Primária 17 De Setembro</option>
-<option>Escola Primária 1º De Maio Bg 8069 - Caimbambo</option>
-<option>Escola Primária 22 De Novembro</option>
-<option>Escola Primária 28 De Agosto</option>
-<option>Escola Primária 4 De Abril - Cábio Bg 8051 - Caimbambo</option>
-<option>Escola Primária 4 De Fevereiro Bg 8012 - Caimbambo</option>
-<option>Escola Primária Assita Bg 8038 - Caimbambo</option>
-<option>Escola Primária Cainamba</option>
-<option>Escola Primária Calondo</option>
-<option>Escola Primária Calunga I Bg 8035 - Caimbambo</option>
-<option>Escola Primária Cdte Bula Matadi Bg 8013 - Caimbambo</option>
-<option>Escola Primária Cdte Dangereux Bg 8080 - Caimbambo</option>
-<option>Escola Primária Cdte Kassanji</option>
-<option>Escola Primária Cdte Sequeta</option>
-<option>Escola Primária Cdte Valódia</option>
-<option>Escola Primária Chiviti Bg 8041 - Caimbmbo</option>
-<option>Escola Primária Cotolo</option>
-<option>Escola Primária Cuaunga</option>
-<option>Escola Primária De Kassima Vivo</option>
-<option>Escola Primária De 11 De Novembro</option>
-<option>Escola Primária De 4 De Abril</option>
-<option>Escola Primária De Bumbua</option>
-<option>Escola Primária De Cahequete Bg 8029 - Caimbambo</option>
-<option>Escola Primária De Cailunga Bg 8003 - Caimbambo</option>
-<option>Escola Primária De Caississi</option>
-<option>Escola Primária De Calondeia</option>
-<option>Escola Primária De Cambumba Bg 8052 - Caimbambo</option>
-<option>Escola Primária De Canjulo Bg 8090 - Caimbambo</option>
-<option>Escola Primária De Caponte Kevaia</option>
-<option>Escola Primária De Catala Longongo</option>
-<option>Escola Primária De Cdte Cassanje</option>
-<option>Escola Primária De Chiculo Bg 8081 - Caimbambo</option>
-<option>Escola Primária De Comandante Boal</option>
-<option>Escola Primária De Coporolo Serração</option>
-<option>Escola Primária De Dembi</option>
-<option>Escola Primária De Enguengue</option>
-<option>Escola Primária De Epumo</option>
-<option>Escola Primária De Etepa</option>
-<option>Escola Primária De Evuvi</option>
-<option>Escola Primária De Eyendue I</option>
-<option>Escola Primária De Eyendue Ii</option>
-<option>Escola Primária De Halu Bg 8072 - Caimbambo</option>
-<option>Escola Primária De Kaissaca</option>
-<option>Escola Primária De Kaissaca Bg 8002 - Caimbambo</option>
-<option>Escola Primária De Kalea Bg 8004 - Caimbambo</option>
-<option>Escola Primária De Katala</option>
-<option>Escola Primária De Longuia Bg 8060 - Caimbambo</option>
-<option>Escola Primária De Mahumbulo</option>
-<option>Escola Primária De Simayombe</option>
-<option>Escola Primária De Tchimbaca</option>
-<option>Escola Primária De Tchinhuñgo</option>
-<option>Escola Primária De Ventoinha</option>
-<option>Escola Primária Deolinda Rodrigues</option>
-<option>Escola Primária Do Bambi</option>
-<option>Escola Primária Do Catuio</option>
-<option>Escola Primária Do Dimba</option>
-<option>Escola Primária Do Ngunji</option>
-<option>Escola Primária Do S. P. Do Alto Halo</option>
-<option>Escola Primária Ekuikui I</option>
-<option>Escola Primária Ekuikui Ii Bg 8006 - Caimbambo</option>
-<option>Escola Primária Hoji-Ya- Henda</option>
-<option>Escola Primária Hôndio Bg 8015 - Caimbambo</option>
-<option>Escola Primária Janjala Ii Bg 8017 - Caimbambo</option>
-<option>Escola Primária Jeremias Dumbo Tchilelevica</option>
-<option>Escola Primária Kainhoñgolo Bg 8001 - Caimbambo</option>
-<option>Escola Primária Kalombinda Bg 8032 - Caimbambo</option>
-<option>Escola Primária Katyavala Bwila Bg 8058 - Caimbambo</option>
-<option>Escola Primária Lossanji</option>
-<option>Escola Primária Luwe</option>
-<option>Escola Primária Malanga Bg 8037 -Caimbambo</option>
-<option>Escola Primária Mata - Fome</option>
-<option>Escola Primária Mundombe</option>
-<option>Escola Primária Mutu - Ya - Kevela Bg 8019 - Caimbambo</option>
-<option>Escola Primária Ngola Kiluanje</option>
-<option>Escola Primária Pe. Domingos Cirilo Nunda</option>
-<option>Escola Primária Rainha Jinga Mbandi Bg 8021 - Caimbambo</option>
-<option>Escola Primária Tchimbandi</option>
-<option>Escola Primária Undongo/ Tchissota</option>
-<option>Liceu Formação Geral De Caimbambo</option>
-<option>Secção Comunal Da Educação Da Canhamela - Caimbambo</option>
-<option>Secção Comunal Da Educação De Kayave - Caimbambo</option>
-<option>Secção Comunal De Educação De Catengue - Caimbambo</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8107 - SAIDY VIEIRA MINGAS - CAIMBAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8003 - CAILUNGA - CAIMBAMBO</option>
+<option>[EQT] COLÉGIO BG 8099 - DR. ANTÓNIO AGOSTINHO NETO - CAIMBAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8010 - KASSIMA VIVO - CAIMBAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8071 - EYENDUE II - CAIMBAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8086 - CATUIO - CAIMBAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8101 - BAMBI - CAIMBAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8104 - CDTE FERNANDO SEQUETA - CAIMBAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8057 - ENGUENGUE - CAIMBAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8073 - 22 DE NOVEMBRO - CAIMBAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8023 -14 DE ABRIL-MALOWA II-CAIMBAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8024 - MATA-FOME - CAIMBAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8067 -HOJI-YA-HENDA-KOQUIMA-CAIMBAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8055 CDTE KASSANJI - TCHIMBOTO -CAIMBAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8053 - COMANDANTE BOAL - CAIMBAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8033 - CALONDEIA - CAIMBAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8008 - CDTE VALÓDIA - CAIMBAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8030 - CAINAMBA - CAIMBAMBO</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DO CAIMBAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8026 - UNDONGO - CAIMBAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8048 - LUWE - CAIMBAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8076 - DEOLINDA RODRIGUES - CAIMBAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8084 - TCHIMBACA - CAIMBAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8002 - KAISSACA - CAIMBAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8079 - CATALA LONGONGO - CAIMBAMBO</option>
+<option>[EQT] COLÉGIO BG 8103 - JOSÉ EDUARDO DOS SANTOS - CAIMBAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8034 - CALONDO - CAIMBAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8025 - 28 DE AGOSTO - CAIMBAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8062 - 1 DE JUNHO - SOLO -  CAIMBAMBO</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 8095 - NINGUININGUI - CAIMBAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8087 - TCHINHUÑGO - CAIMBAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8075 - SIMAYOMBE - CAIMBAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8061 -  MAHUMBULO - CAIMBAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8046 - EPUMO - CAIMBAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8089 - CDTE KASSANJI - PATOS - CAIMBAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8007 - CDTE HOJI-YA-HENDA - CAIMBAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8078 - 17 DE SETEMBRO - CALIMA -CAIMBAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8096 - 14 DE ABRIL - UPUNGO - CAIMBAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8088 - PE.DOMINGOS C. NUNDA-CAIMBAMBO</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 8098 - KAYAVE - CAIMBAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8082 - ETEPA - CAIMBAMBO</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 8097 - 4 DE FEVEREIRO - CAIMBAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8064 - 4 DE ABRIL - EPUNDA - CAIMBAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8093 - 11 DE NOV. - COPOROLO-CAIMBAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8011 - KATALA - CAIMBAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8070 - EYENDUE I - CAIMBAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8077 - MUNDOMBE - CAIMBAMBO</option>
+<option>[EQT] LICEU BG 8100 - CAIMBAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8014 - REI MANDUME - CAIMBAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8016 - JANJALA I - CAIMBAMBO</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 8092 - CATENGUE - CAIMBAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8043 - CUAUNGA - CAIMBAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8145 - JEREMIAS D.TCHILELEVICA -CAIMBAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8047 - LOSSANJI - CAIMBAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8094 - 4 DE ABRIL - LIMBUATA - CAIMBAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8009 - 17 DE SET. - PUPIRA -CAIMBAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8018 - NGOLA KILUANJE - CAIMBAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8065 - EKUIKUI I - CAIMBAMBO</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 8091 - CANHAMELA - CAIMBAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8044 - DIMBA - CAIMBAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8050 - COPOROLO SERRAÇÃO - CAIMBAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8056 - CAPONTE KEVAIA - CAIMBAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8031 - CAISSISSI - CAIMBAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8102 - VENTOINHA - CAIMBAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8049 - ALTO HALO - CAIMBAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8039 - TCHIMBANDI - CAIMBAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8022 - 11 DE NOV. - MALOWA- CAIMBAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8083 - NGUNDJI - CAIMBAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8059 - EVUVI - CAIMBAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8068 - DEMBI - CAIMBAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8063 - BUMBUA - CAIMBAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 8042 - COTOLO - CAIMBAMBO</option>

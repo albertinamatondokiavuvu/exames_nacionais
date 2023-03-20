@@ -1,18 +1,37 @@
-<option>Cuito</option>
-<option>Andulo</option>
-<option>Nharêa</option>
-<option>Cuemba</option>
-<option>Cunhinga</option>
-<option>Catabola</option>
-<option>Camacupa</option>
-<option>Chinguar</option>
-<option>Chitembo</option>
-
-
-
-
-
-
-
-
-
+<option>[EQT] ESCOLA PRIMÁRIA Nº 33 CAMATENDA - UCUMA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 35 LONDONDO DE MUNDUNDO - UCUMA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 34 SACHINGONGO DE CACOMA - UCUMA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 32 MACA DE UCUMA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 36 DO ENSINO DE ADULTOS - UCUMA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 31 SÃO JOÃO - UCUMA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 9 YUVO UCUMA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº7 DA CHENGA POVOAÇÃO UCUMA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 6 PESSELA UCUMA</option>
+<option>[EQT] COMPLEXO ESCOLAR Nº 3 - CALUQUEMBE- UCUMA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº17 - QUIRONO UCUMA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº30 - KATOCOLA UCUMA</option>
+<option>[EQT] COMPLEXO ESCOLAR Nº 23 -  MUNDUNDU-UCUMA</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DO UCUMA </option>
+<option>[EQT] LICEU Nº 12 - VENÂNCIO DA SILVA LAMBO UCUMA</option>
+<option>[EQT] COMPLEXO ESCOLAR Nº 13 - CACOMA - UCUMA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 4  - FAUSTO MALAIA JOÃO UCUMA</option>
+<option>[EQT] COMPLEXO ESCOLAR Nº 8 - DANIEL MUKINDA UCUMA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 11 CATANDA UCUMA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº21 - KAPA KUITO UCUMA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 16 - LUHAMUE UCUMA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 25 - SANTO LONDIMBA UCUMA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 22 - CANJANGUI UCUMA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 29 - CASSEMA UCUMA</option>
+<option>[EQT] COLEGIO PÚBLICO N.º2 - GRACIANO MANDE</option>
+<option>[EQT] COMPLEXO ESCOLAR Nº5 NUMA II DO UCUMA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº19 - TCHINJANGUITI UCUMA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 15 MANJI - MISSASSA UCUMA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 27 - CATALI UCUMA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 26 - DUNGO UCUMA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 20 DE CACUCU UCUMA</option>
+<option>[EQT] COMPLEXO ESCOLAR COPARTICIPADO Nº 10 - MISSÃO DO ELENDE</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 18 - CHINGUESSO UCUMA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 14 NHANI II UCUMA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº1 - AUGUSTO NGANGULA UCUMA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 28 - CALILONGUE UCUMA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº24 - ETULULA I UCUMA</option>

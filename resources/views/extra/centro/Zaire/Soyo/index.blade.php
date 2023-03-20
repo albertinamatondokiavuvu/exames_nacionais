@@ -1,68 +1,47 @@
-<option>Escola De Formação De Professores Do Soyo</option>
-<option>Escola Do 1ºciclo Da Pedra De Feitiço - Soyo</option>
-<option>Escola Do 1ºciclo De Mangue Grande - Soyo</option>
-<option>Escola Do 1ºciclo Do Bundila  - Soyo</option>
-<option>Escola Do 1ºciclo Do Mpinda - Soyo</option>
-<option>Escola Do 1ºciclo Do Quêlo - Soyo</option>
-<option>Escola Do 1ºciclo Do Soyo</option> - Soyo</option>
-<option>Escola Do 1ºciclo Do Sumba - Soyo</option>
-<option>Escola Do 1ºciclo Gare/Pungo - Soyo</option>
-<option>Escola Do 1ºciclo Kimpondo - Soyo</option>
-<option>Escola Do 1ºciclo São Francisco De Assis - Soyo</option>
-<option>Escola Do 1ºciclo Tombe - Soyo</option>
-<option>Escola Do 2º Ciclo Do Sumba - Soyo</option>
-<option>Escola Do Ii Ciclo Do Ensino Secundário Do Soyo</option>
-<option>Escola Do Ii Ciclo Do Pinda - Soyo</option>
-<option>Escola Primaria Nº104 - Soyo</option>
-<option>Escola Primaria Nº116 - Soyo</option>
-<option>Escola Primaria Nº122 - Soyo</option>
-<option>Escola Primaria Nº14 - Soyo</option>
-<option>Escola Primaria Nº142 - Soyo</option>
-<option>Escola Primaria Nº147 - Soyo</option>
-<option>Escola Primaria Nº153 - Soyo</option>
-<option>Escola Primaria Nº157 - Soyo</option>
-<option>Escola Primaria Nº162 - Soyo</option>
-<option>Escola Primaria Nº185 - Soyo</option>
-<option>Escola Primaria Nº192 - Soyo</option>
-<option>Escola Primaria Nº195 - Soyo</option>
-<option>Escola Primaria Nº2 - Soyo</option>
-<option>Escola Primaria Nº20 - Soyo</option>
-<option>Escola Primaria Nº201 - Soyo</option>
-<option>Escola Primaria Nº204 - Soyo</option>
-<option>Escola Primaria Nº207 - Soyo</option>
-<option>Escola Primaria Nº210 - Soyo</option>
-<option>Escola Primaria Nº213 - Soyo</option>
-<option>Escola Primaria Nº216 - Soyo</option>
-<option>Escola Primaria Nº219 - Soyo</option>
-<option>Escola Primaria Nº222 - Soyo</option>
-<option>Escola Primaria Nº225 - Soyo</option>
-<option>Escola Primaria Nº228 - Soyo</option>
-<option>Escola Primaria Nº231 - Soyo</option>
-<option>Escola Primaria Nº234 - Soyo</option>
-<option>Escola Primaria Nº237 - Soyo</option>
-<option>Escola Primaria Nº240 - Soyo</option>
-<option>Escola Primaria Nº246 - Soyo</option>
-<option>Escola Primaria Nº26 - Soyo</option>
-<option>Escola Primária Nº260 - Soyo</option>
-<option>Escola Primaria Nº284 - Soyo</option>
-<option>Escola Primaria Nº32 - Soyo</option>
-<option>Escola Primaria Nº38 - Soyo</option>
-<option>Escola Primaria Nº44 - Soyo</option>
-<option>Escola Primaria Nº50 - Soyo</option>
-<option>Escola Primaria Nº56 - Soyo</option>
-<option>Escola Primaria Nº62 - Soyo</option>
-<option>Escola Primaria Nº68 - Soyo</option>
-<option>Escola Primaria Nº74 - Soyo</option>
-<option>Escola Primaria Nº8 - Soyo</option>
-<option>Escola Primaria Nº80 - Soyo</option>
-<option>Escola Primaria Nº86 - Soyo</option>
-<option>Escola Primaria Nº92 - Soyo</option>
-<option>Escola Primaria Nº98 - Soyo</option>
-<option>Escola Primarianº249 - Soyo</option>
-<option>Escola Primarianº264 - Soyo</option>
-<option>Escola Primarianº266 - Soyo</option>
-<option>Escola Primarianº268 - Soyo</option>
-<option>Escola Primarianº277 - Soyo</option>
-<option>Escola Primarianº293 - Soyo</option>
-<option>Med-Delegacao Municipal Do Soyo</option>
-<option>Instituto Médio Politécnico Do Soyo</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 198 - KINVEMBA NZINGA - SOYO</option>
+<option>[EQT] COMPLEXO ESCOLAR KINGANGA MAVAKALA - SOYO</option>
+<option>[EQT] MAGISTÉRIO ADPP - SOYO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 62 - KITXITXI - SOYO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 142 - KIELA - SOYO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 26 - MONGO - SOYO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 104 - PANGALA - SOYO</option>
+<option>[EQT] COMPLEXO ESCOLAR SÃO FRANCISCO DE ASSIS - SOYO</option>
+<option>[EQT] INSTITUTO POLITÉCNICO DO KITONA - SOYO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 98 - NONA - SOYO</option>
+<option>[EQT] COLÉGIO REV. SIMÃO GONÇALVES TOCO /BUNDILA - SOYO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 14 - KINTAMBI - SOYO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 246 MANGUE - GRANDE - SOYO</option>
+<option>[EQT] LICEU DO SOYO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 293 NGULU YA NENKANDA - SOYO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 249 - BUNDILA -SOYO</option>
+<option>[EQT] COMPLEXO ESCOLAR - VICTORINO JOÃO - SOYO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 02 - BAIRRO MARINHA - SOYO</option>
+<option>[EQT] INSTITUTO POLITÉCNICO DE PETROLEO DO SOYO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 92 - KIKUDU - SOYO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 86 - KUNGU YENGUELE - SOYO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 08 - 1 DE MAIO - SOYO</option>
+<option>[EQT] COLÉGIO DO SANTO ANTÓNIO / MPINDA - SOYO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 56 GRANDE MURALHA - SOYO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 284 - KINDOMBELE - SOYO </option>
+<option>[EQT] LICEU MADRE MARIA DE FÁTIMA MARTINS / PINDA - SOYO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 268 - ROSA GATTONO - SOYO</option>
+<option>[EQT] COLÉGIO ANDRÉ SAMUEL KOMBO - GARE PUNGU - SOYO </option>
+<option>[EQT] COMPLEXO ESCOLAR N. 44 - KIFUMA - SOYO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 260 - KIMBAGU - SOYO</option>
+<option>[EQT] COLÉGIO REV. PEDRO MANUEL / KIMPONDO - SOYO</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DO SOYO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 68 - BAIRRO FINA - SOYO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 162 - CHINDE - SOYO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 20 - PUNGO - SOYO</option>
+<option>[EQT] COLÉGIO MANUEL DEMBI - SOYO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 122 - PEDRA DE FEITIÇO - SOYO</option>
+<option>[EQT] MAGISTÉRIO DO SOYO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 277 - TERESA NDONDO - SOYO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 80 - KONDE - SOYO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 185 - BINGA - SOYO</option>
+<option>[EQT] COLÉGIO DE MANGUE GRANDE - SOYO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 116 - PONTO FINAL - SOYO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 264 - KIMPONDO - SOYO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 228 - KIVANDA - SOYO</option>
+<option>[EQT] COLÉGIO DO QUELO - SOYO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 32 - KITONA - SOYO</option>

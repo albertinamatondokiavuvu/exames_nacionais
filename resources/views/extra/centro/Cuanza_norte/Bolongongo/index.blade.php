@@ -1,12 +1,10 @@
-<option>Cuito</option>
-Complexo Escolar N. 603 - 11 De Novembro
-Complexo Escolar N. 604 - Luulu
-Direcção Municipal Da Educação Do Bolongongo
-
-
-
-
-
-
-
-
+<option>[EQT] COMPLEXO ESCOLAR N. 605 - KIQUIEMBA</option>
+<option>[EQT] COLÉGIO N. 601 - 4 DE JANEIRO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 608 - CAHOMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 607 - CALEMBA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 604 - LUULU TERREIRO</option>
+<option>[EQT] LICEU N. 606 - MAMBOLONGONGO</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DO BOLONGONGO</option>
+<option>[EQT] COMPLEXO ESCOLAR MISSIONÁRIO N. 602-IRMÃ FLÁVIA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 603 - 11 DE NOVEMBRO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 609 - PIMBE</option>

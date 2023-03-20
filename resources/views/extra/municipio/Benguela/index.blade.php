@@ -3,7 +3,7 @@
 <option>Balombo</option>
 <option>Ganda</option>
 <option>Cubal</option>
-<option>Caiambambo</option>
+<option>Caimbambo</option>
 <option>Benguela</option>
 <option>Baía Farta</option>
 <option>Chongoroi</option>

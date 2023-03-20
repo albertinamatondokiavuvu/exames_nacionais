@@ -1,63 +1,54 @@
-<option>Cuito</option>
-Colégio Heróis Do Cuito Cuanavale
-Complexo Escolar 1º De Maio Aricanga
-Complexo Escolar Boa Entrada Cadá
-Complexo Escolar Doutor António Agostinho Neto
-Escola Primária 11 De Novembro - Amboim
-Escola Primária 17 De Setembro - Amboim
-Escola Primária 22 De Novembro - Amboim
-Escola Primária 4 De Abril - Giraúl
-Escola Primária 4 De Fevereiro - Quina
-Escola Primária 4 De Janeiro - Boa Viagem
-Escola Primária 8 De Março
-Escola Primária Augusto Ngangula
-Escola Primária Bela Vista
-Escola Primária Comandante Arguelles - Amboim
-Escola Primária Comandante Bula
-Escola Primária Comandante Dangereux
-Escola Primária Da Africana
-Escola Primária Da Aldeia
-Escola Primária Da Bruvil
-Escola Primária Da Calemba - Amboim
-Escola Primária Da Calonga
-Escola Primária Da Catuta Amboim
-Escola Primária Da Honga Banza
-Escola Primária Da Kicunda De Baixo Ii
-Escola Primária Da Nhuma - Amboim
-Escola Primária Da Quicunda I
-Escola Primária Do Capango
-Escola Primária Do Caxeco
-Escola Primária Do Gia
-Escola Primária Do Ica - Capanga
-Escola Primária Do Mazungue - Amboim
-Escola Primária Do Pange
-Escola Primária Do Quipaxe
-Escola Primária Do Quipungo
-Escola Primária Do Sangué
-Escola Primária Garcia Neto
-Escola Primária Heróis De Cangamba
-Escola Primária Hoji Ya Henda
-Escola Primária Jose Marty
-Escola Primária Luz E Água
-Escola Primária Makarenko
-Escola Primária Mutu-Ya Kevela
-Escola Primária N. 354 Do Assango
-Escola Primária Nelito Soares - Huia
-Escola Primária Ngola Kiluange - Amboim
-Escola Primária Nzinga Mbandi
-Escola Primária Patrice Lumumba
-Escola Primária Pioneiro Zeca-Londa
-Escola Primária Povo Unido
-Escola Primária Rei Mandume - Salinas
-Escola Primária Renascer - Amboim
-Escola Primária Saidy Mingas
-Escola Primária Soba Quipuna - Amboim
-Magistério Do Amboim
-
-
-
-
-
-
-
-
+<option>[EQT] ESCOLA PRIMÁRIA DA LONDA - AMBOIM</option>
+<option>[EQT] ESCOLAR PRIMÁRIA PADRE MAIA - AMBOIM</option>
+<option>[EQT] ESCOLA PRIMÁRIA SOBA QUIPUNA - AMBOIM</option>
+<option>[EQT] ESCOLA PRIMÁRIA RENASCER - AMBOIM</option>
+<option>[EQT] ESCOLA PRIMÁRIA MUTU - YA - KEVELA - AMBOIM</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA HONGA BANZA - AMBOIM</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA AFRICANA - AMBOIM</option>
+<option>[EQT] ESCOLA PRIMÁRIA COMANDANTE DANGEREUX - AMBOIM</option>
+<option>[EQT] ESCOLA PRIMÁRIA 4 DE ABRIL - GIRAÚL - AMBOIM</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 354 DO ASSANGO - AMBOIM</option>
+<option>[EQT] ESCOLA PRIMÁRIA 11 DE NOVEMBRO - AMBOIM</option>
+<option>[EQT] ESCOLA PRIMÁRIA SAIDY MINGAS - AMBOIM</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA QUICUNDA I - AMBOIM</option>
+<option>[EQT] ESCOLA PRIMÁRIA PATRICE LUMUMBA - AMBOIM</option>
+<option>[EQT] ESCOLA PRIMÁRIA NGOLA KILUANGE - AMBOIM</option>
+<option>[EQT] ESCOLA PRIMÁRIA JOSÉ MARTY - AMBOIM</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO SANGUÉ - AMBOIM</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO QUIPAXE - AMBOIM</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO BRUVIL - AMBOIM</option>
+<option>[EQT] ESCOLA PRIMÁRIA 17 DE SETEMBRO - AMBOIM</option>
+<option>[EQT] COMPLEXO ESCOLAR 1º DE MAIO ARICANGA - AMBOIM</option>
+<option>[EQT] ESCOLA PRIMÁRIA NZINGA MBANDI - AMBOIM</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA CALEMBA - AMBOIM</option>
+<option>[EQT] ESCOLA PRIMÁRIA AUGUSTO NGANGULA - AMBOIM</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO ICA CAPANGA - AMBOIM</option>
+<option>[EQT] ESCOLA PRIMÁRIA MACARENKO - AMBOIM</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA LUZ E ÁGUA - AMBOIM</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA CALONGA - AMBOIM</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA ALDEIA - AMBOIM</option>
+<option>[EQT] ESCOLA PRIMÁRIA HERÓIS DE CANGAMBA - AMBOIM</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA QUICUNDA DE BAIXO II - AMBOIM</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO PANGE - AMBOIM</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DO AMBOIM</option>
+<option>[EQT] ESCOLA PRIMÁRIA NOVA EREIRA - AMBOIM</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA CATUTA - AMBOIM</option>
+<option>[EQT] ESCOLA PRIMÁRIA COMANDANTE ARGUELLES - AMBOIM</option>
+<option>[EQT] COLÉGIO HERÓIS DO CUITO CUANAVALE - AMBOIM</option>
+<option>[EQT] COMPLEXO ESCOLAR BOA ENTRADA - CADÁ - AMBOIM</option>
+<option>[EQT] ESCOLA PRIMÁRIA HOJI YA HENDA - AMBOIM</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO QUIPUNGO - AMBOIM</option>
+<option>[EQT] INSTITUTO POLITÉCNICO DA GABELA - AMBOIM</option>
+<option>[EQT] COMPLEXO ESCOLAR DO ASSANGO - AMBOIM</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA BELA VISTA - AMBOIM</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA BOA VIAGEM - AMBOIM</option>
+<option>[EQT] ESCOLA PRIMÁRIA 4 DE FEVEREIRO - QUINA - AMBOIM</option>
+<option>[EQT] ESCOLA PRIMÁRIA POVO UNIDO - AMBOIM</option>
+<option>[EQT] ESCOLA PRIMÁRIA GARCIA NETO - AMBOIM</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO GIA - AMBOIM</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO CAPANGO - AMBOIM</option>
+<option>[EQT] COMPLEXO ESCOLAR DOUTOR ANTÓNIO AGOSTINHO NETO - AMBOIM</option>
+<option>[EQT] MAGISTÉRIO DO AMBOIM</option>
+<option>[EQT] ESCOLA PRIMÁRIA 22 DE NOVEMBRO - AMBOIM</option>
+<option>[EQT] ESCOLA PRIMÁRIA REI MANDUME - SALINAS - AMBOIM</option>
+<option>[EQT] ESCOLA PRIMÁRIA NELITO SOARES - HUIA - AMBOIM</option>

@@ -1,47 +1,27 @@
-<option>Cuito</option>
-Colégio Dinge-Cacongo
-Colégio São Tiago Maior -Cacongo
-Complexo Escolar Faty Veneno-Cacongo
-Direcção Municipal Da Educação De Cacongo
-Escola Primária Comandante Mingas - Cacongo
-Escola Primária Cte Mingas-Cacongo
-Escola Primária Da Beira Nova-Cacongo
-Escola Primária De Bembica - Cacongo
-Escola Primária De Bitchéquete - Cacongo
-Escola Primária De Chapa - Cacongo
-Escola Primária De Chimongo - Cacongo
-Escola Primária De Chinhembo - Cacongo
-Escola Primária De Chinhembo-Cacongo
-Escola Primária De Chivovo - Cacongo
-Escola Primária De Cochiluango - Cacongo
-Escola Primária De Dinge Centro - Cacongo
-Escola Primária De Lico - Cacongo
-Escola Primária De Luvula - Cacongo
-Escola Primária De Ngomongo - Cacongo
-Escola Primária De Sócoto - Cacongo
-Escola Primária De Tenda - Cacongo
-Escola Primária De Ueca - Cacongo
-Escola Primária De Zenga - Cacongo
-Escola Primária Do Bêmbica-Cacongo
-Escola Primária Do Chapa-Cacongo
-Escola Primária Do Chimongo-Cacongo
-Escola Primária Do Chivovo-Cacongo
-Escola Primária Do Lico-Cacongo
-Escola Primária Do Ngomongo-Cacongo
-Escola Primária Do Sócoto-Cacongo
-Escola Primária Do Tando – Pala-Cacongo
-Escola Primária Do Tenda-Cacongo
-Escola Primária Do Ueca-Cacongo
-Escola Primária Do Zenga-Cacongo
-Escola Primária Tando Pala - Cacongo
-Instituto Médio Politécnico Osvaldo Serra Van –Dúnem-Cacongo
-Magistério De Professores Do Futuro (Adpp) Comparticipada-Cacongo
-Repartição Municipal De Educação De Cacongo
-Escola Do Ensino Primário Nº303 Lombo-Lombo Ii
-
-
-
-
-
-
-
+<option>[EQT] ESCOLA PRIMÁRIA DE WECA - CACONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO LUVULA - CACONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE SÓCOTO - CACONGO</option>
+<option>[EQT] INSTITUTO POLITÉCNICO OSVALDO SERRA VAN - DÚNEM - CACONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CHIMONGO - CACONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CHINHEMBO - CACONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE BITCHÉQUETE - CACONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE DINGE - CENTRO - CACONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO COCHILOANGO - CACONGO</option>
+<option>[EQT] COMPLEXO ESCOLAR FATY - VENENO - CACONGO</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DE CACONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE BÊMBICA - CACONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO LICO - CACONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE BEIRA NOVA - CACONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE NGOMONGO - CACONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE ZENGA - CACONGO</option>
+<option>[EQT] COLÉGIO DINGE - CACONGO</option>
+<option>[EQT] MAGISTÉRIO ADPP - CACONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA COMANDANTE MINGAS - CACONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CHAPA - CACONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CHIVOVO - CACONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO TANDO PALA - CACONGO</option>
+<option>[EQT] COLÉGIO MISSIONÁRIO SÃO TIAGO MAIOR - LÂNDANA - CACONGO</option>
+<option>[EQT] COLÉGIO POLIVALENTE E PROFISSIONAL DE CABINDA - CACONGO</option>
+<option>[EQT] COLÉGIO MASSABI - CACONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE TENDA - CACONGO</option>
+<option>[EQT] COMPLEXO ESCOLAR SPIEL TENDELE MAURÍCIO FILIPE - CACONGO</option>

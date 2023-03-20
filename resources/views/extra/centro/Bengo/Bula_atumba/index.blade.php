@@ -1,17 +1,15 @@
-<option>Colégio Público N. 200 - Aníbal De Melo</option>
-<option>Complexo Escolar N. 203 - Mukiama Kakulo</option>
-<option>Complexo Escolar N. 205 - Domingos André Maria</option>
-<option>Complexo Escolar N. 207 - Domingos Kakulo</option>
-<option>Complexo Escolar N. 209 - Tomás Tito</option>
-<option>Escola Prim. Nº 204 Chexe - Bula Atumba</option>
-<option>Escola Prim. Nº 207 Dala Malundo - Bula Atumba</option>
-<option>Escola Prim. Nº 212 Kinzenza - Bula Atumba</option>
-<option>Escola Prim. Nº 213 Kikionzo - Bula Atumba</option>
-<option>Escola Prim. Nº 217 Kissenga - Bula Atumba</option>
-<option>Escola Prim. Nº 219 Kindambo - Bula Atumba</option>
-<option>Escola Primária N. 201 - Bula Atumba Sede</option>
-<option>Escola Primária N. 202 - Luís Graciano</option>
-<option>Escola Primária N. 206 - Abílio César Armando</option>
-<option>Escola Primária N. 208 - Paulo Camesa</option>
-<option>Liceu N. 243 Joaquim Paxe - Bula Atumba</option>
-<option>Reparticao Municipal De Educacao De Bula Atumba</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 209 - TOMÁS TITO</option>
+<option>[EQT] LICEU N. 243 JOAQUIM PAXE - BULA ATUMBA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 207 - DOMINGOS KAKULO</option>
+<option>[EQT] COLÉGIO N. 200 - ANÍBAL DE MELO</option>
+<option>[EQT] DIRECÃO MUNICIPAL DO BULA.ATUMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 201 - BULA ATUMBA SEDE</option>
+<option>[EQT] COLÉGIO N.212 JACINTO JOAQUIM - BULA ATUMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 202 - LUÍS GRACIANO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 210 - ARMANDO JAIME</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 205 - DOMINGOS ANDRÉ MARIA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 206 - ABÍLIO CÉSAR ARMANDO</option>
+<option>[EQT] ESCOLA PRIM. Nº 204 JOÃO ANDRÉ  DOMINGOS- BULA ATUMBA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 203 - MUKIAMA KAKULO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 211 - VICENTE DE ALMEIDA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 208 - PAULO CAMESA</option>

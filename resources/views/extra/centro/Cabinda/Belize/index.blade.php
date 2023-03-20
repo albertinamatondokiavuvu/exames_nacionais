@@ -1,37 +1,22 @@
-<option>Cuito</option>
-Complexo Escolar De Belize
-Complexo Escolar De Caio Guembo-Belize
-Complexo Escolar De Ganda-Cango-Belize
-Complexo Escolar De Kicumba Congo-Belize
-Complexo Escolar Zala De Baixo-Luali-Belize
-Direcção Municipal Da Educação De Belize
-Escola Do Ensino Primário De Viêde - Belize
-Escola Do Ensino Primário N. 024 Bitina - Belize
-Escola Do Ensino Primário N. 026 - Bombo Pene - Belize
-Escola Do Ensino Primário N. 029 - Pângala - Belize
-Escola Do Ensino Primário N. 129 - Matembo - Belize
-Escola Do Ensino Primário N. 141 Nsaca - Belize
-Escola Do Ensino Primário N. 143 - Panga De Baixo - Beliz
-Escola Do Ensino Primário N. 265 Conde-Kavunga - Belize
-Escola Do Ensino Primário N. 281 - Aleixo Macaia - Belize
-Escola Do Ensino Primário N. 5 - Belize
-Escola Do Ensino Primário Nº 016 - Dibindo - Belize
-Escola Do Ensino Primário Nº 035 Bulo - Belize
-Escola Do Ensino Primário Nº 046 Caio-Guembo - Belize
-Escola Do Ensino Primário Nº 135 Massamba - Belize
-Escola Do Ensino Primário Nº 164 Quissoki - Belize
-Escola Do Ensino Primário Nº 200 Zala-De-Baixo - Belize
-Escola Do Ensino Primário Nº 201 Zala-De-Cima - Belize
-Escola Do Ensino Primário Nº 243 - Hombe De Baixo - Belize
-Escola Do Ensino Primário Nº 267 Kifuma - Belize
-Escola Do Ensino Primário Nº 269 Londe-Lubonje - Belize
-Escola Do Ensino Primário Nº 289 - Tsuco Kingubi - Belize
-Escola Do Ensino Primário Nº 291 Terra-Nova - Belize
-Repartição Municipal Da Educação De Belize
-
-
-
-
-
-
-
+<option>[EQT] ESCOLA PRIMÁRIÁ N.º 026 DE BOMBO PENE - BELIZE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N.º 143 DE PANGA DE BAIXO - BELIZE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE BULO - BELIZE</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DE BELIZE</option>
+<option>[EQT] MAGISTÉRIO DE BELIZE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE VIÊDE - BELIZE</option>
+<option>[EQT] COMPLEXO ESCOLAR DE ZALA DE BAIXO - BELIZE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N.º 5 DE BELIZE</option>
+<option>[EQT] COMPLEXO ESCOLAR DE CAIO GUEMBO - BELIZE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N.º 265 DE CONDE - KAVUNGA - BELIZE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N.º 029 DE PÂNGALA - BELIZE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N.º 281 - ALEIXO MACAIA - BELIZE</option>
+<option>[EQT] COMPLEXO ESCOLAR DE BELIZE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N.º 134 DE MONGO CONDE - BELIZE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE BITINA - BELIZE</option>
+<option>[EQT] COMPLEXO ESCOLAR DE MATANGUI - BELIZE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE ZALA DE CIMA - BELIZE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N.º 270 DE MALOANGO - ZAU - BELIZE</option>
+<option>[EQT] ESCOLA PRIMÁRIÁ N.º 129 DE MATEMBO - BELIZE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N.º 141 DE NSACA - BELIZE</option>
+<option>[EQT] COMPLEXO ESCOLAR DE GANDA - CANGO - BELIZE</option>
+<option>[EQT] COMPLEXO ESCOLAR DE KICUMBA CONGO - BELIZE</option>

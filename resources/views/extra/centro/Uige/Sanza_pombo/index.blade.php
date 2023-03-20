@@ -1,79 +1,58 @@
-<option>Colégio Nº 0045 S. José Do Pombo </option>
-<option>Colégio Nº 0052 Do Pombo </option>
-<option>Colégio Nº 0053 Do Cuilo Pombo </option>
-<option>Colégio Nº 0055 De Alfândega </option>
-<option>Colégio Nº 0056 Kimbanguista Mongo Vunda</option> 
-<option>Escola Do I Ciclo Do Wamba</option>
-<option>Escola Do I Ciclo São José</option>
-<option>Escola Primária  497 De Quizulo</option>
-<option>Escola Primária  Nº 541 Quimuenga</option>
-<option>Escola Primária 513 De Quiteca</option>
-<option>Escola Primária 536 De Luvuvamo Ii</option>
-<option>Escola Primária De Beja</option>
-<option>Escola Primária De Kaka Lucori</option>
-<option>Escola Primária De Luvuvamo I</option>
-<option>Escola Primária De Mahonda</option>
-<option>Escola Primária De Panda Malungo Ii</option>
-<option>Escola Primária De Quibuca</option>
-<option>Escola Primária De Quibueta</option>
-<option>Escola Primária De Quimaxinga I</option>
-<option>Escola Primária De Quipumba Tita</option>
-<option>Escola Primária Nº 001 Kipaulo</option>
-<option>Escola Primária Nº 0010 Kifutila Cabengui</option>
-<option>Escola Primária Nº 0011 Kimatumbi</option>
-<option>Escola Primária Nº 0012 K. Bunga</option>
-<option>Escola Primária Nº 0014 Mbanza Luanda</option>
-<option>Escola Primária Nº 0016 S.Paulo</option>
-<option>Escola Primária Nº 0017 Sede Alfândega</option>
-<option>Escola Primária Nº 0018 Kindinga</option>
-<option>Escola Primária Nº 0019 Cafuani</option>
-<option>Escola Primária Nº 0023 Kimiguel</option>
-<option>Escola Primária Nº 0024 Kimelomba</option>
-<option>Escola Primária Nº 0025 Kingando Unza</option>
-<option>Escola Primária Nº 0026 Kimuenga Ngoma</option>
-<option>Escola Primária Nº 0027 Kiteca Tembo</option>
-<option>Escola Primária Nº 0028 Malungo Malongo</option>
-<option>Escola Primária Nº 003 Kimuanza Langa</option>
-<option>Escola Primária Nº 0030 Sede Cuilo Pombo</option>
-<option>Escola Primária Nº 0032 Kinvuta</option>
-<option>Escola Primária Nº 0033 Kingonga </option>
-<option>Escola Primária Nº 0035 Mbanza Nsosso</option>
-<option>Escola Primária Nº 0036 Mbanza Kuica</option>
-<option>Escola Primária Nº 0037 Ssede </option>
-<option>Escola Primária Nº 0038 Agostinho Neto Sede</option> 
-<option>Escola Primária Nº 0039 Kifutila Sanza </option>
-<option>Escola Primária Nº 0041 Serrador I I </option>
-<option>Escola Primária Nº 0043 Kifuaxe </option>
-<option>Escola Primária Nº 0044 Kivinte </option>
-<option>Escola Primária Nº 0047 Kiteca Bunga </option>
-<option>Escola Primária Nº 0048 Kissala </option>
-<option>Escola Primária Nº 0049 Mongo Vunda </option>
-<option>Escola Primária Nº 006 Kimicondo</option>
-<option>Escola Primária Nº 007 Kingumba</option>
-<option>Escola Primária Nº 009 Kitungo</option>
-<option>Escola Primária Nº 448 Quipanzo</option>
-<option>Escola Primária Nº 457 Serrador I</option>
-<option>Escola Primária Nº 467 De Quimbunga Muanza</option>
-<option>Escola Primária Nº 468 Delutongo</option>
-<option>Escola Primária Nº 471 Quipanzo Mambo</option>
-<option>Escola Primária Nº 473 De Pambo</option>
-<option>Escola Primária Nº 479 De Pote </option>
-<option>Escola Primária Nº 492 Cauonda</option>
-<option>Escola Primária Nº 506 Valodia</option>
-<option>Escola Primária Nº 511 Panda Menanga</option>
-<option>Escola Primária Nº 517 De Beira Baixa</option>
-<option>Escola Primária Nº 532 De Boa Entrada</option>
-<option>Escola Primária Nº 540 De Quibula</option>
-<option>Escola Primária Nº 546 De Quicuti</option>
-<option>Escola Primária Wamba Sede </option>
-<option>Liceu Nº 0057 Do Pombo </option>
-<option>Liceu Nº 0058 Delfim De Castro</option>
-
-
-
-
-
-
-
-
-
+<option>[EQT] ESCOLA PRIMÁRIA N. 28 MALUNGO MALONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 27 KITECA TEMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 003 KIMUANZA LANGA</option>
+<option>[EQT] LICEU N. 0057 DO POMBO</option>
+<option>[EQT] COLÉGIO N. 0052 DO POMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 0059 KICUTI</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 0014 MBANZA LUANDA</option>
+<option>[EQT] ESCOLA PRIMARIA N. 0021 DE WAMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 006 KIMICONDO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 0013 KINGOMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 0010 KIFUTILA CABENGUI</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 0016 S.PAULO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 0031 KITALA BANZA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 0032 KINVUTA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 0024 KIMELOMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 004 QUIZULO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 0020 QUIANGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 0047 KITECA BUNGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 0034 KIMBUNGA IMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 007 KINGUMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 002 YALAMO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 0048 KISSALA</option>
+<option>[EQT] COLÉGIO N. 0056 KIMBANGUISTA MONGO VUNDA</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DO POMBO</option>
+<option>[EQT] COLÉGIO N. 0054 DO WAMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 0038 AGOSTINHO NETO </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 0039 KIFUTILA SANZA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 0026 KIMUENGA NGOMA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 008 KITECA MATA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 0051 KIMBUENGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 0050 KIBRIQUILA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 001 KIPAULO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 0033 KINGONGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 0044 KIVINTE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 0036 MBANZA KUICA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 0011 KIMATUMBI</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 0040 SERRADOR I</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 0049 MONGO VUNDA</option>
+<option>[EQT] COLÉGIO N. 0055 DE ALFÂNDEGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 0042 KICOXE MUENGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 0017 DE ALFÂNDEGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 0029 KITOTILA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 0023 KIMIGUEL</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 0037 DE SANZA POMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 009 KITUNGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 0030 DE CUILO POMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 0025 KINGANDO UNZA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 0018 KINDINGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 0019 CAFUANI</option>
+<option>[EQT] COLÉGIO N. 0053 DO CUILO POMBO</option>
+<option>[EQT] COLÉGIO N. 0045 S. JOSÉ DO POMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 0012 K. BUNGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 0041 SERRADOR II</option>
+<option>[EQT] LICEU N. 0058 DELFIM DE CASTRO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 0046 MAQUILA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 0015 PANDA MENANGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 0035 MBANZA NSOSSO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 0043 KIFUAXE</option>

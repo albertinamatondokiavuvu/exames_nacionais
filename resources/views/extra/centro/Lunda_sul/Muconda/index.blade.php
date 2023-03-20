@@ -1,20 +1,29 @@
-<option>Escola Primária 17 De Setembro - Muconda</option>
-<option>Escola Primária 4 De Abril - Muconda</option>
-<option>Escola Primária N. 1 4 De Abril </option>
-<option>Escola Primária N. 10 Zango </option>
-<option>Escola Primária N. 15 Agostinho Mendes Carvalho</option> 
-<option>Escola Primária N. 17 Augusto Ngangula </option>
-<option>Escola Primária N. 19 Liberdade </option>
-<option>Escola Primária N. 22 Comandante Valódia </option>
-<option>Escola Primária N. 28 1 De Maio </option>
-<option>Escola Primária N. 3 Antigos Combatente </option>
-<option>Escola Primária N. 30 Dr António Agostinho Neto </option>
-<option>Escola Primária N. 32 Joaquim Cardoso Jaquinda </option>
-<option>Escola Primária N. 34 Maria Eugenia Neto </option>
-<option>Escola Primária N. 36 16 De Junho </option>
-<option>Escola Primária N. 6 Astides Cadete Kima-Kenda</option> 
-<option>Escola Primária N. 7 Deolinda Rodrigues </option>
-<option>Escola Primária Nakatenga - Muconda</option>
-<option>Escola Primária Txinguli - Muconda</option>
-<option>Magistério N. 38 Certeza Muconda </option>
-<option>Repartição Municipal Da Educação De Muconda</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 43 TXIPENGUE CAIUMA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 40 JOAO BAPTISTA PATRICIO</option>
+<option>[EQT] COLEGIO N. 42 MUCUNGA SANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 45 SACAMANA MAKALO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 44 PASCOAL CALEMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 39 PAULO GOMES</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 38 LUVULU SANAMA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 41 LEONARDO CHINGA</option>
+<option>[EQT] ESCOLA PRIMARIA N. 35 HOJE - YA - HENDA</option>
+<option>[EQT] ESCOLA PRIMARIA N. 32 JOAQUIM CARDOSO JAQUINDA</option>
+<option>[EQT] ESCOLA PRIMÀRIA N. 1 4 DE ABRIL</option>
+<option>[EQT] ESCOLA PRIMÀRIA N. 10 ZANGO</option>
+<option>[EQT] ESCOLA PRIMARIA N. 19 LIBERDADE</option>
+<option>[EQT] ESCOLA PRIMARIA N. 15 AGOSTINHO MENDES CARVALHO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 36 16 JUNHO</option>
+<option>[EQT] ESCOLA PRIMARIA N. 30 DR. ANTONIO AGOSTINHO NETO</option>
+<option>[EQT] ESCOLA PRIMARIA N. 03 ANTIGOS COMBATENTE</option>
+<option>[EQT] ESCOLA PRIMARIA N. 22 COMADANTE VALODIA</option>
+<option>[EQT] ESCOLA PRIMARIA N. 25 10 DE DEZEMBRO</option>
+<option>[EQT] ESCOLA PRIMARIA N. 24 11 DE NOVEMBRO</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DE MUCONDA</option>
+<option>[EQT] ESCOLA PRIMARIA N. 6 ASTIDES CADETE KIMA KENDA</option>
+<option>[EQT] MAGISTÉRIO N. 38 CERTEZA MUCONDA</option>
+<option>[EQT] COLÉGIO CHINGULI N. 37 MUCONDA</option>
+<option>[EQT] ESCOLA PRIMARIA N. 26 1 DE DEZEMBRO</option>
+<option>[EQT] ESCOLA PRIMÀRIA N. 28 1 DE MAIO</option>
+<option>[EQT] ESCOLA PRIMARIA N. 17 AUGUSTO NGANGULA</option>
+<option>[EQT] ESCOLA PRIMARIA N. 34 MARIA EUGENIA NETO</option>
+<option>[EQT] ESCOLA PRIMARIA N. 07 DEOLINDA RODRIGUES</option>

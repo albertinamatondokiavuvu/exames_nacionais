@@ -1,140 +1,95 @@
-<option>Colégio 8 De Março - Calussinga </option>
-<option>Colégio De Soma Nd. Ch. 2 E 17 De Setembro -Andulo</option>
-<option>Complexo Escola - Andulo Andulo E Cariongo</option>
-<option>Complexo Escola De Canduvene - Andulo</option>
-<option>Complexo Escola De Cayuva E Betatela - Andulo</option>
-<option>Complexo Escolar De Chipolokosso</option>
-<option>Complexo Escolar De Cangalo - Chivaúlo</option>
-<option>Complexo Escolar Deolinda Rodriguês N. 80 - Andulo</option>
-<option>Complexo Escolar Dr. António A. Neto - Andulo</option>
-<option>Complexo Escolar Pov. Buanga - Chivaúlo</option>
-<option>Direcção Municipal Da Educação Do Andulo</option>
-<option>Direcção Municipal Da Educação Do Andulo</option>
-<option>Esc. Do I Ciclo De Chivaúlo </option>
-<option>Esc. Do Ii Ciclo Extenção Chivaulo</option>
-<option>Esc. Missionaria Do Ens. Primário De Calinda " S. Paulo"</option>
-<option>Esc. Missionária Do Ens. Primário Do 7º Dia </option>
-<option>Esc. Primária De Bela Vista Ecossa</option>
-<option>Esc. Primária De Betatela </option>
-<option>Esc. Primária De Bº Silva </option>
-<option>Esc. Primária De Cahatanga </option>
-<option>Esc. Primária De Calenga</option>
-<option>Esc. Primária De Califongo</option>
-<option>Esc. Primária De Calussinga Sede</option>
-<option>Esc. Primária De Cambango</option>
-<option>Esc. Primária De Canana/ Sede</option>
-<option>Esc. Primária De Cantina</option>
-<option>Esc. Primária De Cassanda </option>
-<option>Esc. Primária De Cassoma</option>
-<option>Esc. Primária De Catapi</option>
-<option>Esc. Primária De Catumba</option>
-<option>Esc. Primária De Centro Luvalo</option>
-<option>Esc. Primária De Chaliwewa</option>
-<option>Esc. Primária De Chicumbi</option>
-<option>Esc. Primária De Chilonda</option>
-<option>Esc. Primária De Chimbamba</option>
-<option>Esc. Primária De Chimbinda</option>
-<option>Esc. Primária De Chindunduma</option>
-<option>Esc. Primária De Chinguenda</option>
-<option>Esc. Primária De Chissaque </option>
-<option>Esc. Primária De Chiula</option>
-<option>Esc. Primária De Chiwila </option>
-<option>Esc. Primária De Essanjo</option>
-<option>Esc. Primária De Etamba</option>
-<option>Esc. Primária De Etanda</option>
-<option>Esc. Primária De Eyela</option>
-<option>Esc. Primária De Eyola </option>
-<option>Esc. Primária De Hundo</option>
-<option>Esc. Primária De Jerusalém</option>
-<option>Esc. Primária De Kavamba</option>
-<option>Esc. Primária De Libertador</option>
-<option>Esc. Primária De Luongo</option>
-<option>Esc. Primária De Mande </option>
-<option>Esc. Primária De Muembessi</option>
-<option>Esc. Primária De Muenga </option>
-<option>Esc. Primária De Nhani</option>
-<option>Esc. Primária De Njilinga </option>
-<option>Esc. Primária De Samoma </option>
-<option>Esc. Primária De Sima</option>
-<option>Esc. Primária De Timor</option>
-<option>Esc. Primária De Triunfo</option>
-<option>Esc. Primária De Tunda Chivangue </option>
-<option>Esc. Primária E Do I Ciclo De Cariongo Tunda Chissokokua</option>
-<option>Escola Do Iº Ciclo 11 De Novembro - Andulo</option>
-<option>Escola Missionária Adventista De Chicuma - Andulo</option>
-<option>Escola Primária B. Chivili-1 4 De Abril E Cariongo </option>
-<option>Escola Primária Boa Esperança, Etumbuluco E Missunga</option>
-<option>Escola Primária Chicala Galileia</option>
-<option>Escola Primária De Belo-Monte</option>
-<option>Escola Primária De Bº Hospital E Maptess</option>
-<option>Escola Primária De Boa Vista </option>
-<option>Escola Primária De Cachitele E Cavamba</option>
-<option>Escola Primária De Cachitungo</option>
-<option>Escola Primaria De Cacombo - Andulo</option>
-<option>Escola Primária De Camunda, Candumbo E Cantina</option>
-<option>Escola Primária De Canata Chindundula</option>
-<option>Escola Primária De Cariongo E Luvinji</option>
-<option>Escola Primária De Cassissa </option>
-<option>Escola Primária De Cassuama</option>
-<option>Escola Primária De Cassumbi Andulo</option>
-<option>Escola Primária De Catala Londuibali E Mande</option>
-<option>Escola Primária De Catassi Calussinga, Belém E Cassica</option>
-<option>Escola Primária De Catele, Chicuma E Calussinga</option>
-<option>Escola Primária De Chilengue E Chimbinda</option>
-<option>Escola Primária De Chilesso - Chivaúlo</option>
-<option>Escola Primária De Chimonã E Njilinga</option>
-<option>Escola Primária De Chiombo</option>
-<option>Escola Primária De Chipeio, Sima E Utalamo</option>
-<option>Escola Primária De Chipembe E Catassi</option>
-<option>Escola Primária De Chisseia</option>
-<option>Escola Primária De Chitalinga, Cassumbi E Cangongo</option>
-<option>Escola Primária De Chivenguela</option>
-<option>Escola Primária De Chivinga </option>
-<option>Escola Primária De Chomba E Catapi</option>
-<option>Escola Primária De Dengue E Chiwila</option>
-<option>Escola Primaria De Ekovongo - Andulo</option>
-<option>Escola Primária De Eliengue, Cassumbi, Califongo E Cassumbi</option>
-<option>Escola Primária De Epanda</option>
-<option>Escola Primária De Essulambanda </option>
-<option>Escola Primária De Etalela E Chimbinda</option>
-<option>Escola Primária De Hoji-Ya-Henda</option>
-<option>Escola Primária De Lobito</option>
-<option>Escola Primária De Lucuco E Tunda Chivangue</option>
-<option>Escola Primária De Lungundua E Chaliwewa</option>
-<option>Escola Primaria De Luvinji - Andulo</option>
-<option>Escola Primária De Mbunja E Calenga</option>
-<option>Escola Primária De Muandi-Chindonga E Cantina</option>
-<option>Escola Primaria De Ndulo Epalanga - Andulo</option>
-<option>Escola Primária De Ndulo Epalanga, Libertador E Ngango</option>
-<option>Escola Primária De Ngango E Chihuco</option>
-<option>Escola Primária De Ngola</option>
-<option>Escola Primária De Ngumba-Samukuaya E Gar</option>
-<option>Escola Primária De Nhemba, Ecovongo, Uri E Ulimba</option>
-<option>Escola Primária De Nhongo, Sandona E Chindonga </option>
-<option>Escola Primaria De Piloto Calussinga - Andulo</option>
-<option>Escola Primária De Samaria</option>
-<option>Escola Primária De Sambalanda E Cassanda</option>
-<option>Escola Primária De Sameiro</option>
-<option>Escola Primária De Samucuaia</option>
-<option>Escola Primária De Savanga</option>
-<option>Escola Primária De Seabra</option>
-<option>Escola Primária De Sicato E Etanda</option>
-<option>Escola Primária De Taca-Samoma-Hundo</option>
-<option>Escola Primária De Talavendo</option>
-<option>Escola Primária De Tecnil E Calenga</option>
-<option>Escola Primária De Tumba E Chindunduma</option>
-<option>Escola Primária De Ulimba-Ikualo-Ekovongo E Kassika</option>
-<option>Escola Primária De Vavayela</option>
-<option>Escola Primária De Vissamba, Eyola E Nhani</option>
-<option>Escola Primária Deolinda Rod. Calussinga, Muandi E Tecnil</option>
-<option>Escola Primaria Do Cariongo - Andulo</option>
-<option>Escola Primária Mission. A. De Deus Pentecostal E Canana S. Mucune</option>
-<option>Escola Primária Missionária Do 7º Dia</option>
-<option>Escola Primária Missionária Nossa Sr. Das Graças De Chicumbi </option>
-<option>Escola Primária N. 42</option>
-<option>Escola Primária Pov. Chicumbi Andulo</option>
-<option>Escola Primáriachimbamba Cassumbi E Centro Luvalo</option>
-<option>Escola Primáriade Chivaúlo Andulo</option>
-<option>Escola Primáriade Tecnil Andulo</option>
-<option>Instituto Medio Agrario Do Andulo</option>
-<option>Liceu 4 De Fev., Cassumbi, Calussinga E Chivaúlo -Andulo</option>
+<option>[EQT] COLÉGIO N. 52 SEDE DO ANDULO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE KATALA E CHIMBAMBA/CHUVAULO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE DENGUE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CHIPEIO, UTALAMO E SIMA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE SAMEIRO</option>
+<option>[EQT] ESCOLA PRIMÁRIO DE NGOLA CALINDA S. PAULO,SAMARIA CASSISSA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CHISSAQUE MUENGA E NJILINGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CASSUAMA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CHOMBA /BOA ESPERANÇA</option>
+<option>[EQT] COMPLEXO ESCOLAR DO 7º DIA CHICUMA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE ETALELA E CHIMBINDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA CHIVAÚLO/SEDE, CANANA, CHIÚLA E DONDEIRO</option>
+<option>[EQT] ESCOLA PRIMARIA DE SEABRA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CARIWEQUE SACHIPIA E CAMBANGO</option>
+<option>[EQT] ESCOLA PRIMARIA DE CHICALA GALILEIA E CHICALA PINTO</option>
+<option>[EQT] COMPLEXO ESCOLAR DR. ANTÓNIO A. NETO - ANDULO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CATALA LONDUIBALI E VISSAMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE PILOTO/CALUSSINGA</option>
+<option>[EQT] ESCOLA PRIMARIA DE CAMBUANDA-ANDULO</option>
+<option>[EQT] ESCOLAS PRIMARIA DE CALIFONGO E CATASSI</option>
+<option>[EQT] COLÉGIO 11 DE NOVEMBRO DE CHIVAÚLO</option>
+<option>[EQT] ESCOLA PRIMARIA DE ETANDA E CASSOMA</option>
+<option>[EQT] ESCOLA PRIMARIA DE SICATO E CACOMBO</option>
+<option>[EQT] ESCOLA PRIMARIA DE BOA VISTA-ANDULO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE BELO - MONTE E EYELA</option>
+<option>[EQT] COMPLEXO ESCOLAR DE CHILESSO-CHIVAULO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CAMUNDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE HOJI - YA - HENDA/ CALUSSINGA</option>
+<option>[EQT] ESCOLA PRIMARIA DE CANATA CHINDUNDULA DENGUE E TRIUMFO</option>
+<option>[EQT] ESCOLAS PRIMARIA DE CHIPEMBE/ NÁZARA-CASSUMBI</option>
+<option>[EQT] ESCOLA PRIMARIA 42- SEDE ANDULO</option>
+<option>[EQT] ESCOLA PRIMARIA DA TACA UNDO E SAMOMA</option>
+<option>[EQT] COMPLEXO ESCOLAR DE BUANGA E ESSANJO</option>
+<option>[EQT] COMPLEXO ESCOLAR MIS. ADVENTISTA DO 7º DIA -ANDULO</option>
+<option>[EQT] LICEU 4 DE FEVEREIRO - ANDULO</option>
+<option>[EQT] ESCOLA PRIMARIA DECHIMOÑA LUONGO TCHISSEYA E B.V ECOSSA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE LOBITO MUEMBESSI E ETAMBA</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DO ANDULO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CHIMBUIO E CASSUAMA </option>
+<option>[EQT] ESCOLA PRIMÁRIA DE ULIMBA ICUALU, ECOVONGO E KASIKA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CACHITUNGO E CHINGUENDA</option>
+<option>[EQT] ESCOLA PRIMARIA 4 DE ABRIL CHIVILI1</option>
+<option>[EQT] ESCOLA P. ASSEMBLEIA DE DEUS PENTECOSTAL E CHALIWEWA</option>
+<option>[EQT] COLEGIO 11 DE NOVEMBRO- SEDE ANDULO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE NGANGO E CHIUCO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CHILONDA/KAKUVA E EPANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CHILENGUE E CHINDUNDUMA E JERUSALEM</option>
+<option>[EQT] ESCOLA PRIMARIA DE TECNIL-SEDE</option>
+<option>[EQT] COMPLEXO ESCOLAR DE CHIOMBO</option>
+<option>[EQT] ESCOLAS PRIMARIA DE CATAPI E ETUMBULUCO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE KANDELE, CATUMBA, SAVANGA E TIMOR</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE NHONGO CHICUMA E CANDUMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE MUANDI CHINDONGA E CANTINA</option>
+<option>[EQT] ESCOLA PRIMARIA DE LUNGUNDUA</option>
+<option>[EQT] ESCOLA PRIMARIA DE LUCUCO E ETUNDA CHIVANGUE</option>
+<option>[EQT] COMPLEXO ESCOLAR  DE CAYUVA</option>
+<option>[EQT] ESCOLAS PRIMARIA DE CHOMBA-ANDULO</option>
+<option>[EQT] COMPLEXO ESCOLAR DE CANDUVENE E CHIWILA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CHIVENGUELA E VILA ESTRELA</option>
+<option>[EQT] COMPLEXO ESCOLAR DEOLINDA RODRIGUÊS N. 80 - SEDE ANDULO</option>
+<option>[EQT] ESCOLAS PRIMARIA DE CHIMBAMBA/CASSUMBI</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE TUMBA, NÁZARA E SODOMA</option>
+<option>[EQT] ESCOLA PRIMARIA DE SAMBALANDA CASSANDA E  EYOLA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE Bº HOSPITAL E MAPTESS</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE NHEMBA</option>
+<option>[EQT] COLÉGIO DA SEDE DE CHIVAULO</option>
+<option>[EQT] COLEGIO SOMA NDOMBE</option>
+<option>[EQT] COLÉGIO CHIPOLOCOSSO-ANDULO</option>
+<option>[EQT] COMPLEXO ESCOLAR DE CARIONGO E LOVINGE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE NDULO - EPALANGA E BELEM</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE BUNJA CATASSI E HOMBO</option>
+<option>[EQT] INSTITUTO TECNICO AGRARIO DO ANDULO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE ESSULAMBANDA E KAHATANGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE DONDEIRO ALTO E BAIRRO SILVA</option>
+<option>[EQT] ESCOLA PRIMÁ. N. 414 CHISSEQUE</option>
+<option>[EQT] COMPLEXO ESCOLAR DE CANGALO BANDO TALAVENDO E CAWAVA</option>
+<option>[EQT] ESCOLA PRIMÁRIA TECNIL/CALUSSINA E CALENGA</option>
+<option>[EQT] ESCOLAS PRIMARIA DE CANGONGO E CHITALINGA</option>
+<option>[EQT] COMPLEXO ESCOLAR DE CANANA-ANDULO</option>
+<option>[EQT] ESCOLA PRIMARIA DE CACHITELE E CAVAMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE NGUMBA SAMUCUAYA E GARI</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE SÃO PAULO</option>
+<option>[EQT] COLÉGIO 8 DE MARÇO-CALUSSINGA</option>
+<option>[EQT] MAGISTÉRIO SIMIONE MUCUNE - ANDULO</option>
+<option>[EQT] ESCOLAS PRIMARIA DE ELIENGUE E CANANA-CASSUMBI</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CHIVINGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE POVOAÇÃO DE CHICUMBI E BETATELA</option>
+<option>[EQT] COMPLEXO ESCOLAR DE TUNDA CHISSOCOCUA ENHUANGULI E T CAPEIO</option>
+<option>[EQT] ESCOLAS PRIMARIA DE LUVALO E NGONGO - MISSUNGA</option>
+<option>[EQT] ESCOLAS PRIMARIA DE CASSUMBI-SEDE</option>
+<option>[EQT] ESCOLA PRIMARIA DE SAUMERO-ANDULO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DEOLINDA RODRIGUES/CALUSSINGA E CATELE</option>
+<option>[EQT] COMPLEXO ESCOLA NOSSA SENHORA DAS GRAÇAS</option>
+<option>[EQT] ESCOLA PRIMARIA DE SENJE1 MANDE E VAVAYELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE NHANI-ANDULO</option>

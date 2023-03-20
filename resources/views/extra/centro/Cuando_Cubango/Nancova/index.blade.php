@@ -1,11 +1,5 @@
-<option>Cuito</option>
-Escola Primária N. 01ccn Do Nancova
-Escola Primária N. 05ccn Do Rito
-
-
-
-
-
-
-
-
+<option>[EQT] COMPLEXO ESCOLAR Nº. 04-CCN-MWENE LITO LIA NDONGUA DO RITO</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº. 03 CCN, 4 DE ABRIL DO RITO</option>
+<option>[EQT] COMPLEXO ESCOLAR Nº02 COMANDANTE HOJI-YA-HENDA DO NANCOVA</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DO NANCOVA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 01CCN.MWENE MPANDA YA NGUINGA DO NANCOVA</option>

@@ -1,11 +1,20 @@
-<option>Administração Municipal De Luquembo / Contratado</option>
-<option>Colégio N. 10 - Hoji-Ya-Henda - Luquembo </option>
-<option>Escola Primária N. 1 - 11 De Novembro - Luquembo</option>
-<option>Escola Primária N. 13 - Canjungo - Luquembo </option>
-<option>Escola Primária N. 14 - Sicongo - Luquembo </option>
-<option>Escola Primária N. 15 - Sacabeia - Luquembo </option>
-<option>Escola Primária N. 2 - Cangila - Luquembo </option>
-<option>Escola Primária N. 3 - Luquembo Soba - Luquembo </option>
-<option>Escola Primária N. 4 - Sifundo - Luquembo </option>
-<option>Escola Primária N. 5 - Nzinga Mbandi - Kapunda - Luquembo </option>
-<option>Escola Primária N. 7 - 1 De Junho - Luquembo </option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DE LUQUEMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 8 - CAZUA - LUQUEMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 6 - NGOLA KILUANJE - LUQUEMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 5 - NZINGA MBANDI - LUQUEMBO</option>
+<option>[EQT] COLÉGIO, Nº 10 - HOJI-YA-HENDA - LUQUEMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 3 - LUQUEMBO SOBA - LUQUEMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 9 - XICALO - LUQUEMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 12 - DR ANTÓNIO AGOSTINHO NETO - LUQUEMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 15 - SACABEIA - LUQUEMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 14 - SICONGO - LUQUEMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 4 - SIFUNDO - LUQUEMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 18 - MULUNDO - LUQUEMBO </option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 16- NGOLA YETU - LUQUEMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 1 - 11 DE NOVEMBRO - LUQUEMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 7 - 1 DE JUNHO - LUQUEMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 13 - CANJUNGO - LUQUEMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 11 - MAJOR CANHANGULO - LUQUEMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 2 - CANGILA - LUQUEMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 17 - HAVEMOS DE VOLTAR - LUQUEMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 19 - SAMOMA - LUQUEMBO</option>

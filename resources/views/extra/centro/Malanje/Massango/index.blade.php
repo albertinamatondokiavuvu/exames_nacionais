@@ -1,3 +1,9 @@
-<option>Escola Do Ensino Primário, Nº 22 - Gonga - Massango</option>
-<option>Escola Do Ensino Primário, Nº 9 - Kimbungo Thunda - Massango</option>
-<option>Escola Do I Ciclo Do Ensnino Secundário, Nº 41 - Massango - Massango</option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 3 - QUIMBUNGO - MASSANGO</option>
+<option>[EQT] COLÉGIO Nº 1 - MASSANGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 5 - QUINGUEGE - MASSANGO</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DE MASSANGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 6 - ZENZA - MASSANGO</option>
+<option>[EQT] DRECÇÃO MUNICIPAL DA EDUCAÇÃO DE MASSANGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 7 - QUIHUHU - MASSANGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 4 - HOJI YA HENDA - MASSANGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 2 - HOLECA - MASSANGO</option>

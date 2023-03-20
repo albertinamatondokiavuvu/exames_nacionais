@@ -1,14 +1,16 @@
-<option>Escola Ensino Primário Nº 90n-Macala Sede/Namibia</option>
-<option>Escola Do Ensino Primário Cacimbas  - Camucuio</option>
-<option>Escola Do Ensino Primário Comandante Valódia-Matule Camucuio</option>
-<option>Escola Ens.Primério Tchinducuto-Naulamba-Maiolowe Camucuio</option>
-<option>Escola Ensino Primário Salomão Behiwa - Camucuio</option>
-<option>Escola Ensino Primário Serra Das Neves - Camucuio</option>
-<option>Escola Primária N. 08 - Joaquim Francisco Tchatila - Camucuio</option>
-<option>Escola Primária N. 09 - Ramos Casseculo - Camucuio</option>
-<option>Escola Primária N. 1 - 11 De Outubro - Camucuio</option>
-<option>Escola Primária N. 10 - Hoji-Ya-Henda - Camucuio</option>
-<option>Escola Primaria N. 12 - Eduardo Jembessa Tchiquete - Camucuio</option>
-<option>Escola Primária N. 3 - Salomão Behiwa - Camucuio</option>
-<option>Escola Primária N. 4 - Alfredo Monteiro - Camucuio</option>
-<option>Escola Primária N. 5 - Manuel Correia - Camucuio</option>
+<option>[EQT] COLÉGIO N. 13 -  22 DE NOVEMBRO - CAMUCUIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 14 - PINTO TCHIHAKI MOSSAMBE - CAMUCUIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 15 - JULIO CANIVETE - CAMUCUIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 12 – EDUARDO JEMBESSA TCHIQUETE-CAMUCUIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 08 - JOAQUIM FRANCISCO TCHATILA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 5 - MANUEL CORREIA - CAMUCUIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 4 - ALFREDO MONTEIRO - CAMUCUIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 09 - RAMOS CASSECULO - CAMUCUIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1 - 11 DE OUTUBRO - CAMUCUIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 3 - SALOMÃO BEHIWA - CAMUCUIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 10 - HOJI-YA-HENDA - CAMUCUIO</option>
+<option>[EQT] LICEU N. 11 - ANTÓNIO JÚLIO PEQUENINO DOS SANTOS - CAMUCUIO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 2 - 4 DE ABRIL - CAMUCUIO</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DO CAMUCUIO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 7 - MUHONDJOLO - CAMUCUIO</option>
+<option>[EQT] COLÉGIO N. 6 - ANTÓNIO PEQUENINO TCHINDJILA</option>

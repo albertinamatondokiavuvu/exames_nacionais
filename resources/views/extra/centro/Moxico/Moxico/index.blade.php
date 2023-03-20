@@ -1,130 +1,99 @@
-<option>Centro Basico Formacao Docente /Moxico</option>
-<option>Centro Pre-Universitario /Moxico</option>
-<option>Colégio N. 145 - Moxico</option>
-<option>Colégio N. 148 - Moxico</option>
-<option>Colégio N. 152 - Moxico</option>
-<option>Colégio N. 156 - Moxico</option>
-<option>Colégio N. 158 - Moxico</option>
-<option>Colégio N. 159 - Moxico</option>
-<option>Colégio N. 178 - Moxico</option>
-<option>Colégio N. 91 - Moxico</option>
-<option>Colégio N. 95 - Moxico</option>
-<option>Colégio N. 97 - Moxico</option>
-<option>Colégio N. 98 - Moxico</option>
-<option>Complexo Escolar Cema - Moxico</option>
-<option>Complexo Escolar N. 338 - Moxico</option>
-<option>Complexo Escolar N. 341</option>
-<option>Dir. Prov. Alfabeticao Do Moxico</option>
-<option>Dir.Prov.Educ.Moxico-Conc.Pub./07-Ins.Mai/08</option>
-<option>Dir.Escola De Formacao De Tecnicos De Saude Do Moxico</option>
-<option>Escola Do Ensino Especial Nº 326  - Moxico</option>
-<option>Escola Do Ensino Primario Nº 135 - Moxico</option>
-<option>Escola Do Ensino Primario Nº 139 - Moxico</option>
-<option>Escola Do Ensino Primario Nº 140 - Moxico</option>
-<option>Escola Do Ensino Primario Nº 141 - Moxico</option>
-<option>Escola Do Ensino Primario Nº 142 - Moxico</option>
-<option>Escola Do Ensino Primario Nº 144 - Moxico</option>
-<option>Escola Do Ensino Primario Nº 152  - Moxico</option>
-<option>Escola Do Ensino Primario Nº 153  - Moxico</option>
-<option>Escola Do Ensino Primario Nº 160  - Moxico</option>
-<option>Escola Do Ensino Primario Nº 162  - Moxico</option>
-<option>Escola Do Ensino Primario Nº 171  - Moxico</option>
-<option>Escola Do Ensino Primario Nº 172  - Moxico</option>
-<option>Escola Do Ensino Primario Nº 176  - Moxico</option>
-<option>Escola Do Ensino Primario Nº 182  - Moxico</option>
-<option>Escola Do Ensino Primario Nº 183  - Moxico</option>
-<option>Escola Do Ensino Primario Nº 184  - Moxico</option>
-<option>Escola Do Ensino Primario Nº 241  - Moxico</option>
-<option>Escola Do Ensino Primario Nº 280  - Moxico</option>
-<option>Escola Do Ensino Primario Nº 284 - Moxico</option>
-<option>Escola Do Ensino Primario Nº 329  - Moxico</option>
-<option>Escola Do Ensino Primario Nº 333  - Moxico</option>
-<option>Escola Do Ensino Primario Nº 335  - Moxico</option>
-<option>Escola Do Ensino Primario Nº 337  - Moxico</option>
-<option>Escola Do Ensino Primario Nº 50 - Moxico</option>
-<option>Escola Do Ensino Primario Nº 51 - Moxico</option>
-<option>Escola Do Ensino Primario Nº 65 - Moxico</option>
-<option>Escolas Dom-Bosco E Irmas De Jesus /Moxico</option>
-<option>Gabinete Provincial De Educação Do Moxico</option>
-<option>Inst. Medio Normal De Educacao - Moxico</option>
-<option>Instituto Medio De Administração E Gestão Do Moxico</option>
-<option>Liceu N. 157 - Moxico</option>
-<option>Liceu N. 160 - Moxico</option>
-<option>Liceu N. 192 - Moxico</option>
-<option>Liceu N. 195 - Moxico</option>
-<option>Med - Delegacao Municipal Do Moxico</option>
-<option>Med - Delg. Municipal Do Moxico - Zona A</option>
-<option>Med - Escola Prim. 154/Anexa/Instituto Mx</option>
-<option>Med - Escola Prim. 176/1 Maio/Zorro/Mx</option>
-<option>Med - Escola Prim. 181 B. Popular /Moxico</option>
-<option>Med - Escola Prim. Campo Da Cameia /Moxico</option>
-<option>Med - Escola Prim. Orfanato/Ex-Creche-Moxico</option>
-<option>Med - Escola Prim. Sinal Vermelho /Moxico</option>
-<option>Med - Escola Primaria 143 - Compao /Moxico</option>
-<option>Med - Escola Primaria 169 /Sangondo /Moxico</option>
-<option>Med - Escola Primaria 170 - Alto Luena /Moxico</option>
-<option>Med - Escola Primaria 175 B. Manguchi /Moxico</option>
-<option>Med - Escola Primaria 177 - Alto Luena /Moxico</option>
-<option>Med - Escola Primaria 178 B. Alto Campo /Mx</option>
-<option>Med - Escola Primaria 280 B. Kapango /Moxico</option>
-<option>Med - Escola Primaria 309 N. Sra. Assunção/Mx</option>
-<option>Med - Escola Primaria Campo De Camgumbe /Mx</option>
-<option>Med - Escola Primaria Campo De Cautepue /Mx</option>
-<option>Med - Escola Primaria Campo De Chafinda /Mx</option>
-<option>Med - Escola Primaria Campo Do Luau /Moxico</option>
-<option>Med - Escola Primaria Dom Bosco /Moxico</option>
-<option>Med - Escola Primaria J. R. S. /Moxico</option>
-<option>Med - Escola Primaria Mulher Sindicalista /Moxico</option>
-<option>Med- Escola Polivalente Do Aço</option>
-<option>Med. - Coord. Escolar Comunal De Lucusse /Mx</option>
-<option>Med. - Coordenação Escolar De Cangumbe /Moxico</option>
-<option>Med. - Coordenação Escolar De Canhengue /Moxico</option>
-<option>Med. - Coordenacao Suco E Moxico Velho</option>
-<option>Med. - Deleg. Municipal Do Moxico - Zona C</option>
-<option>Med. - Deleg. Municipal Do Moxico - Zona D</option>
-<option>Med. - Delegacao Municipal /Moxico</option>
-<option>Med. - Delg. Municipal Do Moxico - Zona B</option>
-<option>Med. - Escola Do Iii Nivel Tchifuchi - Moxico</option>
-<option>Med. - Escola Prim. 197 B. Canda Velha Z.D /Mox</option>
-<option>Med. - Escola Prim. 201 B. Canjamba Z.D /Moxico</option>
-<option>Med. - Escola Prim. 242 B. Chilundo Z.D /Moxico</option>
-<option>Med. - Escola Prim. Campo De Catocola Z.C /Mx</option>
-<option>Med. - Escola Prim. Campo De Muachimbo Z.C /Mx</option>
-<option>Med. - Escola Prim. S/N Campo De Luchazes /Mx</option>
-<option>Med. - Escola Prim. S/N Sangondo 1 /Moxico</option>
-<option>Med. - Escola Prim. S/N Sangondo 2 /Moxico</option>
-<option>Med. - Escola Primaria 146 B. 11 De Nov Luangrico /Mx</option>
-<option>Med. - Escola Primaria 150 B. Lumeje Pinto /Mx</option>
-<option>Med. - Escola Primaria 158 Cambatchokue</option>
-<option>Med. - Escola Primaria 165 - Sacassange /Moxico</option>
-<option>Med. - Escola Primaria 171 - Sao Nicolau Coord. V. Lucuss</option>
-<option>Med. - Escola Primaria 185 Boma /Moxico</option>
-<option>Med. - Escola Primaria 189 B. Cambavo /Moxico</option>
-<option>Med. - Escola Primaria 251 Luxia /Moxico</option>
-<option>Med. - Escola Primaria 284 - Sachaca</option>
-<option>Med. - Escola Primaria B. Camixilo</option>
-<option>Med. - Escola Primaria B. Cangongo /Moxico</option>
-<option>Med. - Escola Primaria B. Kanda Z.D /Moxico</option>
-<option>Med. - Escola Primaria B. Ngombe /Moxico</option>
-<option>Med. - Escola Primaria B. Saluanja /Moxico</option>
-<option>Med. - Escola Primaria B. Sanana Luangrico /Mx</option>
-<option>Med. - Escola Primaria Campo De Tazania /Mx</option>
-<option>Med. - Escola Primaria Chizulie /Moxico</option>
-<option>Med. - Escola Primaria S/N B. Muachimbo /Moxico</option>
-<option>Med. - Escola Primaria S/N Cassole /Moxico</option>
-<option>Med. - Escola Primaria S/N Muacambaji /Mx</option>
-<option>Med. - Escola Primaria S/N Muateresa /Mx</option>
-<option>Med. - Escola Primaria S/N Xito 2 /Mx</option>
-<option>Med. - Escola Primaria Xito 3 /Moxico</option>
-<option>Med.- Coordenacao Do Luxia - Moxico</option>
-<option>Med.-Escola Do Ii Nivel  Zorro-Moxico</option>
-<option>Med-Escola Do Ii Nivel 17 De Setembo-Moxico</option>
-<option>Mincult - Delegaçao Provincial Do Moxico</option>
-<option>Direcção Municipal De Educação De Bundas</option>
-<option>Direcção Municipal De Educação De Camanongue</option>
-<option>Direcção Municipal De Educação De Luacano</option>
-<option>Direcção Municipal De Educação De Luau</option>
-<option>Direcção Municipal De Educação De Luchazes</option>
-<option>Direcção Municipal De Educação Do Alto Zambeze</option>
-<option>Direcção Municipal De Educação Do Léua</option>
-<option>Direcção Municipal De Educação Do Luena</option>
+<option>[EQT] ESCOLA  PRIMÁRIA N.143 IRMAS TERESIANA</option>
+<option>[EQT] ESCOLA DO ENSINO PRIMÁRIO N. 144 - KAPANGO</option>
+<option>[EQT] COMPLEXO ESCOLAR DOM BOSCO</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DE EDUCAÇÃO - MOXICO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 199 - 4 DE FEVEREIRO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 162 - 4 DE FEVEREIRO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 141 BAIRRO KWENHA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 170  ALTO - LUENA</option>
+<option>[EQT] ESCOLA PRIMÁRIA  SANTA MARGARIDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 88  LUCUSSE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 247 - LUCOCUA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 151 LUXIA </option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 147 MX</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 147 LUCUSSE </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 187 - CATUNGA</option>
+<option>[EQT] COLÉGIO N. 178 ALTO - CAMPO</option>
+<option>[EQT] COMPLEXO ESCOLAR  N. 94 - MOXICO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 89 - CANGUMBE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 850 LUCUSSE</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 338 - CAMARADA TCHIFUCHI </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 50 VILA LUSO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 182 - SINAI NOVO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 181 POPULAR</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 176 – 1º DE MAIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 174 PASSA - FOME</option>
+<option>[EQT] LICEU N.160 - 4 DE FEVEREIRO</option>
+<option>[EQT] LICEU N. 157 KAPANGO </option>
+<option>[EQT] LICEU 250 11 DE NOVEMBRO</option>
+<option>[EQT] COLÉGIO N.159 - BAIRRO KWENHA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 47 - SATCHIFUNGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 180 - KWENHA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 51 VILA LUSO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 335 COMANDANTE NGOLA</option>
+<option>[EQT] COMPLEXO ESCOLAR  N. 80 - CANGONGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 63 KAPANGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 41- B. LUCIVI 1</option>
+<option>[EQT] ESCOLA  PRIMÁRIA N. 154 - SACALUMBO</option>
+<option>[EQT] COMPLEXO ESCOLAR MARIA AUXILIADORA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 52 MANDEMBUÉ</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 90 B. CALAPO</option>
+<option>[EQT] COMPLEXO ESCOLAR  N. 326 ENSINO ESPECIAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 202 LUCIVI II</option>
+<option>[EQT] INSTITUTO POLÍTÉCNICO DE ADMINISTRAÇÃO E GESTÃO DO LUENA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 341 SÃO JOSÉ</option>
+<option>[EQT] COLÉGIO N. 156 BAIRRO 4 DE FEVEREIRO</option>
+<option>[EQT] COLÉGIO N. 148 SINAI NOVO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 155 MOXICO - VELHO  </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 149 LUPACHI</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 141 BAIRRO KWENHA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 328 PADRE PEDRO LEONARDI</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 309 NOSSA SENHORA DE ASSUNÇÃO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 177 - ALTO LUENA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 175 - MANGUXI</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 142 B. SOCIAL DA JUVENTUDE </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 88 LUCUSSE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 173 - VALA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 590 - LUANDO</option>
+<option>[EQT] MAGISTERIO 4 DE ABRIL</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 200 - CANHENGUE</option>
+<option>[EQT] COLÉGIO N. 98 BAIRRO MANDEMBUÉ</option>
+<option>[EQT] COLÉGIO N. 97 BAIRRO KAPANGO</option>
+<option>[EQT] COLÉGIO N. 95 B. VIEIRA </option>
+<option>[EQT] ESCOLA PRIMÁRIA  N.140 MOXICO</option>
+<option>[EQT] INSTITUTO TÉCNICO N. 243 - ARTE E OFICIOS - LUENA </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 198 ALTO CAMPO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 153 ALTO - LUENA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 280 – KAPANGO</option>
+<option>[EQT] COMPELXO ESCOLAR  N.179 BAIRRO TCHIFUCHI</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 139 B. KAPANGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 172- SINAI NOVO</option>
+<option>[EQT] GABINETE PROVINCIAL DE EDUCAÇÃO DO MOXICO</option>
+<option>[EQT] COLÉGIO N. 158 SANGONDO</option>
+<option>[EQT] INSTITUTO TÉCNICO DE SAÚDE DO MOXICO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 185 - CANGUMBE </option>
+<option>[EQT] ESCOLA  PRIMÁRIA N. 135 ALTO -LUENA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 171 - ALTO LUENA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 165 - SACHILOMBO</option>
+<option>[EQT] LICEU N.195  ALTO - CAMPO</option>
+<option>[EQT] LICEU N. 192 SINAI - NOVO</option>
+<option>[EQT] INSTITUTO POLITÉCNICO DO MOXICO N. 96 KAPANGO</option>
+<option>[EQT] COLÉGIO N. 92 LUCUSSE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 201 - CAJAMBA</option>
+<option>[EQT] COLÉGIO N. 91 BAIRRO SOCIAL DA JUNENTUDE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 160 MULANGUELO</option>
+<option>[EQT] COMPELXO ESCOLAR  N. 53 - COMANDANTE KWENHA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 183 - ALTO CAMPO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 122 - TCHAFINDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 327 - SINAI VELHO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 247 B. LUCÓCUA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 246 - B. LUCHAZE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 241 SANTO AMARO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 64 - ALTO CAMPO</option>
+<option>[EQT] COLÉGIO N. 152 ALTO - LUENA</option>
+<option>[EQT] COLÉGIO N. 145 - BAIRRO KAPANGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 337 – 17 DE SETEMBRO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 185 - CANGUMBE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 333 – SÃO BENTO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 184 - SAMALESSO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 169 – SANGONDO</option>

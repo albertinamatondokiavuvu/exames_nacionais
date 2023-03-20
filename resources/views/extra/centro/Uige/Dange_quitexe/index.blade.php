@@ -1,30 +1,43 @@
-<option>Colégio Do Quitexe</option>
-<option>Escola Primária Da Missão Catolica</option>
-<option>Escola Primária De Ambuila</option>
-<option>Escola Primária De B. Zonda</option>
-<option>Escola Primária De Bumbe</option>
-<option>Escola Primária De Cacuaco</option>
-<option>Escola Primária De Cambamba</option>
-<option>Escola Primária De Catenda E Combo</option>
-<option>Escola Primária De K. De Cima</option>
-<option>Escola Primária De Kikiangala Bungo</option>
-<option>Escola Primária De Kipenene</option>
-<option>Escola Primária De Quimbinda</option>
-<option>Escola Primária De Quitoque</option>
-<option>Escola Primária De Terra Nova</option>
-<option>Escola Primária N. 013 De Catulo </option>
-<option>Escola Primária N. 017 De Kitende-Quissequele</option> 
-<option>Escola Primária N. 023 De Bengue </option>
-<option>Escola Primária N. 07 De Bulungungo</option>
-<option>Escola Primária N. 11 De Mungaje </option>
-<option>Escola Primária N. 12 De Dambi Angola</option>
-<option>Escola Primaria N. 131</option>
-<option>Escola Primária N. 14 De Cahunda</option>
-<option>Escola Primária N. 16 De Quimufuque</option>
-<option>Escola Primária N. 19 De Quiangani </option>
-<option>Escola Primária N. 20 De Cauanga </option>
-<option>Escola Primária N. 35 De Cassula</option>
-<option>Escola Primária N. 6 De Quimassabi</option>
-<option>Escola Primária N. 761 De Aldeia Quitexe</option>
-<option>Liceu De Cambamba-Quitexe</option>
-<option>Liceu Do Dange Quitexe</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE KIANGALA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 022 DE QUIPOSSA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE KIPENENE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 14 DE CAHUNDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 12 DE DAMBI ANGOLA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CATENDA </option>
+<option>[EQT] ESCOLA PRIMARIA N. 131</option>
+<option>[EQT] LICEU DO DANGE QUITEXE</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DO DANGE - QUITEXE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 16 DE QUIMUFUQUE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 11 DE MUNGAJE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 028 DE KIFAFA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 040 DE VISTA ALEGRE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 6 DE QUIMASSABI</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 013 DE CATULO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE QUINGONGA II</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 35 DE CASSULA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE GAMA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 017 DE KITENDE </option>
+<option>[EQT] LICEU DE CAMBAMBA - QUITEXE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE MUFUQUE</option>
+<option>[EQT] COLÉGIO N. 038 DE CAMBAMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 07 DE BULUNGUNGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE TERRA NOVA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA MISSÃO CATOLICA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE AMBUILA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 39 DE QUITOQUE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 19 DE QUIANGANI</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 20 DE CAUANGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CACUACO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE QUITITA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 018 DE QUIMBUNDO</option>
+<option>[EQT] COLÉGIO N. 037 DE ALDEIA VIÇOSA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CAMBAMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 023 DE BENGUE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE QUIMBINDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 026 DE QUIMBANGULA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE KULUCUMBA</option>
+<option>[EQT] COLÉGIO DO QUITEXE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 021 DE COLÚA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CAMBEJE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE BUMBE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 761 DE ALDEIA QUITEXE</option>

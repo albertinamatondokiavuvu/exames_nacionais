@@ -1,79 +1,102 @@
-<option>Centro Materno Infantil Lunda-Sul / Contratado</option>
-<option>Centro Pre-Universitario De Saurimo</option>
-<option>Colégio N. 02 Ex Ii Nível </option>
-<option>Colégio N. 03 28 De Maio </option>
-<option>Colégio N. 04 4 De Abril </option>
-<option>Colégio N. 05 22 De Novembro </option>
-<option>Colégio N. 06 Candmbe Ii </option>
-<option>Colégio N. 07 Camundambala </option>
-<option>Complexo Escolar 1 De Junho N. 98 "Mona Quimbundo"</option>
-<option>Complexo Escolar Do Ens. G. E T. Profissional N. 08 Luar </option>
-<option>Complexo Escolar Ensino Especial N. 01</option>
-<option>Complexo Escolar N. 04 17 De Setembro </option>
-<option>Complexo Escolar N. 05 28 De Agosto Txicumina </option>
-<option>Complexo Escolar N. 06 Mahatma Gandhi Regedoria Cazembe</option>
-<option>Complexo Escolar N. 10 Comandante Txizainga</option>
-<option>Complexo Escolar N. 11 Ilda Calupeteca </option>
-<option>Complexo Escolar N. 12 Mwono Waha</option>
-<option>Complexo Escolar N. 13 Do Sueja</option>
-<option>Complexo Escolar N. 2 Missão Masculino</option>
-<option>Complexo Escolar N. 27 General Txizainga</option>
-<option>Complexo Escolar N. 3 Missão Feminina</option>
-<option>Complexo Escolar N. 05 José Manuel Luembe </option>
-<option>Dir.Prov.Educ.-Conc.Pub./07-Ins.Mai./08</option>
-<option>Dir.Prov.Educ.Lunda Sul-Conc.Pub./06-Ins.Jul.</option>
-<option>Escola De Formação De Técnicos De Saúde Da Lunda Sul / Contratado</option>
-<option>Escola Do Iº Ciclo Do Ensino Secundario Muatxissengue Wa-Tembo - Saurimo</option>
-<option>Escola Primária Caiaza - Saurimo</option>
-<option>Escola Primária Do Sacombe - Saurimo</option>
-<option>Escola Primária N. 04 Jonate Mário Pinto</option>
-<option>Escola Primária N. 06 Txizainga-1</option>
-<option>Escola Primária N. 08 Do Bairro Luavur Zona C</option>
-<option>Escola Primária N. 09 António Coimbra Da Silva</option>
-<option>Escola Primária N. 1 Dr. Raúl Fernades Júnior</option>
-<option>Escola Primária N. 101 Do Bairro Peso Velho</option>
-<option>Escola Primária N. 105 Do Bairro Txipamba</option>
-<option>Escola Primária N. 11 4 De Fevereiro - Curva </option>
-<option>Escola Primária N. 111 Do Sombo Sede</option>
-<option>Escola Primária N. 12 14 De Abril Do Manauto 1</option>
-<option>Escola Primária N. 13 Do Manauto 2</option>
-<option>Escola Primária N. 14 Ruth Hadly Missão Camundambala</option>
-<option>Escola Primária N. 16 São João Calábria</option>
-<option>Escola Primária N. 17 Paróquia Santo António</option>
-<option>Escola Primária N. 18 Do Bairro Luavur Zona B</option>
-<option>Escola Primária N. 19 Santa Ana Aldeia Da Missão</option>
-<option>Escola Primária N. 20 Do Bairro Camitundo</option>
-<option>Escola Primária N. 23 Do Bairro Candembe 2</option>
-<option>Escola Primária N. 24 Do Bairro Luavur Zona A</option>
-<option>Escola Primária N. 25 Do Bairro Muandonji-Caxita</option>
-<option>Escola Primária N. 26 Do Bairro Candembe 1</option>
-<option>Escola Primária N. 32 José Txiessuetxipi</option>
-<option>Escola Primária N. 33 Beato Carlo Steeb</option>
-<option>Escola Primária N. 34 Do Bairro Luar</option>
-<option>Escola Primária N. 35 Do Bairro Muangueji</option>
-<option>Escola Primária N. 36 1 De Junho Mulombe </option>
-<option>Escola Primária N. 39 Do Bairro Conduril</option>
-<option>Escola Primária N. 40 Do Bairro Kawazanga</option>
-<option>Escola Primária N. 41 1 De Dezembro</option>
-<option>Escola Primária N. 48 Samupafo</option>
-<option>Escola Primária N. 70 Do Bairro Sacambundji</option>
-<option>Escola Primária N. 91 Do Bairro Caliwe</option>
-<option>Escola Primária Sacaxima - Saurimo</option>
-<option>Instituto Agrário Mona-Quimbundo N. 9 - Saurimo</option>
-<option>Instituto Médio Politécnico Da Lunda Sul N. 01</option>
-<option>Instituto Tecnico De Saude N. 01</option>
-<option>Lar Da Assistência A Pessoa Idosa Do Saurimo/Lunda Sul / Contratado</option>
-<option>Liceu N. 01 José Manuel Salucombo</option> 
-<option>Liceu N. 02 São Kizito </option>
-<option>Magistério N. 01 Amor Do Povo De Saurimo </option>
-<option>Med-Deleg.Prov.(Colaborad.I,Ii,Iii Niveis L.S</option>
-<option>Med-Delegaçao Municipal De Saurimo - L. Sul</option>
-<option>Med-Delegaçao Municipal Do Cacolo - L. Sul</option>
-<option>Med-Delegaçao Municipal Do Dala - L. Sul</option>
-<option>Med-Delegaçao Municipal Do Muconda - L. Sul</option>
-<option>Med-Delegaçao Provincial Da Lunda-Sul</option>
-<option>Med-Direccao Do Instituto Med.Nor.Educacao</option>
-<option>Med-Escola Anexa - L. Sul</option>
-<option>Med-Inst. Med. N. Ed.(Colaboradores) - L.Sul</option>
-<option>Repartição Municipal Da Educação De Saurimo</option>
-<option>Sec.Mun. Educação Do Cacuaco - Admitidos Out. - 05</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 133 DO KAWAZANGA Z - B</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 127 ALBERTO SAMÁRIO RECUA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 126 DOMINGAS MUTA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 125 JOSÉ CAMUAMBA MUACAHIADO B. ZAGE</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 134 - BAPTISTA BUMBA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 132 - DO BAIRRO KAWAZANGA Z - D</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 131 - DO BAIRRO CANDEMBE Z - D</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 130 - MARIA DOS SANTOS DA COSTA AFRICANO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 129 - DO BAIRRO SOCIAL DA JUVENTUDE</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 128 - DO NHAMA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 124 - KATETA SAMALESSO</option>
+<option>[EQT] INSTITUTO POLITÉCNICO DE ADMINISTRAÇÃO E GESTÃO N. 07 TERRA NOVA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 8 DR. ANTÓNIO AGOSTINHO NETO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 117 DO BAIRRO CARTEIRA 1</option>
+<option>[EQT] ESCOLAR PRIMÁRIA N. 135  SÃO JOSÉ</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 106 DO BAIRRO KANOQUENA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 105 DO BAIRRO TXIPAMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 22 DO BAIRRO TXAPOJI</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 111 DO SOMBO SEDE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 97 DO BAIRRO NGANDO</option>
+<option>[EQT] COMPLEXO ESCOLAR ESNSINO ESPECIAL N. 01</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 17- MISSÃO FEMININA</option>
+<option>[EQT] LICEU N. 02 SÃO KIZITO - SAURIMO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 27 GENERAL TXIZAINGA</option>
+<option>[EQT] ESCOLA PRIMARIA N. 26 DO BAIRRO CANDEMBE 1</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 11 ILDA CALUPETECA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 09 ANTÓNIO COIMBRA DA SILVA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 123 JOSÉ NGUAMBE DO BAIRRO ZORÓ</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 12 14 DE ABRIL DO MANAUTO 1</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 06 TXIZAINGA - 1</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 79 MAJOR KANDJENGO</option>
+<option>[EQT] ESCOLAPRIMÁRIA N. 18 LUAVUR ZONA B</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 57 DO BAIRRO SAMULAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 126 DO BAIRRO CAZARI</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 41 1 DE DEZEMBRO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 12 MWONO WAHA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 14 RUTH HADLY MISSÃO CAMUNDAMBALA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 11 MARIA DE LURDES MUALUEZE</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DE SAURIMO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 43 DO BAIRRO SACOMBE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 50 DO BAIRRO SAMBAU</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 13 DO SUEJA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 56 DO BAIRRO MUANGUIJI</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 36 1 DE JUNHO MULOMBE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 04 JONATE MÁRIO PINTO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 2- PADRE HENRIQUE GROESMITH</option>
+<option>[EQT] ESCOLAPRIMÁRIA N. 08 DO BAIRRO LUAVUR ZONA C</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 32 JOSÉ TXIESSUETXIPI</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 70 DO BAIRRO SACAMBUNDJI</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 62 DO BAIRRO CAICANGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 92 DO BAIRRO TXANGUILO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 120 ALONE CHINEQUE</option>
+<option>[EQT] INSTITUTO TÉCNICO DE SAÚDE N. 01 - SAURIMO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 15 -JOSÉ MARIA ROBLES</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 20 DO BAIRRO CAMITUNDO</option>
+<option>[EQT] COLÉGIO N. 01 MUATXISSENGUE WA - TEMBO</option>
+<option>[EQT] COLÉGIO N. 04 "4 DE ABRIL "</option>
+<option>[EQT] COLÉGIO N. 02 EX II NÍVEL</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 91 DO BAIRRO CALIWE</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 05 JOSÉ MANUEL LUEMBE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 25 DO BAIRRO MUANDONJI - CAXITA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 17 PARÓQUIA SANTO ANTÓNIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 23 DO BAIRRO CANDEMBE 2</option>
+<option>[EQT] INSTITUTO POLITÉCNICO N. 08 LUAR - SAURIMO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 14 DO BAIRRO NGAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 71 DO BAIRRO CASSAMBA 2</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 77 DO BAIRRO SAQUEMBUE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1 DR. RAÚL FERNANDES JUNIOR</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 13 DO MANAUTO 2</option>
+<option>[EQT] COLÉGIO N. 07 CAMUNDAMBALA</option>
+<option>[EQT] MAGISTÉRIO N. 01 AMOR DO POVO DE SAURIMO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 04 -17 DE SETEMBRO</option>
+<option>[EQT] COLÉGIO N. 06 CANDEMBE II</option>
+<option>[EQT] GABINETE PROVINCIAL DA EDUCAÇÃO DA LUNDA - SUL</option>
+<option>[EQT] LICEU N. 01 JOSÉ MANUEL SALUCOMBO - SAURIMO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 65 DO BAIRRO LUHEMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 82 DO BAIRRO KAIAZA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 84 DO BAIRRO LNDJATE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 16 SÃO JOÃO CALÁBRIA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 101 DO BAIRRO PESO VELHO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 68 DO BAIRRO NANGUAZA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 35 DO BAIRRO MUANGUEJI</option>
+<option>[EQT] INSTITUTO MÉDIO POLITÉCNICO DA LUNDA - SUL N. 01</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 58 DO BAIRRO MUATOYO - SACAXIMA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 06 MAHATMA GANDHI REGEDORIA CAZEMBE</option>
+<option>[EQT] COLÉGIO N. 05 22 DE NOVEMBRO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 48 SAMUPAFO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 10 COMANDANTE TXIZAINGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 114 DO BAIRRO CATEWE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 33 BEATO CARLO STEEB</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 19 SANTA ANA ALDEIA DA MISSÃO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 21 DO BAIRRO PELENGUE</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 09 28 DE AGOSTO TXICUMINA</option>
+<option>[EQT] COLÉGIO N. 03 28 DE MAIO</option>
+<option>[EQT] COMPLEXO ESCOLAR 1 DE JUNHO N. 98 DE MONA - QUIMBUNDO</option>
+<option>[EQT] INSTITUTO AGRÁRIO MONA - QUIMBUNDO N. 9 - SAURIMO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 85 DO BAIRRO PIMBI</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 44 DO BAIRRO ITENGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 39 KAIMBO KAMBUANDJI SAMENECA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 24 DO BAIRRO LUAVUR ZONA A</option>
+<option>[EQT] ESCOLA PRIMARIA N. 34 DO BAIRRO LUAR</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 40- PEDRO MANUEL</option>

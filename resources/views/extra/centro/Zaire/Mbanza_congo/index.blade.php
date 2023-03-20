@@ -1,82 +1,50 @@
-<option>Del.Prov. Da Educacao - Colaboradores</option>
-<option>Dir. Prov. De Alfabetizacao Do Zaire</option>
-<option>Dir.Dir.Prov.Educ.Zaire-Conc.Pub./07-Ins.Mai./08</option>
-<option>Dir.Dir.Prov.Educacao.Zaire-Conc.Pub./2006</option>
-<option>Escola De Formação De Professores Daniel Vemba Do Zaire</option>
-<option>Escola Do Ensino Especial - Mbanza Congo</option>
-<option>Escola Do Ii Ciclo Do Ensino Secundário De Mbanza Congo</option>
-<option>Escola Do Iº Ciclo 11 De Novembro - Mbanza Congo</option>
-<option>Escola Do Iº Ciclo 4 De Abril - Mbanza Congo</option>
-<option>Escola Do Iº Ciclo De Kaluka - Mbanza Congo</option>
-<option>Escola Do Iº Ciclo De Madimba - Mbanza Congo</option>
-<option>Escola Do Iº Ciclo De Nkalambata - Mbanza Congo</option>
-<option>Escola Do Iº Ciclo De Nkiende - Mbanza Congo</option>
-<option>Escola Do Iº Ciclo Do Luvu - Mbanza Congo</option>
-<option>Escola Do Iº Ciclo Dr.  A. A. Neto - Mbanza Congo</option>
-<option>Escola Do Iº Ciclo Mfumu - Mbanza Congo</option>
-<option>Escola Do Iº Ciclo Sagrado Coração - Mbanza Congo</option>
-<option>Escola Primária E Iº Ciclo Dom Afonso Nteka - Mbanza Congo</option>
-<option>Escola Primaria Nº 01 - Mbanza Congo</option>
-<option>Escola Primaria Nº 07 - Mbanza Congo</option>
-<option>Escola Primária Nº 103 - Mbanza Congo</option>
-<option>Escola Primária Nº 109 - Mbanza Congo</option>
-<option>Escola Primária Nº 115 - Mbanza Congo</option>
-<option>Escola Primária Nº 121 - Mbanza Congo</option>
-<option>Escola Primaria Nº 13 - Mbanza Congo</option>
-<option>Escola Primária Nº 131 - Mbanza Congo</option>
-<option>Escola Primária Nº 146 - Mbanza Congo</option>
-<option>Escola Primária Nº 151 - Mbanza Congo</option>
-<option>Escola Primária Nº 156 - Mbanza Congo</option>
-<option>Escola Primária Nº 161 - Mbanza Congo</option>
-<option>Escola Primária Nº 166 - Mbanza Congo</option>
-<option>Escola Primária Nº 171 - Mbanza Congo</option>
-<option>Escola Primária Nº 176 - Mbanza Congo</option>
-<option>Escola Primária Nº 180 - Mbanza Congo</option>
-<option>Escola Primária Nº 184 - Mbanza Congo</option>
-<option>Escola Primária Nº 188 - Mbanza Congo</option>
-<option>Escola Primaria Nº 19 - Mbanza Congo</option>
-<option>Escola Primaria Nº 191 - Mbanza Congo</option>
-<option>Escola Primaria Nº 194 - Mbanza Congo</option>
-<option>Escola Primaria Nº 197 - Mbanza Congo</option>
-<option>Escola Primaria Nº 203 - Mbanza Congo</option>
-<option>Escola Primaria Nº 206 - Mbanza Congo</option>
-<option>Escola Primaria Nº 209 - Mbanza Congo</option>
-<option>Escola Primaria Nº 212 - Mbanza Congo</option>
-<option>Escola Primaria Nº 218 - Mbanza Congo</option>
-<option>Escola Primaria Nº 224 - Mbanza Congo</option>
-<option>Escola Primaria Nº 230 - Mbanza Congo</option>
-<option>Escola Primaria Nº 233 - Mbanza Congo</option>
-<option>Escola Primaria Nº 239 - Mbanza Congo</option>
-<option>Escola Primaria Nº 245 - Mbanza Congo</option>
-<option>Escola Primaria Nº 25 - Mbanza Congo</option>
-<option>Escola Primaria Nº 251 - Mbanza Congo</option>
-<option>Escola Primaria Nº 252 - Mbanza Congo</option>
-<option>Escola Primaria Nº 254 - Mbanza Congo</option>
-<option>Escola Primaria Nº 256 - Mbanza Congo</option>
-<option>Escola Primaria Nº 259 - Mbanza Congo</option>
-<option>Escola Primaria Nº 263 - Mbanza Congo</option>
-<option>Escola Primaria Nº 269 - Mbanza Congo</option>
-<option>Escola Primaria Nº 270 - Mbanza Congo</option>
-<option>Escola Primaria Nº 271 - Mbanza Congo</option>
-<option>Escola Primaria Nº 289 - Mbanza Congo</option>
-<option>Escola Primaria Nº 290 - Mbanza Congo</option>
-<option>Escola Primaria Nº 297 - Mbanza Congo</option>
-<option>Escola Primaria Nº 31 - Mbanza Congo</option>
-<option>Escola Primaria Nº 37 - Mbanza Congo</option>
-<option>Escola Primaria Nº 43 - Mbanza Congo</option>
-<option>Escola Primaria Nº 49 - Mbanza Congo</option>
-<option>Escola Primaria Nº 61 - Mbanza Congo</option>
-<option>Escola Primaria Nº 67 - Mbanza Congo</option>
-<option>Escola Primaria Nº 73 - Mbanza Congo</option>
-<option>Escola Primaria Nº 85 - Mbanza Congo</option>
-<option>Escola Tecnica Provincial De Saude Do Zaire</option>
-<option>Instituto Médio Das Ciencias Religiosas - Mbanza Congo</option>
-    <option>    Instituto Médio De Administração E Gestão Do Zaire</option>
-        <option>Instituto Médio De Admnistração E Gestão - Mbanza Congo</option>
-<option>M.E.D. - Puniv - Zaire</option>
-<option>Med.- Delegacao Municipal De Mbanza Kongo</option>
-<option>Med-Delegacao Municipal Do Kuimba</option>
-<option> Med-Delegacao Provincial Do Zaire</option>
-<option>Repartição Municipal Da Educação De Mbanza Congo</option>
-<option>Repartição Municipal De Educação De Mbanza Congo / Contratado</option>
-
+<option>[EQT] LICEU DE MBANZA KONGO</option>
+<option>[EQT] ESCOLA DE MAGISTÉRIO - ADPP - SOYO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 266 - MPINDA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 109 - SUMPI - MBANZA KONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 91 - 11 DE NOVEMBRO - MBANZA KONGO</option>
+<option>[EQT] COMPLEXO ESCOLAR 11 DE NOVEMBRO - MBANZA KONGO</option>
+<option>[EQT] MAGISTÉRIO - ICRA - MBANZA CONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 49 - NKONDO - MBANZA KONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 37 - MBANZA MAZINA - MBANZA KONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 202 - MARIA DA PAIXÃO - MBANZA KONGO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 271 - MBANZA KONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 73 - NGOMA - MBANZA KONGO</option>
+<option>[EQT] DIRECAÇÃO MUNICIPAL DE EDUCAÇÃO DE MBANZA KONGO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 151 - NKIENDE - MBANZA KONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 67 - KINZAU - MBANZA KONGO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 194 - KALUKA - MBANZA KONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 19 - 4 DE FEVEREIRO - MBANZA KONGO</option>
+<option>[EQT] COMPLEXO ESCOLAR SAGRADO CORAÇÃO DE JESUS - MBANZA KONGO</option>
+<option>[EQT] GABINETE PROVINCIAL DA EDUCAÇÃO DO ZAIRE</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 01 - MBANZA KONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 263 - SANTO ANTÓNIO  - MBANZA KONGO</option>
+<option>[EQT] COLÉGIO 4 DE ABRIL - MBANZA KONGO</option>
+<option>[EQT] INSTITUTO POLITÉCNICO DO TUKU - MBANZA KONGO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 31 - BELA VISTA - MBANZA KONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 245 - KIBENGA  - MBANZA KONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 156 - NKIENDE 2 - MBANZA KONGO</option>
+<option>[EQT] COLÉGIO DR. ANTÓNIO AGOSTINHO NETO - MBANZA KONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 43 - NKUNGA PAZA  - MBANZA KONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 07 - MARTINS KIDITU  - MBANZA KONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 289 - CÉLIA MENDES - MBANZA KONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 270 - MARTINS KIDITU  - MBANZA KONGO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 251 - NKALAMBATA - MBANZA KONGO</option>
+<option>[EQT] COLÉGIO 11 DE NOVEMBRO - MBANZA KONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 97 - IGREJA KIMBANGU - MBANZA KONGO</option>
+<option>[EQT] INSTITUTO POLITÉCNICO DE ADMINISTRAÇÃO E GESTÃO DE MBANZA KONGO</option>
+<option>[EQT] MAGISTÉRIO - DANIEL VEMBA - MBANZA KONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 121 - NKOKO - MBANZA KONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 297 - TUKU KIOWA  - MBANZA KONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 233 - BELA VISTA  - MBANZA KONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 184 - NZAU EVUA - MBANZA KONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 176 - MBELENGE  - MBANZA KONGO</option>
+<option>[EQT] COMPLEXO ESCOLAR DO ENSINO ESPECIAL - MBANZA KONGO</option>
+<option>[EQT] COLÉGIO MFUMU - MBANZA KONGO</option>
+<option>[EQT] INSTITUTO TÉCNICO DE SAÚDE - MBANZA KONGO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 212 - MADIMBA - MBANZA KONGO</option>
+<option>[EQT] ESCOLAR PRIMÁRIA N. 161 - SANGI  - MBANZA KONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 25 - TUKU - MBANZA KONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 13 - CERÂMICA - MBANZA KONGO</option>
+<option>[EQT] COMPLEXO ESCOLAR "DOM AFONSO NTEKA"- MBANZA KONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 259 - IEBA - MBANZA KONGO</option>

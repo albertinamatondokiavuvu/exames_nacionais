@@ -1,17 +1,18 @@
-<option>Cuito</option>
-Colégio N. 1803 Samba Cajú
-Complexo Escolar Missionário St. A. Kahenda N. 1805
-Complexo Escolar N. 1812 Pambos De Sonhe
-Complexo Escolar N. 1814 Samba Lucala
-Direcção Municipal De Educação De Samba Cajú
-Escola Primária E I Ciclo N. 1816 - Mussabo
-Escola Primária N. 1801
-Escola Primária N. 1802
-Escola Primária N. 1809 - Huiangombe
-
-
-
-
-
-
-
+<option>[EQT] ESCOLA PRIMÁRIA N. 1817 - CALAIALA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1811 - CANDUMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1801-SAMBA CAJÚ</option>
+<option>[EQT] LICEU N. 1804 - SAMBA CAJÚ</option>
+<option>[EQT] COLÉGIO N. 1803-SAMBA CAJÚ</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 1814-SAMBA LUCALA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1809 - HUIANGOMBE</option>
+<option>[EQT] COMPLEXO ESCOLAR MISSIONÁRIO N. 1805- ST. ANTÓNIO DE KAHENDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1810 - KILEMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA E I CICLO N. 1816 - MUSSABO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1802-SAMBA CAJÚ</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1815 - K. KASSENO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1813 - MULOCO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1808 - ZAMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1807 - NGOLOME</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1806 - CANANGA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 1812-PAMBOS DE SONHE</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DE EDUCAÇÃO DE SAMBA CAJÚ</option>

@@ -7,3 +7,4 @@
 <option>Capenda Camulemba</option>
 <option>Lóvua</option>
 <option>Lucapa</option>
+<option>Xá Muteba</option>

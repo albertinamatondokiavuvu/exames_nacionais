@@ -2,7 +2,7 @@
 <option>Bembe</option>
 <option>Buengas</option>
 <option>Bungo</option>
-<option>Cangola</option>
+<option>Alto Cauale</option>
 <option>Damba</option>
 <option>Dange-Quitexe</option>
 <option>Maquela do Zombo</option>

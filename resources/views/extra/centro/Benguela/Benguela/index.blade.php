@@ -1,135 +1,111 @@
-<option>Centro For. Electricidade Cdte Cassanje</option>
-<option>Centro Pre - Universitario De Benguela</option>
-<option>Colégio 10 De Fevereiro</option>
-<option>Colégio 22 De Novembro</option>
-<option>Colégio Cdte Augusto Chipenda</option>
-<option>Colégio Da Graça</option>
-<option>Colégio Do Kasseque I</option>
-<option>Colégio Dos Navegantes</option>
-<option>Colégio Paulo Teixeira Jorge</option>
-<option>Colégio Tecnico (Adpp)</option>
-<option>Colégio Tomás Ferreira</option>
-<option>Complexo Escolar 4 De Fevereiro</option>
-<option>Complexo Escolar Chipiandalo</option>
-<option>Complexo Escolar Kalossombekwa I</option>
-<option>Complexo Escolar Luís Gomes Sambo</option>
-<option>Complexo Escolar Nº 14</option>
-<option>Complexo Escolar Nº 382</option>
-<option>Complexo Escolar Nº 9</option>
-<option>Complexo Escolar Paróquia Santo Estevão</option>
-<option>Complexo Escolar Pinitênciária Benguela</option>
-<option>Complexo Escolar Possoca - Imua (Metodista)</option>
-<option>Complexo Escolar Da Caóta</option>
-<option>Complexo Escolar Da Casa Do Gaiato</option>
-<option>Complexo Escolar Da Damba Maria</option>
-<option>Complexo Escolar Da Naim</option>
-<option>Complexo Escolar De Nossa Srª Da Conceição</option>
-<option>Complexo Escolar De Nossa Srª Da Nazaré</option>
-<option>Complexo Escolar Do Kalomburaco</option>
-<option>Complexo Escolar Formigas Do Futuro</option>
-<option>Complexo Escolar Joaquim Kapango</option>
-<option>Complexo Escolar Missionária Da Graça</option>
-<option>Complexo Escolar Nº 109</option>
-<option>Complexo Escolar Nº 1237</option>
-<option>Complexo Escolar Nº 8</option>
-<option>Complexo Escolar Paróquia Santo António</option>
-<option>Complexo Escolar Sede De Sabedoria</option>
-<option>Coordenação Escolar Da Comuna Da Catumbela</option>
-<option>Coordenação Escolar Da Zona A</option>
-<option>Coordenação Escolar Da Zona C</option>
-<option>Coordenação Escolar Da Zona D</option>
-<option>Coordenação Escolar Da Zona E/F</option>
-<option>Curso Basico De Formacao Docente-Benguela</option>
-<option>Dir.Prov.Educ.Benguela-Conc.Pub./06-Ins.Mai07</option>
-<option>Dir.Prov.Educ.Benguela-Conc.Pub./07-Ins.Fev/0</option>
-<option>Direc.Reg.Comercio Centro-Lobito</option>
-<option>Direccao Escolar Comunal Do Biopio Lobito</option>
-<option>Escola De Formação De Professores Do Futuro Adpp/Benguela</option>
-<option>Escola De Formacao De Tecnicos De Saude De Benguela</option>
-<option>Escola Do I Nivel Da Caponte - Benguela</option>
-<option>Escola Do I Nivel Simion Mucune</option>
-<option>Escola Primária Do Cuio Bg Nº 3044 Dombe-Grande Baía-Farta</option>
-<option>Escola Primária Bgnº2090 Jandim Escola - Lobito</option>
-<option>Escola Primária Kalossombekwa Ii</option>
-<option>Escola Primária Rei Mandume -Bg Nº 4052- Cubal</option>
-<option>Escola Primária 1007</option>
-<option>Escola Primária 1013</option>
-<option>Escola Primária 11 De Novembro</option>
-<option>Escola Primária Alda Lara</option>
-<option>Escola Primária Bg 1003 Do Utomba</option>
-<option>Escola Primária Bg 1031 Amílcar Cabral</option>
-<option>Escola Primária Bg 1054 Calilongue</option>
-<option>Escola Primária Cassôco</option>
-<option>Escola Primária Caviva-Sul -Bg Nº 4156 - Cubal</option>
-<option>Escola Primária Da Baía Sto. António</option>
-<option>Escola Primária Da Bela Vista-Alta</option>
-<option>Escola Primária Da Buçaco-Bg 5063-Ganda</option>
-<option>Escola Primária Da Goa</option>
-<option>Escola Primária Da Kalomanga</option>
-<option>Escola Primária Da Kamaniñga Ii</option>
-<option>Escola Primária Da Kambangela</option>
-<option>Escola Primária Da Massangarala</option>
-<option>Escola Primária Da Mina</option>
-<option>Escola Primária Da Seta</option>
-<option>Escola Primária Da Taka</option>
-<option>Escola Primária Das Bimbas</option>
-<option>Escola Primária De 22 De Novembro-Bg 5043-Ganda</option>
-<option>Escola Primária De Chivole 1º-Bg 5038-Ganda</option>
-<option>Escola Primária De Dongoroca-Bg 5062-Ganda</option>
-<option>Escola Primária De Nº 244-Bg 5244-Ganda</option>
-<option>Escola Primária De Nº 37-Bg 5037-Ganda</option>
-<option>Escola Primária De Tchilembo-Bg 5047-Ganda</option>
-<option>Escola Primária Diolinda Rodrigues</option>
-<option>Escola Primária Do Asseque</option>
-<option>Escola Primária Do Bairro Esperança</option>
-<option>Escola Primária Do Calohombo</option>
-<option>Escola Primária Do Dokota</option>
-<option>Escola Primária Do Kalombutão</option>
-<option>Escola Primária Do Kasseque</option>
-<option>Escola Primária Do Kasseque Macau</option>
-<option>Escola Primária Do Kasseque Marítimo</option>
-<option>Escola Primária Do Kawango</option>
-<option>Escola Primária Do Setenta</option>
-<option>Escola Primária Do Setenta E Um</option>
-<option>Escola Primária Do Utomba</option>
-<option>Escola Primária E Iº Ciclo Bg Nº2006 Deolinda Rodrigues - Lobito</option>
-<option>Escola Primária Hoji Ya Henda</option>
-<option>Escola Primária Irmãs Franciscanas</option>
-<option>Escola Primária Major Saidy Mingas</option>
-<option>Escola Primária Nicolau G. Spenser</option>
-<option>Escola Primária Nº 1328</option>
-<option>Escola Primária Nº 30</option>
-<option>Escola Primária Nova Do Cotel</option>
-<option>Escola Primária Paróquia Santo Estevão</option>
-<option>Escola Primária Pecuária</option>
-<option>Escola Primária São Tiago</option>
-<option>Escola Primária Sendje Kambaya-Bg 5018-Ganda</option>
-<option>Instituto Medio Polítecnico De Benguela</option>
-<option>Instituto Técnico Cdte Kassanji</option>
-<option>Magisterio Primario De Benguela</option>
-<option>Magistério Primário Dom Bosco</option>
-<option>Med/Inspeccao Escolar Provincial - Benguela</option>
-<option>Med-Direc. Prov. De Educacao De Benguela</option>
-<option>Med-Escola Do Ensino Especial De Benguela</option>
-<option>Med-Escola Polivalente</option>
-<option>Med-Inst. Medio Industrial De Benguela</option>
-<option>Med-Inst. Medio Normal Educacao De Benguela</option>
-<option>Med-Secc. Mun. De Educacao De Balombo</option>
-<option>Med-Secc. Mun. De Educacao Do Chongoroi</option>
-<option>Mincult.-Museo Regional Etnografia Do Lobio</option>
-<option>Mincult-Museu Nacional Arqueologia Benguela</option>
-<option>Minsa.-Escola Tecnica.Saude Do Lobito</option>
-<option>Minte-Escola Nac.Form.Rodov.Coman.Njazi</option>
-<option>Repartição Municial Da Educ.C.E Tecologia Da Baía-Farta</option>
-<option>Repartição Municipal Da Educação Da Catumbela</option>
-<option>Repartição Municipal Da Educação De Caimbambo</option>
-<option>Repartição Municipal Da Educação Do Bocoio</option>
-<option>Repartição Municipal Da Educação Do Cubal</option>
-<option>Repartição Municipal Da Educação, Ciência E Tecnologia Da Ganda</option>
-<option>Repartição Municipal De Educação Ciência E Tecnologia</option>
-<option>Repartição Municipal Educação Lobito</option>
-<option>Secção Comunal Da Educação Da Canjala - Lobito</option>
-<option>Secção Comunal De Educ.C.E C.Tec. Do D-Grande-Baía-Farta</option>
-<option>Secção Comunal De Educação, Ciência E Tecnologia Da Babaera-Ganda</option>
-<option>Secção Comunal De Educação, Ciência E Tecnologia Da Ebanga-Ganda</option>
-<option>Secção Comunal De Educação, Ciência E Tecnologia Do Casseque-Ganda</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 1013 - CAMBANDA - BENGUELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 1027 - CALOHOMBO - BENGUELA</option>
+<option>[EQT] COLÉGIO BG 1084 - GRAÇA - BENGUELA</option>
+<option>[EQT] MAGISTÉRIO BG 1085 - PARÓQUIA DE SANTO ESTÊVÃO - BENGUELA</option>
+<option>[EQT] COLÉGIO BG 1000 - BAIRRO DO SETENTA - BENGUELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 1128 - PARÓQUIA SANTO ESTEVÃO - BENGUELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 1040 - 4 DE ABRIL - BENGUELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 1127 - BAIRRO HOJI-YA-HENDA - BENGUELA</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DE BENGUELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 1087 - BENGUELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 1111 BAIRRO ATLÂNTICO - BENGUELA</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 1025 - BAIRRO 11 DE NOVEMBRO - BENGUELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 1126 - BAIRRO DO EKWIKWI II - BENGUELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 1327 - DEOLINDA RODRIGUES - BENGUELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 1046 - 17 DE SETEMBRO - BENGUELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 1110 - DR. A. AGOSTINHO NETO - BENGUELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 1049 - BAIRRO VIVA PAZ - BENGUELA</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 1024 - PARÓQUIA SANTO ESTEVÃO - BENGUELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 1050 - CASSÔCO - BENGUELA</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 1008 - BENGUELA </option>
+<option>[EQT] COMPLEXO ESCOLAR BG 1011 - JOAQUIM KAPANGO - BENGUELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 1001 - NICOLAU GOMES SPENCER - BENGUELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 1053 - SETA - BENGUELA</option>
+<option>[EQT] COLÉGIO BG 1037 - CDTE AUGUSTO CHIPENDA - BENGUELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 1082 - COTEL - BENGUELA</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 1348 - LUÍS GOMES SAMBO - BENGUELA</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 1052 - NOSSA SRª DA CONCEIÇÃO - BENGUELA</option>
+<option>[EQT] COLÉGIO BG 1080  - VALE DE BÊNÇÃO - BENGUELA</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 1044 - POSSOCA - IMUA - BENGUELA</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 1114 - FORMIGAS DO FUTURO - BENGUELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 1006 - KALOSSOMBÉKWA II - BENGUELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 1116 - BAIRRO DO KALOMBUTÃO - BENGUELA</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 1066 - TCHIPIANDALO - BENGUELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 1069 - KAMBANGELA - BENGUELA</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 1076 - PENITÊNCIÁRIA - BENGUELA</option>
+<option>[EQT] COLÉGIO BG 1115 - 10 DE FEVEREIRO - BENGUELA</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 1009 - QUIOCHE - BENGUELA</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 1032 - CAÓTA - BENGUELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 1033 - BAÍA DO STO. ANTÓNIO - BENGUELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 1007 - LIXEIRA - BENGUELA</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 1079 - CASA DO GAIATO - BENGUELA</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 1239 - NOSSA SRA. DA GRAÇA - BENGUELA</option>
+<option>[EQT] MAGISTÉRIO BG 1022 - LÚCIA LARA - BENGUELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 1018 - CANDUMBO - BENGUELA</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 1077 - HERMANN GMNEIR - SOS - BENGUELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 1163 - MAJOR SAIDY V. MINGAS - BENGUELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 1028 - KASSEQUE MARÍTIMO - BENGUEL</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 1036 - KASSEQUE MACAU - BENGUELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 1067 - TAKA - BENGUELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 1122 - BAIRRO DO SETENTA - BENGUELA</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 1237 - BENGUELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 1252 - ALDA LARA - BENGUELA</option>
+<option>[EQT] MAGISTÉRIO BG 1045 - DOM BOSCO - BENGUELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 1055 - KALOMANGA - BENGUELA</option>
+<option>[EQT] INSTITUTO TÉC. BG 1162 - Nª SRA. MÃE SABEDORIA-ICRA BENGUELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 1039 - UCHI - BENGUELA</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 1108 - STA TEREZINHA M. JESUS - BENGUELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 1035 - BELA VISTA BAIXA - BENGUELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 1023 - 11 DE NOVEMBRO - BENGUELA</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 1005 - NOSSA SRª DA NAZARÉ - BENGUELA</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 1109 - BENFICA - BENGUELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 1117 - BAIRRO DA KAMANIÑGA II - BENGUELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 1078 - IRMÃS FRANCISCANAS - BENGUELA </option>
+<option>[EQT] COMPLEXO ESCOLAR BG 1014 - EX- COLÉGIO ANGOLANO - BENGUELA</option>
+<option>[EQT] COLÉGIO BG 1061 - 22 DE NOVEMBRO - BENGUELA</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 1065 - KALOMBURACO - BENGUELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 1068 - MINA - BENGUELA</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 1083 - SEDE DE SABEDORIA - BENGUELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 1072 - KAPILONGO - BENGUELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 1048 - TALAMAJAMBA - BENGUELA</option>
+<option>[EQT] MAGISTÉRIO BG 1075 - ADPP - BENGUELA</option>
+<option>[EQT] GABINETE PROVINCIAL DA EDUCAÇÃO DE BENGUELA</option>
+<option>[EQT] ESCOLA TÉCNICA BG 1086 - ADPP - BENGUELA</option>
+<option>[EQT] COLÉGIO BG 1056 -  CDTE. TOMÁS FERREIRA - BENGUELA</option>
+<option>[EQT] INSTITUTO POLITÉCNICO BG 1074 - GRAÇA - BENGUELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 1003 - UTOMBA - BENGUELA</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 1004 - KALOSSOMBEKWA I - BENGUELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 1123 - GOA - BENGUELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 1002 - HOJI-YA-HENDA - BENGUELA </option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 1070 - KAWANGO - BENGUELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 1063 - SÃO TIAGO - BENGUELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 1030 - BAIRRO DO KALOSSONGO - BENGUELA</option>
+<option>[EQT] COLÉGIO BG 1012 - PAULO TEIXEIRA JORGE - BENGUELA</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 1064 - DAMBA MARIA - BENGUELA</option>
+<option>[EQT] INSTITUTO POLITÉCNICO BG 1020 - INDUSTRIAL - BENGUELA</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 1038 - ENSINO ESPECIAL - BENGUELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 1073 - UKENDY - BENGUELA</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 1047 - LAURA VICUÑA - BENGUELA</option>
+<option>[EQT] INSTITUTO TÉCNICO BG 1125 - HOTELARIA E TURISMO - BENGUELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 1071 - BAIRRO DA GRAÇA - BENGUELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 1113 - BAIRRO DO DOKOTA - BENGUELA</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 1059 - PARÓQUIA SANTO ANTÓNIO - BENGUELA</option>
+<option>[EQT] COLÉGIO BG 1118 - KASSEQUE I - BENGUELA</option>
+<option>[EQT] LICEU BG 1062 - MASSANGARALA - BENGUELA</option>
+<option>[EQT] INSTITUTO TÉCNICO ADM. SERV BG 1015 CDTE KASSANJI - BENGUELA</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 1026 - 4 FEVEREIRO - BENGUELA</option>
+<option>[EQT] INSTITUTO TÉCNICO AGRÁRIO BG 1019 - JOAQUIM KAPANGO-BENGUELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 1043 - BAIRRO ESPERANÇA - BENGUELA</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 1120 - NAIM - BENGUELA </option>
+<option>[EQT] COLÉGIO BG 1041 - NAVEGANTES - BENGUELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 1029 - KASSEQUE - BENGUELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 1010 - BAIRRO SETENTA E UM - BENGUELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 1034 - BELA VISTA ALTA - BENGUELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 1328 - FRONTEIRA - BENGUELA</option>
+<option>[EQT] INSTITUTO TÉCNICO DE SAÚDE BG 1081 - BENGUELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 1112 - BAIRRO DAS BIMBAS - BENGUELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 1060 - BAIRRO DA MASSANGARALA - BENGUELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 1057 - PECUÁRIA - BENGUELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BG 1058 - ASSEQUE - BENGUELA</option>
+<option>[EQT] COMPLEXO ESCOLAR BG 1382 - BAIRRO DOS NAVEGANTES - BENGUELA</option>
+<option>[EQT] MAGISTÉRIO BG 1021 - CDTE. KWENHA - BENGUELA</option>

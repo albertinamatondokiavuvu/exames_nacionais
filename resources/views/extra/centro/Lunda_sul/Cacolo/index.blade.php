@@ -1,11 +1,23 @@
-<option>Escola Do Ensino Primario E Nucleo Do Primeiro Ciclo Do Alto</option>
-<option>Escola Primaria Do Chicundo - Cacolo</option>
-<option>Escola Primária N. 03 São José Freinadmetz </option>
-<option>Escola Primária N. 04 Emídio Da Silva </option>
-<option>Escola Primária N. 05 Minungo </option>
-<option>Escola Primária N. 07 Muacatende </option>
-<option>Escola Primária N. 12 28 De Agosto </option>
-<option>Escola Primária N. 17 4 De Fevereiro </option>
-<option>Escola Primária N. 39 4 De Abril </option>
-<option>Magistério N. 02 Amado Issanzo </option>
-<option>Repartição Municipal Da Educação Do Cacolo</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 22 REGEDORIA MUANBUMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 17 ALEXANDRE MASSECA</option>
+<option>[EQT] INSTITUTO MÉDIO PLITÉCNICO JOÃO LIAMUTOQUELA WAVUMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 20 ARMINDO FRANCISCO MUZEMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 29 MILAMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 09-4 DE JANEIRO</option>
+<option>[EQT] COLÉGIO N. 08 -23 DE JUNHO DE CACOLO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 06- 28 DE AGOSTO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 01 MINUNGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 05 -17 DE SETEMBRO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 32 TXIHUNGU</option>
+<option>[EQT] ESCOLA PRIMARIA N. 04 EMÍDIO DA SILVA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 01 MUACATENDE</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DO CACOLO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 11- 16 DE JUNHO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 35 MUATXINONGUE</option>
+<option>[EQT] ESCOALA PRIMÁRIA N. 08- 22 DE NOVEMBRO</option>
+<option>[EQT] MAGISTÉRIO N. 02 AMADO ISSANZO</option>
+<option>[EQT] ESCOLA PRIMARIA N. 03 SÃO JOSÉ FREINADEMETZ</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 16  HENRIQUE COSTA NGUENO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 41 JOSÉ EDUARDO DOS SANTOS</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 10- 4 DE ABRIL</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 07-4 DE FEVEREIRO</option>

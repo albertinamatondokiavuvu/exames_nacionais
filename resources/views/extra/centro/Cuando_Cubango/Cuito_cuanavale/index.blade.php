@@ -1,24 +1,15 @@
-<option>Cuito</option>
-Colégio N. 06ccc4 Do Cuito Cuanavale
-Escola Primária 1º De Maio - Cuito Cuanavale
-Escola Primária De Messequita - Cuito Cuanavale
-Escola Primária Do K. Kangombe - Cuito Cuanavale
-Escola Primária Do Luasingua - Cuito Cuanavale
-Escola Primária Do Mulendumuna - Cuito Cuanavale
-Escola Primária Do Mundandamo - Cuito Cuanavale
-Escola Primária Do Punho - Cuito Cuanavale
-Escola Primária Do Sovi - Cuito Cuanavale
-Escola Primária N. 01ccc4 - 4 De Fevereiro
-Escola Primária N. 03ccc4 Do Samaria
-Escola Primária N. 04ccc4 - 22 De Novembro
-Escola Primária N. 05ccc4 Do Livambi
-Escola Primária N. 07ccc4 - 4 De Abril
-Escola Primária N. 41ccc4 - 10 De Dezembro
-
-
-
-
-
-
-
-
+<option>[EQT] ESCOLA PRIMÁRIA N. 38 - CCC4 - 14 DE ABRIL DO BAIXO LONGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 35 CCC4 DO KAKEKE</option>
+<option>[EQT] MAGISTÉRIO N. 79 CCC4 - SALAS ANEXAS  DO CUITO CUANAVALE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 18 CCC4 - 17 DE SETEMBRO DO LONGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 09 - CCC4 DO SAMINKITI</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 02 - CCC4 - 1º DE MAIO</option>
+<option>[EQT] COLÉGIO N. 17 CCC4 MUENE MBANGU DO LONGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 33 CCC4 - 14 DE ABRIL DO MASSECA</option>
+<option>[EQT] COLEGIO N. 06 - CCC4 - DO CUITO CUANAVALE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 03 - CCC4 - 22 DE NOVEMBRO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 01 - CCC4 - 4 DE FEVEREIRO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 08 - CCC4 - COMANDANTE MUACO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 41 - CCC4 - 10 DE DEZEMBRO COMUNA DO LUPIRI</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 37 CCC4 - DO LUASSINGUA</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DO CUITO CUANAVALE</option>

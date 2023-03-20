@@ -1,18 +1,27 @@
-<option>Escola Ens. Prim.Nº2tdr.António António Agostinho Neto-Tômbu</option>
-<option>Escola Ensino Prim.Nº23t"22 Novembro/Mundo-Namibe</option>
-<option>Escola Primária N. 10t - Colégio Conego Zagalo - Tômbwa</option>
-<option>Escola Primária N. 11 - 8 De Janeiro - Tômbwa</option>
-<option>Escola Primária N. 12 - Pinda - Paiva - Tômbwa</option>
-<option>Escola Primária N. 14 - Cdte Kassanje - Tômbwa</option>
-<option>Escola Primária N. 15 - 8 De Setembro - Tômbwa</option>
-<option>Escola Primária N. 16 - 8 De Dezembro - Tômbwa</option>
-<option>Escola Primária N. 17 - 2 De Março - Tômbwa</option>
-<option>Escola Primária N. 18 - Buco – Zau - Tômbwa</option>
-<option>Escola Primária N. 20 - 2 De Abril - Tômbwa</option>
-<option>Escola Primária N. 3 - General Simione Mukune- Tômbwa</option>
-<option>Escola Primária N. 4 - Rei Mandume - Tômbwa</option>
-<option>Escola Primária N. 5 - Kuroca - Tômbwa</option>
-<option>Escola Primária N. 7 - João Firmino Tchinanga - Tômbwa</option>
-<option>Escola Primária N. 9 - 17 Junho - Tômbwa</option>
-<option>Inst. Med. Normal Da Educacao Do Tombwa</option>
-<option>Instituto Médio Normal De Educação Do Tômbwa / Contratado</option>
+<option>[EQT] COLÉGIO N. 26 JÚLIO ALBERTO HENRIQES - TOMBWA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 25 CAPALA - TOMBWA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 24 MAMEDES - TOMBWA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 9 - 17 JUNHO - TÔMBWA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 18 - BUCO – ZAU - TÔMBWA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1 - NZINGA MBANDI - TÔMBWA</option>
+<option>[EQT] COLÉGIO N. 19 - 23 DE ABRIL - TÔMBWA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 16 - 8 DE DEZEMBRO - TÔMBWA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 4 - REI MANDUME - TÔMBWA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 15 - 8 DE SETEMBRO - TÔMBWA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 23 - ROCHA MAGALHÃES - TÔMBWA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 10 - COLÉGIO CONEGO ZAGALO - TÔMBWA</option>
+<option>[EQT] LICEU N. 6 - DR. ANTÓNIO AGOSTINHO NETO - TÔMBWA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 11 - 8 DE JANEIRO - TÔMBWA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 12 - PINDA - PAIVA - TÔMBWA</option>
+<option>[EQT] DIRECCÃO MUNICIPAL DA EDUCAÇÃO DO TÔMBWA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 2 - DR. ANTÓNIO AGOSTINHO NETO - TÔMBWA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 3 - GENERAL SIMIONE MUKUNE- TÔMBWA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 7 - JOÃO FIRMINO TCHINANGA - TÔMBWA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 5 - KUROCA - TÔMBWA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 22 - 22 DE NOVEMBRO - TÔMBWA</option>
+<option>[EQT] INSTITUTO POLITÉCNICO N.21 - JOSÉ FRANCISCO REPUBLICANO - TÔMBWA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 14 - COMANDANTE KASSANJE - TÔMBWA</option>
+<option>[EQT] COLÉGIO N. 13 - 28 DE AGOSTO - TÔMBWA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 17 - 2 DE MARÇO - TÔMBWA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 20 - 2 DE ABRIL - TÔMBWA</option>
+<option>[EQT] CÓLEGIO N. 8 - FIDEL CASTRO - TÔMBWA</option>
