@@ -1,12 +1,13 @@
-<option>[EQT] ESCOLA PRIMÁRIA N. 198 LÉUA </option>
-<option>[EQT] ESCOLA PRIMÁRIA N. 126 - LÉUA</option>
-<option>[EQT] ESCOLA PRIMÁRIA Nº 39 PASSAGEM DE NÍVEL</option>
-<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DO LÉUA</option>
-<option>[EQT] ESCOLA PRIMÁRIA N. 333 DIOCESANA LÉUA</option>
-<option>[EQT] ESCOLA PRIMÁRIA N. 131 NHALINGOMBE</option>
-<option>[EQT] COLÉGIO N. 216 LIANGONGO</option>
-<option>[EQT] ESCOLA PRIMÁRIA N.130 MUAXIAVA</option>
-<option>[EQT] ESCOLA PRIMÁRIA N. 128 LUCULO</option>
-<option>[EQT] COLÉGIO N. 214 LÉUA</option>
-<option>[EQT] ESCOLA PRIMÁRIA N. 217 - CALUMBALA</option>
-<option>[EQT] LICEU N. 215 SEDE FRANCISCO</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DE EDUCAÇÃO DE CAMEIA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 38 - SÃO JOÃO PAULO II</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 34 - CDTE BULA CASSAÍ GARE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 40 - 4  DE FEVEREIRO - MUFUPO</option>
+<option>[EQT] INSTITUTO POLITÉCNICO N. 207 - CAMEIA</option>
+<option>[EQT] COLÉGIO N. 208 CDTE  JOSÉ ANTUNES VOINA</option>
+<option>[EQT] COLÉGIO N. 206 CDTE PAULO KUMBI DIZABO CERTEZA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 209-GENERAL RAFAEL SAPILINHA SAMBALANGA</option>
+<option>[EQT] LICEU N. 32 CAMEIA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 591-14 DE ABRIL - CAMEIA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 33 -11 DE MAIO-CAMEIA</option>
+<option>[EQT] DIREÇÃO MUNICIPAL DE EDUCAÇÃO DE CAMEIA.</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 35 - CDTE VALÓDIA - CHIESSO</option>
