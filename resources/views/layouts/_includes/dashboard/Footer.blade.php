@@ -57,6 +57,7 @@
 <!-- Custom js for this page-->
 <script src="/template/js/dashboard.js"></script>
 <!-- End custom js for this page-->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.5/css/select2.css" rel="stylesheet"/>
                 <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.5/js/i18n/pt-BR.js"></script>
@@ -87,6 +88,14 @@
         width: 'resolve',
 
     });
+    $('select[name="provincia"]').on('change', function(){
+    var provincia = this.value;
+    $('select[name="municipio"] option').each(function(){
+        var $this = $(this);
+        if($this.data('provincia') == provincia) $this.show();
+        else $this.hide();
+    });
+});
 });
 </script>
 

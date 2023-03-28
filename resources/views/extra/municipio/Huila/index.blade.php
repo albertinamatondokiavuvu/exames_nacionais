@@ -1,16 +1,16 @@
-<option>Quilengues</option>
-<option>Lubango</option>
-<option>Humpata</option>
-<option>Chibia</option>
-<option>Quipungo</option>
-<option>Caluquembe</option>
-<option>Caconda</option>
-<option>Chicomba</option>
-<option>Matala</option>
-<option>Jamba</option>
-<option>Chipindo</option>
-<option>Cuvango</option>
-<option>Cacula</option>
-<option>Gambos</option>
+<option data-provincia="Huíla">Quilengues</option>
+<option data-provincia="Huíla">Lubango</option>
+<option data-provincia="Huíla">Humpata</option>
+<option data-provincia="Huíla">Chibia</option>
+<option data-provincia="Huíla">Quipungo</option>
+<option data-provincia="Huíla">Caluquembe</option>
+<option data-provincia="Huíla">Caconda</option>
+<option data-provincia="Huíla">Chicomba</option>
+<option data-provincia="Huíla">Matala</option>
+<option data-provincia="Huíla">Jamba</option>
+<option data-provincia="Huíla">Chipindo</option>
+<option data-provincia="Huíla">Cuvango</option>
+<option data-provincia="Huíla">Cacula</option>
+<option data-provincia="Huíla">Gambos</option>
 
 

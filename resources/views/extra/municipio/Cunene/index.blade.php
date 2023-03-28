@@ -1,7 +1,7 @@
-<option>Cuanhama</option>
-<option>Ombadja</option>
-<option>Cuvelai</option>
-<option>Curoca</option>
-<option>Cahama</option>
-<option>Namacunde</option>
+<option data-provincia="Cunene">Cuanhama</option>
+<option data-provincia="Cunene">Ombadja</option>
+<option data-provincia="Cunene">Cuvelai</option>
+<option data-provincia="Cunene">Curoca</option>
+<option data-provincia="Cunene">Cahama</option>
+<option data-provincia="Cunene">Namacunde</option>
 

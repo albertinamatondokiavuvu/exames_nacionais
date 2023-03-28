@@ -7,6 +7,7 @@ use App\Http\Controllers\Admin\TurmaController;
 use App\Http\Controllers\Admin\AlunoController;
 use App\Http\Controllers\Report\ReportController;
 use App\Http\Controllers\Admin\CentroExameController;
+use App\Http\Controllers\Admin\MedReportController;
 
 /*
 |--------------------------------------------------------------------------
@@ -123,4 +124,12 @@ Route::middleware('auth')->group(function () {
  Route::post('/prova_update/{id}',[AlunoController::class,'prova_update'])->name('prova_update');
  Route::post('/resposta_update/{id}',[AlunoController::class,'resposta_update'])->name('resposta_update');
  Route::get('/V_aluno',[AlunoController::class,'V_aluno'])->name('V_aluno');
+
+
+ //med
+ Route::get('/viewsearch',[MedReportController::class,'viewsearch'])->name('viewsearch');
+Route::post('/takeProvince',[MedReportController::class,'takeProvince'])->name('takeProvince');
+ Route::get('/view_provincia/{provincia}/{municipio}',[MedReportController::class,'view_provincia'])->name('view_provincia');
+Route::get('/view_turmas_pr/{centroexame}',[MedReportController::class,'view_turmas_pr'])->name('view_turmas_pr');
+Route::get('/Aluno_pdf_sp_med/{id}',[MedReportController::class,'Aluno_pdf_sp_med'])->name('Aluno_pdf_sp_med');
 });

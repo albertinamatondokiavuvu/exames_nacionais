@@ -1,11 +1,11 @@
-<option>Belas</option>
-<option>Cacuaco</option>
-<option>Cazenga</option>
-<option>Estrutura Central</option>
-<option>Icolo e Bengo</option>
-<option>Kilamba Kiaxi</option>
-<option>Luanda</option>
-<option>Quiçama</option>
-<option>Rangel (old)</option>
-<option>Talatona</option>
-<option>Viana</option>
+<option data-provincia="Luanda">Belas</option>
+<option data-provincia="Luanda">Cacuaco</option>
+<option data-provincia="Luanda">Cazenga</option>
+<option data-provincia="Luanda">Estrutura Central</option>
+<option data-provincia="Luanda">Icolo e Bengo</option>
+<option data-provincia="Luanda">Kilamba Kiaxi</option>
+<option data-provincia="Luanda">Luanda</option>
+<option data-provincia="Luanda">Quiçama</option>
+<option data-provincia="Luanda">Rangel (old)</option>
+<option data-provincia="Luanda">Talatona</option>
+<option data-provincia="Luanda">Viana</option>
