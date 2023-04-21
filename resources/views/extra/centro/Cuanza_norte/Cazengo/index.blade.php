@@ -1,18 +1,39 @@
-<option>Cuito</option>
-<option>Andulo</option>
-<option>Nharêa</option>
-<option>Cuemba</option>
-<option>Cunhinga</option>
-<option>Catabola</option>
-<option>Camacupa</option>
-<option>Chinguar</option>
-<option>Chitembo</option>
-
-
-
-
-
-
-
-
-
+<option>[EQT] GABINETE PROVINCIAL DA EDUCAÇÃO DO CUANZA NORTE</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 26-CATARI - CANHOCA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 05-JOSÉ MARIA FERRAZ DOS SANTOS</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 12-VIETA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 02-BRIGADEIRO RECORDAÇÃO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 16-CATOME DE BAIXO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 15-EVARISTO DOMINGOS KIMBA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 39 MISSIONÁRIO DOM PEDRO LUÍS ESCARPA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 33-DOM BOSCO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 03-METODISTA UNIDA</option>
+<option>[EQT] COMPLEXO ESCOLAR N.19-PAULO TEIXEIRA JORGE</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 23-CANHOCA</option>
+<option>[EQT] COMPLEXO ESCOLAR MISSIONÁRIO N. 17-SAGRADA FAMÍLIA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 34-DEOLINDA RODRIGUES</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 13-KIPATA</option>
+<option>[EQT] LICEU N. 30-EIFFEL DE NDALATANDO</option>
+<option>[EQT] INSTITUTO TÉCNICO DE SAÚDE N. 31-ARMINDA FARIA</option>
+<option>[EQT] COLÉGIO N. 27-SAMORA MOISÉS MACHEL</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 08-FRANCISCO VIEIRA DIAS</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 14-POSSE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 04-RAINHA NZINGA MBANDE</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 01-SÃO MARCELINO CHAMPAGNAT</option>
+<option>[EQT] MAGISTÉRIO N. 29-COMANDANTE BENEDITO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 21-MANUEL PEDRO PACAVIRA</option>
+<option>[EQT] INSTITUTO TÉCNICO AGRÁRIO N. 32-BAIRRO CAMUAXI</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 23-KM13 - ZANGA</option>
+<option>[EQT] ESCOLA PRIMÁRIO N. 11-GENERAL LÚCIO DE AMARAL</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 22-CÔNEGO MANUEL DAS NEVES</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 10 SÃO JOÃO BAPTISTA </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 18-SAM NUJUMA</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DE CAZENGO</option>
+<option>[EQT] COLÉGIO N. 37-COMANDANTE NGUETO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 06-SANTA CATARINA DE SENA - CAZENGO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 25-ZAVULA-CANHOCA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 20-AUGUSTO NGANGULA</option>
+<option>[EQT] COMPLEXO ESCOLAR MISSIONÁRIO N. 09-SANTA MARIA GORETTI</option>
+<option>[EQT] LICEU N. 35 DR. ANTÓNIO AGOSTINHO NETO - SASSA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 24-KIRIMA HOLA - ZANGA</option>
+<option>[EQT] COMPLEXO ESCOLAR  Nº 07-HOJI -YA-HENDA</option>

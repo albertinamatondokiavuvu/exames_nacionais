@@ -1,18 +1,15 @@
-<option>Cuito</option>
-<option>Andulo</option>
-<option>Nharêa</option>
-<option>Cuemba</option>
-<option>Cunhinga</option>
-<option>Catabola</option>
-<option>Camacupa</option>
-<option>Chinguar</option>
-<option>Chitembo</option>
-
-
-
-
-
-
-
-
-
+<option>[EQT] ESCOLA PRIMÁRIA N. 1612 - COIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1607 PAMBAS</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1604 - DUNDO YA MUTULO II</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1608 - QUIANGOMBE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1601 - NGOLA NHI - NHI</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DE EDUCAÇÃO DE LUCALA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1606 - TERRA NOVA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1602 - IMBONDEIROS</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1605 - MAQUELA</option>
+<option>[EQT] LICEU N. 1611 - ABEL SARAIVA - LUCALA</option>
+<option>[EQT] COLÉGIO POLIVALENTE E PROFISSIONAL N. 1613 - - EPP LUCALA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1603 - DUNDO YA MUTULO I</option>
+<option>[EQT] COLÉGIO N. 1610 - CELESTINO F. M. MASSANGO</option>
+<option>[EQT] COMPLEXO ESCOLAR 1609 - SAGRADA FAMILIA DE NAZARÉ S. JOÃO PIAMARTA</option>
+<option>[EQT] ESCOLA DE MAGISTÉRIO DA ADPP N. 1614 - EPF LUACALA</option>

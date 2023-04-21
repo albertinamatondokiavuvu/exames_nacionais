@@ -1,18 +1,13 @@
-<option>Cuito</option>
-<option>Andulo</option>
-<option>Nharêa</option>
-<option>Cuemba</option>
-<option>Cunhinga</option>
-<option>Catabola</option>
-<option>Camacupa</option>
-<option>Chinguar</option>
-<option>Chitembo</option>
-
-
-
-
-
-
-
-
-
+<option>[EQT] DIRECÇÃO MUNICIPAL DE EDUCAÇÃO DE CAMEIA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 38 - SÃO JOÃO PAULO II</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 34 - CDTE BULA CASSAÍ GARE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 40 - 4  DE FEVEREIRO - MUFUPO</option>
+<option>[EQT] INSTITUTO POLITÉCNICO N. 207 - CAMEIA</option>
+<option>[EQT] COLÉGIO N. 208 CDTE  JOSÉ ANTUNES VOINA</option>
+<option>[EQT] COLÉGIO N. 206 CDTE PAULO KUMBI DIZABO CERTEZA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 209-GENERAL RAFAEL SAPILINHA SAMBALANGA</option>
+<option>[EQT] LICEU N. 32 CAMEIA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 591-14 DE ABRIL - CAMEIA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 33 -11 DE MAIO-CAMEIA</option>
+<option>[EQT] DIREÇÃO MUNICIPAL DE EDUCAÇÃO DE CAMEIA.</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 35 - CDTE VALÓDIA - CHIESSO</option>

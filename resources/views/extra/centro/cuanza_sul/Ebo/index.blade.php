@@ -1,18 +1,35 @@
-<option>Cuito</option>
-<option>Andulo</option>
-<option>Nharêa</option>
-<option>Cuemba</option>
-<option>Cunhinga</option>
-<option>Catabola</option>
-<option>Camacupa</option>
-<option>Chinguar</option>
-<option>Chitembo</option>
-
-
-
-
-
-
-
-
-
+<option>[EQT] ESCOLA PRIMÁRIA N. 101 - 17 DE SETEMBRO DO EBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA MEDUNDA - EBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA HALA - CHÔA - EBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA TUMBA - PIRE - EBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA DIQUITA - CONDÉ - EBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA BALAIA - EBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE LUANDA - EBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE KISSOBE - EBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO CATENDE - EBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA UTECA - EBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA KIZINGUE - EBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE TUNGA - EBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO BEM - VINDO CONDÉ EBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA BANZA CHÔA - EBO</option>
+<option>[EQT] COMPLEXO ESCOLAR DR. AMÉRICO BOA VIDA - EBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA KICUNDA - EBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE KASSANJE - EBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA HÂGE - EBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DIU - CASSANGE - EBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA KAMBULA - EBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO BIMBE - EBO</option>
+<option>[EQT] COMPLEXO ESCOLAR DO CONDÉ - EBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA KISSANGA - CONDÉ EBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE QUILEMBA - EBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA CAHANA - CHÔA - EBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO CHONGOLO - CONDÉ EBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 166 - CONDÉ EBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA SIMIONE - MUCUNE - EBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO QUITUNDO - EBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA QUIPETA - EBO</option>
+<option>[EQT] COMPLEXO ESCOLAR COMANDANTE ARGUELLES - EBO</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DE EDUCAÇÃO DO EBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA JAMBA EBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO HENGO - EBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE GUÊJE - CHÔA - EBO</option>

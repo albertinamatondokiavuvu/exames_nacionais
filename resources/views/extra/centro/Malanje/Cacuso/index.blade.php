@@ -1,18 +1,25 @@
-<option>Cuito</option>
-<option>Andulo</option>
-<option>Nharêa</option>
-<option>Cuemba</option>
-<option>Cunhinga</option>
-<option>Catabola</option>
-<option>Camacupa</option>
-<option>Chinguar</option>
-<option>Chitembo</option>
-
-
-
-
-
-
-
-
-
+<option>[EQT] ESCOLA PRIMÁRIA N. 79 - CACUSO</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº13 NZINGA MBANDE - CACUSO</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DE CACUSO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 8 - SANTO AGOSTINHO - CACUSO</option>
+<option>[EQT] LICEU Nº 6 - NGOLA KILUANJE</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº14 BANANEIRA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº10 CAMBUNZE - - CACUSO</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº7 BRITA - CACUSO</option>
+<option>[EQT] ESCOLA PRIMÁRIA, Nº 106 - MARIA FRANCISCA - LOMBE - MALANJE </option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº21 HOJE YA HENDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº12 MAXINDE - CACUSO</option>
+<option>[EQT] MAGISTÉRIO PRIMÁRIO ADPP</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº1-11 DE NOVEMBRO-ZANGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº9 CAPANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº20 SOQUECO</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº17 KIPACASSA - CACUSO</option>
+<option>[EQT] COLÉGIO Nº 2-22 DE NOVEMBRO</option>
+<option>[EQT] COLÉGIO Nº 24 LUCRÉCIA PAIM</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº15-17 DE SETEMBRO</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº5 GICA - CACUSO</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº4 KINGLÊS</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº3 QUIZENGA - CACUSO</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº16 KAFUNDANGA</option>
+<option>[EQT] COMPLEXO ESCOLAR Nº25 MARIA FRANCISCA DA CURTINA - CACUSO</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº22 PUNGO ANDONGO - CACUSO</option>

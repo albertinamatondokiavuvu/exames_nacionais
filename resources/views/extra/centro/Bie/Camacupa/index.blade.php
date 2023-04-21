@@ -1,18 +1,83 @@
-<option>Cuito</option>
-<option>Andulo</option>
-<option>Nharêa</option>
-<option>Cuemba</option>
-<option>Cunhinga</option>
-<option>Catabola</option>
-<option>Camacupa</option>
-<option>Chinguar</option>
-<option>Chitembo</option>
-
-
-
-
-
-
-
-
-
+<option>[EQT] ESCOLA PRIMÁRIA DE CANHONGO</option>
+<option>[EQT] COMPLEXO ESCOLAR DE CANANA / CAMACUPA. MUNHA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CASSOMBO</option>
+<option>[EQT] COMPLEXO ESCOLAR Nº 347 CAMACUPA</option>
+<option>[EQT] INSTITUTO POLITÉCNICO DE CAMACUPA - BIÉ</option>
+<option>[EQT] ESCOLA PRIMÁRIA I.E.C.A - SEDE</option>
+<option>[EQT] COMPELXO ESCOLAR CDTE LÚCIO LARA - RINGOMA</option>
+<option>[EQT] LICEU FERNANDO NHUNDO - MUINHA - CAMACUPA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE SATUMBUENGUE</option>
+<option>[EQT] ESCOLA PRIMÁRIA MUINI - KAMISSAMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CALALAVELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE MUTOVO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE BAMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO Bº CHITÂNGUA N.º 270</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE AIFENA II</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CHIOCA</option>
+<option>[EQT] COMPLEXO ESCOLAR  Nº 52 </option>
+<option>[EQT] COMPLEXO ESCOLAR EKUIKUI II N. 228 DE CHINGUI - 5 DE DEZEMBRO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO CENTRO VIONGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 383 - MUINHA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA SANTA - ROSA MUINHA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE SAMATIMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE NGUAIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE NGOVEIA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE MONTANHA</option>
+<option>[EQT] ESCOLA PRIMÁRIA MISSIONÁRIA FÉ APOSTÓLICA</option>
+<option>[EQT] COMPLEXO ESCOLAR DOM. ARMANDO DOS S. AMARAL - CAMACUPA</option>
+<option>[EQT] MAGISTÉRIO CENTRO GEODÉSICO DE CAMACUPA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 298 COLOLILUNGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CAMBUNDI</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE JAMBA CAPUCO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CHIPIPA MUINHA</option>
+<option>[EQT] ESCOLA PRIMÁRIA 10 DE DEZEMBRO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CHINANI</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CAPAMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE RISSOSSE</option>
+<option>[EQT] ESCOLA PRIMÁRIA MISSÃO JAMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE AIFENA I</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE LIAPELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CUEMBA 1</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CAMATO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CHISSIPO</option>
+<option>[EQT] ESCOLA PRIMÁRIA 14 DE ABRIL</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CHIMBUA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CHIMBEMBE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CAPEPULA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE SANTO BIANGUI</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE SANTA TERESA CAMACUPA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CAMBANGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CACOIA</option>
+<option>[EQT] COLÉGIO REI KATIAVALA - CAMACUPA</option>
+<option>[EQT] COMPLEXO ESCOLA DR. ANTÓIO AGOSTINHO NETO - UMPULO</option>
+<option>[EQT] ESCOLA PRIMÁRIA  Nº 264 JAIME ANTÓNIO B. CHIVANGO CAMACUPA</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DE CAMACUPA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE S. DOMINGOS</option>
+<option>[EQT] ESCOLA PRIMÁRIA CHICUNHO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE SAMUQUILA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO Bº CAMPO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DALA MUTUMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CHISSAMBA</option>
+<option>[EQT] COMPLEXO ESCOLAR DE CAMBOVO</option>
+<option>[EQT] COMPLEXO ESCOLAR  Nº 262 DO Bº SACHIMUMA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE BARRAGEM</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 228- CAMACUPA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 380 VILA NGAMBA</option>
+<option>[EQT] COLÉGIO DA MUINHA-CAMACUPA</option>
+<option>[EQT] COMPLEXO ESCOLAR DE KATENGA - RINGOMA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CATEIA</option>
+<option>[EQT] ESCOLA PRIMÁRIA CAMUENHO N. 261</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE RIHEMBE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO Bº CATALA</option>
+<option>[EQT] LICEU DO KWANZA - CAMACUPA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE MAMBUMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIADE PILOTO ALDEIA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE VICOLO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CHIPINHO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 275 - CAMACUPA KUANZA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE SAMBANGUNJI</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 30 DE CALUEIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CAIANGULA - UCOLONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO Bº JAMBA</option>
+<option>[EQT] LICEU DO KWANZA - CAMACUPA</option>
+<option>[EQT] ESCOLA PRIMÁRIA MANHATO</option>

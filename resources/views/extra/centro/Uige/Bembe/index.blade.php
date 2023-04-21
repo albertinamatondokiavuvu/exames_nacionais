@@ -1,18 +1,41 @@
-<option>Cuito</option>
-<option>Andulo</option>
-<option>Nharêa</option>
-<option>Cuemba</option>
-<option>Cunhinga</option>
-<option>Catabola</option>
-<option>Camacupa</option>
-<option>Chinguar</option>
-<option>Chitembo</option>
-
-
-
-
-
-
-
-
-
+<option>[EQT] ESCOLA PRIMÁRIA DO LUQUELO II</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO KIMPUNGUI</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 413 DO KIMARIA</option>
+<option>[EQT] COMPLEXO ESCOLAR DE KIMARIA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 325 DO MAKOKO/ NTELE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO MABAIA NDUMBE</option>
+<option>[EQT] ESCOLA PRIMÁRIA KINKONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1000 DO YANGUILA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 414 DO TOTO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 412 DO NSANGUI</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO LAMBU</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 885 DO GUOLE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO KILONDE</option>
+<option>[EQT] ESCOLA PRIMÁRIA  MINGUIENGUIE/VILA</option>
+<option>[EQT] COMPLEXO ESCOLAR DO MPAMBO NSINGA NZAMBI</option>
+<option>[EQT] COLÉGIO CDTE DANGEREUX</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 999 DO VAMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO MBUMBU</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 360 DO VALE DO LOGE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO KILOGE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO NSUMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO KIMAKUENDE/ MANGAU</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 411 DE LUCUNGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO NZADI</option>
+<option>[EQT] COMPLEXO ESCOLAR DE KINKUNGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 135 NZINGA MBANDI</option>
+<option>[EQT] COMPLEXO ESCOLAR DO MPAMBO A MATOMBE</option>
+<option>[EQT] LICEU DO BEMBE</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 410 DO WANDO NSUNDI</option>
+<option>[EQT] COMPLEXO ESCOLAR DO KINKANGA</option>
+<option>[EQT] COMPLEXO ESCOLAR DO KILUANGO</option>
+<option>[EQT] COMPLEXO ESCOLAR DE LUCUNGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO BONDE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO KINDUNDU</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO NLANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO SESSE KIZELE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO NKISI</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE MANGUVU</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO LUQUELO I</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO KULU</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DO BEMBE</option>

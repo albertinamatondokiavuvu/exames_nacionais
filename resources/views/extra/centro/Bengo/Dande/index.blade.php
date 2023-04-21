@@ -1,7 +1,79 @@
-<option>Dande</option>
-<option>Ambriz</option>
-<option>Pango Aluquém</option>
-<option>Dembos</option>
-<option>Nambuangongo</option>
-<option>Bula Atumba</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 331 - KISSOMEIRA</option>
+<option>[EQT] COLÉGIO N. 333 - MENE WIZA</option>
+<option>[EQT] COLÉGIO  N. 345 - ÚCUA - SEDE</option>
+<option>[EQT] INSTITUTO TÉCNICO DE SAÚDE DO BENGO N. 399</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 367 - CHANGAI - PANGUILA</option>
+<option>[EQT] COLÉGIO N. 378 CIDADELA DAS CRIANÇAS</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 361 - PICA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 359 - CABUNGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 329 - MABUBAS SEDE</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 322 - TERREIRO - BARRA DO DANDE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 321 - MBEMBUA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 305 - KIMARIA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 302 - KIJOÃO MENDES</option>
+<option>[EQT] MAGISTÉRIO N.398 - ADPP - BENGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 341 - MAZANDO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 304 - KALA KIZUA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 312 - FRANCISCO XAVIER "KIMBI"</option>
+<option>[EQT] ESCOLA PRIMÁRIA N.354 - TOMBA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 372 - PROGRESSO</option>
+<option>[EQT] COLÉGIO N. 306 DEMBO SALA MUBEMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 324 - LUDI II</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 364 - CACUSSOS</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 365 - CALENGUELA</option>
+<option>[EQT] COLÉGIO N. 357 - LUDY II</option>
+<option>[EQT] ESCOLA COMPARTICIPADA DAN - N.002 - JOSSWANA</option>
+<option>[EQT] LICEU Nº 382 DO PANGUILA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 353 - BARRA DO DANDE - SEDE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 380 - MUSSEQUE CAPARI</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 352 - IBÊNDUA</option>
+<option>[EQT] COLÉGIO N. 344 - KIPETELO II - KICABO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 314 - SASSA CÁRIA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 308- KIRINDO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 393 - KOLOKYÉ - VIDA E SACRIFÍCIO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 315 - 11 DE NOVEMBRO - AÇUCAREIRA</option>
+<option>[EQT] LICEU EIFFEL  N. 397 - DANDE</option>
+<option>[EQT] LICEU N. 394 - "JOÃO DE CARVALHO NGUMBE"</option>
+<option>[EQT] MAGISTÉRIO KIMAMUENHO DO BENGO N. 381</option>
+<option>[EQT] INSTITUTO POLITÉCNICO DO DANDE N. 396</option>
+<option>[EQT] COLÉGIO N. 350 - DR. ANTÓNIO AGOSTINHO NETO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 370 - QUICABO - SEDE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 339 LIFUNE - ANA PASSO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 303 - KITONGOLA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 377-ENSINO ESPECIAL</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 351 - AGOSTINHO MENDES DE CARVALHO</option>
+<option>[EQT] COMPLEXO ESCOLAR N.368 - CAWANGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 362 - MUSSEQUE CAPUNGA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 323 - CERÂMICA - LIBONGOS</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 319 - DEFESA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 384 - BRASILEIROS - PANGUILA</option>
+<option>[EQT] COMPLEXO  ESCOLAR N. 318 - MUSSEQUE CABELE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 349 - CACAMBA</option>
+<option>[EQT] COMPLEXO ESCOLAR  N. 307 MISSIONÁRIA DE SANTA ANA</option>
+<option>[EQT] COLÉGIO N. 375 - EUGÉNIO ALVES DE CAMPOS</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 340 - KICABO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 301 - MANUEL LOPES MARIA "XIMUTO"</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 340 - MUZONDO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 346 - AMIGA DA CRIANÇA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 343 - KIPETELO I</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 334 - SANTA AMBOLEIA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 332 - LEMBECA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 313 - KISSOMA</option>
+<option>[EQT] ESCOLA COMPARTICIPADA DAN - N. 003 - ANA MÁRIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 360- BOA ESPERANÇA II</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 311- PRADO DE SOUSA PAIM</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 356 - VALE DO PARAÍSO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 328 - SUNGUI</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 320 - LUDI I</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 330 - SASSA POVOAÇÃO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 310 - CAWANGO - A</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 355 - PARANHO</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DO DANDE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N.317- MIFUMA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 325 - TERRA NOVA </option>
+<option>[EQT] INSTITUTO POLITÉC. DE ADMINISTRAÇÃO E GESTÃO N.395</option>
+<option>[EQT] LICEU N. 379 - 4 DE FEVEREIRO</option>
+<option>[EQT] COLÉGIO Nº 348 - QUICABO- SEDE  </option>
+<option>[EQT] ESCOLA PRIMÁRIA. Nº 335- JUNGO</option>
+<option>[EQT] GABINETE PROVINCIAL DA EDUCAÇÃO DO BENGO</option>
 

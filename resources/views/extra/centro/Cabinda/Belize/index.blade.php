@@ -1,18 +1,22 @@
-<option>Cuito</option>
-<option>Andulo</option>
-<option>Nharêa</option>
-<option>Cuemba</option>
-<option>Cunhinga</option>
-<option>Catabola</option>
-<option>Camacupa</option>
-<option>Chinguar</option>
-<option>Chitembo</option>
-
-
-
-
-
-
-
-
-
+<option>[EQT] ESCOLA PRIMÁRIÁ N.º 026 DE BOMBO PENE - BELIZE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N.º 143 DE PANGA DE BAIXO - BELIZE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE BULO - BELIZE</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DE BELIZE</option>
+<option>[EQT] MAGISTÉRIO DE BELIZE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE VIÊDE - BELIZE</option>
+<option>[EQT] COMPLEXO ESCOLAR DE ZALA DE BAIXO - BELIZE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N.º 5 DE BELIZE</option>
+<option>[EQT] COMPLEXO ESCOLAR DE CAIO GUEMBO - BELIZE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N.º 265 DE CONDE - KAVUNGA - BELIZE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N.º 029 DE PÂNGALA - BELIZE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N.º 281 - ALEIXO MACAIA - BELIZE</option>
+<option>[EQT] COMPLEXO ESCOLAR DE BELIZE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N.º 134 DE MONGO CONDE - BELIZE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE BITINA - BELIZE</option>
+<option>[EQT] COMPLEXO ESCOLAR DE MATANGUI - BELIZE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE ZALA DE CIMA - BELIZE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N.º 270 DE MALOANGO - ZAU - BELIZE</option>
+<option>[EQT] ESCOLA PRIMÁRIÁ N.º 129 DE MATEMBO - BELIZE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N.º 141 DE NSACA - BELIZE</option>
+<option>[EQT] COMPLEXO ESCOLAR DE GANDA - CANGO - BELIZE</option>
+<option>[EQT] COMPLEXO ESCOLAR DE KICUMBA CONGO - BELIZE</option>

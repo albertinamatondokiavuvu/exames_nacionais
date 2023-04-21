@@ -1,18 +1,61 @@
-<option>Cuito</option>
-<option>Andulo</option>
-<option>Nharêa</option>
-<option>Cuemba</option>
-<option>Cunhinga</option>
-<option>Catabola</option>
-<option>Camacupa</option>
-<option>Chinguar</option>
-<option>Chitembo</option>
-
-
-
-
-
-
-
-
-
+<option>[EQT] ESCOLA PRIMÁRIA DA QUIBAÚLA - SUMBE</option>
+<option>[EQT] ESCOLA PRIMÁRIA COMPARTICIPADA FERVAPA - SUMBE</option>
+<option>[EQT] COLÉGIO QUIBAULA - SUMBE</option>
+<option>[EQT] ESCOLA PRIMÁRIA JOSÉ EDUARDO DOS SANTOS - ATUCO SUMBE</option>
+<option>[EQT] ESCOLA PRIMÁRIA 28 DE AGOSTO BUMBA - SUMBE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 324 - SUMBE</option>
+<option>[EQT] ESCOLA PRIMÁRIA PE LUIS GONZAGA DE LA TORRE Y BAYEZA - SUMBE</option>
+<option>[EQT] ESCOLA PRIMÁRIA HAVEMOS DE VOLTAR - SUMBE</option>
+<option>[EQT] COMPLEXO ESCOLAR SOBA MULEMBA - SUMBE</option>
+<option>[EQT] COLÉGIO RAINHA DA PAZ - SUMBE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 165 - SUMBE</option>
+<option>[EQT] LICEU DO SUMBE</option>
+<option>[EQT] MAGISTÉRIO DO SUMBE</option>
+<option>[EQT] COMPLEXO ESCOLAR FELIBERTO ARTEAGA - SUMBE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA PANDA - SUMBE</option>
+<option>[EQT] ESCOLA PRIMÁRIA 22 DE NOVEMBRO - SUMBE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO GUNGO SEDE - SUMBE</option>
+<option>[EQT] ESCOLA PRIMÁRIA 17 DE SETEMBRO - SUMBE</option>
+<option>[EQT] ESCOLA PRIMÁRIA CAMBINDA - SUMBE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 373 - SUMBE</option>
+<option>[EQT] COMPLEXO ESCOLAR 14 DE ABRIL - SUMBE</option>
+<option>[EQT] ESCOLA PRIMÁRIA 1º DE DEZEMBRO - SUMBE</option>
+<option>[EQT] COMPLEXO ESCOLAR DA TERRA PROMETIDA - SUMBE</option>
+<option>[EQT] ESCOLA PRIMÁRIA MISSÃO DONGA - SUMBE</option>
+<option>[EQT] COMPLEXO ESCOLAR DA BALELA - SUMBE</option>
+<option>[EQT] COMPLEXO ESCOLAR 28 DE AGOSTO PINDO - SUMBE</option>
+<option>[EQT] COMPLEXO ESCOLAR 14 DE ABRIL</option>
+<option>[EQT] ESCOLA PRIMÁRIA CHITONDE - SUMBE</option>
+<option>[EQT] ESCOLA PRIMÁRIA BOA NOVA - SUMBE</option>
+<option>[EQT] ESCOLA PRIMÁRIA HERÓIS DO 25 DE MARÇO - SUMBE</option>
+<option>[EQT] ESCOLA PRIMÁRIA 11 DE NOVEMBRO CASSONGA - SUMBE</option>
+<option>[EQT] COMPLEXO ESCOLAR DA POMBA NOVA - SUMBE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA CASA BRANCA - SUMBE</option>
+<option>[EQT] ESCOLA PRIMÁRIA JOSÉ MARTY SUMBE</option>
+<option>[EQT] COMPLEXO ESCOLAR DO KUACRA - SUMBE</option>
+<option>[EQT] COLÉGIO COMANDANTE KASSANJE - SUMBE</option>
+<option>[EQT] ESCOLA PRIMÁRIA SAGRADA ESPERANÇA - SUMBE</option>
+<option>[EQT] ESCOLA PRIMÁRIA JAMBA CALUNGA - SUMBE</option>
+<option>[EQT] ESCOLA PRIMÁRIA EVAL GUERRA - SUMBE</option>
+<option>[EQT] ESCOLA PRIMÁRIA 2 DE FEVEREIRO - AMBANDE SUMBE</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DE EDUCAÇÃO DO SUMBE</option>
+<option>[EQT] GABINETE DA EDUCAÇÃO DO CUANZA SUL </option>
+<option>[EQT] INSTITUTO POLITÉCNICO DO SUMBE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA PRAIA - SUMBE</option>
+<option>[EQT] ESCOLA PRIMÁRIA FRANCISCO FINGE - SUMBE</option>
+<option>[EQT] INSTITUTO NACIONAL DE PETRÓLEOS</option>
+<option>[EQT] LICEU DA QUIBAULA - SUMBE</option>
+<option>[EQT] COLÉGIO 4 DE ABRIL - SUMBE</option>
+<option>[EQT] INSTITUTO TÉCNICO DE SAÚDE DO SUMBE</option>
+<option>[EQT] ESCOLA PRIMÁRIA CRISTO REI - SUMBE</option>
+<option>[EQT] ESCOLA PRIMÁRIA SANTA CRUZ - SUMBE</option>
+<option>[EQT] ESCOLA PRIMÁRIA AMERICO BOA VIDA - SUMBE</option>
+<option>[EQT] COLÉGIO 2 DE MARÇO - SUMBE</option>
+<option>[EQT] COMPLEXO ESCOLAR SOBA KAPUNGO - SUMBE</option>
+<option>[EQT] COMPLEXO ESCOLAR 15 DE SETEMBRO - SUMBE</option>
+<option>[EQT] ESCOLA PRIMÁRIA NOVA GERAÇÃO - SUMBE</option>
+<option>[EQT] ESCOLA PRIMÁRIA MARIA IMACULADA - SUMBE</option>
+<option>[EQT] COMPLEXO ESCOLAR DO É - 15 - SUMBE</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 411 - SUMBE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO NHENGO - SUMBE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO CATÓ - SUMBE</option>

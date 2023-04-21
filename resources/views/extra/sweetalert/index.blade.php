@@ -22,18 +22,24 @@
         })
     </script>
 @endif
-
-
+echo ('');
+@if (session('status_full'))
+    <script>
+        swal('Ups!!', 'quantidade excidida, tente adicionar numa outra turma', 'info', {
+            button: 'ok'
+        })
+    </script>
+@endif
 @if (session('status_add'))
     <script>
-        swal('Bom trabalho!!', 'Usuário adicionado com sucesso', 'success', {
+        swal('Bom trabalho!!', 'Dados adicionado com sucesso', 'success', {
             button: 'ok'
         })
     </script>
 @endif
 @if (session('status_update'))
     <script>
-        swal('Bom trabalho!!', 'Usuário actualizado com sucesso', 'success', {
+        swal('Bom trabalho!!', 'Dados actualizado com sucesso', 'success', {
             button: 'ok'
         })
     </script>

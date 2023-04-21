@@ -1,17 +1,17 @@
-<option>Ambuíla</option>
-<option>Bembe</option>
-<option>Buengas</option>
-<option>Bungo</option>
-<option>Cangola</option>
-<option>Damba</option>
-<option>Dange-Quitexe</option>
-<option>Maquela do Zombo</option>
-<option>Milunga</option>
-<option>Mucaba</option>
-<option>Negage</option>
-<option>Puri</option>
-<option>Quimbele</option>
-<option>Sanza Pombo</option>
-<option>Songo</option>
-<option>Uíge</option>
+<option data-provincia="Uíge">Ambuíla</option>
+<option data-provincia="Uíge">Bembe</option>
+<option data-provincia="Uíge">Buengas</option>
+<option data-provincia="Uíge">Bungo</option>
+<option data-provincia="Uíge">Alto Cauale</option>
+<option data-provincia="Uíge">Damba</option>
+<option data-provincia="Uíge">Dange-Quitexe</option>
+<option data-provincia="Uíge">Maquela do Zombo</option>
+<option data-provincia="Uíge">Milunga</option>
+<option data-provincia="Uíge">Mucaba</option>
+<option data-provincia="Uíge">Negage</option>
+<option data-provincia="Uíge">Puri</option>
+<option data-provincia="Uíge">Quimbele</option>
+<option data-provincia="Uíge">Sanza Pombo</option>
+<option data-provincia="Uíge">Songo</option>
+<option data-provincia="Uíge">Uíge</option>
 

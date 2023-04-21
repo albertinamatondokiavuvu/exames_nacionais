@@ -1,10 +1,11 @@
 <?php
 
 namespace App\Http\Controllers\Report;
-
+use App\Models\Aluno;
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use App\Models\User;
+use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Auth;
 
 class ReportController extends Controller
@@ -20,7 +21,7 @@ class ReportController extends Controller
         $mpdf = new \Mpdf\Mpdf([
             'mode' => 'utf-8', 'margin_top' => 17,
             'margin_left' => 10,
-            'margin_right' => 10, 'margin_bottom' => 0, 'format' => [297, 210]
+            'margin_right' => 10, 'margin_bottom' => 0, 'format' => [210,297]
         ]);
         $mpdf->SetFont("arial");
         $mpdf->setHeader();
@@ -39,7 +40,7 @@ class ReportController extends Controller
         $mpdf = new \Mpdf\Mpdf([
             'mode' => 'utf-8', 'margin_top' => 17,
             'margin_left' => 10,
-            'margin_right' => 10, 'margin_bottom' => 0, 'format' => [297, 210]
+            'margin_right' => 10, 'margin_bottom' => 0, 'format' => [210,297]
         ]);
         $mpdf->SetFont("arial");
         $mpdf->setHeader();
@@ -50,7 +51,9 @@ class ReportController extends Controller
     }
     public function DC_PDF()
     {
-        $users= User::Where([['tipo_user','=','DC']])->orderByRaw("provincia ASC,municipio ASC ,instituicao ASC,name ASC")->get();
+        $users= User::Where([['tipo_user','=','DC']])
+        ->orderByRaw("provincia ASC,municipio ASC, instituicao ASC,name ASC")
+        ->get();
 
         $data['users']=$users;
         $data["bootstrap"] = file_get_contents("src/users/bootstrap.min.css");
@@ -58,7 +61,7 @@ class ReportController extends Controller
         $mpdf = new \Mpdf\Mpdf([
             'mode' => 'utf-8', 'margin_top' => 17,
             'margin_left' => 10,
-            'margin_right' => 10, 'margin_bottom' => 0, 'format' => [297, 210]
+            'margin_right' => 10, 'margin_bottom' => 0, 'format' => [210,297]
         ]);
         $mpdf->SetFont("arial");
         $mpdf->setHeader();
@@ -80,7 +83,7 @@ class ReportController extends Controller
         $mpdf = new \Mpdf\Mpdf([
             'mode' => 'utf-8', 'margin_top' => 17,
             'margin_left' => 10,
-            'margin_right' => 10, 'margin_bottom' => 0, 'format' => [297, 210]
+            'margin_right' => 10, 'margin_bottom' => 0, 'format' => [210,297]
         ]);
         $mpdf->SetFont("arial");
         $mpdf->setHeader();
@@ -99,7 +102,7 @@ class ReportController extends Controller
         $mpdf = new \Mpdf\Mpdf([
             'mode' => 'utf-8', 'margin_top' => 17,
             'margin_left' => 10,
-            'margin_right' => 10, 'margin_bottom' => 0, 'format' => [297, 210]
+            'margin_right' => 10, 'margin_bottom' => 0, 'format' => [210,297]
         ]);
         $mpdf->SetFont("arial");
         $mpdf->setHeader();
@@ -120,7 +123,7 @@ class ReportController extends Controller
         $mpdf = new \Mpdf\Mpdf([
             'mode' => 'utf-8', 'margin_top' => 17,
             'margin_left' => 10,
-            'margin_right' => 10, 'margin_bottom' => 0, 'format' => [297, 210]
+            'margin_right' => 10, 'margin_bottom' => 0, 'format' => [210,297]
         ]);
         $mpdf->SetFont("arial");
         $mpdf->setHeader();
@@ -131,9 +134,95 @@ class ReportController extends Controller
     }
 
     //DC
+public function sp_dc_report()
+{
+    $users= User::Where([['tipo_user','=','SP'],['municipio','=',Auth::user()->municipio],['instituicao','=',Auth::user()->instituicao]])->orderByRaw("provincia ASC,municipio ASC ,instituicao ASC,name ASC")->get();
 
+    $data['users']=$users;
+    $data["bootstrap"] = file_get_contents("src/users/bootstrap.min.css");
+    $data["css"] = file_get_contents("src/users/style.css");
+    $mpdf = new \Mpdf\Mpdf([
+        'mode' => 'utf-8', 'margin_top' => 17,
+        'margin_left' => 10,
+        'margin_right' => 10, 'margin_bottom' => 0, 'format' => [210,297]
+    ]);
+    $mpdf->SetFont("arial");
+    $mpdf->setHeader();
+    $mpdf->AddPage('L');
+    $html = view("pdfs/report/dcsp", $data);
+    $mpdf->writeHTML($html);
+    $mpdf->Output("Secretarios.pdf", "I");
+}
+public function v_dc_report()
+{
+    $users= User::Where([['tipo_user','=','V'],['municipio','=',Auth::user()->municipio],['instituicao','=',Auth::user()->instituicao]])->orderByRaw("provincia ASC,municipio ASC ,instituicao ASC,name ASC")->get();
+
+    $data['users']=$users;
+    $data["bootstrap"] = file_get_contents("src/users/bootstrap.min.css");
+    $data["css"] = file_get_contents("src/users/style.css");
+    $mpdf = new \Mpdf\Mpdf([
+        'mode' => 'utf-8', 'margin_top' => 17,
+        'margin_left' => 10,
+        'margin_right' => 10, 'margin_bottom' => 0, 'format' => [210,297]
+    ]);
+    $mpdf->SetFont("arial");
+    $mpdf->setHeader();
+    $mpdf->AddPage('L');
+    $html = view("pdfs/report/dcv", $data);
+    $mpdf->writeHTML($html);
+    $mpdf->Output("Vigilantes.pdf", "I");
+}
     //SP
+    public function Aluno_pdf_sp(Aluno $alunoP,$turma)
+    {
+        $data['turma'] = $turma;
+        $data['alunos']=$alunoP-> AlunosDcForSearch($turma);
+        $data["bootstrap"] = file_get_contents("src/users/bootstrap.min.css");
+        $data["css"] = file_get_contents("src/users/style.css");
+        $mpdf = new \Mpdf\Mpdf([
+            'mode' => 'utf-8', 'margin_top' => 17,
+            'margin_left' => 10,
+            'margin_right' => 10, 'margin_bottom' => 0, 'format' => [210,297]
+        ]);
+        $mpdf->SetFont("arial");
+        $mpdf->setHeader();
+        $mpdf->AddPage('L');
+        $html = view("pdfs/report/aluno_pdf_sp", $data);
+        $mpdf->writeHTML($html);
+        $mpdf->Output("Alunos.pdf", "I");
+    }
+    public function Aluno_pdf_sp_def()
+    {
+        $alunos = DB::table('alunos')
+        ->join('turmas','turmas.id','alunos.turma_id')
+        ->join('classes','classes.id','turmas.classe_id')
+        ->where([['centroexame','=',Auth::user()->instituicao],['deficiencia','!=','Nenhum']])
+        ->get();
+
+        $data['alunos']=$alunos;
+        $data["bootstrap"] = file_get_contents("src/users/bootstrap.min.css");
+        $data["css"] = file_get_contents("src/users/style.css");
+        $mpdf = new \Mpdf\Mpdf([
+            'mode' => 'utf-8', 'margin_top' => 17,
+            'margin_left' => 10,
+            'margin_right' => 10, 'margin_bottom' => 0, 'format' => [210,297]
+        ]);
+        $mpdf->SetFont("arial");
+        $mpdf->setHeader();
+        $mpdf->AddPage('L');
+        $html = view("pdfs/report/aluno_pdf_sp_def", $data);
+        $mpdf->writeHTML($html);
+        $mpdf->Output("Alunos_def.pdf", "I");
+    }
 
 
     //V
+
+
+
+
+
+
+
+
 }

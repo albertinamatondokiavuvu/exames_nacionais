@@ -1,18 +1,11 @@
-<option>Cuito</option>
-<option>Andulo</option>
-<option>Nharêa</option>
-<option>Cuemba</option>
-<option>Cunhinga</option>
-<option>Catabola</option>
-<option>Camacupa</option>
-<option>Chinguar</option>
-<option>Chitembo</option>
-
-
-
-
-
-
-
-
-
+<option>[EQT] INSTITUTO POLITECNICO N.09 - PAULINO HUMBIHUMBI - VIREI</option>
+<option>[EQT] ESCOLA PRIMARIA N. 11 - BENEDITO KULIAQUITA - VIREI</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 06 - JOSÉ KAHUVA - VIREI</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 01 - 17 DE SETEMBRO - VIREI</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 05 - AGOSTINHO A. M. CARVALHO - VIREI</option>
+<option>[EQT] LICEU N. 03 INÁCIO MASSECA-VIREI</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 07 - KWEYATCHI TCHINDONGO - VIREI</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DO VIREI</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 02 - DEOLINDA RODRIGUES - VIREI</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 08 - 11 DE NOVEMBRO - VIREI</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 04 - MUNDA - VIREI</option>

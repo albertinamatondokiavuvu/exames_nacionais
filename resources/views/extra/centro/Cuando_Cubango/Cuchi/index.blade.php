@@ -1,15 +1,21 @@
-<option>Cuito</option>
-<option>Andulo</option>
-<option>Nharêa</option>
-<option>Cuemba</option>
-<option>Cunhinga</option>
-<option>Catabola</option>
-<option>Camacupa</option>
-<option>Chinguar</option>
-<option>Chitembo</option>
-
-
-
+<option>[EQT] COMPLEXO ESCOLAR N. 20 CCC3 - 4 DE ABRIL</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 10 CCC3 - 17 DE SETEMBRO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 14 CCC3 - RAINHA CACUHU</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 20 CCC3 - 4 DE ABRIL</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 02 CCC3 - HOJI-YA-HENDA</option>
+<option>[EQT] MAGISTÉRIO PRIMÁRIO N. 21 CCC3 - TERESA INTUMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 12 CCC3 - DO 2º CUCHI</option>
+<option>[EQT] COLÉGIO N. 24 CCC3 - DO CUTATO</option>
+<option>[EQT] ESCOLA PRIMARIA N. 17 CCC3 - SIMIONE MUCUNE</option>
+<option>[EQT] ESCOLAR PRIMARIA N. 29 CCC3 - SÃO JOSÉ</option>
+<option>[EQT] LICEU N. 18 CCC3 - MUENE MUCUVA</option>
+<option>[EQT] ESCOLA PRIMARIA N. 16 CCC3 - 11 DE NOVEMBRO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 07 CCC3 - 1º DE MAIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 06 CCC3 - DO MALENGUE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 01 CCC3 - 4 DE FEVEREIRO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 13 CCC3 - 17 DE SETEMBRO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 19 CCC3 - NDUMBA-YA-KAMBANGU</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DO CUCHI</option>
 
 
 

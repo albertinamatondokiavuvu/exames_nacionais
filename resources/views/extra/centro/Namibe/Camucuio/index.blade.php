@@ -1,18 +1,16 @@
-<option>Cuito</option>
-<option>Andulo</option>
-<option>Nharêa</option>
-<option>Cuemba</option>
-<option>Cunhinga</option>
-<option>Catabola</option>
-<option>Camacupa</option>
-<option>Chinguar</option>
-<option>Chitembo</option>
-
-
-
-
-
-
-
-
-
+<option>[EQT] COLÉGIO N. 13 -  22 DE NOVEMBRO - CAMUCUIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 14 - PINTO TCHIHAKI MOSSAMBE - CAMUCUIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 15 - JULIO CANIVETE - CAMUCUIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 12 – EDUARDO JEMBESSA TCHIQUETE-CAMUCUIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 08 - JOAQUIM FRANCISCO TCHATILA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 5 - MANUEL CORREIA - CAMUCUIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 4 - ALFREDO MONTEIRO - CAMUCUIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 09 - RAMOS CASSECULO - CAMUCUIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1 - 11 DE OUTUBRO - CAMUCUIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 3 - SALOMÃO BEHIWA - CAMUCUIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 10 - HOJI-YA-HENDA - CAMUCUIO</option>
+<option>[EQT] LICEU N. 11 - ANTÓNIO JÚLIO PEQUENINO DOS SANTOS - CAMUCUIO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 2 - 4 DE ABRIL - CAMUCUIO</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DO CAMUCUIO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 7 - MUHONDJOLO - CAMUCUIO</option>
+<option>[EQT] COLÉGIO N. 6 - ANTÓNIO PEQUENINO TCHINDJILA</option>

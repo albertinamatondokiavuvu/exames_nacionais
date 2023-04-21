@@ -1,11 +1,11 @@
-<option>Cazengo</option>
-<option>Lucala</option>
-<option>Ambaca</option>
-<option>Golungo Alto</option>
-<option>Cambambe</option>
-<option>Quiculungo</option>
-<option>Bolongongo</option>
-<option>Banga</option>
-<option>Samba Cajú</option>
-<option>Gonguembo</option>
+<option data-provincia="Cuanza norte">Cazengo</option>
+<option data-provincia="Cuanza norte">Lucala</option>
+<option data-provincia="Cuanza norte">Ambaca</option>
+<option data-provincia="Cuanza norte">Golungo Alto</option>
+<option data-provincia="Cuanza norte">Cambambe</option>
+<option data-provincia="Cuanza norte">Quiculungo</option>
+<option data-provincia="Cuanza norte">Bolongongo</option>
+<option data-provincia="Cuanza norte">Banga</option>
+<option data-provincia="Cuanza norte">Samba Cajú</option>
+<option data-provincia="Cuanza norte">Gonguembo</option>
 

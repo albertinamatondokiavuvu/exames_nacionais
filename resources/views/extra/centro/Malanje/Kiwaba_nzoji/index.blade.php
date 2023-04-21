@@ -1,18 +1,11 @@
-<option>Cuito</option>
-<option>Andulo</option>
-<option>Nharêa</option>
-<option>Cuemba</option>
-<option>Cunhinga</option>
-<option>Catabola</option>
-<option>Camacupa</option>
-<option>Chinguar</option>
-<option>Chitembo</option>
-
-
-
-
-
-
-
-
-
+<option>[EQT] DIRECÇÃO MUNICIPAL DE EDUCAÇÃO DE KWABA NZOJI</option>
+<option>[EQT] COLÉGIO N. 8 - HOJI-YA-HENDA - KIWABA NZOJI</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº2 TUNDA DYA MOLA - KIWABA NZOJI</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº7 MUFUMA - KIWABA NZOJI</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº6 LUTAU - KIWABA NZOJI</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº3 QUISSUA - KIWABA NZOJI</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº5 QUIFUCUSSA - KIWABA NZOJI</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº4 CAMBO CAFUXI - KIWABA NZOJI</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº9 MANGANGE - KIWABA NZOJI</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº1 KILAMBA - KIWABA NZOJI</option>
+<option>[EQT] INSTITUTO TÉCNICO DE SAÚDE - KIWABA NZOJI</option>

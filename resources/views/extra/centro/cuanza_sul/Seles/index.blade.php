@@ -1,18 +1,30 @@
-<option>Cuito</option>
-<option>Andulo</option>
-<option>Nharêa</option>
-<option>Cuemba</option>
-<option>Cunhinga</option>
-<option>Catabola</option>
-<option>Camacupa</option>
-<option>Chinguar</option>
-<option>Chitembo</option>
-
-
-
-
-
-
-
-
-
+<option>[EQT] ESCOLA PRIMÁRIA DO HOMBO - SELES</option>
+<option>[EQT] ESCOLA PRIMÁRIA 1º DE MAIO AMBOIVA - SELES</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA CHIUPA - SELES</option>
+<option>[EQT] MAGISTÉRIO DO SELES</option>
+<option>[EQT] COMPLEXO ESCOLAR 04 DE ABRIL WAKE - SELES</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO CAPOLO - SELES</option>
+<option>[EQT] COMPLEXO ESCOLAR ALIWAIO DO GALO - SELES</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DO SELES</option>
+<option>[EQT] ESCOLA PRIMÁRIA REVERENDA JOYCE - SELES</option>
+<option>[EQT] COLÉGIO 11 DE NOVEMBRO SELES</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO QUIPITO - SELES</option>
+<option>[EQT] LICEU DO SELES</option>
+<option>[EQT] ESCOLA PRIMÁRIA 22 DE NOVEMBRO - SELES</option>
+<option>[EQT] COMPLEXO ESCOLAR 14 DE ABRIL - AMBOIVA SELES</option>
+<option>[EQT] COMPLEXO ESCOLAR 11 DE NOVEMBRO BOTERA - SELES</option>
+<option>[EQT] ESCOLA PRIMÁRIA 1 DE JUNHO CATANDA - SELES</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO MANGUE - SELES</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO CHIMBUENGUE - SELES</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA PANGA - SELES</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA OBRA - SELES</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO CACHEPER - SELES</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO CANJOMBE - SELES</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA CANGA - SELES</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO INCONCON - SELES</option>
+<option>[EQT] ESCOLA PRIMÁRIA JOSÉ ED. DOS SANTOS - SELES</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA CAIBA - IBA SELES</option>
+<option>[EQT] COLÉGIO DO SELES</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 75 - SELES</option>
+<option>[EQT] COMPLEXO ESCOLAR NOSSA SENHORA DE FÁTIMA - SELES</option>
+<option>[EQT] LICEU DE AMBOIVA - SELES</option>

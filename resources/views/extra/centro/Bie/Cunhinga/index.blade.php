@@ -1,18 +1,64 @@
-<option>Cuito</option>
-<option>Andulo</option>
-<option>Nharêa</option>
-<option>Cuemba</option>
-<option>Cunhinga</option>
-<option>Catabola</option>
-<option>Camacupa</option>
-<option>Chinguar</option>
-<option>Chitembo</option>
-
-
-
-
-
-
-
-
-
+<option>[EQT] ESCOLA PRIMÁRIA  DE ESPERANÇA-CUNHINGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE SÃO JOSÉ - CAPEIO-CUNHINGA</option>
+<option>[EQT] COMPLEXO ESCOLAR DO ENSINO DE ADULTOS</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE DONDEIRO-CUNHINGA</option>
+<option>[EQT] LICEU DO CUNHINGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE HUALONDO TORRE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CHIVELA</option>
+<option>[EQT] COMPLEXO ESCOLAR 17 DE SETEMBRO - CUNHINGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE SETUMBO-CUNHINGA</option>
+<option>[EQT] COMPLEXO ESCOLAR DE TUNDA CHIVAVA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 35 - CHIVANDA - CUNHINGA</option>
+<option>[EQT] COMPLEXO ESCOLAR DE CAPEIO - CUNHINGA</option>
+<option>[EQT] ESCOL PRIMÁRIA DE CHITUMALO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 223 - EPONGOLOCO-CUNHINGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE SALOMANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE NAMBULUCUTO</option>
+<option>[EQT] COMPLEXO ESCOLAR  DE BUMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE HUVI - MOLONGONGA - MULISSINDINDI</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE HOMBO - HOLE CAMUPA</option>
+<option>[EQT] COMPLEXO ESCOLAR DE CAPUNDA-CUNHINGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE SACASSOVA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE LONGULO</option>
+<option>[EQT] COMPLEXO ESCOLAR 4 DE ABRIL - BELO HORIZONTE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE ASSENJE</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DO CUNHINGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CATALAMBANGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE SEPALANGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE SATACAIA-BELO HORIZONTE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE SANDULO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE NGANGULA-CUNHINGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE SÃO JOSÉ - SEDE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE MUELO</option>
+<option>[EQT] COMPLEXO ESCOLAR DE ENSINO DE ADULTOS E  EJA  - CUNHINGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CHITOCOTA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CHICUNDO-CUNHINGA</option>
+<option>[EQT] COMPLEXO ESCOLAR DE NANJENGUE- CUNHINGA</option>
+<option>[EQT] COMPLEXO ESCOLAR N.º 34 DE KUQUEMA - CUNHINGA </option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 51 DR. ANTÓNIO AGOSTINHO NETO - CUNHINGA</option>
+<option>[EQT] MAGISTÉRIO DO CUNHINGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CHIPOSSA</option>
+<option>[EQT] COMPLEXO ESCOLAR DE HUALONDO MISSÃO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE VINDANGALA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE BOMBO-CUNHINGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CALONJOMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE LONUNDO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CHIWAIA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CATAMA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE MUNDOMBE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE SAMBUNDO</option>
+<option>[EQT] COMPLEXO ESCOLAR DE CAPESSA-CUNHINGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE LUTAMO</option>
+<option>[EQT] COMPLEXO ESCOLAR  DE LUSSASSE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE LONHOHÃ</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE ESSANJO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CHIVANGULULA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CHIMBOTO-CAMBUMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CHIMBASSI</option>
+<option>[EQT] COMPLEXO ESCOLAR 4 DE FEVEREIRO /PILOTO-CUNHINGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CAWAIA</option>
+<option>[EQT] COMPLEXO ESCOLAR DE CHISSALA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE SAPOTO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE SAMBALI</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 32 - MISSÃO CATÓLICA DE VOUGA</option>
+<option>[EQT] COLÉGIO N. 22 DE NOVEMBRO</option>

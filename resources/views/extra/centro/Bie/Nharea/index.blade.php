@@ -1,18 +1,83 @@
-<option>Cuito</option>
-<option>Andulo</option>
-<option>Nharêa</option>
-<option>Cuemba</option>
-<option>Cunhinga</option>
-<option>Catabola</option>
-<option>Camacupa</option>
-<option>Chinguar</option>
-<option>Chitembo</option>
-
-
-
-
-
-
-
-
-
+<option>[EQT] ESCOLA PRIMÁRIA CALIPAÑGUELA - NHARÊA</option>
+<option>[EQT] ESCOLA PRIMÁRIA VIOMBE CENTRO NHARÊA</option>
+<option>[EQT] COLÉGIO DO BAIRRO OPERÁRIO JOSÉ CHINGANDA - NHARÊA</option>
+<option>[EQT] MAGISTÉRIO 17 DE SETEMBRO - NHARÊA</option>
+<option>[EQT] ESCOLA PRIMÁRIA TARALA SEDE - NHARÊA</option>
+<option>[EQT] ESCOLA PRIMÁRIA CAMAVANGO - LÚBIA / NHARÊA</option>
+<option>[EQT] ESCOLA PRIMÁRIA M.I.E.I.A  / NHARÊA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE LONDONDO - GAMBA / NHARÊA</option>
+<option>[EQT] ESCOLA PRIMÁRIA CHINHUNDO  NHARÊA</option>
+<option>[EQT] ESCOLA PRIMÁRIA CAPEIO - NHARÊA</option>
+<option>[EQT] COMPLEXO ESCOLAR SIMIONE MUCUNE - CAIEIE / NHARÊA</option>
+<option>[EQT] ESCOLA PRIMÁRIA SAMALENGUE - CAIEIE / NHARÊA</option>
+<option>[EQT] ESCOLA PRIMÁRIA SAMBUNGO - NHARÊA</option>
+<option>[EQT] ESCOLA PRIMÁRIA SALUMINHICA - NHARÊA</option>
+<option>[EQT] COMPLEXO ESCOLAR MISSIONÁRIA I.E.C.A / NHARÊA</option>
+<option>[EQT] ESCOLA PRIMÁRIA MARIA TERESA  - NHARÊA</option>
+<option>[EQT] ESCOLA PRIMÁRIA CHILEMBA - GAMBA / NHARÊA</option>
+<option>[EQT] ESCOLA PRIMÁRIA ALANDA LIANJANGO - NHARÊA</option>
+<option>[EQT] ESCOLA PRIMÁRIA SANTARÉM - NHARÊA</option>
+<option>[EQT] ESCOLA PRIMÁRIA OMBALA CANHANHO - GAMBA/NHARÊA</option>
+<option>[EQT] ESCOLA PRIMÁRIA OMBALA SALAMBA /NHARÊA</option>
+<option>[EQT] ESCOLA PRIMÁRIA CALUVALALA - NHARÊA</option>
+<option>[EQT] COMPLEXO ESCOLAR DE CHIMBUIO - NHARÊA</option>
+<option>[EQT] COMPLEXO ESCOLAR MISSÃO CHITAU - CAIEIE / NHARÊA</option>
+<option>[EQT] ESCOLA PRIMÁRIA SAMACANO - DANDO / NHARÊA</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DE NHAREA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE ESPERANÇA DO POVO - LÚBIA/ NHARÊA</option>
+<option>[EQT] COMPLEXO ESCOLAR 11 DE NOVEMBRO SECTOR DE CATACALA / NHARÊA</option>
+<option>[EQT] ESCOLA PRIMÁRIA SANGUANGUA - NHARÊA</option>
+<option>[EQT] ESCOLA PRIMÁRIA CAMERA - NHARÊA</option>
+<option>[EQT] ESCOLA PRIMÁRIA UTIVA - CAIEIE / NHARÊA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 265 BAIRRO HOJI - YA - HENDA - NHARÊA</option>
+<option>[EQT] COMPLEXO ESCOLAR Nº 125 MISSÃO CATÓLICA - NHARÊA</option>
+<option>[EQT] LICEU SOBA MULINDA - LÚBIA/NHARÊA - BIÉ</option>
+<option>[EQT] ESCOLA PRIMÁRIA DENDA - NHARÊA</option>
+<option>[EQT] ESCOLA PRIMÁRIA CAPINA -NHARÊA</option>
+<option>[EQT] ESCOLA PRIMÁRIA SONGUE - LÚBIA/NHARÊA</option>
+<option>[EQT] ESCOLA PRIMÁRIA MUSSUMBA - DANDO /NHARÊA</option>
+<option>[EQT] COMPLEXO ESCOLAR  DE CANGOLONGOLO - NHARÊA</option>
+<option>[EQT] ESCOLA PRIMÁRIA CANDULUNGA NHARÊA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO BAIRRO OPERÁRIO - PILOTO / NHARÊA</option>
+<option>[EQT] LICEU 4 DE ABRIL - CAIEIE/NHARÊA - BIÉ</option>
+<option>[EQT] COLÉGIO MONTEIRO LUMBUNGULULO - LÚBIA/NHARÊA</option>
+<option>[EQT] ESCOLA PRIMÁRIA LOMBUALE - GAMBA / NHARÊA</option>
+<option>[EQT] ESCOLA PRIMARIA CHAUILA- NHARÊA</option>
+<option>[EQT] ESCOLA PRIMÁRIA CATUMA - NHARÊA</option>
+<option>[EQT] ESCOLA PRIMÁRIA SÚSSUA -CAIEIE/NHARÊA</option>
+<option>[EQT] ESCOLA PRIMARIA Bº SIMIONE MUCUNE - NHARÊA</option>
+<option>[EQT] ESCOLA PRIMÁRIA POMBA - LÚBIA/NHARÊA</option>
+<option>[EQT] ESCOLA PRIMÁRIA CUNDAMBUNDO - CAIEIE/ NHARÊA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BÂNDUA - NHARÊA</option>
+<option>[EQT] ESCOLA PRIMÁRIA CALIMA CAIEIE / NHARÊA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE 1º DE MAIO - LÚBIA / NHARÊA</option>
+<option>[EQT] COMPLEXO ESCOLAR DE LONJONJO - NHARÊA</option>
+<option>[EQT] ESCOLA PRIMÁRIA CHIMUCO - CAIEIE / NHARÊA</option>
+<option>[EQT] ESCOLA PRIMÁRIA MALANGA - DANDO / NHARÊA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 09 MOISÉS CHILINGA / NHARÊA</option>
+<option>[EQT] ESCOLA PRIMÁRIA IMBOCOL - NHARÊA</option>
+<option>[EQT] ESCOLA PRIMÁRIA ECOMA - NHARÊA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DANGEREUX - NHARÊA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE OMBALA TARALA - NHARÊA</option>
+<option>[EQT] ESCOLA PRIMÁRIA CAIOMBO - NHARÊA</option>
+<option>[EQT] ESCOLA PRIMÁRIA CACHOMBO - NHARÊA</option>
+<option>[EQT] COMPLEXO ESCOLAR ADRIANO CUNHA - GAMBA - NHARÊA</option>
+<option>[EQT] COMPLEXO ESCOLAR DO DANDO / NHARÊA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº  8 DE OMBALA JAMBA - NHARÊA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CHICULUNGO - GAMBA / NHARÊA</option>
+<option>[EQT] ESCOLA PRIMÁRIA CHÁPUA - NHARÊA</option>
+<option>[EQT] ESCOLA PRIMÁRIA CAVIMO - GAMBA - NHARÊA</option>
+<option>[EQT] ESCOLA PRIMÁRIA SALOMBINJA -GAMBA /NHARÊA</option>
+<option>[EQT] ESCOLA PRIMÁRIA MUSSOLOVELA - LÚBIA/NHARÊA</option>
+<option>[EQT] COLÉGIO SOBA SAMUHUNGA / NHARÊA</option>
+<option>[EQT] COMPLEXO ESCOLAR DE CAPANGO - GAMBA - NHARÊA</option>
+<option>[EQT] ESCOLA PRIMÁRIA JIMBA 2 - LÚBIA/NHARÊA</option>
+<option>[EQT] LICEU 4 DE FEVEREIRO DA GAMBA/NHARÊA - BIÉ</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE BAIXO LIASSAPA - CAIEIE / NHARÊA</option>
+<option>[EQT] ESCOLA PRIMÁRIA MISSIONÁRIA DO 7º DIA Bº JICA / NHARÊA</option>
+<option>[EQT] ESCOLA PRIMÁRIA CHINGANDO - NHARÊA</option>
+<option>[EQT] ESCOLA PRIMÁRIA CANHALI - NHARÊA</option>
+<option>[EQT] ESCOLA PRIMÁRIA CATONGA -  GAMBA / NHARÊA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BENTO CAHALA - NHARÊA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE LOPI - NHARÊA</option>
+<option>[EQT] LICEU 11 DE NOVEMBRO / NHARÊA</option>

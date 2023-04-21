@@ -7,6 +7,7 @@ use App\Http\Controllers\Admin\TurmaController;
 use App\Http\Controllers\Admin\AlunoController;
 use App\Http\Controllers\Report\ReportController;
 use App\Http\Controllers\Admin\CentroExameController;
+use App\Http\Controllers\Admin\MedReportController;
 
 /*
 |--------------------------------------------------------------------------
@@ -27,7 +28,7 @@ Route::middleware('auth')->group(function () {
  Route::get('/turma_edit/{id}',[TurmaController::class,'turma_edit'])->name('turma_edit');
  Route::post('/turma_update/{id}',[TurmaController::class,'turma_update'])->name('turma_update');
  Route::get('/turma_index',[TurmaController::class,'turma_index'])->name('turma_index');
- Route::get('/delete_turma/{id}', [UserController::class, 'delete_turma'])->name('delete_turma');
+ Route::get('/delete_turma/{id}', [TurmaController::class, 'delete_turma'])->name('delete_turma');
  //END OF TURMACONTROLLER
 
  //BEGIN OF CLASSECONTROLLER
@@ -41,11 +42,12 @@ Route::middleware('auth')->group(function () {
 
  //BEGIN OF ALUNOCONTROLLER
  Route::get('/aluno_add',[AlunoController::class,'aluno_add'])->name('aluno_add');
- 
+
  Route::post('/aluno_store',[AlunoController::class,'aluno_store'])->name('aluno_store');
- /*Route::get('/aluno_edit/{id}',[AlunoController::class,'aluno_edit'])->name('aluno_edit');
+ Route::get('/aluno_edit/{id}',[AlunoController::class,'aluno_edit'])->name('aluno_edit');
  Route::post('/aluno_update/{id}',[AlunoController::class,'aluno_update'])->name('aluno_update');
- Route::get('/aluno_index',[AlunoController::class,'aluno_index'])->name('aluno_index');*/
+ Route::get('/aluno_index',[AlunoController::class,'aluno_index'])->name('aluno_index');
+ Route::get('/delete_aluno/{id}', [AlunoController::class, 'delete_aluno'])->name('delete_aluno');
  //END OF ALUNOCONTROLLER
 
  //BEGIN OF centroExameEXAMECONTROLLER
@@ -92,6 +94,8 @@ Route::middleware('auth')->group(function () {
  Route::get('/DP_PDF',[ReportController::class,'DP_PDF'])->name('DP_PDF');
  Route::get('/DM_PDF',[ReportController::class,'DM_PDF'])->name('DM_PDF');
  Route::get('/DC_PDF',[ReportController::class,'DC_PDF'])->name('DC_PDF');
+ Route::get('/aluno_centroAdmin',[ReportController::class,'aluno_centroAdmin'])->name('aluno_centroAdmin');
+
 
  //relatorios directores provinciais
  Route::get('/DM_PDF_DP',[ReportController::class,'DM_PDF_DP'])->name('DM_PDF_DP');
@@ -101,9 +105,13 @@ Route::middleware('auth')->group(function () {
  Route::get('/DC_PDF_DM',[ReportController::class,'DC_PDF_DM'])->name('DC_PDF_DM');
 
  //relatorios directores de centroExames
-
+ Route::get('/sp_dc_report',[ReportController::class,'sp_dc_report'])->name('sp_dc_report');
+ Route::get('/v_dc_report',[ReportController::class,'v_dc_report'])->name('v_dc_report');
  //relatorios de supervisores
-
+ Route::get('/searchAluno', [AlunoController::class, 'searchAluno'])->name('searchAluno');
+ Route::post('/TakeAluno', [AlunoController::class, 'TakeAluno'])->name('TakeAluno');
+ Route::get('/Aluno_pdf_sp/{turma}',[ReportController::class,'Aluno_pdf_sp'])->name('Aluno_pdf_sp');
+ Route::get('/Aluno_pdf_sp_def',[ReportController::class,'Aluno_pdf_sp_def'])->name('Aluno_pdf_sp_def');
 
  //relatorios de vigilantes
 
@@ -112,4 +120,16 @@ Route::middleware('auth')->group(function () {
  //END RELATORIOS
 
 
+ //alunos na visao do vigilante
+ Route::post('/prova_update/{id}',[AlunoController::class,'prova_update'])->name('prova_update');
+ Route::post('/resposta_update/{id}',[AlunoController::class,'resposta_update'])->name('resposta_update');
+ Route::get('/V_aluno',[AlunoController::class,'V_aluno'])->name('V_aluno');
+
+
+ //med
+ Route::get('/viewsearch',[MedReportController::class,'viewsearch'])->name('viewsearch');
+Route::post('/takeProvince',[MedReportController::class,'takeProvince'])->name('takeProvince');
+ Route::get('/view_provincia/{provincia}/{municipio}',[MedReportController::class,'view_provincia'])->name('view_provincia');
+Route::get('/view_turmas_pr/{centroexame}',[MedReportController::class,'view_turmas_pr'])->name('view_turmas_pr');
+Route::get('/Aluno_pdf_sp_med/{id}',[MedReportController::class,'Aluno_pdf_sp_med'])->name('Aluno_pdf_sp_med');
 });

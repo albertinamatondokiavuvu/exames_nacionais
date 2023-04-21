@@ -1,18 +1,37 @@
-<option>Cuito</option>
-<option>Andulo</option>
-<option>Nharêa</option>
-<option>Cuemba</option>
-<option>Cunhinga</option>
-<option>Catabola</option>
-<option>Camacupa</option>
-<option>Chinguar</option>
-<option>Chitembo</option>
-
-
-
-
-
-
-
-
-
+<option>[EQT] ESCOLA PRIMÁRIA S N. - BAIRRO DEZASSEIS</option>
+<option>[EQT] ESCOLA PRIMARIA N. 218 DE MBUELA</option>
+<option>[EQT] ESCOLA PRIMARIA DE SOTIA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 269 DE KOKILO KILAMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N.. 259 - KICONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 241 DE MISSÃO NDEMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 222 DE LUZUANDA</option>
+<option>[EQT] ESCOLA PRIMARIA N. 887 DE NZUNGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 161 - MAFUANGUI</option>
+<option>[EQT] COMPLEXO ESCOLAR DO NAMPUTO DA DAMBA</option>
+<option>[EQT] ESCOLA PRIMARIA N. 625 DE MAKANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 257 DE CABÔCO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 255 DE TEMA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 244 DE KIMUANZA SACALA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 245 DE NKAMA NTAMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 219 DE NSOSSO </option>
+<option>[EQT] ESCOLA PRIMÁRIA DE MABUBU</option>
+<option>[EQT] LICEU DA DAMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 256 DE CAINDO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 86 </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 264 DE KITECA MALUNGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 251 DE BAKA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 266 - MBEMBE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 242 - NKANDUNGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 273 DE KOKILO KINGUARI</option>
+<option>[EQT] ESCOLA PRIMARIA N. 230 DE QUINGUIEKI - 14</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 621 DE LÊMBOA SEDE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE SALA BONGUI</option>
+<option>[EQT] COLÉGIO DA DAMBA</option>
+<option>[EQT] ESCOLA PRIMARIA N. 627 DE NKUSSO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 232 DE MBANZA ZANZA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 217 DE DOM AFONSO NTEKA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 261 DE KIMUSSENGA</option>
+<option>[EQT] ESCOLA PRIMARIA N. 243 DE MBANZA DAMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 224 DE MABIBE</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DA DAMBA</option>
+<option>[EQT] ESCOLA PRIMARIO Nº 627</option>

@@ -1,18 +1,29 @@
-<option>Cuito</option>
-<option>Andulo</option>
-<option>Nharêa</option>
-<option>Cuemba</option>
-<option>Cunhinga</option>
-<option>Catabola</option>
-<option>Camacupa</option>
-<option>Chinguar</option>
-<option>Chitembo</option>
-
-
-
-
-
-
-
-
-
+<option>[EQT] ESCOLA PRIMÁRIA DE ANGOLA NOVA</option>
+<option>[EQT] COLÉGIO DE WANDO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE QUIZOA VELHO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE QUIXONA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE QUINZALA NOVO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE LUSSENGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE WANDO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE IMBONDEIRO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE TUCO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE QUICAMBUNDA</option>
+<option>[EQT] COLÉGIO DE CAONDO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE QUINZALA VELHO</option>
+<option>[EQT] COLÉGIO DE MUSSENGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE QUINIAMBI</option>
+<option>[EQT] COLÉGIO DE MUCABA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE GITALA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE QUIMUZEMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE MUSSENGA</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DO MUCABA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CAONDO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE QUICATICATI II</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE LUTANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE QUIPEMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE QUITAMBA I</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE QUILUMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE QUINZALA CAPURI</option>
+<option>[EQT] LICEU DE MUCABA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N.1 DE MUCABA</option>
+<option>[EQT] ESCOLA PRIMARIA DE QUIDIANGA</option>

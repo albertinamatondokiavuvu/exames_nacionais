@@ -14,7 +14,7 @@
     </div>
 </div>
 <div class="mb-3">
-    <select name="provincia" value="{{ isset($users->provincia) ? $users->provincia : '' }}" class="form-control" id="">
+    <select name="provincia" value="{{ isset($users->provincia) ? $users->provincia : '' }}" class="form-control multiplo" id="">
 
         @isset($users)
         <option>{{ $users->provincia }}</option>

@@ -1,18 +1,31 @@
-<option>Cuito</option>
-<option>Andulo</option>
-<option>Nharêa</option>
-<option>Cuemba</option>
-<option>Cunhinga</option>
-<option>Catabola</option>
-<option>Camacupa</option>
-<option>Chinguar</option>
-<option>Chitembo</option>
-
-
-
-
-
-
-
-
-
+<option>[EQT] ESCOLA PRIMÁRIA DA KAZANGA - QUIBALA</option>
+<option>[EQT] COMPLEXO ESCOLAR DE CARIANGO - QUIBALA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE KIPUANZA - QUIBALA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CAXONA PANGA - QUIBALA</option>
+<option>[EQT] ESCOLA PRIMARIA CUMBI - CALEMBE QUIBALA</option>
+<option>[EQT] COMPLEXO ESCOLAR DE CATÓFE - QUIBALA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CABEZO - QUIBALA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA PAIOLA - QUIBALA</option>
+<option>[EQT] ESCOLA PRIMÁRIA AUGUSTO NGANGULA - QUIBALA</option>
+<option>[EQT] ESCOLA PRIMÁRIA 4 DE ABRIL - QUIBALA</option>
+<option>[EQT] COMPLEXO ESCOLAR DA QUIBALA</option>
+<option>[EQT] ESCOLA PRIMÁRIA SANTA CATARINA LABOURÉ - QUIBALA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO MUKITIXI SHELL - QUIBALA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BANZA KISSALA - QUIBALA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CAMBANGO - QUIBALA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CASSUBA - QUIBALA</option>
+<option>[EQT] COLEGIO PE. LINO ALVES GUIMARÃES - QUIBALA</option>
+<option>[EQT] ESCOLA PRIMÁRIA 17 DE SETEMBRO - LONHE QUIBALA</option>
+<option>[EQT] COMPLEXO ESCOLAR 1 DE JUNHO THUTO - QUIBALA</option>
+<option>[EQT] ESCOLA PRIMARIA DE NDALA CACHIBO - QUIBALA</option>
+<option>[EQT] COMPLEXO ESCOLAR KIFANGONDO - QUIBALA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CAMBUMBA LESTE - QUIBALA</option>
+<option>[EQT] ESCOLA TÉCNICA AGRARIA DE CATOFE - QUIBALA</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA QUIBALA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE SOMUÉ - UPAMBA QUIBALA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE MUNGANGO - QUIBALA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE KIZOU - QUIBALA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO QUIMONE - QUIBALA</option>
+<option>[EQT] MAGISTERIO DA QUIBALA - ADPP</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA TEMBUENDA - QUIBALA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CAIUMBA IMBRIGO - QUIBALA</option>

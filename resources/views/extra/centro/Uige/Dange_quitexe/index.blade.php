@@ -1,18 +1,43 @@
-<option>Cuito</option>
-<option>Andulo</option>
-<option>Nharêa</option>
-<option>Cuemba</option>
-<option>Cunhinga</option>
-<option>Catabola</option>
-<option>Camacupa</option>
-<option>Chinguar</option>
-<option>Chitembo</option>
-
-
-
-
-
-
-
-
-
+<option>[EQT] ESCOLA PRIMÁRIA DE KIANGALA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 022 DE QUIPOSSA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE KIPENENE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 14 DE CAHUNDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 12 DE DAMBI ANGOLA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CATENDA </option>
+<option>[EQT] ESCOLA PRIMARIA N. 131</option>
+<option>[EQT] LICEU DO DANGE QUITEXE</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DO DANGE - QUITEXE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 16 DE QUIMUFUQUE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 11 DE MUNGAJE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 028 DE KIFAFA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 040 DE VISTA ALEGRE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 6 DE QUIMASSABI</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 013 DE CATULO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE QUINGONGA II</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 35 DE CASSULA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE GAMA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 017 DE KITENDE </option>
+<option>[EQT] LICEU DE CAMBAMBA - QUITEXE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE MUFUQUE</option>
+<option>[EQT] COLÉGIO N. 038 DE CAMBAMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 07 DE BULUNGUNGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE TERRA NOVA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA MISSÃO CATOLICA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE AMBUILA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 39 DE QUITOQUE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 19 DE QUIANGANI</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 20 DE CAUANGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CACUACO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE QUITITA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 018 DE QUIMBUNDO</option>
+<option>[EQT] COLÉGIO N. 037 DE ALDEIA VIÇOSA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CAMBAMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 023 DE BENGUE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE QUIMBINDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 026 DE QUIMBANGULA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE KULUCUMBA</option>
+<option>[EQT] COLÉGIO DO QUITEXE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 021 DE COLÚA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CAMBEJE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE BUMBE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 761 DE ALDEIA QUITEXE</option>

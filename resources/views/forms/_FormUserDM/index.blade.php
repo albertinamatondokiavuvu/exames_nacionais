@@ -1,20 +1,20 @@
 <div class="mb-3">
-    <input type="text" name="name" value="{{ old('name') }}" value="{{ isset($users->name) ? $users->name : '' }}"
+    <input type="text" name="name" value="{{ isset($users->name) ? $users->name : '' }}"  value="{{ old('name') }}"
         class="form-control" id="setting-input-1" placeholder="Nome" required>
 </div>
 <div class="row g-3 mb-3">
     <div class="col-sm">
-        <input type="email" name="email" value="{{ old('email') }}"
-            value="{{ isset($users->email) ? $users->email : '' }}" class="form-control" id="setting-input-1"
+        <input type="email" name="email"
+            value="{{ isset($users->email) ? $users->email : '' }}"  value="{{ old('email') }}" class="form-control" id="setting-input-1"
             placeholder="Email" required>
     </div>
     <div class="col-sm">
-        <input type="number" name="telefone" class="form-control" id="setting-input-1"
+        <input type="number"  value="{{ isset($users->telefone) ? $users->telefone : '' }}" name="telefone" class="form-control" id="setting-input-1"
             placeholder="numero de telefone" required>
     </div>
 </div>
 <div class="mb-3">
-    <select name="municipio" class="form-control" id="">
+    <select name="municipio" class="form-control multiplo" id="">
         @isset($users)
         <option>{{ $users->municipio }}</option>
         @else

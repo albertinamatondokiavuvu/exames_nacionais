@@ -1,9 +1,10 @@
-<option>Cambulo</option>
-<option>Chitato</option>
-<option>Cuilo</option>
-<option>Caungula</option>
-<option>Cuango</option>
-<option>Lubalo</option>
-<option>Capenda Camulemba</option>
-<option>Lóvua</option>
-<option>Lucapa</option>
+<option data-provincia="Lunda norte">Cambulo</option>
+<option data-provincia="Lunda norte">Chitato</option>
+<option data-provincia="Lunda norte">Cuilo</option>
+<option data-provincia="Lunda norte">Caungula</option>
+<option data-provincia="Lunda norte">Cuango</option>
+<option data-provincia="Lunda norte">Lubalo</option>
+<option data-provincia="Lunda norte">Capenda Camulemba</option>
+<option data-provincia="Lunda norte">Lóvua</option>
+<option data-provincia="Lunda norte">Lucapa</option>
+<option data-provincia="Lunda norte">Xá Muteba</option>

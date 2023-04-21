@@ -7,13 +7,13 @@
         <h4 class="card-title">Turmas</h4>
 
         <div class="table-responsive">
-          <table id="table_id" class="table table-hover">
+          <table  class="table table-hover table_id">
             <thead class="">
                 <th>Nº</th>
                 <th class="text-center">Turma</th>
                 <th class="text-center">Quantidade</th>
                 <th class="text-center">Classe</th>
-                <th class="text-center">centro de exame</th>
+                <th class="text-center">Centro de exame</th>
                 <th>Acções</th>
                 </tr>
             </thead>
@@ -24,7 +24,7 @@
                     <td class="text-center">{{ $turmas->nome_turma }}</td>
                     <td class="text-center">{{ $turmas->quantidade }}</td>
                     <td class="text-center">{{ $turmas->nome_classe }}</td>
-                    <td class="text-center">{{ $turmas->centroExame }}</td>
+                    <td class="text-center">{{ $turmas->centroexame }}</td>
                     <td>
                         <div class="dropdown">
                             <button class="btn btn-light dropdown-toggle" type="button" id="dropdownMenuButton"

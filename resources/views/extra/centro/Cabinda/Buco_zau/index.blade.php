@@ -1,18 +1,29 @@
-<option>Cuito</option>
-<option>Andulo</option>
-<option>Nharêa</option>
-<option>Cuemba</option>
-<option>Cunhinga</option>
-<option>Catabola</option>
-<option>Camacupa</option>
-<option>Chinguar</option>
-<option>Chitembo</option>
-
-
-
-
-
-
-
-
-
+<option>[EQT] ESCOLA PRIMÁRIA DE LUFUINDE - BUCO - ZAU</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE LITES - BUCO - ZAU</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE PANGA - MONGO - BUCO - ZAU</option>
+<option>[EQT] COLÉGIO INHUCA - BUCO - ZAU</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE BATA - LEMBA - BUCO - ZAU</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE BUCO - CHIVAVA - BUCO - ZAU</option>
+<option>[EQT] INSTITUTO POLITÉCNICO DE BUCO - ZAU</option>
+<option>[EQT] COMPLEXO ESCOLAR DE BUCO - ZAU</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CHIMBENZA I - BUCO - ZAU</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CAIO - BUCO - ZAU</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE YEMA LINTENE - BUCO - ZAU</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CHIMPEMBA - BUCO - ZAU</option>
+<option>[EQT] ESCOLA PRIMÁRIA N.º 7 DE NECUTO - BUCO - ZAU</option>
+<option>[EQT] COMPLEXO ESCOLAR MISSINÁRIO NOSSA SRA. DAS GRAÇAS - BUCO - ZAU</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CRUZAMENTO VELHO - BUCO - ZAU</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE MONGO - MACONGO - BUCO - ZAU</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE ALZIRA DA FONSECA - BUCO - ZAU</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE LUVECHE - BUCO - ZAU</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CONDE GRANDE - BUCO - ZAU</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE QUISSAMANO - BUCO - ZAU</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE PUMBO CHIONZO - BUCO - ZAU</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE BATA MANGA - BUCO - ZAU</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE PENECÁCATA - BUCO - ZAU</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CRUZAMENTO NOVO - BUCO - ZAU</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DE EDUCAÇÃO DO BUCO ZAU</option>
+<option>[EQT] ESCOLA PRIMÁRIA N.º 04 - BUCO - ZAU</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE SEVA DA FAZENDA - BUCO - ZAU</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO SINDE - BUCO - ZAU</option>
+<option>[EQT] COMPLEXO ESCOLAR DE NECUTO - BUCO - ZAU</option>

@@ -1,18 +1,50 @@
-<option>Cuito</option>
-<option>Andulo</option>
-<option>Nharêa</option>
-<option>Cuemba</option>
-<option>Cunhinga</option>
-<option>Catabola</option>
-<option>Camacupa</option>
-<option>Chinguar</option>
-<option>Chitembo</option>
-
-
-
-
-
-
-
-
-
+<option>[EQT] LICEU DE MBANZA KONGO</option>
+<option>[EQT] ESCOLA DE MAGISTÉRIO - ADPP - SOYO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 266 - MPINDA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 109 - SUMPI - MBANZA KONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 91 - 11 DE NOVEMBRO - MBANZA KONGO</option>
+<option>[EQT] COMPLEXO ESCOLAR 11 DE NOVEMBRO - MBANZA KONGO</option>
+<option>[EQT] MAGISTÉRIO - ICRA - MBANZA CONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 49 - NKONDO - MBANZA KONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 37 - MBANZA MAZINA - MBANZA KONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 202 - MARIA DA PAIXÃO - MBANZA KONGO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 271 - MBANZA KONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 73 - NGOMA - MBANZA KONGO</option>
+<option>[EQT] DIRECAÇÃO MUNICIPAL DE EDUCAÇÃO DE MBANZA KONGO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 151 - NKIENDE - MBANZA KONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 67 - KINZAU - MBANZA KONGO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 194 - KALUKA - MBANZA KONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 19 - 4 DE FEVEREIRO - MBANZA KONGO</option>
+<option>[EQT] COMPLEXO ESCOLAR SAGRADO CORAÇÃO DE JESUS - MBANZA KONGO</option>
+<option>[EQT] GABINETE PROVINCIAL DA EDUCAÇÃO DO ZAIRE</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 01 - MBANZA KONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 263 - SANTO ANTÓNIO  - MBANZA KONGO</option>
+<option>[EQT] COLÉGIO 4 DE ABRIL - MBANZA KONGO</option>
+<option>[EQT] INSTITUTO POLITÉCNICO DO TUKU - MBANZA KONGO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 31 - BELA VISTA - MBANZA KONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 245 - KIBENGA  - MBANZA KONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 156 - NKIENDE 2 - MBANZA KONGO</option>
+<option>[EQT] COLÉGIO DR. ANTÓNIO AGOSTINHO NETO - MBANZA KONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 43 - NKUNGA PAZA  - MBANZA KONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 07 - MARTINS KIDITU  - MBANZA KONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 289 - CÉLIA MENDES - MBANZA KONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 270 - MARTINS KIDITU  - MBANZA KONGO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 251 - NKALAMBATA - MBANZA KONGO</option>
+<option>[EQT] COLÉGIO 11 DE NOVEMBRO - MBANZA KONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 97 - IGREJA KIMBANGU - MBANZA KONGO</option>
+<option>[EQT] INSTITUTO POLITÉCNICO DE ADMINISTRAÇÃO E GESTÃO DE MBANZA KONGO</option>
+<option>[EQT] MAGISTÉRIO - DANIEL VEMBA - MBANZA KONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 121 - NKOKO - MBANZA KONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 297 - TUKU KIOWA  - MBANZA KONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 233 - BELA VISTA  - MBANZA KONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 184 - NZAU EVUA - MBANZA KONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 176 - MBELENGE  - MBANZA KONGO</option>
+<option>[EQT] COMPLEXO ESCOLAR DO ENSINO ESPECIAL - MBANZA KONGO</option>
+<option>[EQT] COLÉGIO MFUMU - MBANZA KONGO</option>
+<option>[EQT] INSTITUTO TÉCNICO DE SAÚDE - MBANZA KONGO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 212 - MADIMBA - MBANZA KONGO</option>
+<option>[EQT] ESCOLAR PRIMÁRIA N. 161 - SANGI  - MBANZA KONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 25 - TUKU - MBANZA KONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 13 - CERÂMICA - MBANZA KONGO</option>
+<option>[EQT] COMPLEXO ESCOLAR "DOM AFONSO NTEKA"- MBANZA KONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 259 - IEBA - MBANZA KONGO</option>

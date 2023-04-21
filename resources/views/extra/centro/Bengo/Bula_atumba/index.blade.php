@@ -1,7 +1,15 @@
-<option>Dande</option>
-<option>Ambriz</option>
-<option>Pango Aluquém</option>
-<option>Dembos</option>
-<option>Nambuangongo</option>
-<option>Bula Atumba</option>
-
+<option>[EQT] COMPLEXO ESCOLAR N. 209 - TOMÁS TITO</option>
+<option>[EQT] LICEU N. 243 JOAQUIM PAXE - BULA ATUMBA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 207 - DOMINGOS KAKULO</option>
+<option>[EQT] COLÉGIO N. 200 - ANÍBAL DE MELO</option>
+<option>[EQT] DIRECÃO MUNICIPAL DO BULA.ATUMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 201 - BULA ATUMBA SEDE</option>
+<option>[EQT] COLÉGIO N.212 JACINTO JOAQUIM - BULA ATUMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 202 - LUÍS GRACIANO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 210 - ARMANDO JAIME</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 205 - DOMINGOS ANDRÉ MARIA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 206 - ABÍLIO CÉSAR ARMANDO</option>
+<option>[EQT] ESCOLA PRIM. Nº 204 JOÃO ANDRÉ  DOMINGOS- BULA ATUMBA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 203 - MUKIAMA KAKULO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 211 - VICENTE DE ALMEIDA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 208 - PAULO CAMESA</option>

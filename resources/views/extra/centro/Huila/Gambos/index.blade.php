@@ -1,18 +1,40 @@
-<option>Cuito</option>
-<option>Andulo</option>
-<option>Nharêa</option>
-<option>Cuemba</option>
-<option>Cunhinga</option>
-<option>Catabola</option>
-<option>Camacupa</option>
-<option>Chinguar</option>
-<option>Chitembo</option>
-
-
-
-
-
-
-
-
-
+<option>[EQT] ESCOLA PRIMÁRIA N. 1105 - TYIPUMBULO - GAMBOS</option>
+<option>[EQT] ESCOLA PRIMÁRIA  N. 916 - REI KATYITUKA - GAMBOS</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1023 - PANGUELO  - GAMBOS</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 152 - CHIANGE SEDE - GAMBOS</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1129 - MUNTYIAULWA  - GAMBOS</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1107 - MALUTUVO  - GAMBOS</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 893 - VIHEQUE  - GAMBOS</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 707- RIO D´AREIA - GAMBOS</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 196 - POCOLO  - GAMBOS</option>
+<option>[EQT] ESCOLA PRIMÁRIA  N. 1197 - MIMBONDE - GAMBOS</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1196 - LWANO  - GAMBOS</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1137 - EMBALA  - GAMBOS</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1026 - TYIKU  - GAMBOS</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1136 - TYIKONKHO - YANDJA  - GAMBOS</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 904 - NHAMPHALA  - GAMBOS</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 906 - MUTI WOVAKAI  - GAMBOS</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1020 - KATOHO GAMBOS</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1127 - KAMUSSISSI  - GAMBOS</option>
+<option>[EQT] LICEU N. 918 - GAMBOS</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DOS GAMBOS</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1021- OMPHAPA - GAMBOS</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1022 - NONDJELO - GAMBOS</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1198 - KAKU - GAMBOS</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1108 - KAFELA  - GAMBOS</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1139 - ENPHANGUI  - GAMBOS</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 311 - DONGUE  - GAMBOS</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 895 - TUMBA  - GAMBOS</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 874 - TAKA  - GAMBOS</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1193 - NOMPHAWE - GAMBOS</option>
+<option>[EQT] COLÉGIO N. 1783 - DR. ANTONIO A. NETO - GAMBOS</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 312 - VIRIAMBUNDO - GAMBOS</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1784 - TUNDA  - GAMBOS</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1191 - NONKHONKHO  - GAMBOS</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 897 - NGUELENGUE  - GAMBOS</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 195 - MARIA MAMBO CAFÉ - GAMBOS</option>
+<option>[EQT] ESCOLA PRIMÁRIA  N. 826 - LUVOTA - GAMBOS</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1727 - LIAMULOLA  - GAMBOS</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 192 - KAILA  - GAMBOS</option>
+<option>[EQT] COLÉGIO N. 925</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1138 - TAPU  - GAMBOS</option>

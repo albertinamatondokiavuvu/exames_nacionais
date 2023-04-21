@@ -1,18 +1,20 @@
-<option>Cuito</option>
-<option>Andulo</option>
-<option>Nharêa</option>
-<option>Cuemba</option>
-<option>Cunhinga</option>
-<option>Catabola</option>
-<option>Camacupa</option>
-<option>Chinguar</option>
-<option>Chitembo</option>
-
-
-
-
-
-
-
-
-
+<option>[EQT] ESCOLA PRIMÁRIA N. 18 - SIQUELE - CAMBUNDI CATEMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 17 - HOPA - CAMBUNDI CATEMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 5 - MUSSOLO  - CAMBUNDI CATEMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 16 - CUNGUE - CAMBUNDI CATEMBO </option>
+<option>[EQT] COLÉGIO N. 2 - COMANDANTE DANGEREUX - CAMBUNDI CATEMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 14 - NGUNJI - CAMBUNDI CATEMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 12 - CAMBUNDI CATEMBO SEDE </option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 4 - MULENDE - CAMBUNDI CATEMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 1 - 11 DE NOVEMBRO - CAMBUNDI CATEMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIO Nº 8 - MALENGUE - CAMBUNDI CATEMBO</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DE CAMBUNDI - CATEMBO</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DE CAMBUNDI CATEMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 3 - KITAPA - CAMBUNDI CATEMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 13 - MUCONDO CABANGA  - CAMBUNDI CATEMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 11 - QUIBINGA - CAMBUNDI CATEMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 7 - MUATE - CAMBUNDI CATEMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 6 - MUIEBA TUTO - CAMBUNDI CATEMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 10 - QUEVO - CAMBUNDI CATEMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 9 - SICONHA - CAMBUNDI CATEMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 11 - TERESINHA - CAMBUNDI CATEMBO</option>

@@ -1,7 +1,29 @@
-<option>Dande</option>
-<option>Ambriz</option>
-<option>Pango Aluquém</option>
-<option>Dembos</option>
-<option>Nambuangongo</option>
-<option>Bula Atumba</option>
-
+<option>[EQT] ENSINO PRIMARIA 436</option>
+<option>[EQT] ESCOLA PRIM. Nº 401 - BANZA DE QUIBAXE</option>
+<option>[EQT] ESCOLA PRIM. Nº 417 - QUIMBAMBA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 419 - MOISÉS WELA </option>
+<option>[EQT] ESCOLA PRIM. N.  408 - QUINZALA </option>
+<option>[EQT] ESCOLA PRIM. N. 407 - QUISSAQUILA </option>
+<option>[EQT] ESCOLA PRIM. N. 403 - PADRE MOTA</option>
+<option>[EQT] ESCOLA PRIM. N. 421 - PACA KAPEMBA</option>
+<option>[EQT] ESCOLA PRIM. N. 418 - MASSUNDA</option>
+<option>[EQT] ESCOLA PRIM. N. 406 - MARIA DE FÁTIMA</option>
+<option>[EQT] ESCOLA PRIM. N. 402 - GERVÁSIO CUSTÓDIO MIGUEL</option>
+<option>[EQT] ESCOLA PRIM. Nº 400 - ELIAS FULA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 413 - HENRIQUES CASSULE KIANVO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 411 - RUFINO GONGA PACA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 410 - BERNARDO DOMINGOS PASCOAL "KAPASSO"</option>
+<option>[EQT] .DIRECÃO MUNICIPAL DOS DEMBOS</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 415 - DAVID CASSULE</option>
+<option>[EQT] ESCOLA PRIM. N. 423 - QUISSANGA NDEMBO</option>
+<option>[EQT] COLÉGIO PÚBLICO N. 420 - MOBIL</option>
+<option>[EQT] COLÉGIO N. 409 - JOÃO BAPTISTA PANZO </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 412 - MBOMBO CASSULE</option>
+<option>[EQT] LICEU N. 441 - PRÍNCIPE JOSÉ SIMÃO DOS DEMBOS</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 416 - GASPAR JOÃO DOMINGOS (MILENGO)</option>
+<option>[EQT] COMPLEXO ESCOLAR. N.416 - GASPAR JOÃO DOMINGOS (MILENGO)2</option>
+<option>[EQT] ESCOLA PRIM. N. 405 - PAULINO BAPTISTA DA CRUZ</option>
+<option>[EQT] INSTITUTO POLITÉCNICO DOS DEMBOS N. 442</option>
+<option>[EQT] ESCOLA PRIMÁRIA N.422 - ANTÓNIO MATEMO  </option>
+<option>[EQT] COLÉGIO PÚBLICO N. 414 - HENRIQUES VASCO PAULO PAMBALA</option>
+<option>[EQT] ESCOLA PRIM. N. 404 - DAVID QUISSANGA</option>

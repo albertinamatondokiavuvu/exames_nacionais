@@ -3,6 +3,7 @@
 namespace App\Http\Controllers\Admin;
 
 use App\Http\Controllers\Controller;
+use App\Models\CentroExame;
 use App\Models\User;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Hash;
@@ -30,7 +31,7 @@ class UserController extends Controller
         ];
         $request->validate(
             [
-                'name' => 'required|max:255|min:4',
+                'name' => 'required',
                 'email' => 'required|email|unique:users',
                 'provincia' => 'required',
                 'telefone' => 'required|min:9|max:9|unique:users',
@@ -72,7 +73,7 @@ class UserController extends Controller
         ];
         $request->validate(
             [
-                'name' => 'required|max:255|min:4',
+                'name' => 'required',
                 'email' => 'email',
                 'provincia' => 'required',
                 'telefone' => 'required|min:9|max:9',
@@ -117,7 +118,7 @@ class UserController extends Controller
         ];
         $request->validate(
             [
-                'name' => 'required|max:255|min:4',
+                'name' => 'required',
                 'email' => 'required|email|unique:users',
                 'municipio' => 'required',
                 'telefone' => 'required|min:9|max:9|unique:users',
@@ -159,10 +160,10 @@ class UserController extends Controller
         ];
         $request->validate(
             [
-                'name' => 'required|max:255|min:4',
-                'email' => 'required|email|unique:users',
+                'name' => 'required',
+                'email' => 'required|email',
                 'municipio' => 'required',
-                'telefone' => 'required|min:9|max:9|unique:users',
+                'telefone' => 'required|min:9|max:9',
             ],
             $mensagens
         );
@@ -187,7 +188,8 @@ class UserController extends Controller
     //DC
     public function user_add_dc()
     {
-        return view('dashboard.Users.DC.create.index');
+        $centros = CentroExame::where([['provincia','=',Auth::user()->provincia],['municipio','=',Auth::user()->municipio]])->get();
+        return view('dashboard.Users.DC.create.index', compact('centros'));
     }
     public function store_dc(Request $request)
     {
@@ -203,7 +205,7 @@ class UserController extends Controller
         ];
         $request->validate(
             [
-                'name' => 'required|max:255|min:4',
+                'name' => 'required',
                 'email' => 'required|email|unique:users',
                 'instituicao' => 'required',
                 'telefone' => 'required|min:9|max:9|unique:users',
@@ -230,7 +232,8 @@ class UserController extends Controller
     public function user_edit_dc($id)
     {
         $users = User::find($id);
-        return view('dashboard.Users.DC.edit.index', compact('users'));
+        $centros = CentroExame::where([['provincia','=',Auth::user()->provincia],['municipio','=',Auth::user()->municipio]])->get();
+        return view('dashboard.Users.DC.edit.index', compact('users','centros'));
     }
     public function update_dc(Request $request, $id)
     {
@@ -246,10 +249,10 @@ class UserController extends Controller
         ];
         $request->validate(
             [
-                'name' => 'required|max:255|min:4',
-                'email' => 'required|email|unique:users',
+                'name' => 'required',
+                'email' => 'required|email',
                 'instituicao' => 'required',
-                'telefone' => 'required|min:9|max:9|unique:users',
+                'telefone' => 'required|min:9|max:9',
             ],
             $mensagens
         );
@@ -290,7 +293,7 @@ class UserController extends Controller
         ];
         $request->validate(
             [
-                'name' => 'required|max:255|min:4',
+                'name' => 'required',
                 'email' => 'required|email|unique:users',
                 'telefone' => 'required|min:9|max:9|unique:users',
                 'tipo_user' => 'required',
@@ -334,11 +337,10 @@ class UserController extends Controller
         ];
         $request->validate(
             [
-                'name' => 'required|max:255|min:4',
-                'email' => 'required|email|unique:users',
+                'name' => 'required',
+                'email' => 'required|email',
                 'tipo_user' => 'required',
-                'instituicao' => 'required',
-                'telefone' => 'required|min:9|max:9|unique:users',
+                'telefone' => 'required|min:9|max:9',
             ],
             $mensagens
         );
@@ -357,7 +359,7 @@ class UserController extends Controller
     }
     public function index()
     {
-        $users = User::WhereIn('tipo_user', ['SP', 'V'])->where([['municipio', '=', Auth::user()->municipio]])->get();
+        $users = User::WhereIn('tipo_user', ['SP', 'V'])->where([['municipio', '=', Auth::user()->municipio],['instituicao', '=', Auth::user()->instituicao]])->get();
         return view('dashboard.Users.SP_PV.index.index', compact('users'))->with('i', (request()->input('page', 1) - 1) * 5);
     }
 

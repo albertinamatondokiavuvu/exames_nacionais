@@ -1,18 +1,30 @@
-<option>Cuito</option>
-<option>Andulo</option>
-<option>Nharêa</option>
-<option>Cuemba</option>
-<option>Cunhinga</option>
-<option>Catabola</option>
-<option>Camacupa</option>
-<option>Chinguar</option>
-<option>Chitembo</option>
-
-
-
-
-
-
-
-
-
+<option>[EQT] COMPLEXO ESCOLAR Nº 304 REGEDOR CAHALI </option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 49 COMANDANTE JICA 1</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 9 SAMANHENGO CAMUTI</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 57 - CAVALE  CALENGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N º420 - CALEGI</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 303 CAPANGO SAIVEND - CUEMBA</option>
+<option>[EQT] COMPLEXO ESCOLAR Nº 53 REGEDOR CHIPALA - CUEMBA</option>
+<option>[EQT] COLÉGIO Nº 50 FRANCISCO RICARDO PAIM - CUEMBA</option>
+<option>[EQT] COMPLEXO ESCOLAR Nº 6 - SACANDALA - SACHINEMUNA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 418 TCHINHONJI </option>
+<option>[EQT] COMPLEXO ESCOLAR N. 1 SALELA LUANDO</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 7 - MUNGOA BINGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº  415 MUSSINDI SAMATALE</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 305 - CARIATA NAPASSO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 223 - NHACANDOMBE</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 55 DE CHIPALA  PASSAXI - CUEMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 414 - CHISSEQUE MUESSECA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 309 - LUSSELEI CHILEMO</option>
+<option>[EQT] LICEU Nº 55 CDTE TALA HADY</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 52 DE MUNHANGO - CUEMBA</option>
+<option>[EQT] ESCOLA MISSIONÁRIA Nº 48 SÃO PEDRO - CUEMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 4 DE NGUNJI SALIEZA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 10 DE CAVAIA  MACHALO</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 266 SEDE - CUEMBA</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DO CUEMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº  307 - SAMAQUINA </option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 302 CAPANGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 26 POPULAR SERRAÇÃO</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 221 DE JAPÃO SACUNHONGA </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 4 DE CATRUMBA MASSONDE - CUEMBA</option>

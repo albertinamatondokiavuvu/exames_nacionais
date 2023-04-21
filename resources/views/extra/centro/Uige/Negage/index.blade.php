@@ -1,18 +1,51 @@
-<option>Cuito</option>
-<option>Andulo</option>
-<option>Nharêa</option>
-<option>Cuemba</option>
-<option>Cunhinga</option>
-<option>Catabola</option>
-<option>Camacupa</option>
-<option>Chinguar</option>
-<option>Chitembo</option>
-
-
-
-
-
-
-
-
-
+<option>[EQT] ESCOLA PRIMÁRIA DE TERRA NOVA - NEGAGE</option>
+<option>[EQT] ESCOLA PRIMÁRIA TOCOISTA DE NEGAGE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO BIRI </option>
+<option>[EQT] INSTITUTO TÉCNICO AGRÁRIO DE NEGAGE</option>
+<option>[EQT] ESCOLA PRIMÁRIA KIMBANGUISTA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 653 DO CAZANGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1082 DO CANZUNDO</option>
+<option>[EQT] COMPLEXO SÃO FRANCISCO DE SALES</option>
+<option>[EQT] ESCOLA PRIMÁRIA SÃO FRANCISCO DE ASSIS - NEGAGE</option>
+<option>[EQT] ESCOLA PRIMÁRIA ANGLICANA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO PUMBA N. 642</option>
+<option>[EQT] ESCOLA PRIMÁRIA N.657 DO QUITUIA </option>
+<option>[EQT] ESCOLA PRIMÁRIA LONGE ZECA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO DALA N. 628</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA CAPOPA</option>
+<option>[EQT] ESCOLA PRIMÁRIA BANZA NEGAGE N. 648</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO CAFAMOSO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 78 COMANDANTE VALÓDIA</option>
+<option>[EQT] COMPLEXO DA IEBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 658 DE CAUENDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 651 DO CATUMBO CANGUNDO</option>
+<option>[EQT] COMPLEXO ESCOLAR FILHAS DE JESUS DO NEGAGE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 634 DO ZANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 652 DE TEMA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 356 DO QUISSEQUE</option>
+<option>[EQT] LICEU MANUEL CASTANHEIRA</option>
+<option>[EQT] COLÉGIO DO DIMUCA - NEGAGE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1039 DO CAÚA 2</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA IERA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO TUTI N. 631</option>
+<option>[EQT] COLÉGIO DO QUISSEQUE DO NEGAGE</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DO NEGAGE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO DIMUCA N. 632</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO CANGULO N. 656</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 652 DO CANGUNDO</option>
+<option>[EQT] MAGISTÉRIO ADPP DO NEGAGE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 629 DO VUNGE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO QUINDINGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA METODISTA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 640 DO BULA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 647 DA ALDEIA DA MISSÃO </option>
+<option>[EQT] ESCOLA PRIMÁRIA ADVENTISTA 7º DIA</option>
+<option>[EQT] LICEU DE NEGAGE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO PANZO N. 633</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1038 DO CAÚA 1</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 644 DO QUIXICA </option>
+<option>[EQT] COMPLEXO KUDIVA KOTA DO QUINDANDO</option>
+<option>[EQT] COLÉGIO 11 DE NOVEMBRO DE NEGAGE</option>
+<option>[EQT] COLÉGIO DO CANGUNDO DO NEGAGE</option>
+<option>[EQT] COLÉGIO DA ALDEIA DA MISSÃO DO NEGAGE</option>
+<option>[EQT] COMPLEXO SÃO FRANCISCO DE ASSIS</option>

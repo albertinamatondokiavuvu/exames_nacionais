@@ -1,18 +1,22 @@
-<option>Cuito</option>
-<option>Andulo</option>
-<option>Nharêa</option>
-<option>Cuemba</option>
-<option>Cunhinga</option>
-<option>Catabola</option>
-<option>Camacupa</option>
-<option>Chinguar</option>
-<option>Chitembo</option>
-
-
-
-
-
-
-
-
-
+<option>[EQT] ESCOLA PRIMÁRIA BUMBA MBUNDO - LIBOLO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DR. ANTÓNIO AGOSTINHO NETO - LIBOLO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DEOLINDA RODRIGUES - LIBOLO</option>
+<option>[EQT] ESCOLA PRIMÁRIA SANTA MARIA MAZZARELLO - LIBOLO</option>
+<option>[EQT] ESCOLA PRIMÁRIA REVOLUÇÃO DE OUTUBRO - LIBOLO</option>
+<option>[EQT] ESCOLA PRIMÁRIA 1º DE MAIO - LIBOLO</option>
+<option>[EQT] ESCOLA PRIMÁRIA 17 DE SETEMBRO - LIBOLO</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DE EDUCAÇÃO DO LIBOLO</option>
+<option>[EQT] MAGISTÉRIO DO LIBOLO</option>
+<option>[EQT] COLÉGIO KUAME NKRUMAH - LIBOLO</option>
+<option>[EQT] ESCOLA PRIMÁRIA 1º DE JUNHO - LIBOLO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BULA MATADY - LIBOLO</option>
+<option>[EQT] ESCOLA 1º DE DEZEMBRO - LIBOLO</option>
+<option>[EQT] LICEU DO LIBOLO</option>
+<option>[EQT] COLÉGIO DOM BOSCO - LIBOLO</option>
+<option>[EQT] ESCOLA PRIMÁRIA LUATY - LIBOLO</option>
+<option>[EQT] ESCOLA PRIMÁRIA BANZA DOS DAMBOS - LIBOLO</option>
+<option>[EQT] ESCOLA PRIMÁRIA COMANDANTE ARGUELLES - LIBOLO</option>
+<option>[EQT] ESCOLA PRIMÁRIA COMANDANTE NELITO SOARES - LIBOLO</option>
+<option>[EQT] ESCOLA PRIMÁRIA ANTÓNIO Q. S. CALADO - LIBOLO</option>
+<option>[EQT] ESCOLA PRIMÁRIA 11 DE NOVEMBRO - LIBOLO</option>
+<option>[EQT] ESCOLA PRIMÁRIA 17 DE SETEMBRO</option>

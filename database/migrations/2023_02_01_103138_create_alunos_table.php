@@ -15,26 +15,19 @@ class CreateAlunosTable extends Migration
     {
         Schema::create('alunos', function (Blueprint $table) {
             $table->id();
-            $table->string('presenca');
+            $table->string('presenca')->nullable();
             $table->string('deficiencia');
             $table->string('nome_aluno');
-            $table->string('data_nasc');
-            $table->string('vigilante');
+            $table->date('data_nasc');
             $table->string('sexo');
             $table->string('escola_proveniencia');
-            $table->string('cod_prova');
-            $table->string('cod_resp_prova');
+            $table->string('cod_prova')->nullable();
+            $table->string('cod_resp_prova')->nullable();
             $table->string('provincia')->nullable();
             $table->string('municipio')->nullable();
-            $table->foreignId('classe_id')
-            ->constrained()
-            ->onDelete('cascade');
             $table->foreignId('turma_id')
             ->constrained()
-            ->onDelete('cascade');
-           /*$table->foreignId('centroExame_id')
-            ->constrained()
-            ->onDelete('cascade');*/
+            ->onDelete('cascade')->onUpdate('cascade');
             $table->timestamps();
         });
     }

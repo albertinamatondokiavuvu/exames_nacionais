@@ -1,42 +1,41 @@
 @extends('layouts._includes.dashboard.Header')
-@section('title','Pesquisar centroExames de exames')
+@section('title','Pesquisar centro de exames')
 @section('content')
 <style>
     .center{
   margin: 0 auto;
 }
 </style>
+
 <div class="col-md-8 center">
     <div class="card">
       <div class="card-body">
-        <h4 class="card-title">Pesquisar centroExames de Exames</h4>
+        <h4 class="card-title">Pesquisar Centro de exames</h4>
         @include('extra.errorInputs.index')
         <form class="forms-sample" method="POST" action="{{ route('store_dc') }}">
             @csrf
-            <div class="form-group col-md-3">
-                <label for="vc_nome" class="form-label">Provincia</label>
-                <select name="vc_nome" id="vc_nome" class="form-control">
-                    <option value="Todos">Todos</option>
-                    @foreach ($utilizadores as $provincia)
-                    <option value="{{ $provincia->provincia}}">
-                        {{ $provincia->provincia }}
-                    </option>
-                    @endforeach
-                </select>
 
-            </div>
-            <div class="form-group col-md-3">
-                <label for="municipio" class="form-label">Municipio</label>
+            <div class="row g-3 mb-3">
+                <div class="mb-3">
+
+                    <select name="provincia" id="provincia" class="form-control">
+                        <option value="" disabled selected>Selecione a província</option>
+                        <option value="Todos">Todos</option>
+
+                    </select>
+                </div>
+
+                <div class="col-sm">
+
                 <select name="municipio" id="municipio" class="form-control">
+                    <option value="" disabled selected>Selecione o município</option>
                     <option value="Todos">Todos</option>
-                    @foreach ($utilizador as $municipio)
-                    <option value="{{ $municipio->municipio}}">
-                        {{ $municipio->municipio }}
-                    </option>
-                    @endforeach
+
                 </select>
+                </div>
 
             </div>
+
           <a target="_blank" type="submit" class="btn btn-primary mr-2">Imprimir</a>
         </form>
       </div>

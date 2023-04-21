@@ -1,18 +1,21 @@
-<option>Cuito</option>
-<option>Andulo</option>
-<option>Nharêa</option>
-<option>Cuemba</option>
-<option>Cunhinga</option>
-<option>Catabola</option>
-<option>Camacupa</option>
-<option>Chinguar</option>
-<option>Chitembo</option>
-
-
-
-
-
-
-
-
-
+<option>[EQT] ESCOLA PRIMÁRIA N. 70 TXIFAPO</option>
+<option>[EQT] COLÉGIO DO CAMAXILO</option>
+<option>[EQT] ESCOLA PRIMÁRIA TXIPANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 72 CAMBAXE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 64 CAVULA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 678 EBENEZER IEIA</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DO CAUNGULA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 67 MALANJE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 49 - 04 DE FEVEREIRO - CAMAXILO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 46 TXIMBONJI</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 66 - 04 DE ABRIL - NGUBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 60 MUANZANZA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO ZÔVO</option>
+<option>[EQT] COMPLEXO ESCOLAR SANTO ARNALDO JANSSEN</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 68 TXENDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 48 TXOTXO - UIANZE</option>
+<option>[EQT] ESCOLA PRIMÁRIA MUIEU</option>
+<option>[EQT] ESCOLA PRIMÁRIA CASSEMENE</option>
+<option>[EQT] COMPLEXO ESCOLAR MUANAUTA</option>
+<option>[EQT] LICEU DO CAUNGULA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 214 MONAMEMA</option>

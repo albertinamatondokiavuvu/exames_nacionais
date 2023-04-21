@@ -1,18 +1,29 @@
-<option>Cuito</option>
-<option>Andulo</option>
-<option>Nharêa</option>
-<option>Cuemba</option>
-<option>Cunhinga</option>
-<option>Catabola</option>
-<option>Camacupa</option>
-<option>Chinguar</option>
-<option>Chitembo</option>
-
-
-
-
-
-
-
-
-
+<option>[EQT] ESCOLA PRIMÁRIA N. 24 QUIPANDA FUTILA</option>
+<option>[EQT] COLÉGIO 11 DE NOVEMBRO DE BANZA LUCUNGA</option>
+<option>[EQT] COLÉGIO 4 DE ABRIL QUICUNGA I</option>
+<option>[EQT] COLÉGIO DR. ANTÓNIO AGOSTINHO NETO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 06 DE BANZA LUCUNGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 19 - BANZA CONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 09 - QUIMULUNGA</option>
+<option>[EQT] COLÉGIO CRISTO REI DO BUNGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 22 - AMÉRICO BOA VIDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 03 DE QUICUNGURI</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 10 - QUIANGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 07 DE QUIOMBO II</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 16 - QUICUNGA I</option>
+<option>[EQT] ESCOLA PRIMÁRIA 17 DE SETEMBRO DO BUNGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 12 - GOMBE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 08 DE HINDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 21 - ZULO ZUNDO</option>
+<option>[EQT] LICEU DO BUNGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 20 - SANZALA SOLDADO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 14 - PAMBOS</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 15 - QUINGOLA FUXE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 05 DE QUITOCAMA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 23 - BANZA PÔLO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 17 - MULAMBA I</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 13 - QUIZOÉZOE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 11 - QUIUQUEQUE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 04 DE QUIQUINGUILA I</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 18 - QUILUQUELO</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DO BUNGO</option>

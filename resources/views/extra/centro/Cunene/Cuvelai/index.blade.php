@@ -1,18 +1,41 @@
-<option>Cuito</option>
-<option>Andulo</option>
-<option>Nharêa</option>
-<option>Cuemba</option>
-<option>Cunhinga</option>
-<option>Catabola</option>
-<option>Camacupa</option>
-<option>Chinguar</option>
-<option>Chitembo</option>
-
-
-
-
-
-
-
-
-
+<option>[EQT] ESCOLA PRIMÁRIA DE ONGETE - CUVELAI</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE KAMICULA - CUVELAI</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº316 - CUVELAI</option>
+<option>[EQT] COLÉGIO DA KALONGA NAMPALA - CUVELAI</option>
+<option>[EQT] ESCOLA PRIMÁRIA I.E.L.A - CUVELAI</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE TCHIANJA - CUVELAI</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DO CUVELAI</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE NONDUNGO-NDAKASSALA - CUVELAI</option>
+<option>[EQT] ESCOLA PRIMÁRIA KM 27 - CUVELAI</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE OSHATOTWA - CUVELAI</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE ONAÑHUTI - CUVELAI</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE TYIKUIYO - CUVELAI</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE  MANHANDI - CUVELAI</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE SENDJE - CUVELAI</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE ONDJABAITAI - CUVELAI</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE VIKUNGO - CUVELAI</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE EPUTU-LEMANYA - CUVELAI</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE OSHIKONDO - CUVELAI</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE NDELEME I - CUVELAI</option>
+<option>[EQT] ESCOLA PRIMÁRIA REI KAUVI DE MUKOLONGONDJO - CUVELAI</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE OMUKUA-WOSIDU - CUVELAI</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE OKAWEDA I - CUVELAI</option>
+<option>[EQT] COLÉGIO DE MUKOLONGONDJO - CUVELAI</option>
+<option>[EQT] ESCOLA PRIMÁRIA 14 DE ABRIL NAMPALA - CUVELAI</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE NONDUNGO-NDANELINDI - CUVELAI</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE OLUPANDJA - CUVELAI</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE NGANDU-IHEKUKA - CUVELAI</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE OSHIVEMBA - CUVELAI</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE MUI-FANO - CUVELAI</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE MEVA-YA-HELA - CUVELAI</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE VIVANDA - CUVELAI</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE KAUNDO - CUVELAI</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CASSUECA - CUVELAI</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº36 DE OMUNDA-SEDE - CUVELAI</option>
+<option>[EQT] ESCOLA PRIMÁRIA MUONGO-WAKANHENGA - CUVELAI</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE NDOMBE-YEHEKE - CUVELAI</option>
+<option>[EQT] MAGISTÉRIO DO MUKULONGONDJO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE TYIVEIYO - CUVELAI</option>
+<option>[EQT] COMPLEXO ESCOLAR DA MISSÃO CATÓLICA DA MUPA </option>
+<option>[EQT] ESCOLA PRIMÁRIA DE NAKAHAMBO II - CUVELAI</option>
+<option>[EQT] ESCOLA PRIMÁRIA MUNKHETE - CUVELAI</option>

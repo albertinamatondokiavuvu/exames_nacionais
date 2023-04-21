@@ -1,13 +1,14 @@
-<option>Massango</option>
-<option>Marimba</option>
-<option>Calandula</option>
-<option>Cahombo</option>
-<option>Kiwaba Nzoji</option>
-<option>Cacuso</option>
-<option>Quela</option>
-<option>Malanje</option>
-<option>Mucari</option>
-<option>Cangandala</option>
-<option>Cambundi-Catembo</option>
-<option>Luquembo</option>
-<option>Moxico</option>
+<option data-provincia="Malanje">Massango</option>
+<option data-provincia="Malanje">Marimba</option>
+<option data-provincia="Malanje">Calandula</option>
+<option data-provincia="Malanje">Cahombo</option>
+<option data-provincia="Malanje">Kiwaba Nzoji</option>
+<option data-provincia="Malanje">Cacuso</option>
+<option data-provincia="Malanje">Quela</option>
+<option data-provincia="Malanje">Malanje</option>
+<option data-provincia="Malanje">Mucari</option>
+<option data-provincia="Malanje">Cangandala</option>
+<option data-provincia="Malanje">Cambundi-Catembo</option>
+<option data-provincia="Malanje">Luquembo</option>
+<option data-provincia="Malanje">Kunda Dya Baze</option>
+<option data-provincia="Malanje">Quirima</option>

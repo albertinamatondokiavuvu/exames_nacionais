@@ -1,18 +1,31 @@
-<option>Cuito</option>
-<option>Andulo</option>
-<option>Nharêa</option>
-<option>Cuemba</option>
-<option>Cunhinga</option>
-<option>Catabola</option>
-<option>Camacupa</option>
-<option>Chinguar</option>
-<option>Chitembo</option>
-
-
-
-
-
-
-
-
-
+<option>[EQT] ESCOLA PRIMÁRIA DE QUISSEMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA QUIPANDA BUNGA</option>
+<option>[EQT] COLÉGIO DE CUILO CAMBOZO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE KIMAFUMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE VUABO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE QUIZULO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE QUINGUMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA QUILUPANVO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE QUIMBENGUI MATADI</option>
+<option>[EQT] ESCOLA PRIMÁRIA QUITECA QUINANGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA QUIMALUNGO CAPELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE MBANZA CUMI</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE QUIPUNGUI CAINDO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE QUITUIA DE BUENGA NORTE</option>
+<option>[EQT] COLÉGIO DO BUENGA NORTE</option>
+<option>[EQT] COLÉGIO DO BUENGA SUL</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE KINDOMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE LEMA</option>
+<option>[EQT] ESCOLA PRIMÁRIA KITECA BENGUI</option>
+<option>[EQT] LICEU DOS BUENGAS</option>
+<option>[EQT] ESCOLA PRIMÁRIA SANTA BAKITA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE QUINANGA ZULO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE BUENGA SUL</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE MBANZA KIFUA</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DE BUENGAS</option>
+<option>[EQT] ESCOLA PRIMÁRIA SIMON KIMBANGU</option>
+<option>[EQT] ESCOLA PRIMÁRIA QUIMBENGUI TECA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE QUIPEDRO</option>
+<option>[EQT] ESCOLA PRIMÁRIA NOVA ESPERANÇA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE KIMBIANDA II</option>
+<option>[EQT] ESCOLA PRIMÁRIA QUINIOCA</option>

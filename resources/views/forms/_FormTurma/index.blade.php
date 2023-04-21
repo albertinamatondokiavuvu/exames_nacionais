@@ -9,7 +9,7 @@
             placeholder="quantidade de alunos nesta turma" required>
     </div>
     <div class="col-sm">
-       <select name="classe_id" id="" class="form-control">
+       <select name="classe_id" id="" class="form-control multiplo">
         @isset($turmas->classe_id)
         <option hidden style="color: green" selected value="{{ $turmas->classe_id }}"></option>
         @else

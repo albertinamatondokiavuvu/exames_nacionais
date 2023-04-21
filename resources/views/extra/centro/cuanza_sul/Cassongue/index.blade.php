@@ -1,18 +1,35 @@
-<option>Cuito</option>
-<option>Andulo</option>
-<option>Nharêa</option>
-<option>Cuemba</option>
-<option>Cunhinga</option>
-<option>Catabola</option>
-<option>Camacupa</option>
-<option>Chinguar</option>
-<option>Chitembo</option>
-
-
-
-
-
-
-
-
-
+<option>[EQT] ESCOLA PRIMÁRIA DA NAMBA - CASSONGUE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA NASSA - CASSONGUE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO CHIPELETO - CASSONGUE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA JAMBA - CASSONGUE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CAUNDI - CASSONGUE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA I.E.C.A  - CASSONGUE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA CHIMBACA - CASSONGUE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO CENTRO SOCIAL - CASSONGUE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA BUNDA - CASSONGUE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO ATÓME - CASSONGUE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE SANTO ANTÓNIO - CASSONGUE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 178 - CASSONGUE</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DE EDUCAÇÃO DO CASSONGUE</option>
+<option>[EQT] ESCOLA PRIMARIA DO CUNGULO - CASSONGUE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE SÃO PEDRO - CASSONGUE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO QUIUNDO - CASSONGUE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO DUMBI - CASSONGUE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CANGOMBE - CASSONGUE</option>
+<option>[EQT] COMPLEXO ESCOLAR DEOLINDA RODRIGUES - CASSONGUE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE SETE CAMBONGUE - CASSONGUE</option>
+<option>[EQT] ESCOLA PRIMARIA DO LONDUEYO - CASSONGUE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO CRUZAMENTO - CASSONGUE</option>
+<option>[EQT] MAGISTÉRIO DE CASSONGUE</option>
+<option>[EQT] ESCOLA PRIMARIA DO SALOMÃO - CASSONGUE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE QUILENGUES - CASSONGUE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO NENGO - CASSONGUE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA MENGA - CASSONGUE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO CHITUE - CASSONGUE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO CHIPURI - CASSONGUE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO TCHITUMBO - CASSONGUE</option>
+<option>[EQT] ESCOLA PRIMÁRIA MUNGO - CASSONGUE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA GAMBA - CASSONGUE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA GALILEIA - CASSONGUE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO ETENDE - CASSONGUE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE DUMBA - CASSONGUE</option>

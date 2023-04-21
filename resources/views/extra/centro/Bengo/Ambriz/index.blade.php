@@ -1,7 +1,15 @@
-<option>Dande</option>
-<option>Ambriz</option>
-<option>Pango Aluquém</option>
-<option>Dembos</option>
-<option>Nambuangongo</option>
-<option>Bula Atumba</option>
-
+<option>[EQT] LICEU N. 113 MBANZA DYA NTUNGU-AMBRIZ</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 107 - DR. ANTÓNIO AGOSTINHO NETO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 101 NGOLA MBANDE </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 106- NKIMPA NVITA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 112 JOÃO DOMINGOS NKODI</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 102 AUGUSTO NGANGULA </option>
+<option>[EQT] COLÉGIO  N. 115 SIMÃO SEBASTIÃO MBIA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 108 - NZINGA NKUVU</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 104 NDONGALACIA NKUA MUNUA</option>
+<option>[EQT] COLÉGIO  N. 114 MBANZA NSOLELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 103 --5 DE MAIO</option>
+<option>[EQT] LICEU N. 113 - MBANZA DYA NTUNGU</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 109 NIMI YA LUKENI</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 105 - ANTÓNIO LUÍS</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DO AMBRIZ </option>

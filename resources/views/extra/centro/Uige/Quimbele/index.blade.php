@@ -1,18 +1,100 @@
-<option>Cuito</option>
-<option>Andulo</option>
-<option>Nharêa</option>
-<option>Cuemba</option>
-<option>Cunhinga</option>
-<option>Catabola</option>
-<option>Camacupa</option>
-<option>Chinguar</option>
-<option>Chitembo</option>
-
-
-
-
-
-
-
-
-
+<option>[EQT] LICEU DE ICOCA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 671 DE KUANGO </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 945 DE MAKENENE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 710 DE KIJOÃO </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 38 DE KITANDA KISSALUA</option>
+<option>[EQT] ESCOLA PRIMARIA N. 056 DE  KINZACALELE </option>
+<option>[EQT] ESCOLA PRIMARIA N. 041 DE  KIJOAO</option>
+<option>[EQT] COLÉGIO DE ICOCA</option>
+<option>[EQT] COLÉGIO DO KUANGO</option>
+<option>[EQT] COLÉGIO DE CASSANDA</option>
+<option>[EQT] COLÉGIO DE KIPASSA</option>
+<option>[EQT] COLÉGIO DE D. ANTÓNIO</option>
+<option>[EQT] COLÉGIO DE QUIMBELE BAIRRO</option>
+<option>[EQT] COLÉGIO DE KIMEFOTO</option>
+<option>[EQT] ESCOLA PRIMARIA N. 028 DE MARIMBA </option>
+<option>[EQT] ESCOLA PRIMARIA N. 047 DE KIWEMBO </option>
+<option>[EQT] ESCOLA PRIMARIA N. 014 DE KIMANHENGA I</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 062 DE CABEIA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 053 DE MASSEMA </option>
+<option>[EQT] ESCOLA PRIMARIA N. 043 DE KIMULELE </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 008 DE KITSANGUI </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 058 DE BULA CALONGE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 071 DE DON ANTONIO </option>
+<option>[EQT] ESCOLA PRIMARIA N. 004 DE KIWAMBA </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 022 DE KIPASSA</option>
+<option>[EQT] ESCOLA PRIMARIA N. 021 DE KUNDI</option>
+<option>[EQT] ESCOLA PRIMARIA N. 013 DE MISSAO CATOLICA </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 050 DE KIBULA I</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 046 DE KISSOSSO </option>
+<option>[EQT] ESCOLA PRIMARIA N. 049 DE KIMALAQUIDI</option>
+<option>[EQT] ESCOLA PRIMARIA N. 036 DE WAMBA </option>
+<option>[EQT] ESCOLA PRIMARIA N.075 DE SUA IPOPO </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 023 DE KIMUBABO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 002 DE KILONGE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 020 DE KIMINDEMBEQUESSE </option>
+<option>[EQT] ESCOLA PRIMARIA N. 072 DE PULULO </option>
+<option>[EQT] ESCOLA PRIMARIA N.079 DE KANAMBUA </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 051 DE KIPEDRO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 061 DE CAMUANGA</option>
+<option>[EQT] ESCOLA PRIMARIA N. 029 DE KITUBO </option>
+<option>[EQT] LICEU DE QUIMBELE </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 064 DE KILUIANICO KIMBATI MOXI</option>
+<option>[EQT] ESCOLA PRIMARIA N. 076 DE MUANA NZENZA </option>
+<option>[EQT] ESCOLA PRIMARIA N. 926 DE KINZACALELE </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 030 DE KIMUCANDA </option>
+<option>[EQT] ESCOLA PRIMARIA N.077 DE MAGINGO </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 067 DE KAPEKELE </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 067 DE KAMIDI KINGUIAMBUDI </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 073 DE INDO </option>
+<option>[EQT] ESCOLA PRIMARIA N. 011 DE KINDALULO </option>
+<option>[EQT] ESCOLA PRIMARIA N. 034 DE SENGA </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 063 DE ICOCA </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 002 DE KIMBELE BAIRRO</option>
+<option>[EQT] COLÉGIO DE QUIMBELE</option>
+<option>[EQT] ESCOLA PRIMARIA N. 048 DE KIMAFUANI </option>
+<option>[EQT] ESCOLA PRIMÁRIA MISSIONARIA N. 006 DA IERA</option>
+<option>[EQT] LICEU DE ALTO ZAZA</option>
+<option>[EQT] LICEU DO KUANGO</option>
+<option>[EQT] ESCOLA PRIMARIA N. 032 DE CARCANINI </option>
+<option>[EQT] ESCOLA PRIMARIA N. 042 DE KIMEFOTO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 031 DE KIBULA II</option>
+<option>[EQT] ESCOLA PRIMARIA N.081 DE KIZANGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 052 DE KITOTISSA </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 003 DE KIMAIUNGUI</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 009 DE KIMASSABO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 054 DE CABACA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 025 DE KISSOFI </option>
+<option>[EQT] ESCOLA PRIMARIA N. 039 DE KIZANDI </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 005 TOCOISTA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA JAMAICA N. 019</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DE QUIMBELE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 069 DE XINGUI </option>
+<option>[EQT] ESCOLA PRIMARIA N. 033 DE KIPEMBE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 65 DE KIBUQUI</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 026 DE KISSABA </option>
+<option>[EQT] ESCOLA PRIMARIA N.078 DE KIMUELA </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 060 DE MANGOMBA</option>
+<option>[EQT] ESCOLA PRIMARIA N. 045 DE KIULEU </option>
+<option>[EQT] ESCOLA PRIMARIA N. 012 DE KIMALALO </option>
+<option>[EQT] COLÉGIO DE MARIMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 038 DE MUTUANGULO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 015 DE KIMALHENGA II</option>
+<option>[EQT] ESCOLA PRIMARIA N. 040 DE KIAMBULA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 080 DE KIMIBUATELELE </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 035 DE KINGUENGE </option>
+<option>[EQT] COLÉGIO DE KIBOCOLO</option>
+<option>[EQT] ESCOLA PRIMARIA N. 016 DE BULA MALUNGO </option>
+<option>[EQT] COLÉGIO DE WAMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 066 DE NGANA MBUMBA </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 027 DE MACOXI</option>
+<option>[EQT] ESCOLA PRIMARIA N. 044 DE KIANGA </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 059 DE LUKUATO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 055 DE KAZOA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 068 DE KILUIS</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 018 DE CASSANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 010 DE CAMBUAIA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 001 </option>
+<option>[EQT] ESCOLA PRIMARIA N. 057 DE KIUTISSA </option>
+<option>[EQT] ESCOLA PRIMARIA N. 017 DE MBANZA KIACO </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 024 DE KIMBANGE</option>

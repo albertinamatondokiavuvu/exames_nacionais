@@ -1,18 +1,18 @@
-<option>Cuito</option>
-<option>Andulo</option>
-<option>Nharêa</option>
-<option>Cuemba</option>
-<option>Cunhinga</option>
-<option>Catabola</option>
-<option>Camacupa</option>
-<option>Chinguar</option>
-<option>Chitembo</option>
-
-
-
-
-
-
-
-
-
+<option>[EQT] LICEU DO LUCAPA</option>
+<option>[EQT] ESCOLA PRIMÁRIA SANTA ISABEL</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO CAPAIA</option>
+<option>[EQT] COMPLEXO ESCOLAR DO VEIGA</option>
+<option>[EQT] COMPLEXO ESCOLAR DO CAMISSOMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO CAMUTUE</option>
+<option>[EQT] PRIMÁRIA N. 51 - CALONDA</option>
+<option>[EQT] COMPLEXO ESCOLAR DO SAMBAIA</option>
+<option>[EQT] COMPLEXO ESCOLAR DO XÁ - CASSAU</option>
+<option>[EQT] COMPLEXO ESCOLAR DO LUÓ</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DO LUCAPA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 54 CENTRO URBANO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DR. ANTÓNIO AGOSTINHO NETO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO LUENDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA IMACULADA CORAÇÃO DA MARIA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 8 - CALONDA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 07 DO ROCK</option>
+<option>[EQT] MAGISTÉRIO DO LUCAPA</option>

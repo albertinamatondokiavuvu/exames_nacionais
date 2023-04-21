@@ -1,18 +1,47 @@
-<option>Cuito</option>
-<option>Andulo</option>
-<option>Nharêa</option>
-<option>Cuemba</option>
-<option>Cunhinga</option>
-<option>Catabola</option>
-<option>Camacupa</option>
-<option>Chinguar</option>
-<option>Chitembo</option>
-
-
-
-
-
-
-
-
-
+<option>[EQT] ESCOLA PRIMÁRIA N. 198 - KINVEMBA NZINGA - SOYO</option>
+<option>[EQT] COMPLEXO ESCOLAR KINGANGA MAVAKALA - SOYO</option>
+<option>[EQT] MAGISTÉRIO ADPP - SOYO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 62 - KITXITXI - SOYO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 142 - KIELA - SOYO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 26 - MONGO - SOYO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 104 - PANGALA - SOYO</option>
+<option>[EQT] COMPLEXO ESCOLAR SÃO FRANCISCO DE ASSIS - SOYO</option>
+<option>[EQT] INSTITUTO POLITÉCNICO DO KITONA - SOYO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 98 - NONA - SOYO</option>
+<option>[EQT] COLÉGIO REV. SIMÃO GONÇALVES TOCO /BUNDILA - SOYO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 14 - KINTAMBI - SOYO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 246 MANGUE - GRANDE - SOYO</option>
+<option>[EQT] LICEU DO SOYO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 293 NGULU YA NENKANDA - SOYO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 249 - BUNDILA -SOYO</option>
+<option>[EQT] COMPLEXO ESCOLAR - VICTORINO JOÃO - SOYO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 02 - BAIRRO MARINHA - SOYO</option>
+<option>[EQT] INSTITUTO POLITÉCNICO DE PETROLEO DO SOYO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 92 - KIKUDU - SOYO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 86 - KUNGU YENGUELE - SOYO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 08 - 1 DE MAIO - SOYO</option>
+<option>[EQT] COLÉGIO DO SANTO ANTÓNIO / MPINDA - SOYO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 56 GRANDE MURALHA - SOYO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 284 - KINDOMBELE - SOYO </option>
+<option>[EQT] LICEU MADRE MARIA DE FÁTIMA MARTINS / PINDA - SOYO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 268 - ROSA GATTONO - SOYO</option>
+<option>[EQT] COLÉGIO ANDRÉ SAMUEL KOMBO - GARE PUNGU - SOYO </option>
+<option>[EQT] COMPLEXO ESCOLAR N. 44 - KIFUMA - SOYO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 260 - KIMBAGU - SOYO</option>
+<option>[EQT] COLÉGIO REV. PEDRO MANUEL / KIMPONDO - SOYO</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DO SOYO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 68 - BAIRRO FINA - SOYO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 162 - CHINDE - SOYO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 20 - PUNGO - SOYO</option>
+<option>[EQT] COLÉGIO MANUEL DEMBI - SOYO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 122 - PEDRA DE FEITIÇO - SOYO</option>
+<option>[EQT] MAGISTÉRIO DO SOYO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 277 - TERESA NDONDO - SOYO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 80 - KONDE - SOYO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 185 - BINGA - SOYO</option>
+<option>[EQT] COLÉGIO DE MANGUE GRANDE - SOYO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 116 - PONTO FINAL - SOYO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 264 - KIMPONDO - SOYO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 228 - KIVANDA - SOYO</option>
+<option>[EQT] COLÉGIO DO QUELO - SOYO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 32 - KITONA - SOYO</option>

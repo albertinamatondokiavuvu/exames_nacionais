@@ -1,17 +1,9 @@
-<option>Cuito</option>
-<option>Andulo</option>
-<option>Nharêa</option>
-<option>Cuemba</option>
-<option>Cunhinga</option>
-<option>Catabola</option>
-<option>Camacupa</option>
-<option>Chinguar</option>
-<option>Chitembo</option>
-
-
-
-
-
+<option>[EQT] COMPEXO ESCOLAR N.402-QUIPETE</option>
+<option>[EQT] COMPEXO ESCOLAR N. 401 SEDE-BANGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 404-BANZA DE BANZE</option>
+<option>[EQT] COMPEXO ESCOLAR N. 403 ALDEIA NOVA</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DA BANGA</option>
+<option>[EQT] LICEU N. 405-SERRA DA BANGA</option>
 
 
 

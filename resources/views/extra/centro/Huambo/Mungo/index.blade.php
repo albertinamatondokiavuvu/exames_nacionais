@@ -1,18 +1,38 @@
-<option>Cuito</option>
-<option>Andulo</option>
-<option>Nharêa</option>
-<option>Cuemba</option>
-<option>Cunhinga</option>
-<option>Catabola</option>
-<option>Camacupa</option>
-<option>Chinguar</option>
-<option>Chitembo</option>
-
-
-
-
-
-
-
-
-
+<option>[EQT] ESCOLA PRIMÁRIA Nº28 - CHINANGA MUNGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 6 - DEMBA MUNGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 11 - MBATA - MUNGO</option>
+<option>[EQT] ESCOLA  PRIMARIA Nº 27 - XAVIER SAMACAU MUNGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 7 - MBINJI - CHITOCOTA</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 8 KUSSUMALA - MUNGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 12 - ULUNDU MUNGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 24 - 11 DE NOVEMBRO MUNGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 18 - 1 DE MAIO MUNGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº13 - NGANDJANDUMBU MUNGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 7 - CUNJO MUNGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº5 - NGUENJE MUNGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº4 - NGUELELE MUNGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº30 MONTE ALEGRE - MUNGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1 - 1º DE JUNHO MITI - MUNGO</option>
+<option>[EQT] COLÉGIO RAINHA NZINGA DO CAMBUENGO MUNGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 25 VAYOLELA - MUNGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 22 SANDJALA KANYOÑGA - MUNGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº20 - SAMBUNDU MUNGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 11 CHINHUNDO MUNGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 31 SANTO ANJO - MUNGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº4 - KANGOYA BAILUNDO</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 29 CAUNJI - MUNGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº21 - KULEMBE MUNGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 14 KAMELA KONDJOVO - MUNGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº3 - MBULU YONGOMBE MUNGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 2 - SALOMÃO HOSSI MUNGO</option>
+<option>[EQT] LICEU Nº 26  PEDRAS DE CANIÑGILI MUNGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº17 - 4 DE ABRIL MUNGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 15 - NDALA I MUNGO</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DO MUNGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº12 - OMBALA CHANGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 1 - CAMBUENGO MUNGO</option>
+<option>[EQT] COMPLEXO ESCOLAR DOM ZACARIAS CAMUENHO - MUNGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº8 - SECTOR DE MISSASSA MUNGO</option>
+<option>[EQT] COLÉGIO Nº 6 - 22 DE NOVEMBRO AURÉLIO MITI MUNGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº16 -TCHUKULIA MUNGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA Nº 9 - TCHIMBUANGULO MUNGO</option>

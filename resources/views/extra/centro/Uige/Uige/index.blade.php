@@ -1,18 +1,103 @@
-<option>Cuito</option>
-<option>Andulo</option>
-<option>Nharêa</option>
-<option>Cuemba</option>
-<option>Cunhinga</option>
-<option>Catabola</option>
-<option>Camacupa</option>
-<option>Chinguar</option>
-<option>Chitembo</option>
-
-
-
-
-
-
-
-
-
+<option>[EQT] ESCOLA PRIMÁRIA COMUNITÁRIA DO UÍGE</option>
+<option>[EQT] GABINETE PROVINCIAL DA EDUCAÇÃO DO UIGE</option>
+<option>[EQT] INSTITUTO TÉCNICO DE SAÚDE DO UÍGE</option>
+<option>[EQT] LICEU DA CENTRALIDADE DO QUILUMOSSO</option>
+<option>[EQT] COLÉGIO DO CANDOMBE VELHO</option>
+<option>[EQT] INSTITUTO POLITÉCNICO DO UÍGE</option>
+<option>[EQT] COMPLEXO ESCOLAR DO ENSINO ESPECIAL</option>
+<option>[EQT] INSTITUTO POLITÉCNICO DE ADMINISTRAÇÃO E GESTÃO</option>
+<option>[EQT] COMPLEXO ESCOLAR DA CENTRAL NOVO HORIZONTE DO QUILUMOS</option>
+<option>[EQT] ESCOLA PRIMÁRIA Z.4 - MBEMBA NGANGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 61 CANDANDE LOÉ</option>
+<option>[EQT] COLÉGIO 22 DE NOVEMBRO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DEOLINDA RODRIGUES</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA IGREJA TOCOISTA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE KIMBANGO - CANDOMBE NOVO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 965 BEM - VINDO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 65 CABARI</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 56 DE CANDANDE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 38 QUIVITA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 295 CANDOMBE VELHO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 02 </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 18 QUISSANGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE QUIMAQUILA</option>
+<option>[EQT] COLÉGIO ENG. JOSÉ ED. DOS SANTOS</option>
+<option>[EQT] COLÉGIO DE KILAMBA KIAXI</option>
+<option>[EQT] COLÉGIO COR MARIAE</option>
+<option>[EQT] MAGISTÉRIO COR MARIAE DO UÍGE</option>
+<option>[EQT] LICEU DO MATEUS</option>
+<option>[EQT] ESCOLA PRIMÁRIA Z.4 C.VELHO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DOMINGOS MOSEIS VICTORIA É CERTA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 68 CENTRO - CIDADE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 55 MUTAI</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 04 IASA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 29 - ZUNGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 28 NGANACAMANA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 15 QUINDENUCO</option>
+<option>[EQT] ESCOLA PRIMÁRIA FERNANDO ZAGE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO KATAPA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA Z. 3 - CANDOMBE VELHO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 6 CANDOMBE NOVO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 54 CATUMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 48 ALTO CAMBOMA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 19 CALUMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 01 - QUIXICONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA KILAMBA KIAXI</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA IEBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA ADVENTISTA DO CANDOMBE NOVO</option>
+<option>[EQT] COLÉGIO DO CANDOMBE NOVO</option>
+<option>[EQT] LICEU DO UÍGE</option>
+<option>[EQT] ESCOLA PRIMÁRIA ZONA 03 - PEDREIRA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 50  BANZA QUICA</option>
+<option>[EQT] ESCOLA PRIMÁRIA COMANDANTE HOJI - YA - HENDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 09 QUITUMA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 8 CONDO BENZE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 402 DE BANZA POLO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 26 ZAMBI</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 21 PACO - Y - BENZ</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 11 HENDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 107 - MBEMBA NGANGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1057 PAPELÃO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1056 DUNGA</option>
+<option>[EQT] COMPLEXO ESCOLAR DIVINO PASTOR</option>
+<option>[EQT] LICEU TETA LANDO</option>
+<option>[EQT] COLÉGIO 17 DE SETEMBRO</option>
+<option>[EQT] COLÉGIO DO SENGA</option>
+<option>[EQT] COLÉGIO DO BANZA POLO</option>
+<option>[EQT] LICEU DO QUIÔNGUA</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DO UÍGE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DAVID BINDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 962 AUP</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 57 MATEUS</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 47 CAMANCOCO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 362 QUIMANGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 16 QUIÔNGUA</option>
+<option>[EQT] COMPLEXO ESCOLAR ALEXANDRE TUNGA LULENDO - CULO</option>
+<option>[EQT] COLÉGIO 11 DE NOVEMBRO</option>
+<option>[EQT] COLÉGIO DA IEBA - PAPELÃO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 64 BANZA QUINGUANGUA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 52 GUNDO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 40 CULO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 32 SENGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 17 TANGE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 1058 QUIMACUNGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 10 DE QUILEVO</option>
+<option>[EQT] ESCOLA PRIMÁRIA QUIGIMA I</option>
+<option>[EQT] COMPLEXO ESCOLAR 27 DE JUNHO</option>
+<option>[EQT] COLÉGIO DO MATEUS</option>
+<option>[EQT] LICEU DO CANDOMBE NOVO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 63 MUENGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 361 - CASSECHE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 323 POPULAR</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 20 MB. NGANGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA EX INCA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO PEDREIRA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA IBLA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE ANA CANDANDE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 53 DE BAU</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 42 BANZA LUANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 41 DAMBI</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 37 CATAMBI I</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO GAI</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO KAKIUIA</option>
+<option>[EQT] MAGISTÉRIO GENERAL FOGUETÃO</option>

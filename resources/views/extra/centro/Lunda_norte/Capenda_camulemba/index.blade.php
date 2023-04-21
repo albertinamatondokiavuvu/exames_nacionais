@@ -1,18 +1,16 @@
-<option>Cuito</option>
-<option>Andulo</option>
-<option>Nharêa</option>
-<option>Cuemba</option>
-<option>Cunhinga</option>
-<option>Catabola</option>
-<option>Camacupa</option>
-<option>Chinguar</option>
-<option>Chitembo</option>
-
-
-
-
-
-
-
-
-
+<option>[EQT] ESCOLA PRIMÁRIA N. 139 - 1 DE MAIO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 148 - HOJI - YA - HENDA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 143 - 4 DE FEVEREIRO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 136 - 11 DE NOVEMBRO</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DE EDUCAÇÃO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 131 - COMANDANTE BULA</option>
+<option>[EQT] COMPLEXO ESCOLAR 17 DE SETEMBRO - XAMIQUELENGUE</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 147 - NJINGA MBANDI</option>
+<option>[EQT] LICEU DO CAPENDA - CAMULENDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 137 - HELDER NETO</option>
+<option>[EQT] ESCOLA PRIMÁRIA NGOLA KILUANGE - N. 146</option>
+<option>[EQT] ESCOLA PRIMÁRIA DEOLINDA RODRIGUES N. 135</option>
+<option>[EQT] ESCOLA PRIMÁRIA HANDJA - YA CAMBOLO - N. 141</option>
+<option>[EQT] COMPLEXO ESCOLAR 14 DE ABRIL - MUXINDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA AUGUSTO NGANGULA N. 134 - KITUMBA KAMBALA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 91 - 22 DE NOVEMBRO</option>

@@ -1,18 +1,27 @@
-<option>Cuito</option>
-<option>Andulo</option>
-<option>Nharêa</option>
-<option>Cuemba</option>
-<option>Cunhinga</option>
-<option>Catabola</option>
-<option>Camacupa</option>
-<option>Chinguar</option>
-<option>Chitembo</option>
-
-
-
-
-
-
-
-
-
+<option>[EQT] ESCOLA PRIMÁRIA DE WECA - CACONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO LUVULA - CACONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE SÓCOTO - CACONGO</option>
+<option>[EQT] INSTITUTO POLITÉCNICO OSVALDO SERRA VAN - DÚNEM - CACONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CHIMONGO - CACONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CHINHEMBO - CACONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE BITCHÉQUETE - CACONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE DINGE - CENTRO - CACONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO COCHILOANGO - CACONGO</option>
+<option>[EQT] COMPLEXO ESCOLAR FATY - VENENO - CACONGO</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DE CACONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE BÊMBICA - CACONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO LICO - CACONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE BEIRA NOVA - CACONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE NGOMONGO - CACONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE ZENGA - CACONGO</option>
+<option>[EQT] COLÉGIO DINGE - CACONGO</option>
+<option>[EQT] MAGISTÉRIO ADPP - CACONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA COMANDANTE MINGAS - CACONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CHAPA - CACONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CHIVOVO - CACONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DO TANDO PALA - CACONGO</option>
+<option>[EQT] COLÉGIO MISSIONÁRIO SÃO TIAGO MAIOR - LÂNDANA - CACONGO</option>
+<option>[EQT] COLÉGIO POLIVALENTE E PROFISSIONAL DE CABINDA - CACONGO</option>
+<option>[EQT] COLÉGIO MASSABI - CACONGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE TENDA - CACONGO</option>
+<option>[EQT] COMPLEXO ESCOLAR SPIEL TENDELE MAURÍCIO FILIPE - CACONGO</option>

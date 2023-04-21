@@ -1,18 +1,71 @@
-<option>Cuito</option>
-<option>Andulo</option>
-<option>Nharêa</option>
-<option>Cuemba</option>
-<option>Cunhinga</option>
-<option>Catabola</option>
-<option>Camacupa</option>
-<option>Chinguar</option>
-<option>Chitembo</option>
-
-
-
-
-
-
-
-
-
+<option>[EQT] ESCOLA PRIMÁRIA ANTÓNIO SACHILOMBO</option>
+<option>[EQT] MAGISTÉRIO SALOMÃO KAWAIA </option>
+<option>[EQT] COMPLEXO ESCOLAR DE CHIUNGUE</option>
+<option>[EQT] ESCOLA PRIMÁRIA SOBA TCHIPULUVAMBI</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CHITANDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE NGONGA </option>
+<option>[EQT] ESCOLA PRIMÁRIA DE EMBALA CHILUCO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CAMBONGO</option>
+<option>[EQT] COMPLEXO ESCOLAR SOBA CHIPUALALA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE MALENGUE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CANGOTI</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CHASSUNGO </option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CHANJA </option>
+<option>[EQT] ESCOLA PRIMÁRIA DE SANUNDA II</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE SACHIPANGUELE</option>
+<option>[EQT] COMPLEXO ESCOLAR DE SACAPOLO </option>
+<option>[EQT] ESCOLA PRIMÁRIA DE RAÍZ J. NACOSSENGUE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CAMBALI</option>
+<option>[EQT] COMPLEXO ESCOLAR DA IECA N. 32.</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE FÁTIMA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE EMBALA VIHELE </option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CHIMBANGO</option>
+<option>[EQT] COMPLEXO ESCOLAR DE CANGALA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CATUVA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE LONGONGO CINCO  REIS </option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CHIQUENDULA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 232 CANJAMBA </option>
+<option>[EQT] ESCOLA PRIMÁRIA DE BOA ESPERANÇA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE EMBALA CANGOTI</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE DONDO </option>
+<option>[EQT] ESCOLA PRIMÁRIA DE TUNDA NDONDI </option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CAVITINDO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CANTÃO 4 </option>
+<option>[EQT] ESCOLA PRIMÁRIA DE SAPINDI</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE SANJAVITI</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CANHANGA </option>
+<option>[EQT] ESCOLA PRIMÁRIA DE SACATO </option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CAMBILI </option>
+<option>[EQT] LICEU SOBA NGUALI </option>
+<option>[EQT] COLÉGIO FRANCISCO LANDA </option>
+<option>[EQT] ESCOLA PRIMÁRIA DE EMBALA CAMELA </option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CALUNJINJI </option>
+<option>[EQT] DIRECÇÃO MUNICÍPAL DA EDUCAÇÃO DO CHINGUAR</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CHISSAMBA </option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CHIMBUELELNGUE</option>
+<option>[EQT] COMPLEXO ESCOLAR DE CASSENJE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CAYOMBOLA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CASTRO </option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CASSOCO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CENTRO CAMBONGUE</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CANGALA VELHA </option>
+<option>[EQT] ESCOLA PRIMÁRIA SÃO JOSÉ </option>
+<option>[EQT] ESCOLA PRIMÁRIA DE NDAMBUCA </option>
+<option>[EQT] ESCOLA PRIMÁRIA DE ALEPI </option>
+<option>[EQT] COLÉGIO 22 DE NOVEMBRO - CHINGUAR</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CHIMBALANDONGO </option>
+<option>[EQT] COMPLEXO ESCOLAR DE CHIUGUE </option>
+<option>[EQT] COMPLEXO ESCOLAR DE CAPANJE</option>
+<option>[EQT] COLEGIO DE CHALALE </option>
+<option>[EQT] ESCOLA PRIMÁRIA DE VILA - BELA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE SOMAVIE SAMALESSO </option>
+<option>[EQT] ESCOLA PRIMÁRIA DE SEMA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CANATA VELHA</option>
+<option>[EQT] ESCOLA PRIMÁRIA DA MISSÃO CATÓLICA </option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 12 MISSIONÁRIA </option>
+<option>[EQT] LICEU LÁZARO VILINGA </option>
+<option>[EQT] ESCOLA PRIMÁRIA DE NDAVOCA </option>
+<option>[EQT] ESCOLA PRIMÁRIA DE CANHULO</option>
+<option>[EQT] ESCOLA PRIMÁRIA DE MUHELO </option>
+<option>[EQT] COLÉGIO PADRE ARNALDO N. 142 </option>
+<option>[EQT] ESCOLA PRIMÁRIA JUSTO MUSSILI </option>

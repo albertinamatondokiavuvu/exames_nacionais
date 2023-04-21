@@ -1,18 +1,32 @@
-<option>Cuito</option>
-<option>Andulo</option>
-<option>Nharêa</option>
-<option>Cuemba</option>
-<option>Cunhinga</option>
-<option>Catabola</option>
-<option>Camacupa</option>
-<option>Chinguar</option>
-<option>Chitembo</option>
-
-
-
-
-
-
-
-
-
+<option>[EQT] COMPLEXO ESCOLAR N. 831 DOM BOSCO-CAMBAMBE</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 810-NGUIMBI - SONGUE CASSECE ZONA - 2</option>
+<option>[EQT] ESCOLA PRIMÁRIA 827 KM 34-NOVA CASSOALALA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 821 JOÃO CARDOSO JORDÃO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 804 - 22 DE NOVEMBRO</option>
+<option>[EQT] COLÉGIO N. 820-DOM PEDRO I</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 822-REI NGUIMBI</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 812 SOBA GINBONGO ALTO - DONDO</option>
+<option>[EQT] COLÉGIO N. 808 - 4 DE JANEIRO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N.819-TALA LEMBA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 824 FRANCISCO POLICARPO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 811 COMANDANTE STONA ALTO - DONDO</option>
+<option>[EQT] INSTITUTO POLITÉCNICO N. 807 CHICO MENDELIEV - CAMBAMBE</option>
+<option>[EQT] COMPLEXO ESCOLAR 834 KM 13 - MASSANGANO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 830 MUCOZO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 816-COMANDANTE CAFEBELE</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 815-COMANDANTE PAKA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 818-NGOLA YETU</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 835 - ZENZA - DO - ITOMBE</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 828 - 1. DE JUNHO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 825-SOBA NGOLOME</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 806-ALGODOEIRA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 832-MATEUS PEDRO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 829 COMANDANTE SARABI</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 805 COMANDANTE BULA SATEC</option>
+<option>[EQT] COLÉGIO N. 801-SOBA MANUEL QUISSOLA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 817-SOBA CABOCO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 822-NGOLA KIETO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 826-SOBA JOAQUIM QUITUXI</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 803 - CIDADE</option>
+<option>[EQT] COMPLEXO ESCOLAR MANUEL N.814-PEDRO PACAVIRA DO ALTO - DONDO</option>
+<option>[EQT] ESCOLA DE MAGISTÉRIO N. 802 MAURÍCIO DOMINGOS - DONDO</option>

@@ -1,18 +1,20 @@
-<option>Cuito</option>
-<option>Andulo</option>
-<option>Nharêa</option>
-<option>Cuemba</option>
-<option>Cunhinga</option>
-<option>Catabola</option>
-<option>Camacupa</option>
-<option>Chinguar</option>
-<option>Chitembo</option>
-
-
-
-
-
-
-
-
-
+<option>[EQT] ESCOLA PRIMÁRIA N. 27 - CUIMBA</option>
+<option>[EQT] COMPLEXO ESCOLAR 28 DE AGOSTO - KUIMBA</option>
+<option>[EQT] COLÉGIO BOA VISTA - KUIMBA</option>
+<option>[EQT] COLÉGIO BUELA - KUIMBA</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DO KUIMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 51 - TERRA NOVA - KUIMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 275 - MBANZA KUIMBA - KUIMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 99 - NGOMBE YA NGOMBE - KUIMBA</option>
+<option>[EQT] COLÉGIO NGOMBE YA NGOMBE - KUIMBA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 153 - KASU - KUIMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 57 - BOA VISTA - KUIMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 81 - NTOME - KUIMBA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 138 - KIKONGO - KUIMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 63 - ÁLVARO BUTA - KUIMBA</option>
+<option>[EQT] COLÉGIO TERRA NOVA - KUIMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 15 - MBONGI DIADIA - KUIMBA</option>
+<option>[EQT] LICEU - EDUARDO JOSÉ DO KUIMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 69 - BUELA - KUIMBA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 03 - 10 DE DEZEMBRO - KUIMBA</option>
+<option>[EQT] COLÉGIO LUVAKA - KUIMBA</option>

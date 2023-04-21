@@ -1,18 +1,19 @@
-<option>Cuito</option>
-<option>Andulo</option>
-<option>Nharêa</option>
-<option>Cuemba</option>
-<option>Cunhinga</option>
-<option>Catabola</option>
-<option>Camacupa</option>
-<option>Chinguar</option>
-<option>Chitembo</option>
-
-
-
-
-
-
-
-
-
+<option>[EQT] ESCOLA DO ENSINO PRIMARIO N. 29 DE ICUNGULA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 50 LUEJI ANKONDE</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 34 DEOLINDA RODRIGUES</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 116 DE FUCAUMA</option>
+<option>[EQT] MAGISTÉRIO DO CAMBULO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 24 DE CASSANGUIDI</option>
+<option>[EQT] ESCOLA DO ENSINO PRIMÁRIO N. 35 DE CACHIMO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 49 DE LUXILO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 36 DO LUIA</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DO CAMBULO</option>
+<option>[EQT] COMPLEXO ESCOLAR 28 DE AGOSTO N. 27 DE CATANGULA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 48 COMANDANTE GIKA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 37 AUGUSTO NGANGULA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 33 COMANDANTE SAY - DI MINGAS</option>
+<option>[EQT] LICEU N. 50 LUEJI A´NKONDE</option>
+<option>[EQT] ESCOLA DO ENSINO PRIMÁRIO N. 30 DE COSSA</option>
+<option>[EQT] ESCOLA DO ENSINO PRIMÁRIO N. 21 DE CALUMBUEJI</option>
+<option>[EQT] COMPLEXO ESCOLAR 4 DE ABRIL N. 31 MALUDI</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 28 DE CHICO - GUERREIRO</option>

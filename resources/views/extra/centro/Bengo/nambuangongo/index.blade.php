@@ -1,7 +1,39 @@
-<option>Dande</option>
-<option>Ambriz</option>
-<option>Pango Aluquém</option>
-<option>Dembos</option>
-<option>Nambuangongo</option>
-<option>Bula Atumba</option>
-
+<option>[EQT] ESCOLA PRIMARIA N. 701 - KISSACALA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 716 - ZEMBA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 736 KIWEMBO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 709 KIMAZANGUI</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 706 - NOBRE MANUEL ADÃO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 728 KINIÊNGUE</option>
+<option>[EQT] ESCOLA PRIMARIA N. 700 COMANDANTE DIMBONDUA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 719- KIMBAGE</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 733 LOPES MARIA XIMUTO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 712 LOPES FERNANDO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 723 KICANGASSALA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 718 - CAMEMBE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 717 KIHINGA NZAMBI</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 707 VILA - MPIPA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 713 SEBASTIÃO BUNDO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 714 NOBRE CAMPOS PEREIRA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 705 KINGUENGO</option>
+<option>[EQT] ESCOLA PRIMARIA N. 703- GOMBE SEDE</option>
+<option>[EQT] LICEU N. 774 - GENERAL DOMINGOS HUNGO "SKS"</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 725 JOÃO D. DE CARVALHO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 724 PEDRO MATEUS CONGO</option>
+<option>[EQT] COMPLETO ESCOLAR  N. 730 - COMANDANTE BOLA DO POVO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 735 JOÃO MARIO DA COSTA- NAMBUAGONGO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 732 COMANDANTE STALINE</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 731 RODRIGUES C. CANDIDO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 711-JOAQUIM F. MUSSUNDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 726 TEMPO MUDA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 722 MUTOLO MUGINGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 702 - CAIENGUE</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 720 GOMES JOÃO NETO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 727 - TERESA AFONSO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 729 TONGO DYANDUA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 715 RAUL MARQUES MAHINGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 704- BANZA-SÃO PAULO</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DA EDUCAÇÃO DO NAMBUANGONGO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 734 ANTÓNIO ADOLFO SACUDIDO</option>
+<option>[EQT] ESCOLA PRIMARIA Nº 721 - DIAGUERRA-MUXALUANDO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 708 KILUMBO</option>
+<option>[EQT] ESCOLA PRIMARIA N. 710- KIBUMDA - NAMBUANGONGO</option>

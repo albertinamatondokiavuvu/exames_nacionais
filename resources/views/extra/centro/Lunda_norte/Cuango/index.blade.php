@@ -1,18 +1,25 @@
-<option>Cuito</option>
-<option>Andulo</option>
-<option>Nharêa</option>
-<option>Cuemba</option>
-<option>Cunhinga</option>
-<option>Catabola</option>
-<option>Camacupa</option>
-<option>Chinguar</option>
-<option>Chitembo</option>
-
-
-
-
-
-
-
-
-
+<option>[EQT] MAGISTÉRIO DO CUANGO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 116 DO LUREMO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 03 DO BAIRRO SAMUAMBA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 129 RAINHA MUANA CAFUNFO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 9 ORGULHO DE SER</option>
+<option>[EQT] DIRECÇÃO MUNICIPAL DO CUANGO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 115 NGONGA BABI</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 07 MISSÃO CATÓLICA DO MUSSUCO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 6 - 1 DE MAIO DO SAMUAMBA</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 113 - 4 DE ABRIL</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 128 - ARRCO - ÍRIS IEIA - CAPANGO</option>
+<option>[EQT] COLÉGIO N. 5 DO LUREMO</option>
+<option>[EQT] LICEU N. 2 CAFUNFO - SUL</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 8 - MADRE ALPHONSA</option>
+<option>[EQT] ESCOLA DO ENSINO PRIMÁRIO EBENEZER I.E.I.A</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 118 DEOLINDA RODRIGUES</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 123 HOJI - YA - HENDA DO CAMARIANGA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 11 DAS ANTENAS</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 16 COMANDANTE GIKA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 15 BRILHANTE DO AMANHÃ</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 119 DA ELEVAÇÃO - NOSSA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 122 DO QUINGURI - LUZAMBA</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 117 - 4 DE FEVEREIRO</option>
+<option>[EQT] COMPLEXO ESCOLAR N.114 DR.ANTÓNIO AGOSTINHO NETO</option>
+<option>[EQT] ESCOLA PRIMÁRIA N. 12 DO BAIRRO FERNANDO</option>

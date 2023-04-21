@@ -15,12 +15,12 @@
 </div>
 <div class=" row mb-3">
     <div class="col-sm">
-        <select name="tipo_user"  value="{{ isset($users->tipo_user) ? $users->tipo_user : '' }}" class="form-control" id="">
+        <select name="tipo_user"  value="{{ isset($users->tipo_user) ? $users->tipo_user : '' }}" class="form-control multiplo" id="">
 
            @isset($users)
            <option value="{{ $users->tipo_user }}" >
             @if($users->tipo_user == "SP")
-            Supervisor
+            Secretários
         @else
         Vigilante
         @endif
@@ -28,7 +28,7 @@
            @else
            <option disabled selected>Selecione o Tipo de Usuário</option>
            @endisset
-            <option value="SP" >Supervisor</option>
+            <option value="SP" >Secretário</option>
             <option value="V">Vigilante</option>
         </select>
     </div>

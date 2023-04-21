@@ -17,9 +17,11 @@
   <!-- endinject -->
   <link rel="shortcut icon" href="/template/images/favicon.png" />
 </head>
+
 <body>
   <div class="container-scroller">
     <!-- partial:partials/_navbar.html -->
+
     @include('extra.sweetalert.index')
   @include('layouts._includes.dashboard.Menu')
       <!-- partial -->
