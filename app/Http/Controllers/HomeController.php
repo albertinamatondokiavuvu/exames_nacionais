@@ -1,8 +1,6 @@
 <?php
 
 namespace App\Http\Controllers;
-
-use App\Models\centroExameExame;
 use Illuminate\Http\Request;
 use App\Models\User;
 use Illuminate\Support\Facades\Auth;
@@ -67,8 +65,14 @@ class HomeController extends Controller
         $data['masculino'] = 0;
         $data['feminino'] = 0;
         foreach ($tes as $teb) {
-            $data['feminino'] = Aluno::where('sexo', '=', 'Feminino')->count();
-            $data['masculino'] = Aluno::where('sexo', '=', 'Masculino')->count();
+            $data['feminino'] = DB::table('alunos')
+                ->join('turmas', 'turmas.id', 'alunos.turma_id')
+                ->join('classes', 'classes.id', 'turmas.classe_id')
+                ->where([['centroexame', '=', Auth::user()->instituicao], ['sexo', '=', 'Feminino']])->count();
+            $data['masculino'] =  DB::table('alunos')
+                ->join('turmas', 'turmas.id', 'alunos.turma_id')
+                ->join('classes', 'classes.id', 'turmas.classe_id')
+                ->where([['centroexame', '=', Auth::user()->instituicao], ['sexo', '=', 'Masculino']])->count();
         }
         //admin
         $data['total_alunos'] = Aluno::count();
@@ -98,8 +102,9 @@ class HomeController extends Controller
         $data['defAluno'] = DB::table('alunos')
             ->join('turmas', 'turmas.id', 'alunos.turma_id')
             ->join('classes', 'classes.id', 'turmas.classe_id')
-            ->where([['centroexame', '=', Auth::user()->instituicao], ['deficiencia', '!=', 'Nenhum']])
+            ->where([['centroexame', '=', Auth::user()->instituicao],['deficiencia', '!=', 'Nenhum']])
             ->count();
+
         return view('dashboard.home.index', compact('centro3', 'total_aluno', 'sp_centro', 'total_sp', 'v_centro', 'total_v'), $data);
     }
 }

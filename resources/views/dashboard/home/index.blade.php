@@ -408,6 +408,10 @@
         </div>
 
     @endif
+
+
+
+    <!--Diretores do centro-->
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <script type="text/javascript">
         var labels = {{ $year }};
@@ -463,7 +467,37 @@
             }
         });
     </script>
-    <!--dm-->
+     <!--Diretores do centro-->
+ <!--   <script>
+        var ctx1 = document.getElementById('myChart3').getContext('2d');
+        var chart1 = new Chart(ctx1, {
+            type: 'doughnut',
+            data: {
+                labels: ['Feminino', 'Masculino'],
+                datasets: [{
+                    label: 'Utentes por gênero',
+                    backgroundColor: ['yellow', 'blue'],
+                    borderColor: 'white',
+                    data: ['<?php echo $feminino; ?>', ' <?php echo $masculino; ?>'],
+                }],
+            },
+            // Configuration options go here
+            options: {
+                scales: {
+                    yAxes: [{
+                        stacked: false
+                    }]
+                },
+                responsive: true,
+                title: {
+                    display: true,
+                    text: 'Alunos por Gênero'
+                },
+            }
+        });
+    </script>-->
+
+    <!--Diretores municipais-->
     <script>
         const ctx = document.getElementById('myChart2');
 
@@ -530,7 +564,7 @@
         }
     });
 </script>
-
+ <!--Diretores municipais-->
 
 
 
