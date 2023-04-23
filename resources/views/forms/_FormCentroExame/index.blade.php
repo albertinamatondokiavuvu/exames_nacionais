@@ -12,7 +12,7 @@
                 @include('extra.centro.Bengo.Bula_atumba.index')
             @elseif (Auth::user()->municipio == 'Ambriz')
                 @include('extra.centro.Bengo.Ambriz.index')
-            @elseif (Auth::user()->municipio == 'Pango Aluqém')
+            @elseif (Auth::user()->municipio == 'Pango Aluquém')
                 @include('extra.centro.Bengo.pango_aluquem.index')
             @elseif (Auth::user()->municipio == 'Dembos')
                 @include('extra.centro.Bengo.Dembos.index')
@@ -41,7 +41,7 @@
             @elseif (Auth::user()->municipio == 'Catumbela')
                 @include('extra.centro.Benguela.Catumbela.index')
             @endif
-        @elseif(Auth::user()->provincia == 'Bie')
+        @elseif(Auth::user()->provincia == 'bié')
             @if (Auth::user()->municipio == 'Cuito')
                 @include('extra.centro.Bie.Cuito.index')
             @elseif (Auth::user()->municipio == 'Andulo')
@@ -71,7 +71,7 @@
             @elseif (Auth::user()->municipio == 'Belize')
                 @include('extra.centro.Cabinda.Belize.index')
             @endif
-        @elseif(Auth::user()->provincia == 'Cuando Cubango')
+        @elseif(Auth::user()->provincia == 'Cuando-Cubango')
             @if (Auth::user()->municipio == 'Menongue')
                 @include('extra.centro.Cuando_Cubango.Menongue.index')
             @elseif (Auth::user()->municipio == 'Cuito Cuanavale')
@@ -232,7 +232,7 @@
             @elseif (Auth::user()->municipio == 'Viana')
                 @include('extra.centro.Luanda.Viana.index')
             @endif
-        @elseif(Auth::user()->provincia == 'Lunda-Norte')
+        @elseif(Auth::user()->provincia == 'Lunda Norte')
             @if (Auth::user()->municipio == 'Cambulo')
                 @include('extra.centro.Lunda_norte.Cambulo.index')
             @elseif (Auth::user()->municipio == 'Chitato')
@@ -254,7 +254,7 @@
             @elseif (Auth::user()->municipio == 'Xá Muteba')
                 @include('extra.centro.Lunda_norte.xa_muteba.index')
             @endif
-        @elseif(Auth::user()->provincia == 'Lunda-Sul')
+        @elseif(Auth::user()->provincia == 'Lunda Sul')
             @if (Auth::user()->municipio == 'Cacolo')
                 @include('extra.centro.Lunda_sul.Cacolo.index')
             @elseif (Auth::user()->municipio == 'Dala')
@@ -264,7 +264,7 @@
             @elseif (Auth::user()->municipio == 'Saurimo')
                 @include('extra.centro.Lunda_sul.Saurimo.index')
             @endif
-        @elseif(Auth::user()->provincia == 'Malanje')
+        @elseif(Auth::user()->provincia == 'malanje')
             @if (Auth::user()->municipio == 'Cacuso')
                 @include('extra.centro.Malanje.Cacuso.index')
             @elseif (Auth::user()->municipio == 'Cahombo')
@@ -275,7 +275,7 @@
                 @include('extra.centro.Malanje.Cambundi_catembo.index')
             @elseif (Auth::user()->municipio == 'Cangandala')
                 @include('extra.centro.Malanje.Cangandala.index')
-            @elseif (Auth::user()->municipio == 'Kiwaba-Nzoji')
+            @elseif (Auth::user()->municipio == 'Kiwaba Nzoji')
                 @include('extra.centro.Malanje.Kiwaba_nzoji.index')
             @elseif (Auth::user()->municipio == 'Luquembo')
                 @include('extra.centro.Malanje.Luquembo.index')

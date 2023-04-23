@@ -21,7 +21,7 @@ class TurmaController extends Controller
     public function turma_store(Request $request)
     {
         $mensagens = [
-            'required' => 'O :attribute é obrigatório!',
+            'required' => 'O :attribute 茅 obrigat贸rio!',
 
         ];
         $request->validate(
@@ -57,7 +57,7 @@ class TurmaController extends Controller
     public function turma_update(Request $request, $id)
     {
         $mensagens = [
-            'required' => 'O :attribute é obrigatório!',
+            'required' => 'O :attribute 茅 obrigat贸rio!',
 
 
         ];

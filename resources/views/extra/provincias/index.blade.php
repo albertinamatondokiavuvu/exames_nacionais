@@ -3,11 +3,11 @@
 <option>Bengo</option>
 @elseif (Auth::user()->provincia == 'Benguela')
 <option>Benguela</option>
-@elseif (Auth::user()->provincia == 'Bie')
+@elseif (Auth::user()->provincia == 'Bié')
 <option>Bié</option>
 @elseif (Auth::user()->provincia == 'Cabinda')
 <option>Cabinda</option>
-@elseif (Auth::user()->provincia == 'Cuando Cubango')
+@elseif (Auth::user()->provincia == 'Cuando-Cubango')
 <option>Cuando-Cubango</option>
 @elseif (Auth::user()->provincia == 'Cuanza Norte')
 <option>Cuanza Norte</option>

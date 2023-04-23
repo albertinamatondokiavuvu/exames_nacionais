@@ -77,3 +77,5 @@
 <option>[EQT] COMPLEXO ESCOLAR N. 16 CCM2 - KUELEI</option>
 <option>[EQT] COMPLEXO ESCOLAR Nº. 43 - MISSOMBO</option>
 <option>[EQT] COMPLEXO ESCOLAR N. 01 CCM2 - 4 DE FEVEREIRO</option>
+<option>[EQT] COMPLEXO ESCOLAR N. 96 CCM2 - CASTILHO</option>
+
