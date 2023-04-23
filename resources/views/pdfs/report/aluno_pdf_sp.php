@@ -22,7 +22,7 @@
        echo Auth::user()->instituicao;?></span></h1>
     </div>
     <table  class=" table">
-        <thead>
+        <thead >
             <tr >
                 <th style="height:30px; width:20px;"  class="text-center" >Nº</th>
                 <th class="text-center">Nome</th>

@@ -17,7 +17,7 @@
     <img class="logotipo" src="images/logo.png" alt="" srcset="">
     <p class=" republica text-center">REPÚBLICA DE ANGOLA <br> MINISTÉRIO DA EDUCAÇÃO <br>INSTITUTO NACIONAL DE AVALIAÇÃO E DESENVOLVIMENTO DA EDUCAÇÃO<br> <?php echo date("d-m-Y");?></p>
     <div class="text-center">
-        <h1 class="text-primary" style="margin-top: 100px; margin-bottom: 50px;" > LISTA DE ALUNOS</span></h1>
+        <h1 class="text-primary" style="margin-top: 100px; margin-bottom: 50px;" > LISTA DE ALUNOS </span></h1>
     </div>
     <table  class=" table">
         <thead>
@@ -29,8 +29,9 @@
                 <th class="text-center">Turma</th>
                 <th class="text-center">Classe</th>
                 <th class="text-center">Escola de Proveniencia</th>
-                <th class="text-center">Centro de exame</th>
+                 <th class="text-center">Centro de exame</th>
                 <th class="text-center">Tipo de Deficiência</th>
+                
 
             </tr>
         </thead>

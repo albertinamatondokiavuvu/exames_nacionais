@@ -16,7 +16,7 @@ class CentroExameController extends Controller
     public function centro_store(Request $request)
     {
         $mensagens = [
-            'required' => 'O :attribute é obrigatório!',
+            'required' => 'O :attribute 茅 obrigat贸rio!',
         ];
         $request->validate(
             [

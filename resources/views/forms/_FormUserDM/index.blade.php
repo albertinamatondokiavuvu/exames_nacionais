@@ -18,18 +18,18 @@
         @isset($users)
         <option>{{ $users->municipio }}</option>
         @else
-        <option disabled selected>Selecione a Município</option>
+        <option disabled selected>Selecione o Município</option>
         @endisset
 
 @if(Auth::user()->provincia == "Bengo")
 @include('extra.municipio.Bengo.index')
 @elseif(Auth::user()->provincia == "Benguela")
 @include('extra.municipio.Benguela.index')
-@elseif(Auth::user()->provincia == "Bie")
+@elseif(Auth::user()->provincia == "bié")
 @include('extra.municipio.Bie.index')
 @elseif(Auth::user()->provincia == "Cabinda")
 @include('extra.municipio.Cabinda.index')
-@elseif(Auth::user()->provincia == "Cuando Cubango")
+@elseif(Auth::user()->provincia == "Cuando-Cubango")
 @include('extra.municipio.Cuando_Cubango.index')
 @elseif(Auth::user()->provincia == "Cuanza Norte")
 @include('extra.municipio.Cuanza_norte.index')
@@ -47,7 +47,7 @@
 @include('extra.municipio.Lunda_norte.index')
 @elseif(Auth::user()->provincia == "Lunda Sul")
 @include('extra.municipio.Lunda_sul.index')
-@elseif(Auth::user()->provincia == "Malanje")
+@elseif(Auth::user()->provincia == "malanje")
 @include('extra.municipio.Malanje.index')
 @elseif(Auth::user()->provincia == "Moxico")
 @include('extra.municipio.Moxico.index')
