@@ -12,7 +12,7 @@
                             class="d-flex align-items-center justify-content-between justify-content-md-center justify-content-xl-between flex-wrap mb-4">
                             <div>
                                 <p class="mb-2 text-md-center text-lg-left">Total de Alunos</p>
-                                <h1 class="mb-0">{{ $total_alunos }}</h1>
+                                <h1 class="mb-0"></h1>
                             </div>
                             <a href="{{ route('viewsearch') }}" class="btn btn-primary">Imprimir</a>
                         </div>
@@ -26,7 +26,7 @@
                             class="d-flex align-items-center justify-content-between justify-content-md-center justify-content-xl-between flex-wrap mb-4">
                             <div>
                                 <p class="mb-2 text-md-center text-lg-left">Alunos Com deficiências </p>
-                                <h1 class="mb-0">{{ $total_alunos_def }}</h1>
+                                <h1 class="mb-0"></h1>
                             </div>
                            <!-- <a href="" target="_blank" class="btn btn-primary">Imprimir</a>-->
                         </div>
@@ -41,7 +41,7 @@
                             class="d-flex align-items-center justify-content-between justify-content-md-center justify-content-xl-between flex-wrap mb-4">
                             <div>
                                 <p class="mb-2 text-md-center text-lg-left">Total de Centro de exame</p>
-                                <h1 class="mb-0"> {{ $total_centroexame }}</h1>
+                                <h1 class="mb-0"></h1>
                             </div>
                            <!-- <a href="" target="_blank" class="btn btn-primary">Imprimir</a>-->
                         </div>
@@ -77,10 +77,7 @@
                             <div>
                                 <p class="mb-2 text-md-center text-lg-left">Directores Municipais</p>
                                 <h1 class="mb-0">
-                                    @isset($dm)
-                                        {{ $dm }}
-                                    @else
-                                    @endisset
+
                                 </h1>
                             </div>
                             <a href="{{ route('DM_PDF_DP') }}" target="_blank" class="btn btn-primary">Imprimir</a>
@@ -96,11 +93,7 @@
                             <div>
                                 <p class="mb-2 text-md-center text-lg-left">Directores de Centros </p>
                                 <h1 class="mb-0">
-                                    @isset($dc)
-                                        {{ $dc }}
-                                    @else
-                                        0
-                                    @endisset
+
                                 </h1>
                             </div>
                             <a href="{{ route('DC_PDF_DP') }}" target="_blank" class="btn btn-primary">Imprimir</a>
@@ -117,11 +110,7 @@
                             <div>
                                 <p class="mb-2 text-md-center text-lg-left">Centro de exame</p>
                                 <h1 class="mb-0">
-                                    @isset($c)
-                                        {{ $c }}
-                                    @else
-                                        0
-                                    @endisset
+
                                 </h1>
                             </div>
                             <a href="{{ route('viewsearch') }}" class="btn btn-primary">Ver mais</a>
@@ -181,7 +170,7 @@
                             class="d-flex align-items-center justify-content-between justify-content-md-center justify-content-xl-between flex-wrap mb-4">
                             <div>
                                 <p class="mb-2 text-md-center text-lg-left">Directores de Centro de exame</p>
-                                <h1 class="mb-0">{{ $dc }}</h1>
+                                <h1 class="mb-0"></h1>
                             </div>
                             <a href="{{ route('DC_PDF_DM') }}" target="_blank" class="btn btn-primary">Imprimir</a>
                         </div>
@@ -195,7 +184,7 @@
                             class="d-flex align-items-center justify-content-between justify-content-md-center justify-content-xl-between flex-wrap mb-4">
                             <div>
                                 <p class="mb-2 text-md-center text-lg-left">Total Centro de exame</p>
-                                <h1 class="mb-0">{{ $c }}</h1>
+                                <h1 class="mb-0"></h1>
                             </div>
                           <!-- <a href="" target="_blank" class="btn btn-primary">Imprimir</a>-->
                         </div>
@@ -209,7 +198,7 @@
                             class="d-flex align-items-center justify-content-between justify-content-md-center justify-content-xl-between flex-wrap mb-4">
                             <div>
                                 <p class="mb-2 text-md-center text-lg-left">Total de Alunos</p>
-                                <h1 class="mb-0">{{ $ac }}</h1>
+                                <h1 class="mb-0"></h1>
                             </div>
                            <!-- <a href="" target="_blank" class="btn btn-primary">Imprimir</a>-->
                         </div>
@@ -259,7 +248,7 @@
                             class="d-flex align-items-center justify-content-between justify-content-md-center justify-content-xl-between flex-wrap mb-4">
                             <div>
                                 <p class="mb-2 text-md-center text-lg-left">Total de Aluno</p>
-                                <h1 class="mb-0">{{ $alunos }}</h1>
+                                <h1 class="mb-0"></h1>
                             </div>
                             <a href="{{ route('searchAluno') }}"  class="btn btn-primary">Imprimir</a>
                         </div>
@@ -273,7 +262,7 @@
                             class="d-flex align-items-center justify-content-between justify-content-md-center justify-content-xl-between flex-wrap mb-4">
                             <div>
                                 <p class="mb-2 text-md-center text-lg-left">Total de Secretários </p>
-                                <h1 class="mb-0">{{ $sp_dc }}</h1>
+                                <h1 class="mb-0"></h1>
                             </div>
                             <a href="{{ route('sp_dc_report') }}" target="_blank" class="btn btn-primary">Imprimir</a>
                         </div>
@@ -288,7 +277,7 @@
                             class="d-flex align-items-center justify-content-between justify-content-md-center justify-content-xl-between flex-wrap mb-4">
                             <div>
                                 <p class="mb-2 text-md-center text-lg-left">Total Vigilantes</p>
-                                <h1 class="mb-0">{{ $v_dc }}</h1>
+                                <h1 class="mb-0"></h1>
                             </div>
                             <a href="{{ route('v_dc_report') }}" target="_blank" class="btn btn-primary">Imprimir</a>
                         </div>
@@ -330,13 +319,12 @@
                             class="d-flex align-items-center justify-content-between justify-content-md-center justify-content-xl-between flex-wrap mb-4">
                             <div>
                                 <p class="mb-2 text-md-center text-lg-left">Total de Alunos</p>
-                                <h1 class="mb-0">{{ $alunos }}</h1>
+                                <h1 class="mb-0"></h1>
                             </div>
-                            @if ($alunos == 0)
-                            @else
+
                                 <a href="{{ route('searchAluno') }}"
                                     class="btn btn-primary">Imprimir</a>
-                            @endif
+
                         </div>
                     </div>
                 </div>
@@ -348,13 +336,12 @@
                             class="d-flex align-items-center justify-content-between justify-content-md-center justify-content-xl-between flex-wrap mb-4">
                             <div>
                                 <p class="mb-2 text-md-center text-lg-left">Total de Deficientes</p>
-                                <h1 class="mb-0">{{ $defAluno }}</h1>
+                                <h1 class="mb-0"></h1>
                             </div>
-                            @if ($defAluno == 0)
-                            @else
+
                                 <a href="{{ route('Aluno_pdf_sp_def') }}" target="_blank"
                                     class="btn btn-primary">Imprimir</a>
-                            @endif
+
                         </div>
                     </div>
                 </div>
@@ -408,130 +395,6 @@
         </div>
 
     @endif
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <script type="text/javascript">
-        var labels = {{ $year }};
-        var users = {{ $user }};
-
-        const data = {
-            labels: labels,
-            datasets: [{
-                label: 'Alunos por ano',
-                backgroundColor: 'rgb(255, 99, 132)',
-                borderColor: 'rgb(255, 99, 132)',
-                data: users,
-            }]
-        };
-
-        const config = {
-            type: 'polarArea',
-            data: data,
-            options: {}
-        };
-
-        const myChart = new Chart(
-            document.getElementById('myChart1'),
-            config
-        );
-    </script>
-
-    <script>
-        var ctx1 = document.getElementById('myChart3').getContext('2d');
-        var chart1 = new Chart(ctx1, {
-            type: 'doughnut',
-            data: {
-                labels: ['Feminino', 'Masculino'],
-                datasets: [{
-                    label: 'Utentes por gênero',
-                    backgroundColor: ['yellow', 'blue'],
-                    borderColor: 'white',
-                    data: ['<?php echo $feminino; ?>', ' <?php echo $masculino; ?>'],
-                }],
-            },
-            // Configuration options go here
-            options: {
-                scales: {
-                    yAxes: [{
-                        stacked: false
-                    }]
-                },
-                responsive: true,
-                title: {
-                    display: true,
-                    text: 'Alunos por Gênero'
-                },
-            }
-        });
-    </script>
-    <!--dm-->
-    <script>
-        const ctx = document.getElementById('myChart2');
-
-        new Chart(ctx, {
-            type: 'polarArea',
-            data: {
-                labels: {{ Js::from($centro3) }},
-                datasets: [{
-                    label: 'Alunos por Centros de exames',
-                    data: {{ $total_aluno }},
-                    borderWidth: 1
-                }]
-            },
-            options: {
-                scales: {
-                    y: {
-                        beginAtZero: true
-                    }
-                }
-            }
-        });
-    </script>
- <script>
-    const ctx3 = document.getElementById('myChart4');
-
-    new Chart(ctx3, {
-        type: 'polarArea',
-        data: {
-            labels: {{ Js::from($sp_centro) }},
-            datasets: [{
-                label: 'Secretários por Centros de exames',
-                data: {{ $total_sp }},
-                borderWidth: 1
-            }]
-        },
-        options: {
-            scales: {
-                y: {
-                    beginAtZero: true
-                }
-            }
-        }
-    });
-</script>
-<script>
-    const ctx4 = document.getElementById('myChart5');
-
-    new Chart(ctx4, {
-        type: 'polarArea',
-        data: {
-            labels: {{ Js::from($v_centro) }},
-            datasets: [{
-                label: 'Vigilantes por Centros de exames',
-                data: {{ $total_v }},
-                borderWidth: 1
-            }]
-        },
-        options: {
-            scales: {
-                y: {
-                    beginAtZero: true
-                }
-            }
-        }
-    });
-</script>
-
-
 
 
     @include('layouts._includes.dashboard.Footer')
