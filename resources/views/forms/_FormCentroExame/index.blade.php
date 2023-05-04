@@ -178,7 +178,7 @@
                 @include('extra.centro.Huambo.Mungo.index')
             @endif
             <!--Pedro-->
-        @elseif (Auth::user()->provincia == 'Huila')
+        @elseif (Auth::user()->provincia == 'Huíla')
             @if (Auth::user()->municipio == 'Caconda')
                 @include('extra.centro.Huila.Caconda.index')
             @elseif (Auth::user()->municipio == 'Cacula')
