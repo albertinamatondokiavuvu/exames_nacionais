@@ -52,7 +52,7 @@
         </tbody>
 
     </table>
-    <small style="font-size: 11px; margin-top:-4%;">Prezado (a) vigilante, assinale obrigatoriamnete a presença dos alunos
+    <small style="font-size: 11px; margin-top:-4%;">Prezado (a) vigilante, assinale obrigatoriamenete a presença dos alunos
         ao exame, e solicite sua assinatura, nos campos abaixo identificados. </small>
 </div>
 
