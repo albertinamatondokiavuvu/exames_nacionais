@@ -47,6 +47,9 @@
                                             <td>
                                                 <a class="btn btn-primary" target="_blank"
                                                 href="{{ route('Aluno_pdf_sp_med', $alunos1->id) }}">Ver Alunos</a>
+
+                                                <a class="btn btn-primary" target="_blank"
+                                                href="{{ route('Aluno_presences', $alunos1->id) }}">Lista de Presença</a>
                                             </td>
                                 </tr>
                             @endforeach

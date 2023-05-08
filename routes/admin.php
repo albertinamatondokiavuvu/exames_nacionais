@@ -114,6 +114,10 @@ Route::middleware('auth')->group(function () {
  Route::get('/Aluno_pdf_sp_def',[ReportController::class,'Aluno_pdf_sp_def'])->name('Aluno_pdf_sp_def');
 
  //relatorios de vigilantes
+ Route::get('/Aluno_presence_med/{id}',[ReportController::class,'ListAluno'])->name('Aluno_presences');
+
+ //med
+ Route::get('/Aluno_pdf_sp_med/{id}',[MedReportController::class,'Aluno_pdf_sp_med'])->name('Aluno_pdf_sp_med');
 
 
 
@@ -131,5 +135,5 @@ Route::middleware('auth')->group(function () {
 Route::post('/takeProvince',[MedReportController::class,'takeProvince'])->name('takeProvince');
  Route::get('/view_provincia/{provincia}/{municipio}',[MedReportController::class,'view_provincia'])->name('view_provincia');
 Route::get('/view_turmas_pr/{centroexame}',[MedReportController::class,'view_turmas_pr'])->name('view_turmas_pr');
-Route::get('/Aluno_pdf_sp_med/{id}',[MedReportController::class,'Aluno_pdf_sp_med'])->name('Aluno_pdf_sp_med');
+
 });

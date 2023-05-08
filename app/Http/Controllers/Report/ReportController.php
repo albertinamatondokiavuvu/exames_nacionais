@@ -217,9 +217,69 @@ public function v_dc_report()
 
 
     //V
+   /* public function ListPresence()
+    {
+        $alunos = DB::table('alunos')
+        ->join('turmas','turmas.id','alunos.turma_id')
+        ->join('classes','classes.id','turmas.classe_id')
+        ->where([['centroexame','=',Auth::user()->instituicao],['deficiencia','!=','Nenhum']])
+        ->get();
 
+        $data['alunos']=$alunos;
+        $data["bootstrap"] = file_get_contents("src/users/bootstrap.min.css");
+        $data["css"] = file_get_contents("src/users/style.css");
+        $mpdf = new \Mpdf\Mpdf([
+            'mode' => 'utf-8', 'margin_top' => 17,
+            'margin_left' => 10,
+            'margin_right' => 10, 'margin_bottom' => 0, 'format' => [210,297]
+        ]);
+        $mpdf->SetFont("arial");
+        $mpdf->setHeader();
+        $mpdf->AddPage('L');
+        $html = view("pdfs/report/aluno_presence", $data);
+        $mpdf->writeHTML($html);
+        $mpdf->Output("Alunos_def.pdf", "I");
+    }*/
 
+    //med
+    public function ListAluno ($id)
+    {
 
+        $data['quantidade'] = DB::table('alunos')
+        ->join('turmas', 'turmas.id', 'alunos.turma_id')
+        ->join('classes', 'classes.id', 'turmas.classe_id')
+        ->selectRaw('alunos.*,classes.nome_classe,turmas.centroexame,turmas.nome_turma')
+        ->where([
+            ['alunos.turma_id','=',$id]
+        ])->orderBy('nome_aluno')->count();
+        $data['first'] = DB::table('alunos')
+        ->join('turmas', 'turmas.id', 'alunos.turma_id')
+        ->join('classes', 'classes.id', 'turmas.classe_id')
+        ->selectRaw('alunos.*,classes.nome_classe,turmas.centroexame,turmas.nome_turma')
+        ->where([
+            ['alunos.turma_id','=',$id]
+        ])->first();
+        $data['alunos'] = DB::table('alunos')
+        ->join('turmas', 'turmas.id', 'alunos.turma_id')
+        ->join('classes', 'classes.id', 'turmas.classe_id')
+        ->selectRaw('alunos.*,classes.nome_classe,turmas.centroexame,turmas.nome_turma')
+        ->where([
+            ['alunos.turma_id','=',$id]
+        ])->orderBy('nome_aluno')->get();
+        $data["bootstrap"] = file_get_contents("src/users/bootstrap.min.css");
+        $data["css"] = file_get_contents("src/users/style.css");
+        $mpdf = new \Mpdf\Mpdf([
+            'mode' => 'utf-8', 'margin_top' => 17,
+            'margin_left' => 10,
+            'margin_right' => 10, 'margin_bottom' => 0, 'format' => [297,210]
+        ]);
+        $mpdf->SetFont("arial");
+        $mpdf->setHeader();
+        $mpdf->AddPage('L');
+        $html = view("pdfs/report/aluno_presence", $data);
+        $mpdf->writeHTML($html);
+        $mpdf->Output("Alunos.pdf", "I");
+    }
 
 
 
