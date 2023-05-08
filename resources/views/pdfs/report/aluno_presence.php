@@ -40,11 +40,11 @@
             <br>
             N.º DE ALUNOS: <span style="font-weight: bold;"> <?php echo $quantidade;?></span>
         </td>
-        <td>
-            Prof. Vigilante___________________________________________
+        <td style="text-transform:uppercase;">
+            Prof. Vigilante______________________________________________
             <br>
             <br>
-            Prof. Vigilante___________________________________________
+            Prof. Vigilante______________________________________________
             <br><br>
             Prof. Vigilante Suplente__________________________________
         </td>
