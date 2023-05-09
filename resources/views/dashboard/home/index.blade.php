@@ -49,6 +49,38 @@
                     </div>
                 </div>
             </div>
+            <div class="col-lg-12 grid-margin stretch-card">
+                <div class="card">
+                  <div class="card-body">
+                    <h4 class="card-title">Estatística Geral</h4>
+
+                    <div class="table-responsive">
+                      <table  class="table table-hover table_id">
+                        <thead class="">
+                            <th class="text-center">N.º</th>
+                            <th class="text-center">Província</th>
+                            <th class="text-center">Alunos</th>
+                            <th class="text-center">Centros de Exames</th>
+                            <th class="text-center">Turmas</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach ($alunos1 as $alunos1)
+                            <tr>
+                                <td class="text-center">{{ ++$i }}</td>
+                                <td style="text-transform:uppercase;" class="text-left">{{ $alunos1->provincia }}</td>
+                                <td class="text-center">{{ $alunos1->alunos }}</td>
+                                <td class="text-center">{{ $alunos1->centros }}</td>
+                                <td class="text-center">{{ $alunos1->turmas }}</td>
+                            </tr>
+                            @endforeach
+                        </tbody>
+                      </table>
+                    </div>
+                  </div>
+                </div>
+            </div>
+
         </div>
     @elseif(Auth::user()->tipo_user == 'DP')
         <div class="row">

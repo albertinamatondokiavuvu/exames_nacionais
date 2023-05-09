@@ -65,4 +65,6 @@ class MedReportController extends Controller
         $mpdf->writeHTML($html);
         $mpdf->Output("Alunos.pdf", "I");
     }
+
+
 }

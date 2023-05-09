@@ -36,6 +36,14 @@ class HomeController extends Controller
             $data['auditiva']= Aluno::where([['deficiencia','=','Auditiva']])->count();
             $data['visual']= Aluno::where([['deficiencia','=','Visual']])->count();
             $data['centros']= CentroExame::count();
+
+             $data['alunos1']=DB::table('alunos')
+            ->join('turmas','turmas.id','alunos.turma_id')
+            ->join('classes','classes.id','turmas.classe_id')
+            ->select(array('alunos.provincia', DB::raw('COUNT(nome_aluno) as alunos'),DB::raw('COUNT(DISTINCT turma_id) as turmas'),DB::raw('COUNT( DISTINCT centroexame) as centros')))
+            ->groupBy('provincia')
+            ->get();
+
         }elseif(Auth::user()->tipo_user == "DP")
         {
             $data['dMs']= User::where([['tipo_user','=','DM'],['provincia','=',Auth::user()->provincia]])->count();
@@ -71,6 +79,6 @@ class HomeController extends Controller
             ['deficiencia','<>','Nenhum']])->count();
         }
 
-        return view('dashboard.home.index',$data);
+        return view('dashboard.home.index',$data)->with('i', (request()->input('page', 1) - 1) * 5);
     }
 }
