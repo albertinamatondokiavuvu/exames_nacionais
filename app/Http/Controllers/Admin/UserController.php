@@ -69,7 +69,6 @@ class UserController extends Controller
             'telefone.min' => 'É necessário no mínimo 9 caracteres no telefone!',
             'telefone.max' => 'É necessário no máximo 9 caracteres no telefone!',
             'email.email' => 'Digite um email válido!',
-
         ];
         $request->validate(
             [
@@ -114,7 +113,6 @@ class UserController extends Controller
             'telefone.min' => 'É necessário no mínimo 9 caracteres no telefone!',
             'telefone.max' => 'É necessário no máximo 9 caracteres no telefone!',
             'email.email' => 'Digite um email válido!',
-
         ];
         $request->validate(
             [
@@ -148,6 +146,7 @@ class UserController extends Controller
     }
     public function update_dm(Request $request, $id)
     {
+
         $mensagens = [
             'required' => 'O :attribute é obrigatório!',
             'unique:users' => 'O :attribute já está sendo utilizado',
@@ -156,8 +155,8 @@ class UserController extends Controller
             'telefone.min' => 'É necessário no mínimo 9 caracteres no telefone!',
             'telefone.max' => 'É necessário no máximo 9 caracteres no telefone!',
             'email.email' => 'Digite um email válido!',
-
         ];
+
         $request->validate(
             [
                 'name' => 'required',
@@ -193,6 +192,7 @@ class UserController extends Controller
     }
     public function store_dc(Request $request)
     {
+
         $mensagens = [
             'required' => 'O :attribute é obrigatório!',
             'unique:users' => 'O :attribute já está sendo utilizado',
@@ -201,7 +201,6 @@ class UserController extends Controller
             'telefone.min' => 'É necessário no mínimo 9 caracteres no telefone!',
             'telefone.max' => 'É necessário no máximo 9 caracteres no telefone!',
             'email.email' => 'Digite um email válido!',
-
         ];
         $request->validate(
             [
@@ -245,7 +244,6 @@ class UserController extends Controller
             'telefone.min' => 'É necessário no mínimo 9 caracteres no telefone!',
             'telefone.max' => 'É necessário no máximo 9 caracteres no telefone!',
             'email.email' => 'Digite um email válido!',
-
         ];
         $request->validate(
             [
@@ -256,7 +254,6 @@ class UserController extends Controller
             ],
             $mensagens
         );
-
         try {
             User::find($id)->update([
                 'name' => $request->name,
@@ -289,7 +286,6 @@ class UserController extends Controller
             'telefone.min' => 'É necessário no mínimo 9 caracteres no telefone!',
             'telefone.max' => 'É necessário no máximo 9 caracteres no telefone!',
             'email.email' => 'Digite um email válido!',
-
         ];
         $request->validate(
             [
@@ -301,7 +297,6 @@ class UserController extends Controller
             ],
             $mensagens
         );
-
         try {
             User::create([
                 'name' => $request->name,
@@ -333,7 +328,6 @@ class UserController extends Controller
             'telefone.min' => 'É necessário no mínimo 9 caracteres no telefone!',
             'telefone.max' => 'É necessário no máximo 9 caracteres no telefone!',
             'email.email' => 'Digite um email válido!',
-
         ];
         $request->validate(
             [
@@ -344,7 +338,6 @@ class UserController extends Controller
             ],
             $mensagens
         );
-
         try {
             User::find($id)->update([
                 'name' => $request->name,
@@ -376,11 +369,9 @@ class UserController extends Controller
     }
     public function UpdatePassword(Request $request, $id)
     {
-
         $mensagens = [
             'required' => 'O :attribute é obrigatório!',
             'confirmed' => ' as palavra-passes não condizem'
-
         ];
         $request->validate(
             [

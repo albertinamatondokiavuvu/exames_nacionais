@@ -2,12 +2,13 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\Admin\UserController;
-use App\Http\Controllers\Admin\ClasseController;
 use App\Http\Controllers\Admin\TurmaController;
 use App\Http\Controllers\Admin\AlunoController;
 use App\Http\Controllers\Report\ReportController;
 use App\Http\Controllers\Admin\CentroExameController;
 use App\Http\Controllers\Admin\MedReportController;
+use App\Http\Controllers\Admin\ItenSelectionController;
+use App\Http\Controllers\Admin\ItenConstructionController;
 
 /*
 |--------------------------------------------------------------------------
@@ -31,14 +32,20 @@ Route::middleware('auth')->group(function () {
  Route::get('/delete_turma/{id}', [TurmaController::class, 'delete_turma'])->name('delete_turma');
  //END OF TURMACONTROLLER
 
- //BEGIN OF CLASSECONTROLLER
- Route::get('/classe_add',[ClasseController::class,'classe_add'])->name('classe_add');
- Route::post('/classe_store',[ClasseController::class,'classe_store'])->name('classe_store');
- Route::get('/classe_edit/{id}',[ClasseController::class,'classe_edit'])->name('classe_edit');
- Route::post('/classe_update/{id}',[ClasseController::class,'classe_update'])->name('classe_update');
- Route::get('/classe_index',[ClasseController::class,'classe_index'])->name('classe_index');
+ //BEGIN OF ItensCONTROLLER
+ Route::get('/ItenSelection_add/{id}',[ItenSelectionController::class,'ItenSelection_add'])->name('ItenSelection_add');
+ Route::post('/ItenSelection_store/{id}',[ItenSelectionController::class,'ItenSelection_store'])->name('ItenSelection_store');
+ Route::get('/ItenSelection_edit/{id}',[ItenSelectionController::class,'ItenSelection_edit'])->name('ItenSelection_edit');
+ Route::post('/ItenSelection_update/{id}',[ItenSelectionController::class,'ItenSelection_update'])->name('ItenSelection_update');
+ Route::get('/ItenSelection_index/{id}',[ItenSelectionController::class,'ItenSelection_index'])->name('ItenSelection_index');
+//
+Route::get('/ItenConstruction_add/{id}',[ItenConstructionController::class,'ItenConstruction_add'])->name('ItenConstruction_add');
+Route::post('/ItenConstruction_store/{id}',[ItenConstructionController::class,'ItenConstruction_store'])->name('ItenConstruction_store');
+Route::get('/ItenConstruction_edit/{id}',[ItenConstructionController::class,'ItenConstruction_edit'])->name('ItenConstruction_edit');
+Route::post('/ItenConstruction_update/{id}',[ItenConstructionController::class,'ItenConstruction_update'])->name('ItenConstruction_update');
+Route::get('/ItenConstruction_index/{id}',[ItenConstructionController::class,'ItenConstruction_index'])->name('ItenConstruction_index');
 
- //END OF CLASSECONTROLLER
+ //END OF ItensCONTROLLER
 
  //BEGIN OF ALUNOCONTROLLER
  Route::get('/aluno_add',[AlunoController::class,'aluno_add'])->name('aluno_add');

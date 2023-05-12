@@ -16,7 +16,9 @@ class Aluno extends Model
     public function turma(){
         return $this->belongTo('App\Models\Turma');
     }
-
+    public function itenSelection(){
+        return $this->hasMany('App\Models\ItenSelection');
+    }
     public function AlunosDcForSearch($turma)
     {
         $response['alunos'] = DB::table('alunos')

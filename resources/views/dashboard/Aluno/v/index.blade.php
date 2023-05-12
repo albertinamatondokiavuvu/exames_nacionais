@@ -11,41 +11,32 @@
                         <thead class="">
                             <tr>
                             <th>Nº</th>
-                            <th class="text-center">Identificador</th>
-                            <th class="text-center">Código de Prova</th>
-                            <th class="text-center">Código de Resposta</th>
+                            <th class="text-center">Nome do Aluno</th>
+                            <th class="text-center">Item de Seleção</th>
                             </tr>
                         </thead>
                         <tbody>
                             @foreach ($alunos as $alunos)
                                 <tr>
                                     <td>{{ ++$i }}</td>
-                                    <td class="text-center">{{ $alunos->id }}</td>
-                                    <td class="text-center">
-                                        @if ($alunos->cod_prova != null)
-                                            {{ $alunos->cod_prova }}
-                                        @else
-                                            <form action="{{ route('prova_update', $alunos->id) }}" method="POST">
-                                                @csrf
-                                                <input required placeholder="digite aqui o código de prova" type="text" class="form-control mb-2" name="cod_prova">
-                                                 <button type="submit" class="btn btn-primary mb-2">Salvar</button>
-                                            </form>
-                                        @endif
+                                    <td class="text-center">{{ $alunos->nome_aluno }}</td>
+
+                                    <td>
+                                        <div class="dropdown">
+                                            <button class="btn btn-light dropdown-toggle" type="button" id="dropdownMenuButton"
+                                                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                                <i class="fa fa-clone" aria-hidden="true"></i>
+                                            </button>
+                                            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                                                <a class="dropdown-item btn btn-danger "
+                                                href="{{ route('ItenSelection_add',$alunos->id) }}">Inserir</a>
+                                                <a class="dropdown-item btn btn-danger "
+                                                href="{{ route('ItenSelection_index',$alunos->id) }}">Listar</a>
+                                            </div>
+                                        </div>
 
                                     </td>
 
-                                    <td class="text-center">
-                                        @if ($alunos->cod_resp_prova != null)
-                                            {{ $alunos->cod_resp_prova }}
-                                        @else
-                                            <form action="{{ route('resposta_update', $alunos->id) }}" method="POST">
-                                                @csrf
-                                                <input required placeholder="digite aqui o código de resposta" type="text" class="form-control mb-2" name="cod_resp_prova">
-                                                 <button type="submit" class="btn btn-primary mb-2">Salvar</button>
-                                            </form>
-                                        @endif
-
-                                    </td>
 
                                 </tr>
                             @endforeach
