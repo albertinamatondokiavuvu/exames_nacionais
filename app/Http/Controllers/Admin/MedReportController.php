@@ -36,7 +36,7 @@ class MedReportController extends Controller
     {
         $response['alunos1']=DB::table('turmas')
         ->join('classes','classes.id','turmas.classe_id')
-        ->where('centroexame','=',$centroexame)
+        ->where([['centroexame','=',$centroexame]])
         ->selectRaw('turmas.*,classes.nome_classe')
         ->get();
         return view('Med.visualizar_centros.index',$response)->with('i', (request()->input('page', 1) - 1) * 5);
