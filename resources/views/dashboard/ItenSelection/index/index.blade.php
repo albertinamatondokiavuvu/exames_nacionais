@@ -4,7 +4,7 @@
 <div class="col-lg-12 grid-margin stretch-card">
     <div class="card">
       <div class="card-body">
-        <h4 class="card-title">Itens de Selecção do(a) aluno(a) - <span style="font-weight: bold;">{{ isset($alunos->nome_aluno) }}</span></h4>
+        <h4 class="card-title">Itens de Selecção do(a) aluno(a) - <span style="font-weight: bold;">{{ isset($alunos->nome_aluno) ? $alunos->nome_aluno : '' }}</span></h4>
 
         <div class="table-responsive">
           <table  class="table table-hover table_id">

@@ -5,8 +5,8 @@
     <div class="card">
       <div class="card-body">
         <h4 class="card-title">Itens de Construção do Iten de Selecção: </h4>
-        <p> Código da Disciplina: <{{isser($selections->codigo_disciplina)  }}> </p>
-        <p> Código de Prova: <{{ isset($selections->codigo_folha)  }}></p>
+        <p> Código da Disciplina: <{{ isset($selections->codigo_disciplina) ? $selections->codigo_disciplina : '' }}> </p>
+        <p> Código de Prova: <{{ isset($selections->codigo_folha) ? $selections->codigo_folha : '' }}></p>
         <br>
 
         <div class="table-responsive">
