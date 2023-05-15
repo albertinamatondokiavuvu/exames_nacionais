@@ -15,7 +15,6 @@
         <form class="forms-sample" method="POST" action="">
             @csrf
             <div class="mb-3">
-
                 <select name="provincia" id="provincia" class="form-control multiplo">
                     <option value="" disabled selected>Selecione a província</option>
                     <option value="Todos">Todos</option>

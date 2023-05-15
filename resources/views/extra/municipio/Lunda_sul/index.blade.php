@@ -1,5 +1,5 @@
-<option data-provincia="Lunda-sul">Saurimo</option>
-<option data-provincia="Lunda-sul">Dala</option>
-<option data-provincia="Lunda-sul">Muconda</option>
-<option data-provincia="Lunda-sul">Cacolo</option>
+<option data-provincia="Lunda-Sul">Saurimo</option>
+<option data-provincia="Lunda-Sul">Dala</option>
+<option data-provincia="Lunda-Sul">Muconda</option>
+<option data-provincia="Lunda-Sul">Cacolo</option>
 

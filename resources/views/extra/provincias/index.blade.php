@@ -9,10 +9,10 @@
 <option>Cabinda</option>
 @elseif (Auth::user()->provincia == 'Cuando-Cubango')
 <option>Cuando-Cubango</option>
-@elseif (Auth::user()->provincia == 'Cuanza Norte')
-<option>Cuanza Norte</option>
-@elseif (Auth::user()->provincia == 'Cuanza Sul')
-<option>Cuanza Sul</option>
+@elseif (Auth::user()->provincia == 'Cuanza-Norte')
+<option>Cuanza-Norte</option>
+@elseif (Auth::user()->provincia == 'Cuanza-Sul')
+<option>Cuanza-Sul</option>
 @elseif (Auth::user()->provincia == 'Cunene')
 <option>Cunene</option>
 @elseif (Auth::user()->provincia == 'Huambo')
@@ -22,9 +22,9 @@
 @elseif (Auth::user()->provincia == 'Luanda')
 <option>Luanda</option>
 @elseif (Auth::user()->provincia == 'Lunda-Norte')
-<option>Lunda Norte</option>
+<option>Lunda-Norte</option>
 @elseif (Auth::user()->provincia == 'Lunda-Sul')
-<option>Lunda Sul</option>
+<option>Lunda-Sul</option>
 @elseif (Auth::user()->provincia == 'Malanje')
 <option>Malanje</option>
 @elseif (Auth::user()->provincia == 'Moxico')
@@ -47,11 +47,11 @@
 <option>Cunene</option>
 <option>Huambo</option>
 <option>Huíla</option>
-<option>Cuanza Sul</option>
-<option>Cuanza Norte</option>
+<option>Cuanza-Sul</option>
+<option>Cuanza-Norte</option>
 <option>Luanda</option>
-<option>Lunda Norte</option>
-<option>Lunda Sul</option>
+<option>Lunda-Norte</option>
+<option>Lunda-Sul</option>
 <option>Malanje</option>
 <option>Moxico</option>
 <option>Namibe</option>
