@@ -79,8 +79,8 @@
                     <td style="height:25px" class="text-center"><?php echo $contador++; ?></td>
                     <td style="text-transform:uppercase;" class="text-left;"><?php echo $test->nome_aluno;?></td>
                     <td class="text-center">
-                        <?php
-                        if($test->sexo == 'Masculino')
+                    <?php
+                        if($test->sexo == 'Masculino' || $test->sexo == 'masculino')
                         {
                             echo 'M';
                         }

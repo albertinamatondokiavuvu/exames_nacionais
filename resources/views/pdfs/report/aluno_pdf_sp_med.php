@@ -31,7 +31,7 @@
                 <th class="text-center">Escola de Proveniencia</th>
                  <th class="text-center">Centro de exame</th>
                 <th class="text-center">Tipo de Deficiência</th>
-                
+
 
             </tr>
         </thead>
@@ -42,13 +42,25 @@
 
                 <tr >
                     <td style="height:25px" class="text-center"><?php echo $contador++; ?></td>
-                    <td class="text-center"><?php echo $test->nome_aluno;?></td>
-                    <td class="text-center"><?php echo $test->sexo;?></td>
+                    <td ><?php echo $test->nome_aluno;?></td>
+                    <td class="text-center">
+                    <?php
+                        if($test->sexo == 'Masculino' || $test->sexo == 'masculino')
+                        {
+                            echo 'M';
+                        }
+                        else
+                        {
+                            echo 'F';
+                        }
+                        ?>
+
+                </td>
                     <td class="text-center"><?php echo $test->data_nasc;?></td>
                     <td class="text-center"><?php echo $test->nome_turma;?></td>
                     <td class="text-center"><?php echo $test->nome_classe;?></td>
-                    <td class="text-center"><?php echo $test->escola_proveniencia;?></td>
-                    <td class="text-center"><?php echo $test->centroexame;?></td>
+                    <td ><?php echo $test->escola_proveniencia;?></td>
+                    <td ><?php echo $test->centroexame;?></td>
                     <td class="text-center"><?php echo $test->deficiencia;?></td>
 
             <?php endforeach; ?>

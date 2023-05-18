@@ -50,7 +50,7 @@ class MedReportController extends Controller
         ->selectRaw('alunos.*,classes.nome_classe,turmas.centroexame,turmas.nome_turma')
         ->where([
             ['alunos.turma_id','=',$id]
-        ])->get();
+        ])->orderBy('nome_aluno')->get();
         $data["bootstrap"] = file_get_contents("src/users/bootstrap.min.css");
         $data["css"] = file_get_contents("src/users/style.css");
         $mpdf = new \Mpdf\Mpdf([
