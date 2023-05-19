@@ -9,7 +9,7 @@
 <option>Colégio N. 5113 - Viana</option>
 <option>Colégio N. 5124 - Viana</option>
 <option>Colégio N. 5131 - Zango 3 - Viana</option>
-<option>Complexo Escolar N. 5005 - Caop A - Viana</option> 
+<option>Complexo Escolar N. 5005 - Caop A - Viana</option>
 <option>Complexo Escolar N. 5007 - Regedoria - Viana</option>
 <option>Complexo Escolar N. 5009 - Km9 A - Viana</option>
 <option>Complexo Escolar N. 5011 - Zango III</option>
@@ -54,16 +54,17 @@
 <option>Complexo Escolar N. 5136 - Zango 4</option>
 <option>Direcção Municipal De Educação De Viana</option>
 <option>Direcção Municipal De Educação De Viana Segurança</option>
-<option>Escola Do Ensino Primário Nº 5042 - Capalanga - Viana</option> 
-<option>Escola Do Ensino Primario Nº 5117 Ambiental - Viana</option> 
-<option>Escola Do Ensino Primario Nº5097 - Viana</option> 
-<option>Escola Do Ensino Primário Nr 5042 - Capalanga - Viana</option> 
-<option>Escola Do Ensino Primario, I E Ii Ciclo Nº 5088 Amor De Deus- Km14 B - Viana</option> 
-<option>Escola Ens.Geral N.º 961 - Viana</option> 
+<option>Escola Do Ensino Primário Nº 5042 - Capalanga - Viana</option>
+<option>Escola Do Ensino Primario Nº 5117 Ambiental - Viana</option>
+<option>Escola Do Ensino Primario Nº5097 - Viana</option>
+<option>Escola Do Ensino Primário Nr 5042 - Capalanga - Viana</option>
+<option>Escola Do Ensino Primario, I E Ii Ciclo Nº 5088 Amor De Deus- Km14 B - Viana</option>
+<option>Escola Ens.Geral N.º 961 - Viana</option>
 <option>Escola Primária E I Ciclo Nº 2019 - Belas</option>
 <option>Escola Primária E I Ciclo Nº 2073 - Belas</option>
 <option>Escola Primaria E Iº Ciclo Nº 5122 - Viana</option>
 <option>Escola Primária N. 5001 - Viana</option>
+<option>Colégio Público N. 5002 - Preparatória - Viana</option>
 <option>Escola Primária N. 5003 - Cdt. Paiva - Viana</option>
 <option>Escola Primária N. 5004 24 De Outubro - Viana</option>
 <option>Escola Primária N. 5006 - Regedoria - Viana</option>
@@ -136,9 +137,10 @@
 <option>Escola Do I Ciclo Nº 5113 - Viana</option>
 <option>Escola Do I Ciclo Nº 8047 Ex 1256Zango</option>
 <option>Escola Primária E I Ciclo Do Sec.Nº4099-Bened.Sta Escolática</option>
-<option>Escola Primária E Iº Ciclo Do Ensino Secundário Nº 4074 - Cacuaco </option> 
+<option>Escola Primária E Iº Ciclo Do Ensino Secundário Nº 4074 - Cacuaco </option>
 <option>Instituto Politécnico De Adm E Serviço N. 5144 - Zango</option>
 <option>Instituto Técnico De Saúde Nº 3119 Kalawenda.</option>
 <option>Liceu N. 5104 - Joao Beirao - Viana</option>
 <option>Liceu N. 5112 - Viana</option>
 <option>Liceu N. 5114 - Viana</option>
+
