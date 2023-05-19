@@ -44,6 +44,7 @@
 <option>Escola Primária Nº 6068 - Ilha Negala</option>
 <option>Escola Primária Nº 6069 - Km 44 - Estação</option>
 <option>Escola Primária Nº 6077 - C .Cadeia</option>
+<option>Escola Primária Nº 6079</option>
 <option>Escola Primárianº 6029 - Banza Quitell</option>
 <option>Liceu N. 6026 - Catete Sede</option>
 <option>Liceu N. 6075 - Km 44</option>
