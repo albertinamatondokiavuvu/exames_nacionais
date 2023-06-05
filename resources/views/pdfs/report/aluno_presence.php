@@ -16,7 +16,7 @@
 <div class="row">
     <img src="images/logo.png" width="50" alt="" srcset="">
     <img src="images/transferir.jpeg" width="200" alt="" srcset="">
-    <p style="margin-top: -40px; margin-left:78%; font-size:10pt;" >Exames Nacionais Piloto <br>Data: <?php echo date("d/m/Y"); ?></p>
+    <p style="margin-top: -40px; margin-left:78%; font-size:10pt;" >Exames Nacionais Piloto <br>1.ª fase de generalização</p>
 </div>
 <div style="background-color:#C0C0C0;padding-top:9px; margin-top:10px;" >
     <p style="text-align: center;">LISTA DE PRESENÇA</p>
