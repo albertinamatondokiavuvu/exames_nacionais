@@ -35,13 +35,13 @@
                                 <a class="dropdown-item btn btn-danger "
 
                                 href="">Editar</a>
-                                <form action="{{ route('delete_item',$selections->id) }}" method="POST">
+                                <form action="" method="POST">
                                     @csrf
                                     @method('DELETE')
 
                                     <a class="dropdown-item btn btn-danger remove-user"
                                         data-confirm="Tem certeza que deseja eliminar?"
-                                        href="{{ route('delete_item',$selections->id) }}">Eliminar</a>
+                                        href="">Eliminar</a>
                                 </form>
                             </div>
                         </div>
