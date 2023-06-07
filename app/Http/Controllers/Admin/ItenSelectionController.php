@@ -57,5 +57,14 @@ try{
         return view('dashboard.ItenSelection.index.index', $dados)->with('i', (request()->input('page', 1) - 1) * 5);
     }
 
-
+    public function delete_item($id)
+    {
+        try {
+            $turma = ItenSelection::findOrFail($id);
+            $turma->delete();
+            return redirect()->back()->with('status_delete', '1');
+        } catch (\Exception $exceptio) {
+            return redirect()->back()->with('status_error', '1');
+        }
+    }
 }
