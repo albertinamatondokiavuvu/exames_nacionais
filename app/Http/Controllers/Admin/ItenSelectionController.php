@@ -21,6 +21,7 @@ class ItenSelectionController extends Controller
         ];
         $request->validate(
             [
+                'tipo'=>'required',
                'codigo_disciplina'=> 'required',
                 'codigo_folha'=> 'required',
 
@@ -29,6 +30,7 @@ class ItenSelectionController extends Controller
         );
 try{
             ItenSelection::create([
+                'tipo'=>$request->tipo,
                 'codigo_disciplina' => $request->codigo_disciplina,
                 'codigo_folha' => $request->codigo_folha,
                 'aluno_id' => $id,

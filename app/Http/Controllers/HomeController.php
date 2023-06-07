@@ -43,6 +43,7 @@ class HomeController extends Controller
             ->select(array('alunos.provincia', DB::raw('COUNT(nome_aluno) as alunos'),DB::raw('COUNT(DISTINCT turma_id) as turmas'),DB::raw('COUNT( DISTINCT centroexame) as centros')))
             ->groupBy('provincia')
             ->get();
+
         }elseif(Auth::user()->tipo_user == "DP")
         {
             $data['dMs']= User::where([['tipo_user','=','DM'],['provincia','=',Auth::user()->provincia]])->count();

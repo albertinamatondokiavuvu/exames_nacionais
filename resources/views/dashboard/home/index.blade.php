@@ -57,11 +57,24 @@
                     <div class="table-responsive">
                       <table  class="table table-hover table_id">
                         <thead class="">
-                            <th class="text-center">N.º</th>
-                            <th class="text-center">Província</th>
-                            <th class="text-center">Alunos</th>
-                            <th class="text-center">Centros de Exames</th>
-                            <th class="text-center">Turmas</th>
+                            <th class="text-center" rowspan="2">N.º</th>
+                            <th class="text-center" rowspan="2">Província</th>
+                            <th class="text-center" colspan="3">6.ª Classe</th>
+                            <th class="text-center" colspan="3">9.ª Classe</th>
+                            <th class="text-center" colspan="3">12.ª classe</th>
+                            </tr>
+                            <tr>
+                                <th>Alunos</th>
+                                <th>Centros</th>
+                                <th>Turmas</th>
+
+                                <th>Alunos</th>
+                                <th>Centros</th>
+                                <th>Turmas</th>
+
+                                <th>Alunos</th>
+                                <th>Centros</th>
+                                <th>Turmas</th>
                             </tr>
                         </thead>
                         <tbody>
@@ -69,6 +82,15 @@
                             <tr>
                                 <td class="text-center">{{ ++$i }}</td>
                                 <td style="text-transform:uppercase;" class="text-left">{{ $alunos1->provincia }}</td>
+
+                                <td class="text-center">{{ $alunos1->alunos }}</td>
+                                <td class="text-center">{{ $alunos1->centros }}</td>
+                                <td class="text-center">{{ $alunos1->turmas }}</td>
+
+                                <td class="text-center">{{ $alunos1->alunos }}</td>
+                                <td class="text-center">{{ $alunos1->centros }}</td>
+                                <td class="text-center">{{ $alunos1->turmas }}</td>
+
                                 <td class="text-center">{{ $alunos1->alunos }}</td>
                                 <td class="text-center">{{ $alunos1->centros }}</td>
                                 <td class="text-center">{{ $alunos1->turmas }}</td>

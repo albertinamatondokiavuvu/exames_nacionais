@@ -9,7 +9,7 @@
 <div class="col-md-8 center">
     <div class="card">
       <div class="card-body">
-        <h4 class="card-title">Item de Selecção</h4>
+        <h4 class="card-title">Inserir o Item</h4>
         @include('extra.errorInputs.index')
         <form class="forms-sample" method="POST" action="{{ route('ItenSelection_store',$id) }}">
             @csrf

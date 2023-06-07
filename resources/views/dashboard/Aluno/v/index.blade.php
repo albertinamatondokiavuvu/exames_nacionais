@@ -12,7 +12,7 @@
                             <tr>
                             <th>Nº</th>
                             <th class="text-center">Nome do Aluno</th>
-                            <th class="text-center">Item de Seleção</th>
+                            <th class="text-center">Item</th>
                             </tr>
                         </thead>
                         <tbody>
