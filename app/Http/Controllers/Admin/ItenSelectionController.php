@@ -87,7 +87,6 @@ class ItenSelectionController extends Controller
             ->first();
         return view('dashboard.ItenSelection.index.index', $dados)->with('i', (request()->input('page', 1) - 1) * 5);
     }
-
     public function Delete_Item($id)
     {
         try {
