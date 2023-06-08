@@ -38,7 +38,7 @@ Route::middleware('auth')->group(function () {
  Route::get('/ItenSelection_edit/{id}',[ItenSelectionController::class,'ItenSelection_edit'])->name('ItenSelection_edit');
  Route::post('/ItenSelection_update/{id}',[ItenSelectionController::class,'ItenSelection_update'])->name('ItenSelection_update');
  Route::get('/ItenSelection_index/{id}',[ItenSelectionController::class,'ItenSelection_index'])->name('ItenSelection_index');
- Route::get('/delete_item/{id}', [ItenSelectionController::class, 'delete_item'])->name('delete_item');
+ Route::get('/delete_item/{id}', [ItenSelectionController::class, 'Delete_Item'])->name('delete_item');
  //END OF ItensCONTROLLER
 
  //BEGIN OF ALUNOCONTROLLER

@@ -43,8 +43,8 @@ class ItenSelectionController extends Controller
     public function ItenSelection_edit($id)
     {
 
-        $selections = ItenSelection::find(1);
-        return view('dashboard.ItenSelection.edit.index', compact('id','selections'));
+        $selections = ItenSelection::find($id);
+        return view('dashboard.ItenSelection.edit.index', compact('selections'));
     }
     public function ItenSelection_update(Request $request, $id)
     {
@@ -88,7 +88,7 @@ class ItenSelectionController extends Controller
         return view('dashboard.ItenSelection.index.index', $dados)->with('i', (request()->input('page', 1) - 1) * 5);
     }
 
-    public function delete_item($id)
+    public function Delete_Item($id)
     {
         try {
             $selections = ItenSelection::findOrFail($id);
