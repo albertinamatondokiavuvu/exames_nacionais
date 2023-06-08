@@ -11,15 +11,15 @@
                         <thead class="">
                             <tr>
                             <th>Nº</th>
-                            <th class="text-center">Nome do Aluno</th>
-                            <th class="text-center">Item</th>
+                            <th >Nome do Aluno</th>
+                            <th >Item</th>
                             </tr>
                         </thead>
                         <tbody>
                             @foreach ($alunos as $alunos)
                                 <tr>
                                     <td>{{ ++$i }}</td>
-                                    <td class="text-center">{{ $alunos->nome_aluno }}</td>
+                                    <td >{{ $alunos->nome_aluno }}</td>
 
                                     <td>
                                         <div class="dropdown">

@@ -34,14 +34,14 @@
                             <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
                                 <a class="dropdown-item btn btn-danger "
 
-                                href="">Editar</a>
-                                <form action="" method="POST">
+                                href="{{ route('ItenSelection_edit',$selections->id) }}">Editar</a>
+                                <form action="{{ route('delete_item',$selections->id) }}" method="POST">
                                     @csrf
                                     @method('DELETE')
 
                                     <a class="dropdown-item btn btn-danger remove-user"
                                         data-confirm="Tem certeza que deseja eliminar?"
-                                        href="">Eliminar</a>
+                                        href="{{ route('delete_item',$selections->id) }}">Eliminar</a>
                                 </form>
                             </div>
                         </div>

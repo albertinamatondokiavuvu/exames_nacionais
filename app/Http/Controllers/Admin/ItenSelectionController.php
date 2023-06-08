@@ -12,25 +12,25 @@ class ItenSelectionController extends Controller
     public function ItenSelection_add($id)
     {
 
-        return view('dashboard.ItenSelection.create.index',compact('id'));
+        return view('dashboard.ItenSelection.create.index', compact('id'));
     }
-    public function ItenSelection_store(Request $request,$id)
+    public function ItenSelection_store(Request $request, $id)
     {
         $mensagens = [
             'required' => 'O :attribute 茅 obrigat贸rio!',
         ];
         $request->validate(
             [
-                'tipo'=>'required',
-               'codigo_disciplina'=> 'required',
-                'codigo_folha'=> 'required',
+                'tipo' => 'required',
+                'codigo_disciplina' => 'required',
+                'codigo_folha' => 'required',
 
             ],
             $mensagens
         );
-try{
+        try {
             ItenSelection::create([
-                'tipo'=>$request->tipo,
+                'tipo' => $request->tipo,
                 'codigo_disciplina' => $request->codigo_disciplina,
                 'codigo_folha' => $request->codigo_folha,
                 'aluno_id' => $id,
@@ -39,29 +39,60 @@ try{
         } catch (\Exception $exceptio) {
             return redirect()->back()->with('status_error', '1');
         }
+    }
+    public function ItenSelection_edit($id)
+    {
 
+        $selections = ItenSelection::find(1);
+        return view('dashboard.ItenSelection.edit.index', compact('id','selections'));
+    }
+    public function ItenSelection_update(Request $request, $id)
+    {
+        $mensagens = [
+            'required' => 'O :attribute 茅 obrigat贸rio!',
+        ];
+        $request->validate(
+            [
+                'tipo' => 'required',
+                'codigo_disciplina' => 'required',
+                'codigo_folha' => 'required',
+
+            ],
+            $mensagens
+        );
+        try {
+           ItenSelection::find($id)->update([
+                'tipo' => $request->tipo,
+                'codigo_disciplina' => $request->codigo_disciplina,
+                'codigo_folha' => $request->codigo_folha,
+
+            ]);
+            return redirect()->back()->with('status_add', '1');
+        } catch (\Exception $exceptio) {
+            return redirect()->back()->with('status_error', '1');
+        }
     }
 
     public function ItenSelection_index($id)
     {
-       $dados['selections'] = DB::table('iten_selections')
-       ->join('alunos','alunos.id','iten_selections.aluno_id')
-       ->where([['aluno_id','=',$id]])
-       ->selectRaw('iten_selections.*')
-       ->get();
-       $dados['alunos'] = DB::table('iten_selections')
-       ->join('alunos','alunos.id','iten_selections.aluno_id')
-       ->where([['aluno_id','=',$id]])
-       ->selectRaw('alunos.nome_aluno')
-       ->first();
+        $dados['selections'] = DB::table('iten_selections')
+            ->join('alunos', 'alunos.id', 'iten_selections.aluno_id')
+            ->where([['aluno_id', '=', $id]])
+            ->selectRaw('iten_selections.*')
+            ->get();
+        $dados['alunos'] = DB::table('iten_selections')
+            ->join('alunos', 'alunos.id', 'iten_selections.aluno_id')
+            ->where([['aluno_id', '=', $id]])
+            ->selectRaw('alunos.nome_aluno')
+            ->first();
         return view('dashboard.ItenSelection.index.index', $dados)->with('i', (request()->input('page', 1) - 1) * 5);
     }
 
     public function delete_item($id)
     {
         try {
-            $turma = ItenSelection::findOrFail($id);
-            $turma->delete();
+            $selections = ItenSelection::findOrFail($id);
+            $selections->delete();
             return redirect()->back()->with('status_delete', '1');
         } catch (\Exception $exceptio) {
             return redirect()->back()->with('status_error', '1');
