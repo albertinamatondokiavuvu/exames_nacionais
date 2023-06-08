@@ -138,6 +138,4 @@ Route::post('/takeProvince',[MedReportController::class,'takeProvince'])->name('
 Route::get('/view_turmas_pr/{centroexame}',[MedReportController::class,'view_turmas_pr'])->name('view_turmas_pr');
 
 
-
-Route::get('/delete_item/{id}', [ItenSelectionController::class, 'delete_item'])->name('delete_item');
 });
