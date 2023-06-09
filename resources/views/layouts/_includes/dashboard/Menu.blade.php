@@ -199,8 +199,8 @@
                     </a>
                     <div class="collapse" id="ui-basic">
                         <ul class="nav flex-column sub-menu">
-                            <li class="nav-item"> <a class="nav-link" href="{{ route('aluno_add') }}">Cadastrar</a>
-                            </li>
+                            <!--<li class="nav-item"> <a class="nav-link" href="{{ route('aluno_add') }}">Cadastrar</a>
+                            </li>-->
                             <li class="nav-item"> <a class="nav-link" href="{{ route('aluno_index') }}">Listar</a>
                             </li>
                         </ul>
