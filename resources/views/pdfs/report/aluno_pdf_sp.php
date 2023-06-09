@@ -25,12 +25,12 @@
         <thead >
             <tr >
                 <th style="height:30px; width:20px;"  class="text-center" >Nº</th>
-                <th class="text-center">Nome</th>
+                <th>Nome</th>
                 <th class="text-center">Sexo</th>
                 <th class="text-center">Data de nascimento</th>
                 <th class="text-center">Turma</th>
                 <th class="text-center">Classe</th>
-                <th class="text-center">Escola de Proveniencia</th>
+                <th>Escola de Proveniencia</th>
                 <th class="text-center">Tipo de Deficiência</th>
 
             </tr>
@@ -42,12 +42,12 @@
 
                 <tr >
                     <td style="height:25px" class="text-center"><?php echo $contador++; ?></td>
-                    <td class="text-center"><?php echo $test->nome_aluno;?></td>
+                    <td ><?php echo $test->nome_aluno;?></td>
                     <td class="text-center"><?php echo $test->sexo;?></td>
                     <td class="text-center"><?php echo $test->data_nasc;?></td>
                     <td class="text-center"><?php echo $test->nome_turma;?></td>
                     <td class="text-center"><?php echo $test->nome_classe;?></td>
-                    <td class="text-center"><?php echo $test->escola_proveniencia;?></td>
+                    <td ><?php echo $test->escola_proveniencia;?></td>
                     <td class="text-center"><?php echo $test->deficiencia;?></td>
 
             <?php endforeach; ?>

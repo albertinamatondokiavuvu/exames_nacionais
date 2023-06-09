@@ -28,7 +28,7 @@ class Aluno extends Model
         ->where([
             ['centroexame','=',Auth::user()->instituicao],
             ['alunos.turma_id','=',$turma]
-        ]);
+        ])->orderByRaw("nome_turma ASC,nome_aluno ASC ");
         if (
             $turma == 'Todos'
         ) {
@@ -39,6 +39,7 @@ class Aluno extends Model
             ->where([
                 ['centroexame','=',Auth::user()->instituicao]
             ]);
+
         }
         return $response['alunos']->get();
     }
