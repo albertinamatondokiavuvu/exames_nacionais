@@ -38,9 +38,9 @@
                                 <i class="fa fa-clone" aria-hidden="true"></i>
                             </button>
                             <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                                <a class="dropdown-item btn btn-danger "
+                                <!--<a class="dropdown-item btn btn-danger "
 
-                                href="{{ route('aluno_edit',$alunos->id) }}">Editar</a>
+                                href="{{ route('aluno_edit',$alunos->id) }}">Editar</a>-->
                                 <form action="{{ route('delete_aluno',$alunos->id) }}" method="POST">
                                     @csrf
                                     @method('DELETE')
