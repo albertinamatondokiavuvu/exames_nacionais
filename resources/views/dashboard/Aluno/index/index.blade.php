@@ -40,7 +40,7 @@
                             <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
                                 <!--<a class="dropdown-item btn btn-danger "
 
-                                href="{{ route('aluno_edit',$alunos->id) }}">Editar</a>-->
+                                href="{{ route('aluno_edit',$alunos->id) }}">Editar</a>
                                 <form action="{{ route('delete_aluno',$alunos->id) }}" method="POST">
                                     @csrf
                                     @method('DELETE')
@@ -48,7 +48,7 @@
                                     <a class="dropdown-item btn btn-danger remove-user"
                                         data-confirm="Tem certeza que deseja eliminar?"
                                         href="{{ route('delete_aluno',$alunos->id) }}">Eliminar</a>
-                                </form>
+                                </form>-->
                             </div>
                         </div>
                     </td>
