@@ -56,6 +56,8 @@ class HomeController extends Controller
             $data['alunosM']=Aluno::where([['provincia','=',Auth::user()->provincia],['municipio','=',Auth::user()->municipio]])->count();
         }elseif(Auth::user()->tipo_user == "DC")
         {
+
+
             $data['SPC']= User::where([['tipo_user','=','SP'],['provincia','=',Auth::user()->provincia],['municipio','=',Auth::user()->municipio],['instituicao','=',Auth::user()->instituicao]])->count();
             $data['VC']= User::where([['tipo_user','=','V'],['provincia','=',Auth::user()->provincia],['municipio','=',Auth::user()->municipio],['instituicao','=',Auth::user()->instituicao]])->count();
             $data['alunosC']=Aluno::join("turmas", "turmas.id", "=", "alunos.turma_id")
